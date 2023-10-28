@@ -1,4 +1,7 @@
 ## Cryptocurrency
+
+Get the most out of cryptocurrency markets with easy accessible and developer-friendly APIs. Made for the world's software developers, analysts and fintech-driven companies.
+
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [0x](https://0x.org/api) | API for querying token and pool stats across various liquidity pools | No | Yes | Yes |
