@@ -1,4 +1,4 @@
-### Cryptocurrency
+## Cryptocurrency
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [0x](https://0x.org/api) | API for querying token and pool stats across various liquidity pools | No | Yes | Yes |
