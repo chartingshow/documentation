@@ -16,7 +16,7 @@
             <td>This algorithm was dropped due to it's large amount of false positives from price action spiking above
                 the highest moving average. Price crossing the moving average ribbons is an unreliable indicator of a
                 price reversal!</td>
-            <td><img src="" alt="Deprecated"></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
         </tr>
         <tr>
             <td>&nbsp;</td>
