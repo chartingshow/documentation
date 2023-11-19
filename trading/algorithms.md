@@ -22,7 +22,7 @@ Below shows all the current trading algorithms development stages and let's user
         </tr>
         <tr>
             <td>AI Forecast</td>
-            <td>Algorithm< and ML Library/td>
+            <td>Algorithm and ML Library</td>
             <td>This algorithm was added to predicted the "<strong>near-term</strong>" price action by default.
                 Users can adjust the settings to expand the forcast length and the machine learning modelling time.
                 The results are displayed in the data window and there is a setting to hide it from the chart.</td>
