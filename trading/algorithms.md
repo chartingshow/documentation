@@ -1,10 +1,12 @@
 # Trading Algorithms
 
+Below shows all the current trading algorithms development stages and let's users know about any proposals, updates, development or deprecations.
+
 <table>
     <thead>
         <tr>
             <th>Name</th>
-            <td>Type</th>
+            <th>Type</th>
             <th>Description</th>
             <th>Stage</th>
         </tr>
