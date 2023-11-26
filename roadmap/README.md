@@ -33,7 +33,9 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
         <tr>
             <td>Weekend Median Area Algorithm</td>
             <td>Trading Algorithm</td>
-            <td>During the weekend Bitcoin tends to go sideways and drifts to the median area. This feature saves traders time be automatically calculating and drawing the area. Traders can turn this feature on/off.</td>
+            <td>During the weekend Bitcoin tends to go sideways and drifts to the median area.
+                This feature saves traders time be automatically calculating and drawing the area.
+                Traders can turn this feature on/off. Algorithm uses fibonacci sequence and pivot points to generate the median area.</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
