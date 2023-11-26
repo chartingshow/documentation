@@ -1,4 +1,4 @@
-# Development Outlook
+# Roadmap
 
 Below is our roadmap outlining the vision, direction, priorities and progress of all our products and features over time.
 
@@ -18,7 +18,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td>Weekend Median Area Algorithm</td>
             <td>Trading Algorithm</td>
             <td>During the weekend Bitcoin tends to go sideways and drifts to the median area. This feature saves traders time be automatically calculating and drawing the area. Traders can turn this feature on/off.</td>
-            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
         </tr>
         <tr>
             <td>&nbsp;</td>
