@@ -37,6 +37,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Weekend Median Area Algorithm</td>
+            <td>Trading Algorithm</td>
+            <td>During the weekend Bitcoin tends to go sideways and drifts to the median area. This feature saves traders time be automatically calculating and drawing the area. Traders can turn this feature on/off.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
