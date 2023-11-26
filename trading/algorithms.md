@@ -38,7 +38,7 @@ Below shows all the current trading algorithms development stages and let's user
         </tr>
         <tr>
             <td>Weekend Median Area Algorithm</td>
-            <td>Trading Algorithm</td>
+            <td>Algorithm</td>
             <td>During the weekend Bitcoin tends to go sideways and drifts to the median area.
                 This feature saves traders time be automatically calculating and drawing the area.
                 Traders can turn this feature on/off. Algorithm uses fibonacci sequence and pivot points to generate the median area.</td>
