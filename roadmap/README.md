@@ -16,7 +16,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
     <tbody>
         <tr>
             <td>AI Forecast</td>
-            <td>Algorithm and ML Library</td>
+            <td>Trading Algorithm and ML Library</td>
             <td>This algorithm was added to predicted the "<strong>near-term</strong>" price action by default.
                 Users can adjust the settings to expand the forcast length and the machine learning modelling time.
                 The results are displayed in the data window and there is a setting to hide it from the chart.</td>
@@ -24,7 +24,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
         </tr>
         <tr>
             <td>Highlight Weekend Days</td>
-            <td>Algorithm</td>
+            <td>Trading Algorithm</td>
             <td>During the weekend Bitcoin tends to go sideways. When Bitcoin goes sideways the retail traders get restless and Altcoins make some gains.
                 It's worth noting when Bitcoin goes up the Altcoins will have a green day and when Bitcoin goes down the Altcoins tend to have a red day.
                 Weekends also tend to not any "expected" fundamental news events.</td>
