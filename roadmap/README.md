@@ -42,7 +42,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td>Variable Median Area</td>
             <td>Trading Algorithm</td>
             <td>This algorithm was added to allow users to adjust and fine tune the median area. Users can set different moving average values in the settings menu, the default value will be: 20MA.</td>
-            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
             <td>&nbsp;</td>
