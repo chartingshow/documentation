@@ -57,9 +57,9 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
         </tr>
         <tr>
-            <td>20MA Variable Median Area</td>
+            <td>Variable Median Area</td>
             <td>Algorithm</td>
-            <td>This algorithm was added to allow users to adjust and fine tune the median area. Users can set different moving average values in the settings menu.</td>
+            <td>This algorithm was added to allow users to adjust and fine tune the median area. Users can set different moving average values in the settings menu, the default value will be: 20MA.</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
