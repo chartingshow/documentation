@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/one.gif" alt="charting show - trading cryptocurrencies"></p>
 
-# 📈 Documentation for Charting Show ✅
+<h2 align="center">📈 Documentation for Charting Show ✅</h2>
 
 The Charting Show is all about enhancing people's trading and investing knowledge in the cryptocurrency markets, by sharing free knowledge, tools and software.
 
