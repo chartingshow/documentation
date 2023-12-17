@@ -34,7 +34,7 @@ If you discover an error or want to add a new feature request, then feel free to
 
 ## Issues 🔨
 
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/chartingshow/crypto-firewall?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/chartingshow/crypto-firewall">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/chartingshow/documentation?style=plastic"> <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/chartingshow/documentation">
 
 If you face any issue, you can create a new issue in the `Issues` tab and we will be glad to help you out!
 
@@ -88,7 +88,7 @@ If you discover any security related issues, please open an issue! We will try a
 
 ## Semantic Versioning 🎁
 
-This package uses: [Semantic Versioning](https://semver.org/).
+All the Charting Show software uses: [Semantic Versioning](https://semver.org/).
 
 ## Legal 🔨
 
