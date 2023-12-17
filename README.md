@@ -9,7 +9,6 @@ If you discover an error or want to add a new feature request, then feel free to
 <p align="center">
     <img src="/assets/images/badges/charting-show-badge.png" height="20" alt="Charting Show" />
     <img src="/assets/images/stars.svg" alt="stars" />
-    <img src="/assets/images/badges/type-package.png" height="20" alt="package" />
     <a href="https://circleci.com/gh/chartingshow/crypto-firewall"><img src="/assets/images/circleci.svg"></a>
     <img src="/assets/images/code.svg" />
     <a href="CODE_OF_CONDUCT.md"><img src="/assets/images/conduct.svg" alt="conduct" /></a>
