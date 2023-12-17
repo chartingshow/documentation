@@ -1,4 +1,3 @@
-
 # Pine Mini-Reference for more information
 
 ## Pine Script™ Operators

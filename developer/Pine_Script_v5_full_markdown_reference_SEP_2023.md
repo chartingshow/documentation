@@ -1,7 +1,6 @@
-
 ## variables
----------
 
+---
 
 ## bar_index
 
@@ -12,7 +11,6 @@ Current bar index. Numbering is zero-based, index of the first bar is 0.
 series int
 
 ### Example
-
 
 ```s
 
@@ -34,10 +32,10 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [last\_bar\_index](#var_last_bar_index)
-* [barstate.isfirst](#var_barstate.isfirst)
-* [barstate.islast](#var_barstate.islast)
-* [barstate.isrealtime](#var_barstate.isrealtime)
+- [last_bar_index](#var_last_bar_index)
+- [barstate.isfirst](#var_barstate.isfirst)
+- [barstate.islast](#var_barstate.islast)
+- [barstate.isrealtime](#var_barstate.isrealtime)
 
 ## barstate.isconfirmed
 
@@ -57,12 +55,12 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [barstate.isfirst](#var_barstate.isfirst)
-* [barstate.islast](#var_barstate.islast)
-* [barstate.ishistory](#var_barstate.ishistory)
-* [barstate.isrealtime](#var_barstate.isrealtime)
-* [barstate.isnew](#var_barstate.isnew)
-* [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
+- [barstate.isfirst](#var_barstate.isfirst)
+- [barstate.islast](#var_barstate.islast)
+- [barstate.ishistory](#var_barstate.ishistory)
+- [barstate.isrealtime](#var_barstate.isrealtime)
+- [barstate.isnew](#var_barstate.isnew)
+- [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
 
 ## barstate.isfirst
 
@@ -80,12 +78,12 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [barstate.islast](#var_barstate.islast)
-* [barstate.ishistory](#var_barstate.ishistory)
-* [barstate.isrealtime](#var_barstate.isrealtime)
-* [barstate.isnew](#var_barstate.isnew)
-* [barstate.isconfirmed](#var_barstate.isconfirmed)
-* [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
+- [barstate.islast](#var_barstate.islast)
+- [barstate.ishistory](#var_barstate.ishistory)
+- [barstate.isrealtime](#var_barstate.isrealtime)
+- [barstate.isnew](#var_barstate.isnew)
+- [barstate.isconfirmed](#var_barstate.isconfirmed)
+- [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
 
 ## barstate.ishistory
 
@@ -103,12 +101,12 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [barstate.isfirst](#var_barstate.isfirst)
-* [barstate.islast](#var_barstate.islast)
-* [barstate.isrealtime](#var_barstate.isrealtime)
-* [barstate.isnew](#var_barstate.isnew)
-* [barstate.isconfirmed](#var_barstate.isconfirmed)
-* [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
+- [barstate.isfirst](#var_barstate.isfirst)
+- [barstate.islast](#var_barstate.islast)
+- [barstate.isrealtime](#var_barstate.isrealtime)
+- [barstate.isnew](#var_barstate.isnew)
+- [barstate.isconfirmed](#var_barstate.isconfirmed)
+- [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
 
 ## barstate.islast
 
@@ -126,12 +124,12 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [barstate.isfirst](#var_barstate.isfirst)
-* [barstate.ishistory](#var_barstate.ishistory)
-* [barstate.isrealtime](#var_barstate.isrealtime)
-* [barstate.isnew](#var_barstate.isnew)
-* [barstate.isconfirmed](#var_barstate.isconfirmed)
-* [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
+- [barstate.isfirst](#var_barstate.isfirst)
+- [barstate.ishistory](#var_barstate.ishistory)
+- [barstate.isrealtime](#var_barstate.isrealtime)
+- [barstate.isnew](#var_barstate.isnew)
+- [barstate.isconfirmed](#var_barstate.isconfirmed)
+- [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
 
 ## barstate.islastconfirmedhistory
 
@@ -149,11 +147,11 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [barstate.isfirst](#var_barstate.isfirst)
-* [barstate.islast](#var_barstate.islast)
-* [barstate.ishistory](#var_barstate.ishistory)
-* [barstate.isrealtime](#var_barstate.isrealtime)
-* [barstate.isnew](#var_barstate.isnew)
+- [barstate.isfirst](#var_barstate.isfirst)
+- [barstate.islast](#var_barstate.islast)
+- [barstate.ishistory](#var_barstate.ishistory)
+- [barstate.isrealtime](#var_barstate.isrealtime)
+- [barstate.isnew](#var_barstate.isnew)
 
 ## barstate.isnew
 
@@ -171,12 +169,12 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [barstate.isfirst](#var_barstate.isfirst)
-* [barstate.islast](#var_barstate.islast)
-* [barstate.ishistory](#var_barstate.ishistory)
-* [barstate.isrealtime](#var_barstate.isrealtime)
-* [barstate.isconfirmed](#var_barstate.isconfirmed)
-* [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
+- [barstate.isfirst](#var_barstate.isfirst)
+- [barstate.islast](#var_barstate.islast)
+- [barstate.ishistory](#var_barstate.ishistory)
+- [barstate.isrealtime](#var_barstate.isrealtime)
+- [barstate.isconfirmed](#var_barstate.isconfirmed)
+- [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
 
 ## barstate.isrealtime
 
@@ -194,12 +192,12 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [barstate.isfirst](#var_barstate.isfirst)
-* [barstate.islast](#var_barstate.islast)
-* [barstate.ishistory](#var_barstate.ishistory)
-* [barstate.isnew](#var_barstate.isnew)
-* [barstate.isconfirmed](#var_barstate.isconfirmed)
-* [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
+- [barstate.isfirst](#var_barstate.isfirst)
+- [barstate.islast](#var_barstate.islast)
+- [barstate.ishistory](#var_barstate.ishistory)
+- [barstate.isnew](#var_barstate.isnew)
+- [barstate.isconfirmed](#var_barstate.isconfirmed)
+- [barstate.islastconfirmedhistory](#var_barstate.islastconfirmedhistory)
 
 ## box.all
 
@@ -210,7 +208,6 @@ Returns an array filled with all the current boxes drawn by the script.
 box\[\]
 
 ### Example
-
 
 ```s
 
@@ -232,10 +229,10 @@ the array is read-only. index zero of the array is the iD of the oldest object o
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [line.all](#var_line.all)
-* [label.all](#var_label.all)
-* [table.all](#var_table.all)
+- [box.new](#fun_box.new)
+- [line.all](#var_line.all)
+- [label.all](#var_label.all)
+- [table.all](#var_table.all)
 
 ## chart.bg_color
 
@@ -247,7 +244,7 @@ input color
 
 ### See also
 
-* [chart.fg_color](#var_chart.fg_color)
+- [chart.fg_color](#var_chart.fg_color)
 
 ## chart.fg_color
 
@@ -259,7 +256,7 @@ input color
 
 ### See also
 
-* [chart.bg_color](#var_chart.bg_color)
+- [chart.bg_color](#var_chart.bg_color)
 
 ## chart.is_heikinashi
 
@@ -273,11 +270,11 @@ Returns [true](#op_true) if the chart type is Heikin ashi, [false](#op_false) ot
 
 ### See also
 
-* [chart.is_renko](#var_chart.is_renko)
-* [chart.is_linebreak](#var_chart.is_linebreak)
-* [chart.is_kagi](#var_chart.is_kagi)
-* [chart.is_pnf](#var_chart.is_pnf)
-* [chart.is_range](#var_chart.is_range)
+- [chart.is_renko](#var_chart.is_renko)
+- [chart.is_linebreak](#var_chart.is_linebreak)
+- [chart.is_kagi](#var_chart.is_kagi)
+- [chart.is_pnf](#var_chart.is_pnf)
+- [chart.is_range](#var_chart.is_range)
 
 ## chart.is_kagi
 
@@ -291,11 +288,11 @@ Returns [true](#op_true) if the chart type is Kagi, [false](#op_false) otherwise
 
 ### See also
 
-* [chart.is_renko](#var_chart.is_renko)
-* [chart.is_linebreak](#var_chart.is_linebreak)
-* [chart.is_heikinashi](#var_chart.is_heikinashi)
-* [chart.is_pnf](#var_chart.is_pnf)
-* [chart.is_range](#var_chart.is_range)
+- [chart.is_renko](#var_chart.is_renko)
+- [chart.is_linebreak](#var_chart.is_linebreak)
+- [chart.is_heikinashi](#var_chart.is_heikinashi)
+- [chart.is_pnf](#var_chart.is_pnf)
+- [chart.is_range](#var_chart.is_range)
 
 ## chart.is_linebreak
 
@@ -309,11 +306,11 @@ Returns [true](#op_true) if the chart type is line break, [false](#op_false) oth
 
 ### See also
 
-* [chart.is_renko](#var_chart.is_renko)
-* [chart.is_heikinashi](#var_chart.is_heikinashi)
-* [chart.is_kagi](#var_chart.is_kagi)
-* [chart.is_pnf](#var_chart.is_pnf)
-* [chart.is_range](#var_chart.is_range)
+- [chart.is_renko](#var_chart.is_renko)
+- [chart.is_heikinashi](#var_chart.is_heikinashi)
+- [chart.is_kagi](#var_chart.is_kagi)
+- [chart.is_pnf](#var_chart.is_pnf)
+- [chart.is_range](#var_chart.is_range)
 
 ## chart.is_pnf
 
@@ -327,11 +324,11 @@ Returns [true](#op_true) if the chart type is point & figure, [false](#op_false)
 
 ### See also
 
-* [chart.is_renko](#var_chart.is_renko)
-* [chart.is_linebreak](#var_chart.is_linebreak)
-* [chart.is_kagi](#var_chart.is_kagi)
-* [chart.is_heikinashi](#var_chart.is_heikinashi)
-* [chart.is_range](#var_chart.is_range)
+- [chart.is_renko](#var_chart.is_renko)
+- [chart.is_linebreak](#var_chart.is_linebreak)
+- [chart.is_kagi](#var_chart.is_kagi)
+- [chart.is_heikinashi](#var_chart.is_heikinashi)
+- [chart.is_range](#var_chart.is_range)
 
 ## chart.is_range
 
@@ -345,11 +342,11 @@ Returns [true](#op_true) if the chart type is Range, [false](#op_false) otherwis
 
 ### See also
 
-* [chart.is_renko](#var_chart.is_renko)
-* [chart.is_linebreak](#var_chart.is_linebreak)
-* [chart.is_kagi](#var_chart.is_kagi)
-* [chart.is_pnf](#var_chart.is_pnf)
-* [chart.is_heikinashi](#var_chart.is_heikinashi)
+- [chart.is_renko](#var_chart.is_renko)
+- [chart.is_linebreak](#var_chart.is_linebreak)
+- [chart.is_kagi](#var_chart.is_kagi)
+- [chart.is_pnf](#var_chart.is_pnf)
+- [chart.is_heikinashi](#var_chart.is_heikinashi)
 
 ## chart.is_renko
 
@@ -363,11 +360,11 @@ Returns [true](#op_true) if the chart type is Renko, [false](#op_false) otherwis
 
 ### See also
 
-* [chart.is_heikinashi](#var_chart.is_heikinashi)
-* [chart.is_linebreak](#var_chart.is_linebreak)
-* [chart.is_kagi](#var_chart.is_kagi)
-* [chart.is_pnf](#var_chart.is_pnf)
-* [chart.is_range](#var_chart.is_range)
+- [chart.is_heikinashi](#var_chart.is_heikinashi)
+- [chart.is_linebreak](#var_chart.is_linebreak)
+- [chart.is_kagi](#var_chart.is_kagi)
+- [chart.is_pnf](#var_chart.is_pnf)
+- [chart.is_range](#var_chart.is_range)
 
 ## chart.is_standard
 
@@ -381,14 +378,14 @@ Returns [true](#op_true) if the chart type is bars, candles, hollow candles, lin
 
 ### See also
 
-* [chart.is_renko](#var_chart.is_renko)
-* [chart.is_linebreak](#var_chart.is_linebreak)
-* [chart.is_kagi](#var_chart.is_kagi)
-* [chart.is_pnf](#var_chart.is_pnf)
-* [chart.is_range](#var_chart.is_range)
-* [chart.is_heikinashi](#var_chart.is_heikinashi)
+- [chart.is_renko](#var_chart.is_renko)
+- [chart.is_linebreak](#var_chart.is_linebreak)
+- [chart.is_kagi](#var_chart.is_kagi)
+- [chart.is_pnf](#var_chart.is_pnf)
+- [chart.is_range](#var_chart.is_range)
+- [chart.is_heikinashi](#var_chart.is_heikinashi)
 
-## chart.left\_visible\_bar_time
+## chart.left_visible_bar_time
 
 the [time](#var_time) of the leftmost bar currently visible on the chart.
 
@@ -402,9 +399,9 @@ scripts using this variable will automatically re-execute when its value updates
 
 ### See also
 
-* [chart.right\_visible\_bar_time](#var_chart.right_visible_bar_time)
+- [chart.right_visible_bar_time](#var_chart.right_visible_bar_time)
 
-## chart.right\_visible\_bar_time
+## chart.right_visible_bar_time
 
 the [time](#var_time) of the rightmost bar currently visible on the chart.
 
@@ -418,7 +415,7 @@ scripts using this variable will automatically re-execute when its value updates
 
 ### See also
 
-* [chart.left\_visible\_bar_time](#var_chart.left_visible_bar_time)
+- [chart.left_visible_bar_time](#var_chart.left_visible_bar_time)
 
 ## close
 
@@ -434,15 +431,15 @@ previous values may be accessed with square brackets operator \[\], e.g. close\[
 
 ### See also
 
-* [open](#var_open)
-* [high](#var_high)
-* [low](#var_low)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlc3](#var_hlc3)
-* [hlcc4](#var_hlcc4)
-* [ohlc4](#var_ohlc4)
+- [open](#var_open)
+- [high](#var_high)
+- [low](#var_low)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlc3](#var_hlc3)
+- [hlcc4](#var_hlcc4)
+- [ohlc4](#var_ohlc4)
 
 ## dayofmonth
 
@@ -458,15 +455,15 @@ Note that this variable returns the day based on the time of the bar's open. For
 
 ### See also
 
-* [dayofmonth](#fun_dayofmonth)
-* [time](#var_time)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [dayofmonth](#fun_dayofmonth)
+- [time](#var_time)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## dayofweek
 
@@ -484,15 +481,15 @@ You can use [dayofweek.sunday](#var_dayofweek.sunday), [dayofweek.monday](#var_d
 
 ### See also
 
-* [dayofweek](#fun_dayofweek)
-* [time](#var_time)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [dayofweek](#fun_dayofweek)
+- [time](#var_time)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## earnings.future_eps
 
@@ -508,9 +505,9 @@ this value is only fetched once during the script's initial calculation. the var
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
+- [request.earnings](#fun_request.earnings)
 
-## earnings.future\_period\_end_time
+## earnings.future_period_end_time
 
 Checks the data for the next earnings report and returns the unix timestamp of the day when the financial period covered by those earnings ends, or [na](#var_na) if this data isn't available.
 
@@ -524,7 +521,7 @@ this value is only fetched once during the script's initial calculation. the var
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
+- [request.earnings](#fun_request.earnings)
 
 ## earnings.future_revenue
 
@@ -540,7 +537,7 @@ this value is only fetched once during the script's initial calculation. the var
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
+- [request.earnings](#fun_request.earnings)
 
 ## earnings.future_time
 
@@ -556,7 +553,7 @@ this value is only fetched once during the script's initial calculation. the var
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
+- [request.earnings](#fun_request.earnings)
 
 ## high
 
@@ -572,15 +569,15 @@ previous values may be accessed with square brackets operator \[\], e.g. high\[1
 
 ### See also
 
-* [open](#var_open)
-* [low](#var_low)
-* [close](#var_close)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlc3](#var_hlc3)
-* [hlcc4](#var_hlcc4)
-* [ohlc4](#var_ohlc4)
+- [open](#var_open)
+- [low](#var_low)
+- [close](#var_close)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlc3](#var_hlc3)
+- [hlcc4](#var_hlcc4)
+- [ohlc4](#var_ohlc4)
 
 ## hl2
 
@@ -592,15 +589,15 @@ series float
 
 ### See also
 
-* [open](#var_open)
-* [high](#var_high)
-* [low](#var_low)
-* [close](#var_close)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hlc3](#var_hlc3)
-* [hlcc4](#var_hlcc4)
-* [ohlc4](#var_ohlc4)
+- [open](#var_open)
+- [high](#var_high)
+- [low](#var_low)
+- [close](#var_close)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hlc3](#var_hlc3)
+- [hlcc4](#var_hlcc4)
+- [ohlc4](#var_ohlc4)
 
 ## hlc3
 
@@ -612,15 +609,15 @@ series float
 
 ### See also
 
-* [open](#var_open)
-* [high](#var_high)
-* [low](#var_low)
-* [close](#var_close)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlcc4](#var_hlcc4)
-* [ohlc4](#var_ohlc4)
+- [open](#var_open)
+- [high](#var_high)
+- [low](#var_low)
+- [close](#var_close)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlcc4](#var_hlcc4)
+- [ohlc4](#var_ohlc4)
 
 ## hlcc4
 
@@ -632,15 +629,15 @@ series float
 
 ### See also
 
-* [open](#var_open)
-* [high](#var_high)
-* [low](#var_low)
-* [close](#var_close)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlc3](#var_hlc3)
-* [ohlc4](#var_ohlc4)
+- [open](#var_open)
+- [high](#var_high)
+- [low](#var_low)
+- [close](#var_close)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlc3](#var_hlc3)
+- [ohlc4](#var_ohlc4)
 
 ## hour
 
@@ -652,15 +649,15 @@ series int
 
 ### See also
 
-* [hour](#fun_hour)
-* [time](#var_time)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [minute](#var_minute)
-* [second](#var_second)
+- [hour](#fun_hour)
+- [time](#var_time)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## label.all
 
@@ -671,7 +668,6 @@ Returns an array filled with all the current labels drawn by the script.
 label\[\]
 
 ### Example
-
 
 ```s
 
@@ -693,12 +689,12 @@ the array is read-only. index zero of the array is the iD of the oldest object o
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [line.all](#var_line.all)
-* [box.all](#var_box.all)
-* [table.all](#var_table.all)
+- [label.new](#fun_label.new)
+- [line.all](#var_line.all)
+- [box.all](#var_box.all)
+- [table.all](#var_table.all)
 
-## last\_bar\_index
+## last_bar_index
 
 bar index of the last chart bar. bar indices begin at zero on the first bar.
 
@@ -707,7 +703,6 @@ bar index of the last chart bar. bar indices begin at zero on the first bar.
 series int
 
 ### Example
-
 
 ```s
 
@@ -734,12 +729,12 @@ please note that using this variable can cause [indicator repainting](https://ww
 
 ### See also
 
-* [bar_index](#var_bar_index)
-* [last\_bar\_time](#var_last_bar_time)
-* [barstate.ishistory](#var_barstate.ishistory)
-* [barstate.isrealtime](#var_barstate.isrealtime)
+- [bar_index](#var_bar_index)
+- [last_bar_time](#var_last_bar_time)
+- [barstate.ishistory](#var_barstate.ishistory)
+- [barstate.isrealtime](#var_barstate.isrealtime)
 
-## last\_bar\_time
+## last_bar_time
 
 time in unix format of the last chart bar. it is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 January 1970.
 
@@ -755,10 +750,10 @@ Note that this variable returns the timestamp based on the time of the bar's ope
 
 ### See also
 
-* [time](#var_time)
-* [timenow](#var_timenow)
-* [timestamp](#fun_timestamp)
-* [last\_bar\_index](#var_last_bar_index)
+- [time](#var_time)
+- [timenow](#var_timenow)
+- [timestamp](#fun_timestamp)
+- [last_bar_index](#var_last_bar_index)
 
 ## line.all
 
@@ -769,7 +764,6 @@ Returns an array filled with all the current lines drawn by the script.
 line\[\]
 
 ### Example
-
 
 ```s
 
@@ -791,10 +785,10 @@ the array is read-only. index zero of the array is the iD of the oldest object o
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [label.all](#var_label.all)
-* [box.all](#var_box.all)
-* [table.all](#var_table.all)
+- [line.new](#fun_line.new)
+- [label.all](#var_label.all)
+- [box.all](#var_box.all)
+- [table.all](#var_table.all)
 
 ## linefill.all
 
@@ -822,15 +816,15 @@ previous values may be accessed with square brackets operator \[\], e.g. low\[1\
 
 ### See also
 
-* [open](#var_open)
-* [high](#var_high)
-* [close](#var_close)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlc3](#var_hlc3)
-* [hlcc4](#var_hlcc4)
-* [ohlc4](#var_ohlc4)
+- [open](#var_open)
+- [high](#var_high)
+- [close](#var_close)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlc3](#var_hlc3)
+- [hlcc4](#var_hlcc4)
+- [ohlc4](#var_ohlc4)
 
 ## minute
 
@@ -842,15 +836,15 @@ series int
 
 ### See also
 
-* [minute](#fun_minute)
-* [time](#var_time)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [second](#var_second)
+- [minute](#fun_minute)
+- [time](#var_time)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [second](#var_second)
 
 ## month
 
@@ -866,15 +860,15 @@ Note that this variable returns the month based on the time of the bar's open. F
 
 ### See also
 
-* [month](#fun_month)
-* [time](#var_time)
-* [year](#var_year)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [month](#fun_month)
+- [time](#var_time)
+- [year](#var_year)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## na
 
@@ -885,7 +879,6 @@ a keyword signifying "not available", indicating that a variable has no assigned
 simple na
 
 ### Example
-
 
 ```s
 
@@ -921,9 +914,9 @@ Do not use this variable with [comparison operators](https://www.tradingview.com
 
 ### See also
 
-* [na](#fun_na)
-* [nz](#fun_nz)
-* [fixnan](#fun_fixnan)
+- [na](#fun_na)
+- [nz](#fun_nz)
+- [fixnan](#fun_fixnan)
 
 ## ohlc4
 
@@ -935,15 +928,15 @@ series float
 
 ### See also
 
-* [open](#var_open)
-* [high](#var_high)
-* [low](#var_low)
-* [close](#var_close)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlc3](#var_hlc3)
-* [hlcc4](#var_hlcc4)
+- [open](#var_open)
+- [high](#var_high)
+- [low](#var_low)
+- [close](#var_close)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlc3](#var_hlc3)
+- [hlcc4](#var_hlcc4)
 
 ## open
 
@@ -959,15 +952,15 @@ previous values may be accessed with square brackets operator \[\], e.g. open\[1
 
 ### See also
 
-* [high](#var_high)
-* [low](#var_low)
-* [close](#var_close)
-* [volume](#var_volume)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlc3](#var_hlc3)
-* [hlcc4](#var_hlcc4)
-* [ohlc4](#var_ohlc4)
+- [high](#var_high)
+- [low](#var_low)
+- [close](#var_close)
+- [volume](#var_volume)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlc3](#var_hlc3)
+- [hlcc4](#var_hlcc4)
+- [ohlc4](#var_ohlc4)
 
 ## polyline.all
 
@@ -991,15 +984,15 @@ series int
 
 ### See also
 
-* [second](#fun_second)
-* [time](#var_time)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
+- [second](#fun_second)
+- [time](#var_time)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
 
 ## session.isfirstbar
 
@@ -1055,8 +1048,8 @@ series bool
 
 ### See also
 
-* [session.ispremarket](#var_session.ispremarket)
-* [session.ispostmarket](#var_session.ispostmarket)
+- [session.ispremarket](#var_session.ispremarket)
+- [session.ispostmarket](#var_session.ispostmarket)
 
 ## session.ispostmarket
 
@@ -1068,8 +1061,8 @@ series bool
 
 ### See also
 
-* [session.ismarket](#var_session.ismarket)
-* [session.ispremarket](#var_session.ispremarket)
+- [session.ismarket](#var_session.ismarket)
+- [session.ispremarket](#var_session.ispremarket)
 
 ## session.ispremarket
 
@@ -1081,8 +1074,8 @@ series bool
 
 ### See also
 
-* [session.ismarket](#var_session.ismarket)
-* [session.ispostmarket](#var_session.ispostmarket)
+- [session.ismarket](#var_session.ismarket)
+- [session.ispostmarket](#var_session.ispostmarket)
 
 ## strategy.account_currency
 
@@ -1094,9 +1087,9 @@ simple string
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.convert\_to\_account](#fun_strategy.convert_to_account)
-* [strategy.convert\_to\_symbol](#fun_strategy.convert_to_symbol)
+- [strategy](#fun_strategy)
+- [strategy.convert_to_account](#fun_strategy.convert_to_account)
+- [strategy.convert_to_symbol](#fun_strategy.convert_to_symbol)
 
 ## strategy.closedtrades
 
@@ -1108,11 +1101,11 @@ series int
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.opentrades](#var_strategy.opentrades)
-* [strategy.wintrades](#var_strategy.wintrades)
-* [strategy.losstrades](#var_strategy.losstrades)
-* [strategy.eventrades](#var_strategy.eventrades)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.opentrades](#var_strategy.opentrades)
+- [strategy.wintrades](#var_strategy.wintrades)
+- [strategy.losstrades](#var_strategy.losstrades)
+- [strategy.eventrades](#var_strategy.eventrades)
 
 ## strategy.equity
 
@@ -1124,9 +1117,9 @@ series float
 
 ### See also
 
-* [strategy.netprofit](#var_strategy.netprofit)
-* [strategy.openprofit](#var_strategy.openprofit)
-* [strategy.position_size](#var_strategy.position_size)
+- [strategy.netprofit](#var_strategy.netprofit)
+- [strategy.openprofit](#var_strategy.openprofit)
+- [strategy.position_size](#var_strategy.position_size)
 
 ## strategy.eventrades
 
@@ -1138,11 +1131,11 @@ series int
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.opentrades](#var_strategy.opentrades)
-* [strategy.closedtrades](#var_strategy.closedtrades)
-* [strategy.wintrades](#var_strategy.wintrades)
-* [strategy.losstrades](#var_strategy.losstrades)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.opentrades](#var_strategy.opentrades)
+- [strategy.closedtrades](#var_strategy.closedtrades)
+- [strategy.wintrades](#var_strategy.wintrades)
+- [strategy.losstrades](#var_strategy.losstrades)
 
 ## strategy.grossloss
 
@@ -1154,8 +1147,8 @@ series float
 
 ### See also
 
-* [strategy.netprofit](#var_strategy.netprofit)
-* [strategy.grossprofit](#var_strategy.grossprofit)
+- [strategy.netprofit](#var_strategy.netprofit)
+- [strategy.grossprofit](#var_strategy.grossprofit)
 
 ## strategy.grossprofit
 
@@ -1167,8 +1160,8 @@ series float
 
 ### See also
 
-* [strategy.netprofit](#var_strategy.netprofit)
-* [strategy.grossloss](#var_strategy.grossloss)
+- [strategy.netprofit](#var_strategy.netprofit)
+- [strategy.grossloss](#var_strategy.grossloss)
 
 ## strategy.initial_capital
 
@@ -1180,7 +1173,7 @@ series float
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## strategy.long
 
@@ -1192,9 +1185,9 @@ const strategy_direction
 
 ### See also
 
-* [strategy.entry](#fun_strategy.entry)
-* [strategy.exit](#fun_strategy.exit)
-* [strategy.order](#fun_strategy.order)
+- [strategy.entry](#fun_strategy.entry)
+- [strategy.exit](#fun_strategy.exit)
+- [strategy.order](#fun_strategy.order)
 
 ## strategy.losstrades
 
@@ -1206,13 +1199,13 @@ series int
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.opentrades](#var_strategy.opentrades)
-* [strategy.closedtrades](#var_strategy.closedtrades)
-* [strategy.wintrades](#var_strategy.wintrades)
-* [strategy.eventrades](#var_strategy.eventrades)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.opentrades](#var_strategy.opentrades)
+- [strategy.closedtrades](#var_strategy.closedtrades)
+- [strategy.wintrades](#var_strategy.wintrades)
+- [strategy.eventrades](#var_strategy.eventrades)
 
-## strategy.margin\_liquidation\_price
+## strategy.margin_liquidation_price
 
 When margin is used in a strategy, returns the price point where a simulated margin call will occur and liquidate enough of the position to meet the margin requirements.
 
@@ -1221,7 +1214,6 @@ When margin is used in a strategy, returns the price point where a simulated mar
 series float
 
 ### Example
-
 
 ```s
 
@@ -1251,9 +1243,9 @@ if math.abs(changepercent(close, strategy.margin_liquidation_price)) <= 10
 
 ### Remarks
 
-the variable returns [na](#var_na) if the strategy does not use margin, i.e., the [strategy](#fun_strategy) declaration statement does not specify an argument for the \`margin\_long\` or \`margin\_short\` parameter.
+the variable returns [na](#var_na) if the strategy does not use margin, i.e., the [strategy](#fun_strategy) declaration statement does not specify an argument for the \`margin_long\` or \`margin_short\` parameter.
 
-## strategy.max\_contracts\_held_all
+## strategy.max_contracts_held_all
 
 Maximum number of contracts/shares/lots/units in one trade for the whole trading interval.
 
@@ -1263,11 +1255,11 @@ series float
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.max\_contracts\_held_long](#var_strategy.max_contracts_held_long)
-* [strategy.max\_contracts\_held_short](#var_strategy.max_contracts_held_short)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.max_contracts_held_long](#var_strategy.max_contracts_held_long)
+- [strategy.max_contracts_held_short](#var_strategy.max_contracts_held_short)
 
-## strategy.max\_contracts\_held_long
+## strategy.max_contracts_held_long
 
 Maximum number of contracts/shares/lots/units in one long trade for the whole trading interval.
 
@@ -1277,11 +1269,11 @@ series float
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.max\_contracts\_held_all](#var_strategy.max_contracts_held_all)
-* [strategy.max\_contracts\_held_short](#var_strategy.max_contracts_held_short)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.max_contracts_held_all](#var_strategy.max_contracts_held_all)
+- [strategy.max_contracts_held_short](#var_strategy.max_contracts_held_short)
 
-## strategy.max\_contracts\_held_short
+## strategy.max_contracts_held_short
 
 Maximum number of contracts/shares/lots/units in one short trade for the whole trading interval.
 
@@ -1291,9 +1283,9 @@ series float
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.max\_contracts\_held_all](#var_strategy.max_contracts_held_all)
-* [strategy.max\_contracts\_held_long](#var_strategy.max_contracts_held_long)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.max_contracts_held_all](#var_strategy.max_contracts_held_all)
+- [strategy.max_contracts_held_long](#var_strategy.max_contracts_held_long)
 
 ## strategy.max_drawdown
 
@@ -1305,9 +1297,9 @@ series float
 
 ### See also
 
-* [strategy.netprofit](#var_strategy.netprofit)
-* [strategy.equity](#var_strategy.equity)
-* [strategy.max_runup](#var_strategy.max_runup)
+- [strategy.netprofit](#var_strategy.netprofit)
+- [strategy.equity](#var_strategy.equity)
+- [strategy.max_runup](#var_strategy.max_runup)
 
 ## strategy.max_runup
 
@@ -1319,9 +1311,9 @@ series float
 
 ### See also
 
-* [strategy.netprofit](#var_strategy.netprofit)
-* [strategy.equity](#var_strategy.equity)
-* [strategy.max_drawdown](#var_strategy.max_drawdown)
+- [strategy.netprofit](#var_strategy.netprofit)
+- [strategy.equity](#var_strategy.equity)
+- [strategy.max_drawdown](#var_strategy.max_drawdown)
 
 ## strategy.netprofit
 
@@ -1333,10 +1325,10 @@ series float
 
 ### See also
 
-* [strategy.openprofit](#var_strategy.openprofit)
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.grossprofit](#var_strategy.grossprofit)
-* [strategy.grossloss](#var_strategy.grossloss)
+- [strategy.openprofit](#var_strategy.openprofit)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.grossprofit](#var_strategy.grossprofit)
+- [strategy.grossloss](#var_strategy.grossloss)
 
 ## strategy.openprofit
 
@@ -1348,8 +1340,8 @@ series float
 
 ### See also
 
-* [strategy.netprofit](#var_strategy.netprofit)
-* [strategy.position_size](#var_strategy.position_size)
+- [strategy.netprofit](#var_strategy.netprofit)
+- [strategy.position_size](#var_strategy.position_size)
 
 ## strategy.opentrades
 
@@ -1361,9 +1353,9 @@ series int
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
+- [strategy.position_size](#var_strategy.position_size)
 
-## strategy.position\_avg\_price
+## strategy.position_avg_price
 
 average entry price of current market position. if the market position is flat, 'NaN' is returned.
 
@@ -1373,9 +1365,9 @@ series float
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
+- [strategy.position_size](#var_strategy.position_size)
 
-## strategy.position\_entry\_name
+## strategy.position_entry_name
 
 Name of the order that initially opened current market position.
 
@@ -1385,7 +1377,7 @@ series string
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
+- [strategy.position_size](#var_strategy.position_size)
 
 ## strategy.position_size
 
@@ -1397,7 +1389,7 @@ series float
 
 ### See also
 
-* [strategy.position\_avg\_price](#var_strategy.position_avg_price)
+- [strategy.position_avg_price](#var_strategy.position_avg_price)
 
 ## strategy.short
 
@@ -1409,9 +1401,9 @@ const strategy_direction
 
 ### See also
 
-* [strategy.entry](#fun_strategy.entry)
-* [strategy.exit](#fun_strategy.exit)
-* [strategy.order](#fun_strategy.order)
+- [strategy.entry](#fun_strategy.entry)
+- [strategy.exit](#fun_strategy.exit)
+- [strategy.order](#fun_strategy.order)
 
 ## strategy.wintrades
 
@@ -1423,11 +1415,11 @@ series int
 
 ### See also
 
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.opentrades](#var_strategy.opentrades)
-* [strategy.closedtrades](#var_strategy.closedtrades)
-* [strategy.losstrades](#var_strategy.losstrades)
-* [strategy.eventrades](#var_strategy.eventrades)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.opentrades](#var_strategy.opentrades)
+- [strategy.closedtrades](#var_strategy.closedtrades)
+- [strategy.losstrades](#var_strategy.losstrades)
+- [strategy.eventrades](#var_strategy.eventrades)
 
 ## syminfo.basecurrency
 
@@ -1439,8 +1431,8 @@ simple string
 
 ### See also
 
-* [syminfo.currency](#var_syminfo.currency)
-* [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.currency](#var_syminfo.currency)
+- [syminfo.ticker](#var_syminfo.ticker)
 
 ## syminfo.country
 
@@ -1460,10 +1452,10 @@ simple string
 
 ### See also
 
-* [syminfo.basecurrency](#var_syminfo.basecurrency)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [currency.usD](#var_currency.usD)
-* [currency.EuR](#var_currency.EuR)
+- [syminfo.basecurrency](#var_syminfo.basecurrency)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [currency.usD](#var_currency.usD)
+- [currency.EuR](#var_currency.EuR)
 
 ## syminfo.description
 
@@ -1475,8 +1467,8 @@ simple string
 
 ### See also
 
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.prefix](#var_syminfo.prefix)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.prefix](#var_syminfo.prefix)
 
 ## syminfo.industry
 
@@ -1500,11 +1492,11 @@ simple int
 
 ### See also
 
-* [ticker.new](#fun_ticker.new)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [timeframe.period](#var_timeframe.period)
-* [timeframe.multiplier](#var_timeframe.multiplier)
-* [syminfo.root](#var_syminfo.root)
+- [ticker.new](#fun_ticker.new)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [timeframe.period](#var_timeframe.period)
+- [timeframe.multiplier](#var_timeframe.multiplier)
+- [syminfo.root](#var_syminfo.root)
 
 ## syminfo.mintick
 
@@ -1516,7 +1508,7 @@ simple float
 
 ### See also
 
-* [syminfo.pointvalue](#var_syminfo.pointvalue)
+- [syminfo.pointvalue](#var_syminfo.pointvalue)
 
 ## syminfo.pointvalue
 
@@ -1528,18 +1520,17 @@ simple float
 
 ### See also
 
-* [syminfo.mintick](#var_syminfo.mintick)
+- [syminfo.mintick](#var_syminfo.mintick)
 
 ## syminfo.prefix
 
-prefix of current symbol name (i.e. for 'CME\_EOD:TickER' prefix is 'CME\_EOD').
+prefix of current symbol name (i.e. for 'CME_EOD:TickER' prefix is 'CME_EOD').
 
 ### Type
 
 simple string
 
 ### Example
-
 
 ```s
 
@@ -1555,8 +1546,8 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.tickerid](#var_syminfo.tickerid)
 
 ## syminfo.pricescale
 
@@ -1568,11 +1559,11 @@ simple int
 
 ### See also
 
-* [ticker.new](#fun_ticker.new)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [timeframe.period](#var_timeframe.period)
-* [timeframe.multiplier](#var_timeframe.multiplier)
-* [syminfo.root](#var_syminfo.root)
+- [ticker.new](#fun_ticker.new)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [timeframe.period](#var_timeframe.period)
+- [timeframe.multiplier](#var_timeframe.multiplier)
+- [syminfo.root](#var_syminfo.root)
 
 ## syminfo.root
 
@@ -1583,7 +1574,6 @@ Root for derivatives like futures contract. For other symbols returns the same v
 simple string
 
 ### Example
-
 
 ```s
 
@@ -1599,8 +1589,8 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.tickerid](#var_syminfo.tickerid)
 
 ## syminfo.sector
 
@@ -1624,8 +1614,8 @@ simple string
 
 ### See also
 
-* [session.regular](#var_session.regular)
-* [session.extended](#var_session.extended)
+- [session.regular](#var_session.regular)
+- [session.extended](#var_session.extended)
 
 ## syminfo.ticker
 
@@ -1637,10 +1627,10 @@ simple string
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [timeframe.period](#var_timeframe.period)
-* [timeframe.multiplier](#var_timeframe.multiplier)
-* [syminfo.root](#var_syminfo.root)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [timeframe.period](#var_timeframe.period)
+- [timeframe.multiplier](#var_timeframe.multiplier)
+- [syminfo.root](#var_syminfo.root)
 
 ## syminfo.tickerid
 
@@ -1656,11 +1646,11 @@ because the value of this variable does not always use a simple "prefix:ticker" 
 
 ### See also
 
-* [ticker.new](#fun_ticker.new)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [timeframe.period](#var_timeframe.period)
-* [timeframe.multiplier](#var_timeframe.multiplier)
-* [syminfo.root](#var_syminfo.root)
+- [ticker.new](#fun_ticker.new)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [timeframe.period](#var_timeframe.period)
+- [timeframe.multiplier](#var_timeframe.multiplier)
+- [syminfo.root](#var_syminfo.root)
 
 ## syminfo.timezone
 
@@ -1672,7 +1662,7 @@ simple string
 
 ### See also
 
-* [timestamp](#fun_timestamp)
+- [timestamp](#fun_timestamp)
 
 ## syminfo.type
 
@@ -1684,7 +1674,7 @@ simple string
 
 ### See also
 
-* [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.ticker](#var_syminfo.ticker)
 
 ## syminfo.volumetype
 
@@ -1700,7 +1690,7 @@ Only some data feed suppliers provide information qualifying volume. as a result
 
 ### See also
 
-* [syminfo.type](#var_syminfo.type)
+- [syminfo.type](#var_syminfo.type)
 
 ## ta.accdist
 
@@ -1719,7 +1709,6 @@ intraday intensity index.
 series float
 
 ### Example
-
 
 ```s
 
@@ -1744,7 +1733,6 @@ Negative Volume index.
 series float
 
 ### Example
-
 
 ```s
 
@@ -1777,7 +1765,6 @@ series float
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -1801,7 +1788,6 @@ positive Volume index.
 series float
 
 ### Example
-
 
 ```s
 
@@ -1834,7 +1820,6 @@ series float
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -1859,8 +1844,8 @@ series float
 
 ### See also
 
-* [ta.tr](#fun_ta.tr)
-* [ta.atr](#fun_ta.atr)
+- [ta.tr](#fun_ta.tr)
+- [ta.atr](#fun_ta.atr)
 
 ## ta.vwap
 
@@ -1872,7 +1857,7 @@ series float
 
 ### See also
 
-* [ta.vwap](#fun_ta.vwap)
+- [ta.vwap](#fun_ta.vwap)
 
 ## ta.wad
 
@@ -1883,7 +1868,6 @@ Williams accumulation/Distribution.
 series float
 
 ### Example
-
 
 ```s
 
@@ -1913,7 +1897,6 @@ series float
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -1938,7 +1921,6 @@ table\[\]
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -1959,10 +1941,10 @@ the array is read-only. index zero of the array is the iD of the oldest object o
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [line.all](#var_line.all)
-* [label.all](#var_label.all)
-* [box.all](#var_box.all)
+- [table.new](#fun_table.new)
+- [line.all](#var_line.all)
+- [label.all](#var_label.all)
+- [box.all](#var_box.all)
 
 ## time
 
@@ -1978,17 +1960,17 @@ Note that this variable returns the timestamp based on the time of the bar's ope
 
 ### See also
 
-* [time](#fun_time)
-* [time_close](#var_time_close)
-* [timenow](#var_timenow)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [time](#fun_time)
+- [time_close](#var_time_close)
+- [timenow](#var_timenow)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## time_close
 
@@ -2000,16 +1982,16 @@ series int
 
 ### See also
 
-* [time](#var_time)
-* [timenow](#var_timenow)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [time](#var_time)
+- [timenow](#var_timenow)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## time_tradingday
 
@@ -2027,8 +2009,8 @@ When used on timeframes higher than 1D, \`time_tradingday\` returns the trading 
 
 ### See also
 
-* [time](#var_time)
-* [time_close](#var_time_close)
+- [time](#var_time)
+- [time_close](#var_time_close)
 
 ## timeframe.isdaily
 
@@ -2040,12 +2022,12 @@ simple bool
 
 ### See also
 
-* [timeframe.isdwm](#var_timeframe.isdwm)
-* [timeframe.isintraday](#var_timeframe.isintraday)
-* [timeframe.isminutes](#var_timeframe.isminutes)
-* [timeframe.isseconds](#var_timeframe.isseconds)
-* [timeframe.isweekly](#var_timeframe.isweekly)
-* [timeframe.ismonthly](#var_timeframe.ismonthly)
+- [timeframe.isdwm](#var_timeframe.isdwm)
+- [timeframe.isintraday](#var_timeframe.isintraday)
+- [timeframe.isminutes](#var_timeframe.isminutes)
+- [timeframe.isseconds](#var_timeframe.isseconds)
+- [timeframe.isweekly](#var_timeframe.isweekly)
+- [timeframe.ismonthly](#var_timeframe.ismonthly)
 
 ## timeframe.isdwm
 
@@ -2057,12 +2039,12 @@ simple bool
 
 ### See also
 
-* [timeframe.isintraday](#var_timeframe.isintraday)
-* [timeframe.isminutes](#var_timeframe.isminutes)
-* [timeframe.isseconds](#var_timeframe.isseconds)
-* [timeframe.isdaily](#var_timeframe.isdaily)
-* [timeframe.isweekly](#var_timeframe.isweekly)
-* [timeframe.ismonthly](#var_timeframe.ismonthly)
+- [timeframe.isintraday](#var_timeframe.isintraday)
+- [timeframe.isminutes](#var_timeframe.isminutes)
+- [timeframe.isseconds](#var_timeframe.isseconds)
+- [timeframe.isdaily](#var_timeframe.isdaily)
+- [timeframe.isweekly](#var_timeframe.isweekly)
+- [timeframe.ismonthly](#var_timeframe.ismonthly)
 
 ## timeframe.isintraday
 
@@ -2074,12 +2056,12 @@ simple bool
 
 ### See also
 
-* [timeframe.isminutes](#var_timeframe.isminutes)
-* [timeframe.isseconds](#var_timeframe.isseconds)
-* [timeframe.isdwm](#var_timeframe.isdwm)
-* [timeframe.isdaily](#var_timeframe.isdaily)
-* [timeframe.isweekly](#var_timeframe.isweekly)
-* [timeframe.ismonthly](#var_timeframe.ismonthly)
+- [timeframe.isminutes](#var_timeframe.isminutes)
+- [timeframe.isseconds](#var_timeframe.isseconds)
+- [timeframe.isdwm](#var_timeframe.isdwm)
+- [timeframe.isdaily](#var_timeframe.isdaily)
+- [timeframe.isweekly](#var_timeframe.isweekly)
+- [timeframe.ismonthly](#var_timeframe.ismonthly)
 
 ## timeframe.isminutes
 
@@ -2091,12 +2073,12 @@ simple bool
 
 ### See also
 
-* [timeframe.isdwm](#var_timeframe.isdwm)
-* [timeframe.isintraday](#var_timeframe.isintraday)
-* [timeframe.isseconds](#var_timeframe.isseconds)
-* [timeframe.isdaily](#var_timeframe.isdaily)
-* [timeframe.isweekly](#var_timeframe.isweekly)
-* [timeframe.ismonthly](#var_timeframe.ismonthly)
+- [timeframe.isdwm](#var_timeframe.isdwm)
+- [timeframe.isintraday](#var_timeframe.isintraday)
+- [timeframe.isseconds](#var_timeframe.isseconds)
+- [timeframe.isdaily](#var_timeframe.isdaily)
+- [timeframe.isweekly](#var_timeframe.isweekly)
+- [timeframe.ismonthly](#var_timeframe.ismonthly)
 
 ## timeframe.ismonthly
 
@@ -2108,12 +2090,12 @@ simple bool
 
 ### See also
 
-* [timeframe.isdwm](#var_timeframe.isdwm)
-* [timeframe.isintraday](#var_timeframe.isintraday)
-* [timeframe.isminutes](#var_timeframe.isminutes)
-* [timeframe.isseconds](#var_timeframe.isseconds)
-* [timeframe.isdaily](#var_timeframe.isdaily)
-* [timeframe.isweekly](#var_timeframe.isweekly)
+- [timeframe.isdwm](#var_timeframe.isdwm)
+- [timeframe.isintraday](#var_timeframe.isintraday)
+- [timeframe.isminutes](#var_timeframe.isminutes)
+- [timeframe.isseconds](#var_timeframe.isseconds)
+- [timeframe.isdaily](#var_timeframe.isdaily)
+- [timeframe.isweekly](#var_timeframe.isweekly)
 
 ## timeframe.isseconds
 
@@ -2125,12 +2107,12 @@ simple bool
 
 ### See also
 
-* [timeframe.isdwm](#var_timeframe.isdwm)
-* [timeframe.isintraday](#var_timeframe.isintraday)
-* [timeframe.isminutes](#var_timeframe.isminutes)
-* [timeframe.isdaily](#var_timeframe.isdaily)
-* [timeframe.isweekly](#var_timeframe.isweekly)
-* [timeframe.ismonthly](#var_timeframe.ismonthly)
+- [timeframe.isdwm](#var_timeframe.isdwm)
+- [timeframe.isintraday](#var_timeframe.isintraday)
+- [timeframe.isminutes](#var_timeframe.isminutes)
+- [timeframe.isdaily](#var_timeframe.isdaily)
+- [timeframe.isweekly](#var_timeframe.isweekly)
+- [timeframe.ismonthly](#var_timeframe.ismonthly)
 
 ## timeframe.isweekly
 
@@ -2142,12 +2124,12 @@ simple bool
 
 ### See also
 
-* [timeframe.isdwm](#var_timeframe.isdwm)
-* [timeframe.isintraday](#var_timeframe.isintraday)
-* [timeframe.isminutes](#var_timeframe.isminutes)
-* [timeframe.isseconds](#var_timeframe.isseconds)
-* [timeframe.isdaily](#var_timeframe.isdaily)
-* [timeframe.ismonthly](#var_timeframe.ismonthly)
+- [timeframe.isdwm](#var_timeframe.isdwm)
+- [timeframe.isintraday](#var_timeframe.isintraday)
+- [timeframe.isminutes](#var_timeframe.isminutes)
+- [timeframe.isseconds](#var_timeframe.isseconds)
+- [timeframe.isdaily](#var_timeframe.isdaily)
+- [timeframe.ismonthly](#var_timeframe.ismonthly)
 
 ## timeframe.multiplier
 
@@ -2159,9 +2141,9 @@ simple int
 
 ### See also
 
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [timeframe.period](#var_timeframe.period)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [timeframe.period](#var_timeframe.period)
 
 ## timeframe.period
 
@@ -2177,9 +2159,9 @@ simple string
 
 ### See also
 
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [timeframe.multiplier](#var_timeframe.multiplier)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [timeframe.multiplier](#var_timeframe.multiplier)
 
 ## timenow
 
@@ -2195,17 +2177,17 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [timestamp](#fun_timestamp)
-* [time](#var_time)
-* [time_close](#var_time_close)
-* [year](#var_year)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [timestamp](#fun_timestamp)
+- [time](#var_time)
+- [time_close](#var_time_close)
+- [year](#var_year)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## volume
 
@@ -2221,15 +2203,15 @@ previous values may be accessed with square brackets operator \[\], e.g. volume\
 
 ### See also
 
-* [open](#var_open)
-* [high](#var_high)
-* [low](#var_low)
-* [close](#var_close)
-* [time](#fun_time)
-* [hl2](#var_hl2)
-* [hlc3](#var_hlc3)
-* [hlcc4](#var_hlcc4)
-* [ohlc4](#var_ohlc4)
+- [open](#var_open)
+- [high](#var_high)
+- [low](#var_low)
+- [close](#var_close)
+- [time](#fun_time)
+- [hl2](#var_hl2)
+- [hlc3](#var_hlc3)
+- [hlcc4](#var_hlcc4)
+- [ohlc4](#var_ohlc4)
 
 ## weekofyear
 
@@ -2245,15 +2227,15 @@ Note that this variable returns the week based on the time of the bar's open. Fo
 
 ### See also
 
-* [weekofyear](#fun_weekofyear)
-* [time](#var_time)
-* [year](#var_year)
-* [month](#var_month)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [weekofyear](#fun_weekofyear)
+- [time](#var_time)
+- [year](#var_year)
+- [month](#var_month)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
 ## year
 
@@ -2269,18 +2251,17 @@ Note that this variable returns the year based on the time of the bar's open. Fo
 
 ### See also
 
-* [year](#fun_year)
-* [time](#var_time)
-* [month](#var_month)
-* [weekofyear](#var_weekofyear)
-* [dayofmonth](#var_dayofmonth)
-* [dayofweek](#var_dayofweek)
-* [hour](#var_hour)
-* [minute](#var_minute)
-* [second](#var_second)
+- [year](#fun_year)
+- [time](#var_time)
+- [month](#var_month)
+- [weekofyear](#var_weekofyear)
+- [dayofmonth](#var_dayofmonth)
+- [dayofweek](#var_dayofweek)
+- [hour](#var_hour)
+- [minute](#var_minute)
+- [second](#var_second)
 
-Functions
----------
+## Functions
 
 ## alert
 
@@ -2294,14 +2275,13 @@ alert(message, freq) - void
 
 - `message`
 
-    >  (`series` `string`)
-    
-    >  Message sent when the alert triggers. Required argument.
+  > (`series` `string`)
 
-freq (input string) the triggering frequency. possible values are: [alert.freq_all](#var_alert.freq_all) (all function calls trigger the alert), [alert.freq\_once\_per_bar](#var_alert.freq_once_per_bar) (the first function call during the bar triggers the alert), [alert.freq\_once\_per\_bar\_close](#var_alert.freq_once_per_bar_close) (the function call triggers the alert only when it occurs during the last script iteration of the real-time bar, when it closes). the default is [alert.freq\_once\_per_bar](#var_alert.freq_once_per_bar).
+  > Message sent when the alert triggers. Required argument.
+
+freq (input string) the triggering frequency. possible values are: [alert.freq_all](#var_alert.freq_all) (all function calls trigger the alert), [alert.freq_once_per_bar](#var_alert.freq_once_per_bar) (the first function call during the bar triggers the alert), [alert.freq_once_per_bar_close](#var_alert.freq_once_per_bar_close) (the function call triggers the alert only when it occurs during the last script iteration of the real-time bar, when it closes). the default is [alert.freq_once_per_bar](#var_alert.freq_once_per_bar).
 
 ### Example
-
 
 ```s
 
@@ -2332,7 +2312,7 @@ the 'freq' argument only affects the triggering frequency of the function call w
 
 ### See also
 
-* [alertcondition](#fun_alertcondition)
+- [alertcondition](#fun_alertcondition)
 
 ## alertcondition
 
@@ -2346,24 +2326,23 @@ alertcondition(condition, title, message) - void
 
 - `condition`
 
-    >  (`series` `bool`)
-    
-    >  series of boolean values that is used for alert. true values mean alert fire, false - no alert. Required argument.
+  > (`series` `bool`)
+
+  > series of boolean values that is used for alert. true values mean alert fire, false - no alert. Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the alert condition. optional argument.
+  > (`const` `string`)
+
+  > title of the alert condition. optional argument.
 
 - `message`
 
-    >  (`const` `string`)
-    
-    >  Message to display when alert fires. optional argument.
+  > (`const` `string`)
+
+  > Message to display when alert fires. optional argument.
 
 ### Example
-
 
 ```s
 
@@ -2380,7 +2359,7 @@ please note that an alertcondition call generates an additional plot. all such c
 
 ### See also
 
-* [alert](#fun_alert)
+- [alert](#fun_alert)
 
 ## array.abs
 
@@ -2390,25 +2369,24 @@ Returns an array containing the absolute value of each element in the original a
 
 ### syntax & Overloads
 
-> [array.abs(id) - float\[\]](#fun_array.abs-0)
-> [array.abs(id) - int\[\]](#fun_array.abs-1)
+> [array.abs(id) - float\[\]](#fun_array.abs-0) > [array.abs(id) - int\[\]](#fun_array.abs-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
 ## array.avg
 
@@ -2418,19 +2396,17 @@ the function returns the mean of an array's elements.
 
 ### syntax & Overloads
 
-> [array.avg(id) → series float](#fun_array.avg-0)
-> [array.avg(id) → series int](#fun_array.avg-1)
+> [array.avg(id) → series float](#fun_array.avg-0) > [array.avg(id) → series int](#fun_array.avg-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -2450,10 +2426,10 @@ Mean of array's elements.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.max](#fun_array.max)
-* [array.min](#fun_array.min)
-* [array.stdev](#fun_array.stdev)
+- [array.new_float](#fun_array.new_float)
+- [array.max](#fun_array.max)
+- [array.min](#fun_array.min)
+- [array.stdev](#fun_array.stdev)
 
 ## array.binary_search
 
@@ -2467,18 +2443,17 @@ array.binary_search(id, val) → series int
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `val`
 
-    >  (`series` `int`/`float`)
-    
-    >  the value to search for in the array.
+  > (`series` `int`/`float`)
+
+  > the value to search for in the array.
 
 ### Example
-
 
 ```s
 
@@ -2498,37 +2473,36 @@ a binary search works on arrays pre-sorted in ascending order. it begins by comp
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
-## array.binary\_search\_leftmost
+## array.binary_search_leftmost
 
 the function returns the index of the value if it is found. When the value is not found, the function returns the index of the next smallest element to the left of where the value would lie if it was in the array. the array to search must be sorted in ascending order.
 
 ### Syntax
 
-array.binary\_search\_leftmost(id, val) → series int
+array.binary_search_leftmost(id, val) → series int
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `val`
 
-    >  (`series` `int`/`float`)
-    
-    >  the value to search for in the array.
+  > (`series` `int`/`float`)
+
+  > the value to search for in the array.
 
 ### Example
-
 
 ```s
 
@@ -2544,7 +2518,6 @@ plot(position)
 ```
 
 ### Example
-
 
 ```s
 
@@ -2564,37 +2537,36 @@ a binary search works on arrays pre-sorted in ascending order. it begins by comp
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
-## array.binary\_search\_rightmost
+## array.binary_search_rightmost
 
 the function returns the index of the value if it is found. When the value is not found, the function returns the index of the element to the right of where the value would lie if it was in the array. the array must be sorted in ascending order.
 
 ### Syntax
 
-array.binary\_search\_rightmost(id, val) → series int
+array.binary_search_rightmost(id, val) → series int
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `val`
 
-    >  (`series` `int`/`float`)
-    
-    >  the value to search for in the array.
+  > (`series` `int`/`float`)
+
+  > the value to search for in the array.
 
 ### Example
-
 
 ```s
 
@@ -2610,7 +2582,6 @@ plot(position)
 ```
 
 ### Example
-
 
 ```s
 
@@ -2630,12 +2601,12 @@ a binary search works on sorted arrays in ascending order. it begins by comparin
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
 ## array.clear
 
@@ -2649,12 +2620,11 @@ array.clear(id) - void
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -2671,11 +2641,11 @@ plot(array.size(a))
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.push](#fun_array.push)
-* [array.remove](#fun_array.remove)
-* [array.pop](#fun_array.pop)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.push](#fun_array.push)
+- [array.remove](#fun_array.remove)
+- [array.pop](#fun_array.pop)
 
 ## array.concat
 
@@ -2689,18 +2659,17 @@ array.concat(id1, id2) - array<type>;
 
 - `id1`
 
-    >  (`any` `array` `type`)
-    
-    >  the first array object.
+  > (`any` `array` `type`)
+
+  > the first array object.
 
 - `id2`
 
-    >  (`any` `array` `type`)
-    
-    >  the second array object.
+  > (`any` `array` `type`)
+
+  > the second array object.
 
 ### Example
-
 
 ```s
 
@@ -2725,9 +2694,9 @@ the first array with merged elements from the second array.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
 
 ## array.copy
 
@@ -2741,12 +2710,11 @@ array.copy(id) - array<type>;
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -2768,10 +2736,10 @@ a copy of an array.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.covariance
 
@@ -2785,24 +2753,23 @@ array.covariance(id1, id2, biased) → series float
 
 - `id1`
 
-    >  (`int`\[\])
-    
-    >  an array object.
+  > (`int`\[\])
+
+  > an array object.
 
 - `id2`
 
-    >  (`int`\[\])
-    
-    >  an array object.
+  > (`int`\[\])
+
+  > an array object.
 
 - `biased`
 
-    >  (`series` `bool`)
-    
-    >  Determines which estimate should be used. optional. the default is true.
+  > (`series` `bool`)
+
+  > Determines which estimate should be used. optional. the default is true.
 
 ### Example
-
 
 ```s
 
@@ -2828,11 +2795,11 @@ if \`biased\` is true, function will calculate using a biased estimate of the en
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.max](#fun_array.max)
-* [array.stdev](#fun_array.stdev)
-* [array.avg](#fun_array.avg)
-* [array.variance](#fun_array.variance)
+- [array.new_float](#fun_array.new_float)
+- [array.max](#fun_array.max)
+- [array.stdev](#fun_array.stdev)
+- [array.avg](#fun_array.avg)
+- [array.variance](#fun_array.variance)
 
 ## array.every
 
@@ -2846,9 +2813,9 @@ array.every(id) → series bool
 
 - `id`
 
-    >  (`bool`\[\])
-    
-    >  an array object.
+  > (`bool`\[\])
+
+  > an array object.
 
 ### Remarks
 
@@ -2856,8 +2823,8 @@ this function also works with arrays of [int](#op_int) and [float](#op_float) ty
 
 ### See also
 
-* [array.some](#fun_array.some)
-* [array.get](#fun_array.get)
+- [array.some](#fun_array.some)
+- [array.get](#fun_array.get)
 
 ## array.fill
 
@@ -2865,36 +2832,35 @@ the function sets elements of an array to a single value. if no index is specifi
 
 ### Syntax
 
-array.fill(id, value, index\_from, index\_to) - void
+array.fill(id, value, index_from, index_to) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  Value to fill the array with.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > Value to fill the array with.
 
 - `index_from`
 
-    >  (`series` `int`)
-    
-    >  start index, default is 0.
+  > (`series` `int`)
+
+  > start index, default is 0.
 
 - `index_to`
 
-    >  (`series` `int`)
-    
-    >  End index, default is na. Must be one greater than the index of the last element to set.
+  > (`series` `int`)
+
+  > End index, default is na. Must be one greater than the index of the last element to set.
 
 ### Example
-
 
 ```s
 
@@ -2909,9 +2875,9 @@ plot(array.sum(a))
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.slice](#fun_array.slice)
 
 ## array.first
 
@@ -2925,12 +2891,11 @@ array.first(id) → series <type>;
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -2944,8 +2909,8 @@ plot(array.first(arr))
 
 ### See also
 
-* [array.last](#fun_array.last)
-* [array.get](#fun_array.get)
+- [array.last](#fun_array.last)
+- [array.get](#fun_array.get)
 
 ## array.from
 
@@ -2955,28 +2920,17 @@ the function takes a variable number of arguments with one of the types: int, fl
 
 ### syntax & Overloads
 
-> [array.from(arg0, arg1, ...) - type\[\]](#fun_array.from-0)
-> [array.from(arg0, arg1, ...) - label\[\]](#fun_array.from-1)
-> [array.from(arg0, arg1, ...) - line\[\]](#fun_array.from-2)
-> [array.from(arg0, arg1, ...) - box\[\]](#fun_array.from-3)
-> [array.from(arg0, arg1, ...) - table\[\]](#fun_array.from-4)
-> [array.from(arg0, arg1, ...) - linefill\[\]](#fun_array.from-5)
-> [array.from(arg0, arg1, ...) - string\[\]](#fun_array.from-6)
-> [array.from(arg0, arg1, ...) - color\[\]](#fun_array.from-7)
-> [array.from(arg0, arg1, ...) - int\[\]](#fun_array.from-8)
-> [array.from(arg0, arg1, ...) - float\[\]](#fun_array.from-9)
-> [array.from(arg0, arg1, ...) - bool\[\]](#fun_array.from-10)
+> [array.from(arg0, arg1, ...) - type\[\]](#fun_array.from-0) > [array.from(arg0, arg1, ...) - label\[\]](#fun_array.from-1) > [array.from(arg0, arg1, ...) - line\[\]](#fun_array.from-2) > [array.from(arg0, arg1, ...) - box\[\]](#fun_array.from-3) > [array.from(arg0, arg1, ...) - table\[\]](#fun_array.from-4) > [array.from(arg0, arg1, ...) - linefill\[\]](#fun_array.from-5) > [array.from(arg0, arg1, ...) - string\[\]](#fun_array.from-6) > [array.from(arg0, arg1, ...) - color\[\]](#fun_array.from-7) > [array.from(arg0, arg1, ...) - int\[\]](#fun_array.from-8) > [array.from(arg0, arg1, ...) - float\[\]](#fun_array.from-9) > [array.from(arg0, arg1, ...) - bool\[\]](#fun_array.from-10)
 
 ### Arguments
 
 - `arg0, arg1, ...`
 
-    >  (<`arg..._type`>;)
-    
-    >  array arguments.
+  > (<`arg..._type`>;)
+
+  > array arguments.
 
 ### Example
-
 
 ```s
 
@@ -3004,18 +2958,17 @@ array.get(id, index) → series <type>;
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `index`
 
-    >  (`series` `int`)
-    
-    >  the index of the element whose value is to be returned.
+  > (`series` `int`)
+
+  > the index of the element whose value is to be returned.
 
 ### Example
-
 
 ```s
 
@@ -3035,10 +2988,10 @@ the array element's value.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.includes
 
@@ -3052,18 +3005,17 @@ array.includes(id, value) → series bool
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  the value to search in the array.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > the value to search in the array.
 
 ### Example
-
 
 ```s
 
@@ -3084,11 +3036,11 @@ true if the value was found in the array, false otherwise.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.indexof](#fun_array.indexof)
-* [array.shift](#fun_array.shift)
-* [array.remove](#fun_array.remove)
-* [array.insert](#fun_array.insert)
+- [array.new_float](#fun_array.new_float)
+- [array.indexof](#fun_array.indexof)
+- [array.shift](#fun_array.shift)
+- [array.remove](#fun_array.remove)
+- [array.insert](#fun_array.insert)
 
 ## array.indexof
 
@@ -3102,18 +3054,17 @@ array.indexof(id, value) → series int
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  the value to search in the array.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > the value to search in the array.
 
 ### Example
-
 
 ```s
 
@@ -3132,11 +3083,11 @@ the index of an element.
 
 ### See also
 
-* [array.lastindexof](#fun_array.lastindexof)
-* [array.get](#fun_array.get)
-* [array.lastindexof](#fun_array.lastindexof)
-* [array.remove](#fun_array.remove)
-* [array.insert](#fun_array.insert)
+- [array.lastindexof](#fun_array.lastindexof)
+- [array.get](#fun_array.get)
+- [array.lastindexof](#fun_array.lastindexof)
+- [array.remove](#fun_array.remove)
+- [array.insert](#fun_array.insert)
 
 ## array.insert
 
@@ -3150,24 +3101,23 @@ array.insert(id, index, value) - void
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `index`
 
-    >  (`series` `int`)
-    
-    >  the index at which to insert the value.
+  > (`series` `int`)
+
+  > the index at which to insert the value.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  the value to add to the array.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > the value to add to the array.
 
 ### Example
-
 
 ```s
 
@@ -3182,12 +3132,12 @@ plot(array.get(a, 5))
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.push](#fun_array.push)
-* [array.remove](#fun_array.remove)
-* [array.pop](#fun_array.pop)
-* [array.unshift](#fun_array.unshift)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.push](#fun_array.push)
+- [array.remove](#fun_array.remove)
+- [array.pop](#fun_array.pop)
+- [array.unshift](#fun_array.unshift)
 
 ## array.join
 
@@ -3201,18 +3151,17 @@ array.join(id, separator) → series string
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `separator`
 
-    >  (`series` `string`)
-    
-    >  the string used to separate each array element.
+  > (`series` `string`)
+
+  > the string used to separate each array element.
 
 ### Example
-
 
 ```s
 
@@ -3226,12 +3175,12 @@ label.new(bar_index, close, array.join(a, ","))
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.insert](#fun_array.insert)
-* [array.remove](#fun_array.remove)
-* [array.pop](#fun_array.pop)
-* [array.unshift](#fun_array.unshift)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.insert](#fun_array.insert)
+- [array.remove](#fun_array.remove)
+- [array.pop](#fun_array.pop)
+- [array.unshift](#fun_array.unshift)
 
 ## array.last
 
@@ -3245,12 +3194,11 @@ array.last(id) → series <type>;
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -3264,8 +3212,8 @@ plot(array.last(arr))
 
 ### See also
 
-* [array.first](#fun_array.first)
-* [array.get](#fun_array.get)
+- [array.first](#fun_array.first)
+- [array.get](#fun_array.get)
 
 ## array.lastindexof
 
@@ -3279,18 +3227,17 @@ array.lastindexof(id, value) → series int
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  the value to search in the array.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > the value to search in the array.
 
 ### Example
-
 
 ```s
 
@@ -3309,11 +3256,11 @@ the index of an element.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.push](#fun_array.push)
-* [array.remove](#fun_array.remove)
-* [array.insert](#fun_array.insert)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.push](#fun_array.push)
+- [array.remove](#fun_array.remove)
+- [array.insert](#fun_array.insert)
 
 ## array.max
 
@@ -3323,21 +3270,17 @@ the function returns the greatest value, or the nth greatest value in a given ar
 
 ### syntax & Overloads
 
-> [array.max(id) → series float](#fun_array.max-0)
-> [array.max(id) → series int](#fun_array.max-1)
-> [array.max(id, nth) → series float](#fun_array.max-2)
-> [array.max(id, nth) → series int](#fun_array.max-3)
+> [array.max(id) → series float](#fun_array.max-0) > [array.max(id) → series int](#fun_array.max-1) > [array.max(id, nth) → series float](#fun_array.max-2) > [array.max(id, nth) → series int](#fun_array.max-3)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -3356,9 +3299,9 @@ the greatest or the nth greatest value in the array.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.min](#fun_array.min)
-* [array.sum](#fun_array.sum)
+- [array.new_float](#fun_array.new_float)
+- [array.min](#fun_array.min)
+- [array.sum](#fun_array.sum)
 
 ## array.median
 
@@ -3368,19 +3311,17 @@ the function returns the median of an array's elements.
 
 ### syntax & Overloads
 
-> [array.median(id) → series float](#fun_array.median-0)
-> [array.median(id) → series int](#fun_array.median-1)
+> [array.median(id) → series float](#fun_array.median-0) > [array.median(id) → series int](#fun_array.median-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -3400,10 +3341,10 @@ the median of the array's elements.
 
 ### See also
 
-* [array.median](#fun_array.median)
-* [array.avg](#fun_array.avg)
-* [array.variance](#fun_array.variance)
-* [array.min](#fun_array.min)
+- [array.median](#fun_array.median)
+- [array.avg](#fun_array.avg)
+- [array.variance](#fun_array.variance)
+- [array.min](#fun_array.min)
 
 ## array.min
 
@@ -3413,21 +3354,17 @@ the function returns the smallest value, or the nth smallest value in a given ar
 
 ### syntax & Overloads
 
-> [array.min(id) → series float](#fun_array.min-0)
-> [array.min(id) → series int](#fun_array.min-1)
-> [array.min(id, nth) → series float](#fun_array.min-2)
-> [array.min(id, nth) → series int](#fun_array.min-3)
+> [array.min(id) → series float](#fun_array.min-0) > [array.min(id) → series int](#fun_array.min-1) > [array.min(id, nth) → series float](#fun_array.min-2) > [array.min(id, nth) → series int](#fun_array.min-3)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -3446,9 +3383,9 @@ the smallest or the nth smallest value in the array.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.max](#fun_array.max)
-* [array.sum](#fun_array.sum)
+- [array.new_float](#fun_array.new_float)
+- [array.max](#fun_array.max)
+- [array.sum](#fun_array.sum)
 
 ## array.mode
 
@@ -3458,19 +3395,17 @@ the function returns the mode of an array's elements. if there are several value
 
 ### syntax & Overloads
 
-> [array.mode(id) → series float](#fun_array.mode-0)
-> [array.mode(id) → series int](#fun_array.mode-1)
+> [array.mode(id) → series float](#fun_array.mode-0) > [array.mode(id) → series int](#fun_array.mode-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -3490,12 +3425,12 @@ the most frequently occurring value from the \`id\` array. if none exists, retur
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [ta.mode](#fun_ta.mode)
-* [matrix.mode](#fun_matrix.mode)
-* [array.avg](#fun_array.avg)
-* [array.variance](#fun_array.variance)
-* [array.min](#fun_array.min)
+- [array.new_float](#fun_array.new_float)
+- [ta.mode](#fun_ta.mode)
+- [matrix.mode](#fun_matrix.mode)
+- [array.avg](#fun_array.avg)
+- [array.variance](#fun_array.variance)
+- [array.min](#fun_array.min)
 
 ## array.new_bool
 
@@ -3503,24 +3438,23 @@ the function creates a new array object of bool type elements.
 
 ### Syntax
 
-array.new\_bool(size, initial\_value) - bool\[\]
+array.new_bool(size, initial_value) - bool\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `bool`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `bool`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3535,7 +3469,7 @@ plot(array.get(a, 0) ? close : open)
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3543,10 +3477,10 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.new_box
 
@@ -3554,24 +3488,23 @@ the function creates a new array object of box type elements.
 
 ### Syntax
 
-array.new\_box(size, initial\_value) - box\[\]
+array.new_box(size, initial_value) - box\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `box`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `box`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3586,7 +3519,7 @@ plot(1)
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3594,9 +3527,9 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
 
 ## array.new_color
 
@@ -3604,24 +3537,23 @@ the function creates a new array object of color type elements.
 
 ### Syntax
 
-array.new\_color(size, initial\_value) - color\[\]
+array.new_color(size, initial_value) - color\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `color`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `color`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3636,7 +3568,7 @@ plot(close, color = array.get(a, 0))
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3644,10 +3576,10 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.new_float
 
@@ -3655,24 +3587,23 @@ the function creates a new array object of float type elements.
 
 ### Syntax
 
-array.new\_float(size, initial\_value) - float\[\]
+array.new_float(size, initial_value) - float\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `int`/`float`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `int`/`float`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3687,7 +3618,7 @@ plot(array.sum(a) / length)
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3695,11 +3626,11 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_color](#fun_array.new_color)
-* [array.new_bool](#fun_array.new_bool)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_color](#fun_array.new_color)
+- [array.new_bool](#fun_array.new_bool)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.new_int
 
@@ -3707,24 +3638,23 @@ the function creates a new array object of int type elements.
 
 ### Syntax
 
-array.new\_int(size, initial\_value) - int\[\]
+array.new_int(size, initial_value) - int\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `int`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `int`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3739,7 +3669,7 @@ plot(array.sum(a) / length)
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3747,10 +3677,10 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.new_label
 
@@ -3758,24 +3688,23 @@ the function creates a new array object of label type elements.
 
 ### Syntax
 
-array.new\_label(size, initial\_value) - label\[\]
+array.new_label(size, initial_value) - label\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `label`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `label`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3796,7 +3725,7 @@ if close > close[1] and close[1] > close[2]
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3804,9 +3733,9 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
 
 ## array.new_line
 
@@ -3814,24 +3743,23 @@ the function creates a new array object of line type elements.
 
 ### Syntax
 
-array.new\_line(size, initial\_value) - line\[\]
+array.new_line(size, initial_value) - line\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `line`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `line`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3849,7 +3777,7 @@ if array.size(a) > 15
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3857,9 +3785,9 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
 
 ## array.new_linefill
 
@@ -3867,25 +3795,25 @@ the function creates a new array object of linefill type elements.
 
 ### Syntax
 
-array.new\_linefill(size, initial\_value) - linefill\[\]
+array.new_linefill(size, initial_value) - linefill\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array.
+  > (`series` `int`)
+
+  > initial size of an array.
 
 - `initial_value`
 
-    >  (`series` `linefill`)
-    
-    >  initial value of all array elements.
+  > (`series` `linefill`)
+
+  > initial value of all array elements.
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3897,24 +3825,23 @@ the function creates a new array object of string type elements.
 
 ### Syntax
 
-array.new\_string(size, initial\_value) - string\[\]
+array.new_string(size, initial_value) - string\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `string`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `string`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3929,7 +3856,7 @@ label.new(bar_index, close, array.get(a, 0))
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3937,9 +3864,9 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
 
 ## array.new_table
 
@@ -3947,24 +3874,23 @@ the function creates a new array object of table type elements.
 
 ### Syntax
 
-array.new\_table(size, initial\_value) - table\[\]
+array.new_table(size, initial_value) - table\[\]
 
 ### Arguments
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial_value`
 
-    >  (`series` `table`)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (`series` `table`)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -3979,7 +3905,7 @@ plot(1)
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -3987,9 +3913,9 @@ an array index starts from 0.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
 
 ## array.new<type>;
 
@@ -4003,18 +3929,17 @@ array.new<type>;(size, initial_value) - array<type>;
 
 - `size`
 
-    >  (`series` `int`)
-    
-    >  initial size of an array. optional. the default is 0.
+  > (`series` `int`)
+
+  > initial size of an array. optional. the default is 0.
 
 - `initial\_value`
 
-    >  (<`array`\`_type`>;)
-    
-    >  initial value of all array elements. optional. the default is 'na'.
+  > (<`array`\`\_type`>;)
+
+  > initial value of all array elements. optional. the default is 'na'.
 
 ### Example
-
 
 ```s
 
@@ -4028,7 +3953,6 @@ label.new(bar_index, close, array.get(a, 0))
 ```
 
 ### Example
-
 
 ```s
 
@@ -4044,7 +3968,6 @@ plot(close, color = array.get(a, close > open ? 1 : 0))
 ```
 
 ### Example
-
 
 ```s
 
@@ -4063,7 +3986,6 @@ plot(array.sum(a) / length, "sMa")
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -4080,7 +4002,7 @@ if array.size(a) > 15
 
 ### Returns
 
-the iD of an array object which may be used in other array.*() functions.
+the iD of an array object which may be used in other array.\*() functions.
 
 ### Remarks
 
@@ -4090,15 +4012,15 @@ if you want to initialize an array and specify all its elements at the same time
 
 ### See also
 
-* [array.from](#fun_array.from)
-* [array.push](#fun_array.push)
-* [array.get](#fun_array.get)
-* [array.size](#fun_array.size)
-* [array.remove](#fun_array.remove)
-* [array.shift](#fun_array.shift)
-* [array.sum](#fun_array.sum)
+- [array.from](#fun_array.from)
+- [array.push](#fun_array.push)
+- [array.get](#fun_array.get)
+- [array.size](#fun_array.size)
+- [array.remove](#fun_array.remove)
+- [array.shift](#fun_array.shift)
+- [array.sum](#fun_array.sum)
 
-## array.percentile\_linear\_interpolation
+## array.percentile_linear_interpolation
 
 +1 overload
 
@@ -4106,22 +4028,21 @@ Returns the value for which the specified percentage of array values (percentile
 
 ### syntax & Overloads
 
-> [array.percentile\_linear\_interpolation(id, percentage) → series float](#fun_array.percentile_linear_interpolation-0)
-> [array.percentile\_linear\_interpolation(id, percentage) → series int](#fun_array.percentile_linear_interpolation-1)
+> [array.percentile_linear_interpolation(id, percentage) → series float](#fun_array.percentile_linear_interpolation-0) > [array.percentile_linear_interpolation(id, percentage) → series int](#fun_array.percentile_linear_interpolation-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `percentage`
 
-    >  (`series` `int`/`float`)
-    
-    >  the percentage of values that must be equal or less than the returned value.
+  > (`series` `int`/`float`)
+
+  > the percentage of values that must be equal or less than the returned value.
 
 ### Remarks
 
@@ -4129,14 +4050,14 @@ in statistics, the percentile is the percent of ranking items that appear at or 
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
-## array.percentile\_nearest\_rank
+## array.percentile_nearest_rank
 
 +1 overload
 
@@ -4144,22 +4065,21 @@ Returns the value for which the specified percentage of array values (percentile
 
 ### syntax & Overloads
 
-> [array.percentile\_nearest\_rank(id, percentage) → series float](#fun_array.percentile_nearest_rank-0)
-> [array.percentile\_nearest\_rank(id, percentage) → series int](#fun_array.percentile_nearest_rank-1)
+> [array.percentile_nearest_rank(id, percentage) → series float](#fun_array.percentile_nearest_rank-0) > [array.percentile_nearest_rank(id, percentage) → series int](#fun_array.percentile_nearest_rank-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `percentage`
 
-    >  (`series` `int`/`float`)
-    
-    >  the percentage of values that must be equal or less than the returned value.
+  > (`series` `int`/`float`)
+
+  > the percentage of values that must be equal or less than the returned value.
 
 ### Remarks
 
@@ -4167,12 +4087,12 @@ in statistics, the percentile is the percent of ranking items that appear at or 
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
 ## array.percentrank
 
@@ -4182,22 +4102,21 @@ Returns the percentile rank of the element at the specified \`index\`.
 
 ### syntax & Overloads
 
-> [array.percentrank(id, index) → series float](#fun_array.percentrank-0)
-> [array.percentrank(id, index) → series int](#fun_array.percentrank-1)
+> [array.percentrank(id, index) → series float](#fun_array.percentrank-0) > [array.percentrank(id, index) → series int](#fun_array.percentrank-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `index`
 
-    >  (`series` `int`)
-    
-    >  the index of the element for which the percentile rank should be calculated.
+  > (`series` `int`)
+
+  > the index of the element for which the percentile rank should be calculated.
 
 ### Remarks
 
@@ -4205,12 +4124,12 @@ percentile rank is the percentage of how many elements in the array are less tha
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
 ## array.pop
 
@@ -4224,12 +4143,11 @@ array.pop(id) → series <type>;
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -4249,12 +4167,12 @@ the value of the removed element.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.push](#fun_array.push)
-* [array.remove](#fun_array.remove)
-* [array.insert](#fun_array.insert)
-* [array.shift](#fun_array.shift)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.push](#fun_array.push)
+- [array.remove](#fun_array.remove)
+- [array.insert](#fun_array.insert)
+- [array.shift](#fun_array.shift)
 
 ## array.push
 
@@ -4268,18 +4186,17 @@ array.push(id, value) - void
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  the value of the element added to the end of the array.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > the value of the element added to the end of the array.
 
 ### Example
-
 
 ```s
 
@@ -4294,12 +4211,12 @@ plot(array.get(a, 5))
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.insert](#fun_array.insert)
-* [array.remove](#fun_array.remove)
-* [array.pop](#fun_array.pop)
-* [array.unshift](#fun_array.unshift)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.insert](#fun_array.insert)
+- [array.remove](#fun_array.remove)
+- [array.pop](#fun_array.pop)
+- [array.unshift](#fun_array.unshift)
 
 ## array.range
 
@@ -4309,19 +4226,17 @@ the function returns the difference between the min and max values from a given 
 
 ### syntax & Overloads
 
-> [array.range(id) → series float](#fun_array.range-0)
-> [array.range(id) → series int](#fun_array.range-1)
+> [array.range(id) → series float](#fun_array.range-0) > [array.range(id) → series int](#fun_array.range-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -4341,10 +4256,10 @@ the difference between the min and max values in the array.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.min](#fun_array.min)
-* [array.max](#fun_array.max)
-* [array.sum](#fun_array.sum)
+- [array.new_float](#fun_array.new_float)
+- [array.min](#fun_array.min)
+- [array.max](#fun_array.max)
+- [array.sum](#fun_array.sum)
 
 ## array.remove
 
@@ -4358,18 +4273,17 @@ array.remove(id, index) → series <type>;
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `index`
 
-    >  (`series` `int`)
-    
-    >  the index of the element to remove.
+  > (`series` `int`)
+
+  > the index of the element to remove.
 
 ### Example
-
 
 ```s
 
@@ -4389,12 +4303,12 @@ the value of the removed element.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.set](#fun_array.set)
-* [array.push](#fun_array.push)
-* [array.insert](#fun_array.insert)
-* [array.pop](#fun_array.pop)
-* [array.shift](#fun_array.shift)
+- [array.new_float](#fun_array.new_float)
+- [array.set](#fun_array.set)
+- [array.push](#fun_array.push)
+- [array.insert](#fun_array.insert)
+- [array.pop](#fun_array.pop)
+- [array.shift](#fun_array.shift)
 
 ## array.reverse
 
@@ -4408,12 +4322,11 @@ array.reverse(id) - void
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -4431,11 +4344,11 @@ plot(array.get(a, 0))
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.sort](#fun_array.sort)
-* [array.push](#fun_array.push)
-* [array.set](#fun_array.set)
-* [array.avg](#fun_array.avg)
+- [array.new_float](#fun_array.new_float)
+- [array.sort](#fun_array.sort)
+- [array.push](#fun_array.push)
+- [array.set](#fun_array.set)
+- [array.avg](#fun_array.avg)
 
 ## array.set
 
@@ -4449,24 +4362,23 @@ array.set(id, index, value) - void
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `index`
 
-    >  (`series` `int`)
-    
-    >  the index of the element to be modified.
+  > (`series` `int`)
+
+  > the index of the element to be modified.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  the new value to be set.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > the new value to be set.
 
 ### Example
-
 
 ```s
 
@@ -4482,9 +4394,9 @@ plot(array.sum(a) / 10)
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
 
 ## array.shift
 
@@ -4498,12 +4410,11 @@ array.shift(id) → series <type>;
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -4523,11 +4434,11 @@ the value of the removed element.
 
 ### See also
 
-* [array.unshift](#fun_array.unshift)
-* [array.set](#fun_array.set)
-* [array.push](#fun_array.push)
-* [array.remove](#fun_array.remove)
-* [array.includes](#fun_array.includes)
+- [array.unshift](#fun_array.unshift)
+- [array.set](#fun_array.set)
+- [array.push](#fun_array.push)
+- [array.remove](#fun_array.remove)
+- [array.includes](#fun_array.includes)
 
 ## array.size
 
@@ -4541,12 +4452,11 @@ array.size(id) → series int
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -4571,10 +4481,10 @@ the number of elements in the array.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.sum](#fun_array.sum)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.sum](#fun_array.sum)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.slice
 
@@ -4582,30 +4492,29 @@ the function creates a slice from an existing array. if an object from the slice
 
 ### Syntax
 
-array.slice(id, index\_from, index\_to) - array<type>;
+array.slice(id, index_from, index_to) - array<type>;
 
 ### Arguments
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `index_from`
 
-    >  (`series` `int`)
-    
-    >  Zero-based index at which to begin extraction.
+  > (`series` `int`)
+
+  > Zero-based index at which to begin extraction.
 
 - `index_to`
 
-    >  (`series` `int`)
-    
-    >  Zero-based index before which to end extraction. the function extracts up to but not including the element with this index.
+  > (`series` `int`)
+
+  > Zero-based index before which to end extraction. the function extracts up to but not including the element with this index.
 
 ### Example
-
 
 ```s
 
@@ -4629,10 +4538,10 @@ a shallow copy of an array's slice.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.get](#fun_array.get)
-* [array.slice](#fun_array.slice)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.get](#fun_array.get)
+- [array.slice](#fun_array.slice)
+- [array.sort](#fun_array.sort)
 
 ## array.some
 
@@ -4646,9 +4555,9 @@ array.some(id) → series bool
 
 - `id`
 
-    >  (`bool`\[\])
-    
-    >  an array object.
+  > (`bool`\[\])
+
+  > an array object.
 
 ### Remarks
 
@@ -4656,8 +4565,8 @@ this function also works with arrays of [int](#op_int) and [float](#op_float) ty
 
 ### See also
 
-* [array.every](#fun_array.every)
-* [array.get](#fun_array.get)
+- [array.every](#fun_array.every)
+- [array.get](#fun_array.get)
 
 ## array.sort
 
@@ -4671,18 +4580,17 @@ array.sort(id, order) - void
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `order`
 
-    >  (`simple` `sort_order`)
-    
-    >  the sort order: order.ascending (default) or order.descending.
+  > (`simple` `sort_order`)
+
+  > the sort order: order.ascending (default) or order.descending.
 
 ### Example
-
 
 ```s
 
@@ -4700,12 +4608,12 @@ if barstate.islast
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
 ## array.sort_indices
 
@@ -4719,18 +4627,17 @@ array.sort_indices(id, order) - int\[\]
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `order`
 
-    >  (`series` `sort_order`)
-    
-    >  the sort order: order.ascending or order.descending. optional. the default is order.ascending.
+  > (`series` `sort_order`)
+
+  > the sort order: order.ascending or order.descending. optional. the default is order.ascending.
 
 ### Example
-
 
 ```s
 
@@ -4747,12 +4654,12 @@ plot(smallestValue)
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.insert](#fun_array.insert)
-* [array.slice](#fun_array.slice)
-* [array.reverse](#fun_array.reverse)
-* [order.ascending](#var_order.ascending)
-* [order.descending](#var_order.descending)
+- [array.new_float](#fun_array.new_float)
+- [array.insert](#fun_array.insert)
+- [array.slice](#fun_array.slice)
+- [array.reverse](#fun_array.reverse)
+- [order.ascending](#var_order.ascending)
+- [order.descending](#var_order.descending)
 
 ## array.standardize
 
@@ -4762,19 +4669,17 @@ the function returns the array of standardized elements.
 
 ### syntax & Overloads
 
-> [array.standardize(id) - float\[\]](#fun_array.standardize-0)
-> [array.standardize(id) - int\[\]](#fun_array.standardize-1)
+> [array.standardize(id) - float\[\]](#fun_array.standardize-0) > [array.standardize(id) - int\[\]](#fun_array.standardize-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -4796,12 +4701,12 @@ the array of standardized elements.
 
 ### See also
 
-* [array.max](#fun_array.max)
-* [array.min](#fun_array.min)
-* [array.mode](#fun_array.mode)
-* [array.avg](#fun_array.avg)
-* [array.variance](#fun_array.variance)
-* [array.stdev](#fun_array.stdev)
+- [array.max](#fun_array.max)
+- [array.min](#fun_array.min)
+- [array.mode](#fun_array.mode)
+- [array.avg](#fun_array.avg)
+- [array.variance](#fun_array.variance)
+- [array.stdev](#fun_array.stdev)
 
 ## array.stdev
 
@@ -4811,25 +4716,23 @@ the function returns the standard deviation of an array's elements.
 
 ### syntax & Overloads
 
-> [array.stdev(id, biased) → series float](#fun_array.stdev-0)
-> [array.stdev(id, biased) → series int](#fun_array.stdev-1)
+> [array.stdev(id, biased) → series float](#fun_array.stdev-0) > [array.stdev(id, biased) → series int](#fun_array.stdev-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `biased`
 
-    >  (`series` `bool`)
-    
-    >  Determines which estimate should be used. optional. the default is true.
+  > (`series` `bool`)
+
+  > Determines which estimate should be used. optional. the default is true.
 
 ### Example
-
 
 ```s
 
@@ -4853,10 +4756,10 @@ if \`biased\` is true, function will calculate using a biased estimate of the en
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.max](#fun_array.max)
-* [array.min](#fun_array.min)
-* [array.avg](#fun_array.avg)
+- [array.new_float](#fun_array.new_float)
+- [array.max](#fun_array.max)
+- [array.min](#fun_array.min)
+- [array.avg](#fun_array.avg)
 
 ## array.sum
 
@@ -4866,19 +4769,17 @@ the function returns the sum of an array's elements.
 
 ### syntax & Overloads
 
-> [array.sum(id) → series float](#fun_array.sum-0)
-> [array.sum(id) → series int](#fun_array.sum-1)
+> [array.sum(id) → series float](#fun_array.sum-0) > [array.sum(id) → series int](#fun_array.sum-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 ### Example
-
 
 ```s
 
@@ -4898,9 +4799,9 @@ the sum of the array's elements.
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.max](#fun_array.max)
-* [array.min](#fun_array.min)
+- [array.new_float](#fun_array.new_float)
+- [array.max](#fun_array.max)
+- [array.min](#fun_array.min)
 
 ## array.unshift
 
@@ -4914,18 +4815,17 @@ array.unshift(id, value) - void
 
 - `id`
 
-    >  (`any` `array` `type`)
-    
-    >  an array object.
+  > (`any` `array` `type`)
+
+  > an array object.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `array's` `elements`>;)
-    
-    >  the value to add to the start of the array.
+  > (`series` <`type` `of` `the` `array's` `elements`>;)
+
+  > the value to add to the start of the array.
 
 ### Example
-
 
 ```s
 
@@ -4940,11 +4840,11 @@ plot(array.get(a, 0))
 
 ### See also
 
-* [array.shift](#fun_array.shift)
-* [array.set](#fun_array.set)
-* [array.insert](#fun_array.insert)
-* [array.remove](#fun_array.remove)
-* [array.indexof](#fun_array.indexof)
+- [array.shift](#fun_array.shift)
+- [array.set](#fun_array.set)
+- [array.insert](#fun_array.insert)
+- [array.remove](#fun_array.remove)
+- [array.indexof](#fun_array.indexof)
 
 ## array.variance
 
@@ -4954,25 +4854,23 @@ the function returns the variance of an array's elements.
 
 ### syntax & Overloads
 
-> [array.variance(id, biased) → series float](#fun_array.variance-0)
-> [array.variance(id, biased) → series int](#fun_array.variance-1)
+> [array.variance(id, biased) → series float](#fun_array.variance-0) > [array.variance(id, biased) → series int](#fun_array.variance-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`float`\[\])
-    
-    >  an array object.
+  > (`float`\[\])
+
+  > an array object.
 
 - `biased`
 
-    >  (`series` `bool`)
-    
-    >  Determines which estimate should be used. optional. the default is true.
+  > (`series` `bool`)
+
+  > Determines which estimate should be used. optional. the default is true.
 
 ### Example
-
 
 ```s
 
@@ -4996,11 +4894,11 @@ if \`biased\` is true, function will calculate using a biased estimate of the en
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.stdev](#fun_array.stdev)
-* [array.min](#fun_array.min)
-* [array.avg](#fun_array.avg)
-* [array.covariance](#fun_array.covariance)
+- [array.new_float](#fun_array.new_float)
+- [array.stdev](#fun_array.stdev)
+- [array.min](#fun_array.min)
+- [array.avg](#fun_array.avg)
+- [array.covariance](#fun_array.covariance)
 
 ## barcolor
 
@@ -5014,42 +4912,41 @@ barcolor(color, offset, editable, show_last, title, display) - void
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of bars. You can use constants like 'red' or '#ff001a' as well as complex expressions like 'close >= open ? color.green : color.red'. Required argument.
+  > (`series` `color`)
+
+  > color of bars. You can use constants like 'red' or '#ff001a' as well as complex expressions like 'close >= open ? color.green : color.red'. Required argument.
 
 - `offset`
 
-    >  (`series` `int`)
-    
-    >  shifts the color series to the left or to the right on the given number of bars. Default is 0.
+  > (`series` `int`)
+
+  > shifts the color series to the left or to the right on the given number of bars. Default is 0.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then barcolor style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then barcolor style will be editable in format dialog. Default is true.
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of bars (from the last bar back to the past) to fill on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of bars (from the last bar back to the past) to fill on chart.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the barcolor. optional argument.
+  > (`const` `string`)
+
+  > title of the barcolor. optional argument.
 
 - `display`
 
-    >  (`input` `plot`\`_simple`\`_display`)
-    
-    >  Controls where the barcolor is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
+  > (`input` `plot`\`\_simple`\`\_display`)
+
+  > Controls where the barcolor is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -5062,9 +4959,9 @@ barcolor(close < open ? color.black : color.white)
 
 ### See also
 
-* [bgcolor](#fun_bgcolor)
-* [plot](#fun_plot)
-* [fill](#fun_fill)
+- [bgcolor](#fun_bgcolor)
+- [plot](#fun_plot)
+- [fill](#fun_fill)
 
 ## bgcolor
 
@@ -5078,42 +4975,41 @@ bgcolor(color, offset, editable, show_last, title, display) - void
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the filled background. You can use constants like 'red' or '#ff001a' as well as complex expressions like 'close >= open ? color.green : color.red'. Required argument.
+  > (`series` `color`)
+
+  > color of the filled background. You can use constants like 'red' or '#ff001a' as well as complex expressions like 'close >= open ? color.green : color.red'. Required argument.
 
 - `offset`
 
-    >  (`series` `int`)
-    
-    >  shifts the color series to the left or to the right on the given number of bars. Default is 0.
+  > (`series` `int`)
+
+  > shifts the color series to the left or to the right on the given number of bars. Default is 0.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then bgcolor style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then bgcolor style will be editable in format dialog. Default is true.
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of bars (from the last bar back to the past) to fill on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of bars (from the last bar back to the past) to fill on chart.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the bgcolor. optional argument.
+  > (`const` `string`)
+
+  > title of the bgcolor. optional argument.
 
 - `display`
 
-    >  (`input` `plot`\`_simple`\`_display`)
-    
-    >  Controls where the bgcolor is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
+  > (`input` `plot`\`\_simple`\`\_display`)
+
+  > Controls where the bgcolor is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -5126,9 +5022,9 @@ bgcolor(close < open ? color.new(color.red,70) : color.new(color.green, 70))
 
 ### See also
 
-* [barcolor](#fun_barcolor)
-* [plot](#fun_plot)
-* [fill](#fun_fill)
+- [barcolor](#fun_barcolor)
+- [plot](#fun_plot)
+- [fill](#fun_fill)
 
 ## bool
 
@@ -5138,18 +5034,15 @@ Casts na to bool
 
 ### syntax & Overloads
 
-> [bool(x) → const bool](#fun_bool-0)
-> [bool(x) → input bool](#fun_bool-1)
-> [bool(x) → simple bool](#fun_bool-2)
-> [bool(x) → series bool](#fun_bool-3)
+> [bool(x) → const bool](#fun_bool-0) > [bool(x) → input bool](#fun_bool-1) > [bool(x) → simple bool](#fun_bool-2) > [bool(x) → series bool](#fun_bool-3)
 
 ### Arguments
 
 - `x`
 
-    >  (`const` `bool`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`const` `bool`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -5157,12 +5050,12 @@ the value of the argument after casting to bool.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [color](#fun_color)
-* [string](#fun_string)
-* [line](#fun_line)
-* [label](#fun_label)
+- [float](#fun_float)
+- [int](#fun_int)
+- [color](#fun_color)
+- [string](#fun_string)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## box
 
@@ -5176,9 +5069,9 @@ box(x) → series box
 
 - `x`
 
-    >  (`series` `box`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`series` `box`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -5186,13 +5079,13 @@ the value of the argument after casting to box.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [string](#fun_string)
-* [line](#fun_line)
-* [label](#fun_label)
+- [float](#fun_float)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [string](#fun_string)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## `box.copy`
 
@@ -5206,12 +5099,11 @@ Clones the box object.
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  box object.
+  > (`series` `box`)
+
+  > box object.
 
 ### Example
-
 
 ```s
 
@@ -5234,6 +5126,7 @@ box.new
 box.delete
 
 ## box.delete
+
 deletes the specified box object. if it has already been deleted, does nothing.
 
 ### Syntax
@@ -5244,14 +5137,16 @@ box.delete(id) → void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object to delete.
+  > (`series` `box`)
+
+  > a box object to delete.
 
 ### See also
 
 box.new
+
 ## box.get_bottom
+
 Returns the price value of the bottom border of the box.
 
 ### Syntax
@@ -5262,9 +5157,9 @@ box.get_bottom(id) → series float
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 ### Returns
 
@@ -5275,8 +5170,8 @@ the price value.
 box.new
 box.set_bottom
 
-
 ## box.get_left
+
 Returns the bar index or the unix time (depending on the last value used for 'xloc') of the left border of the box.
 
 ### Syntax
@@ -5287,9 +5182,9 @@ box.get_left(id) → series int
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 ### Returns
 
@@ -5300,8 +5195,8 @@ a bar index or a unix timestamp (in milliseconds).
 box.new
 box.set_left
 
-
 ## box.get_right
+
 Returns the bar index or the unix time (depending on the last value used for 'xloc') of the right border of the box.
 
 ### Syntax
@@ -5312,9 +5207,9 @@ box.get_right(id) → series int
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 ### Returns
 
@@ -5325,8 +5220,8 @@ a bar index or a unix timestamp (in milliseconds).
 box.new
 box.set_right
 
-
 ## box.get_top
+
 Returns the price value of the top border of the box.
 
 ### Syntax
@@ -5337,9 +5232,9 @@ box.get_top(id) → series float
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 ### Returns
 
@@ -5350,8 +5245,8 @@ the price value.
 box.new
 box.set_top
 
-
 ## box.new
+
 +1 overload
 Creates a new box object.
 
@@ -5364,80 +5259,93 @@ box.new(left, top, right, bottom, border_color, border_width, border_style, exte
 
 - `top_left`
 
-    >  (`chart.point`)
-    
-    >  a chart.point object that specifies the top-left corner location of the box.
+  > (`chart.point`)
+
+  > a chart.point object that specifies the top-left corner location of the box.
+
 - `bottom_right`
 
-    >  (`chart.point`)
-    
-    >  a chart.point object that specifies the bottom-right corner location of the box.
+  > (`chart.point`)
+
+  > a chart.point object that specifies the bottom-right corner location of the box.
+
 - `border_color`
 
-    >  (`series` `color`)
-    
-    >  color of the four borders. optional. the default is color.blue.
+  > (`series` `color`)
+
+  > color of the four borders. optional. the default is color.blue.
+
 - `border_width`
 
-    >  (`series` `int`)
-    
-    >  Width of the four borders, in pixels. optional. the default is 1 pixel.
+  > (`series` `int`)
+
+  > Width of the four borders, in pixels. optional. the default is 1 pixel.
+
 - `border_style`
 
-    >  (`series` `string`)
-    
-    >  style of the four borders. possible values: line.style_solid, line.style_dotted, line.style_dashed. optional. the default value is line.style_solid.
+  > (`series` `string`)
+
+  > style of the four borders. possible values: line.style_solid, line.style_dotted, line.style_dashed. optional. the default value is line.style_solid.
+
 - `extend`
 
-    >  (`series` `string`)
-    
-    >  When extend.none is used, the horizontal borders start at the left border and end at the right border. With extend.left or extend.right, the horizontal borders are extended indefinitely to the left or right of the box, respectively. With extend.both, the horizontal borders are extended on both sides. optional. the default value is extend.none.
+  > (`series` `string`)
+
+  > When extend.none is used, the horizontal borders start at the left border and end at the right border. With extend.left or extend.right, the horizontal borders are extended indefinitely to the left or right of the box, respectively. With extend.both, the horizontal borders are extended on both sides. optional. the default value is extend.none.
+
 - `xloc`
 
-    >  (`series` `string`)
-    
-    >  Determines whether the arguments to 'left' and 'right' are a bar index or a time value. if xloc = xloc.bar_index, the arguments must be a bar index. if xloc = xloc.bar_time, the arguments must be a unix time. possible values: xloc.bar_index and xloc.bar_time. optional. the default is xloc.bar_index.
+  > (`series` `string`)
+
+  > Determines whether the arguments to 'left' and 'right' are a bar index or a time value. if xloc = xloc.bar_index, the arguments must be a bar index. if xloc = xloc.bar_time, the arguments must be a unix time. possible values: xloc.bar_index and xloc.bar_time. optional. the default is xloc.bar_index.
+
 - `bgcolor`
 
-    >  (`series` `color`)
-    
-    >  background color of the box. optional. the default is color.blue.
+  > (`series` `color`)
+
+  > background color of the box. optional. the default is color.blue.
+
 - `text`
 
-    >  (`series` `string`)
-    
-    >  the text to be displayed inside the box. optional. the default is empty string.
+  > (`series` `string`)
+
+  > the text to be displayed inside the box. optional. the default is empty string.
+
 - `text_size`
 
-    >  (`series` `string`)
-    
-    >  the size of the text. an optional parameter, the default value is size.auto. possible values: size.auto, size.tiny, size.small, size.normal, size.large, size.huge.
+  > (`series` `string`)
+
+  > the size of the text. an optional parameter, the default value is size.auto. possible values: size.auto, size.tiny, size.small, size.normal, size.large, size.huge.
+
 - `text_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the text. optional. the default is color.black.
+  > (`series` `color`)
+
+  > the color of the text. optional. the default is color.black.
+
 - `text_halign`
 
-    >  (`series` `string`)
-    
-    >  the horizontal alignment of the box's text. optional. the default value is text.align_center. possible values: text.align_left, text.align_center, text.align_right.
+  > (`series` `string`)
+
+  > the horizontal alignment of the box's text. optional. the default value is text.align_center. possible values: text.align_left, text.align_center, text.align_right.
+
 - `text_valign`
 
-    >  (`series` `string`)
-    
-    >  the vertical alignment of the box's text. optional. the default value is text.align_center. possible values: text.align_top, text.align_center, text.align_bottom.
+  > (`series` `string`)
+
+  > the vertical alignment of the box's text. optional. the default value is text.align_center. possible values: text.align_top, text.align_center, text.align_bottom.
+
 - `text_wrap`
 
-    >  (`series` `string`)
-    
-    >  Defines whether the text is presented in a single line, extending past the width of the box if necessary, or wrapped so every line is no wider than the box itself (and clipped by the bottom border of the box if the height of the resulting wrapped text is higher than the height of the box). optional. the default value is text.wrap_none. possible values: text.wrap_none, text.wrap_auto.
+  > (`series` `string`)
+
+  > Defines whether the text is presented in a single line, extending past the width of the box if necessary, or wrapped so every line is no wider than the box itself (and clipped by the bottom border of the box if the height of the resulting wrapped text is higher than the height of the box). optional. the default value is text.wrap_none. possible values: text.wrap_none, text.wrap_auto.
+
 - `text_font_family`
 
-    >  (`series` `string`)
-    
-    >  the font family of the text. optional. the default value is font.family_default. possible values: font.family_default, font.family_monospace.
+  > (`series` `string`)
 
+  > the font family of the text. optional. the default value is font.family_default. possible values: font.family_default, font.family_monospace.
 
 ### Example
 
@@ -5454,26 +5362,26 @@ box.set_bgcolor(b, color.green)
 
 ### Returns
 
-the iD of a box object which may be used in box.set_*() and box.get_*() functions.
+the iD of a box object which may be used in box.set*\*() and box.get*\*() functions.
 
 ### See also
 
-* [box.delete](#fun_box.delete)
-* [box.get_left](#fun_box.get_left)
-* [box.get_top](#fun_box.get_top)
-* [box.get_right](#fun_box.get_right)
-* [box.get_bottom](#fun_box.get_bottom)
-* [box.set\_top\_left_point](#fun_box.set_top_left_point)
-* [box.set_left](#fun_box.set_left)
-* [box.set_top](#fun_box.set_top)
-* [box.set\_bottom\_right_point](#fun_box.set_bottom_right_point)
-* [box.set_right](#fun_box.set_right)
-* [box.set_bottom](#fun_box.set_bottom)
-* [box.set\_border\_color](#fun_box.set_border_color)
-* [box.set_bgcolor](#fun_box.set_bgcolor)
-* [box.set\_border\_width](#fun_box.set_border_width)
-* [box.set\_border\_style](#fun_box.set_border_style)
-* [box.set_extend](#fun_box.set_extend)
+- [box.delete](#fun_box.delete)
+- [box.get_left](#fun_box.get_left)
+- [box.get_top](#fun_box.get_top)
+- [box.get_right](#fun_box.get_right)
+- [box.get_bottom](#fun_box.get_bottom)
+- [box.set_top_left_point](#fun_box.set_top_left_point)
+- [box.set_left](#fun_box.set_left)
+- [box.set_top](#fun_box.set_top)
+- [box.set_bottom_right_point](#fun_box.set_bottom_right_point)
+- [box.set_right](#fun_box.set_right)
+- [box.set_bottom](#fun_box.set_bottom)
+- [box.set_border_color](#fun_box.set_border_color)
+- [box.set_bgcolor](#fun_box.set_bgcolor)
+- [box.set_border_width](#fun_box.set_border_width)
+- [box.set_border_style](#fun_box.set_border_style)
+- [box.set_extend](#fun_box.set_extend)
 
 ## box.set_bgcolor
 
@@ -5487,98 +5395,98 @@ box.set_bgcolor(id, color) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  New background color.
+  > (`series` `color`)
+
+  > New background color.
 
 ### See also
 
-* [box.new](#fun_box.new)
+- [box.new](#fun_box.new)
 
-## box.set\_border\_color
+## box.set_border_color
 
 sets the border color of the box.
 
 ### Syntax
 
-box.set\_border\_color(id, color) - void
+box.set_border_color(id, color) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  New border color.
+  > (`series` `color`)
+
+  > New border color.
 
 ### See also
 
-* [box.new](#fun_box.new)
+- [box.new](#fun_box.new)
 
-## box.set\_border\_style
+## box.set_border_style
 
 sets the border style of the box.
 
 ### Syntax
 
-box.set\_border\_style(id, style) - void
+box.set_border_style(id, style) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `style`
 
-    >  (`series` `string`)
-    
-    >  New border style.
+  > (`series` `string`)
+
+  > New border style.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [line.style_solid](#var_line.style_solid)
+- [box.new](#fun_box.new)
+- [line.style_solid](#var_line.style_solid)
 
-## box.set\_border\_width
+## box.set_border_width
 
 sets the border width of the box.
 
 ### Syntax
 
-box.set\_border\_width(id, width) - void
+box.set_border_width(id, width) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `width`
 
-    >  (`series` `int`)
-    
-    >  Width of the four borders, in pixels.
+  > (`series` `int`)
+
+  > Width of the four borders, in pixels.
 
 ### See also
 
-* [box.new](#fun_box.new)
+- [box.new](#fun_box.new)
 
 ## box.set_bottom
 
@@ -5592,42 +5500,42 @@ box.set_bottom(id, bottom) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `bottom`
 
-    >  (`series` `int`/`float`)
-    
-    >  price value of the bottom border.
+  > (`series` `int`/`float`)
+
+  > price value of the bottom border.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.get_bottom](#fun_box.get_bottom)
+- [box.new](#fun_box.new)
+- [box.get_bottom](#fun_box.get_bottom)
 
-## box.set\_bottom\_right_point
+## box.set_bottom_right_point
 
 sets the bottom-right corner location of the \`id\` box to \`point\`.
 
 ### Syntax
 
-box.set\_bottom\_right_point(id, point) - void
+box.set_bottom_right_point(id, point) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a [box](#op_box) object.
+  > (`series` `box`)
+
+  > a [box](#op_box) object.
 
 - `point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object.
 
 ## box.set_extend
 
@@ -5641,20 +5549,20 @@ box.set_extend(id, extend) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `extend`
 
-    >  (`series` `string`)
-    
-    >  New extending type.
+  > (`series` `string`)
+
+  > New extending type.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [extend.none](#var_extend.none)
+- [box.new](#fun_box.new)
+- [extend.none](#var_extend.none)
 
 ## box.set_left
 
@@ -5668,20 +5576,20 @@ box.set_left(id, left) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `left`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time of the left border. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
+  > (`series` `int`)
+
+  > bar index or bar time of the left border. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.get_left](#fun_box.get_left)
+- [box.new](#fun_box.new)
+- [box.get_left](#fun_box.get_left)
 
 ## box.set_lefttop
 
@@ -5695,27 +5603,27 @@ box.set_lefttop(id, left, top) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `left`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time of the left border.
+  > (`series` `int`)
+
+  > bar index or bar time of the left border.
 
 - `top`
 
-    >  (`series` `int`/`float`)
-    
-    >  price value of the top border.
+  > (`series` `int`/`float`)
+
+  > price value of the top border.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.get_left](#fun_box.get_left)
-* [box.get_top](#fun_box.get_top)
+- [box.new](#fun_box.new)
+- [box.get_left](#fun_box.get_left)
+- [box.get_top](#fun_box.get_top)
 
 ## box.set_right
 
@@ -5729,20 +5637,20 @@ box.set_right(id, right) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `right`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time of the right border. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
+  > (`series` `int`)
+
+  > bar index or bar time of the right border. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.get_right](#fun_box.get_right)
+- [box.new](#fun_box.new)
+- [box.get_right](#fun_box.get_right)
 
 ## box.set_rightbottom
 
@@ -5756,27 +5664,27 @@ box.set_rightbottom(id, right, bottom) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `right`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time of the right border.
+  > (`series` `int`)
+
+  > bar index or bar time of the right border.
 
 - `bottom`
 
-    >  (`series` `int`/`float`)
-    
-    >  price value of the bottom border.
+  > (`series` `int`/`float`)
+
+  > price value of the bottom border.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.get_right](#fun_box.get_right)
-* [box.get_bottom](#fun_box.get_bottom)
+- [box.new](#fun_box.new)
+- [box.get_right](#fun_box.get_right)
+- [box.get_bottom](#fun_box.get_bottom)
 
 ## box.set_text
 
@@ -5790,76 +5698,75 @@ box.set_text(id, text) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `text`
 
-    >  (`series` `string`)
-    
-    >  the text to be displayed inside the box.
+  > (`series` `string`)
+
+  > the text to be displayed inside the box.
 
 ### See also
 
-* [box.set\_text\_color](#fun_box.set_text_color)
-* [box.set\_text\_size](#fun_box.set_text_size)
-* [box.set\_text\_valign](#fun_box.set_text_valign)
-* [box.set\_text\_halign](#fun_box.set_text_halign)
+- [box.set_text_color](#fun_box.set_text_color)
+- [box.set_text_size](#fun_box.set_text_size)
+- [box.set_text_valign](#fun_box.set_text_valign)
+- [box.set_text_halign](#fun_box.set_text_halign)
 
-## box.set\_text\_color
+## box.set_text_color
 
 the function sets the color of the text inside the box.
 
 ### Syntax
 
-box.set\_text\_color(id, text_color) - void
+box.set_text_color(id, text_color) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `text_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the text.
+  > (`series` `color`)
+
+  > the color of the text.
 
 ### See also
 
-* [box.set_text](#fun_box.set_text)
-* [box.set\_text\_size](#fun_box.set_text_size)
-* [box.set\_text\_valign](#fun_box.set_text_valign)
-* [box.set\_text\_halign](#fun_box.set_text_halign)
+- [box.set_text](#fun_box.set_text)
+- [box.set_text_size](#fun_box.set_text_size)
+- [box.set_text_valign](#fun_box.set_text_valign)
+- [box.set_text_halign](#fun_box.set_text_halign)
 
-## box.set\_text\_font_family
+## box.set_text_font_family
 
 the function sets the font family of the text inside the box.
 
 ### Syntax
 
-box.set\_text\_font\_family(id, text\_font_family) - void
+box.set_text_font_family(id, text_font_family) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `text\_font\_family`
 
-    >  (`series` `string`)
-    
-    >  the font family of the text. possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
+  > (`series` `string`)
+
+  > the font family of the text. possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
 
 ### Example
-
 
 ```s
 
@@ -5874,126 +5781,126 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [font.family_default](#var_font.family_default)
-* [font.family_monospace](#var_font.family_monospace)
+- [box.new](#fun_box.new)
+- [font.family_default](#var_font.family_default)
+- [font.family_monospace](#var_font.family_monospace)
 
-## box.set\_text\_halign
+## box.set_text_halign
 
 the function sets the horizontal alignment of the box's text.
 
 ### Syntax
 
-box.set\_text\_halign(id, text_halign) - void
+box.set_text_halign(id, text_halign) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `text_halign`
 
-    >  (`series` `string`)
-    
-    >  the horizontal alignment of a box's text. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
+  > (`series` `string`)
+
+  > the horizontal alignment of a box's text. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
 
 ### See also
 
-* [box.set_text](#fun_box.set_text)
-* [box.set\_text\_size](#fun_box.set_text_size)
-* [box.set\_text\_valign](#fun_box.set_text_valign)
-* [box.set\_text\_color](#fun_box.set_text_color)
+- [box.set_text](#fun_box.set_text)
+- [box.set_text_size](#fun_box.set_text_size)
+- [box.set_text_valign](#fun_box.set_text_valign)
+- [box.set_text_color](#fun_box.set_text_color)
 
-## box.set\_text\_size
+## box.set_text_size
 
 the function sets the size of the box's text.
 
 ### Syntax
 
-box.set\_text\_size(id, text_size) - void
+box.set_text_size(id, text_size) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `text_size`
 
-    >  (`series` `string`)
-    
-    >  the size of the text. possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge).
+  > (`series` `string`)
+
+  > the size of the text. possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge).
 
 ### See also
 
-* [box.set_text](#fun_box.set_text)
-* [box.set\_text\_color](#fun_box.set_text_color)
-* [box.set\_text\_valign](#fun_box.set_text_valign)
-* [box.set\_text\_halign](#fun_box.set_text_halign)
+- [box.set_text](#fun_box.set_text)
+- [box.set_text_color](#fun_box.set_text_color)
+- [box.set_text_valign](#fun_box.set_text_valign)
+- [box.set_text_halign](#fun_box.set_text_halign)
 
-## box.set\_text\_valign
+## box.set_text_valign
 
 the function sets the vertical alignment of a box's text.
 
 ### Syntax
 
-box.set\_text\_valign(id, text_valign) - void
+box.set_text_valign(id, text_valign) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `text_valign`
 
-    >  (`series` `string`)
-    
-    >  the vertical alignment of the box's text. possible values: [text.align_top](#var_text.align_top), [text.align_center](#var_text.align_center), [text.align_bottom](#var_text.align_bottom).
+  > (`series` `string`)
+
+  > the vertical alignment of the box's text. possible values: [text.align_top](#var_text.align_top), [text.align_center](#var_text.align_center), [text.align_bottom](#var_text.align_bottom).
 
 ### See also
 
-* [box.set_text](#fun_box.set_text)
-* [box.set\_text\_size](#fun_box.set_text_size)
-* [box.set\_text\_color](#fun_box.set_text_color)
-* [box.set\_text\_halign](#fun_box.set_text_halign)
+- [box.set_text](#fun_box.set_text)
+- [box.set_text_size](#fun_box.set_text_size)
+- [box.set_text_color](#fun_box.set_text_color)
+- [box.set_text_halign](#fun_box.set_text_halign)
 
-## box.set\_text\_wrap
+## box.set_text_wrap
 
 the function sets the mode of wrapping of the text inside the box.
 
 ### Syntax
 
-box.set\_text\_wrap(id, text_wrap) - void
+box.set_text_wrap(id, text_wrap) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `text_wrap`
 
-    >  (`series` `string`)
-    
-    >  the mode of the wrapping. possible values: [text.wrap_auto](#var_text.wrap_auto), [text.wrap_none](#var_text.wrap_none).
+  > (`series` `string`)
+
+  > the mode of the wrapping. possible values: [text.wrap_auto](#var_text.wrap_auto), [text.wrap_none](#var_text.wrap_none).
 
 ### See also
 
-* [box.set_text](#fun_box.set_text)
-* [box.set\_text\_size](#fun_box.set_text_size)
-* [box.set\_text\_valign](#fun_box.set_text_valign)
-* [box.set\_text\_halign](#fun_box.set_text_halign)
-* [box.set\_text\_color](#fun_box.set_text_color)
+- [box.set_text](#fun_box.set_text)
+- [box.set_text_size](#fun_box.set_text_size)
+- [box.set_text_valign](#fun_box.set_text_valign)
+- [box.set_text_halign](#fun_box.set_text_halign)
+- [box.set_text_color](#fun_box.set_text_color)
 
 ## box.set_top
 
@@ -6007,42 +5914,42 @@ box.set_top(id, top) - void
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a box object.
+  > (`series` `box`)
+
+  > a box object.
 
 - `top`
 
-    >  (`series` `int`/`float`)
-    
-    >  price value of the top border.
+  > (`series` `int`/`float`)
+
+  > price value of the top border.
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.get_top](#fun_box.get_top)
+- [box.new](#fun_box.new)
+- [box.get_top](#fun_box.get_top)
 
-## box.set\_top\_left_point
+## box.set_top_left_point
 
 sets the top-left corner location of the \`id\` box to \`point\`.
 
 ### Syntax
 
-box.set\_top\_left_point(id, point) - void
+box.set_top_left_point(id, point) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `box`)
-    
-    >  a [box](#op_box) object.
+  > (`series` `box`)
+
+  > a [box](#op_box) object.
 
 - `point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object.
 
 ## chart.point.copy
 
@@ -6056,9 +5963,9 @@ chart.point.copy(id) - chart.point
 
 - `id`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object.
 
 ## chart.point.from_index
 
@@ -6072,15 +5979,15 @@ chart.point.from_index(index, price) - chart.point
 
 - `index`
 
-    >  (`series` `int`)
-    
-    >  the x-coordinate of the point, expressed as a bar index value.
+  > (`series` `int`)
+
+  > the x-coordinate of the point, expressed as a bar index value.
 
 - `price`
 
-    >  (`series` `int`/`float`)
-    
-    >  the y-coordinate of the point.
+  > (`series` `int`/`float`)
+
+  > the y-coordinate of the point.
 
 ### Remarks
 
@@ -6098,15 +6005,15 @@ chart.point.from_time(time, price) - chart.point
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  the x-coordinate of the point, expressed as a unix time value.
+  > (`series` `int`)
+
+  > the x-coordinate of the point, expressed as a unix time value.
 
 - `price`
 
-    >  (`series` `int`/`float`)
-    
-    >  the y-coordinate of the point.
+  > (`series` `int`/`float`)
+
+  > the y-coordinate of the point.
 
 ### Remarks
 
@@ -6124,21 +6031,21 @@ chart.point.new(time, index, price) - chart.point
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  the x-coordinate of the point, expressed as a unix time value.
+  > (`series` `int`)
+
+  > the x-coordinate of the point, expressed as a unix time value.
 
 - `index`
 
-    >  (`series` `int`)
-    
-    >  the x-coordinate of the point, expressed as a bar index value.
+  > (`series` `int`)
+
+  > the x-coordinate of the point, expressed as a bar index value.
 
 - `price`
 
-    >  (`series` `int`/`float`)
-    
-    >  the y-coordinate of the point.
+  > (`series` `int`/`float`)
+
+  > the y-coordinate of the point.
 
 ### Remarks
 
@@ -6148,7 +6055,7 @@ it's important to note that this function does not verify that the \`time\` and 
 
 ### See also
 
-* [polyline.new](#fun_polyline.new)
+- [polyline.new](#fun_polyline.new)
 
 ## chart.point.now
 
@@ -6162,9 +6069,9 @@ chart.point.now(price) - chart.point
 
 - `price`
 
-    >  (`series` `int`/`float`)
-    
-    >  the y-coordinate of the point. optional. the default is [close](#var_close).
+  > (`series` `int`/`float`)
+
+  > the y-coordinate of the point. optional. the default is [close](#var_close).
 
 ### Remarks
 
@@ -6178,18 +6085,15 @@ Casts na to color
 
 ### syntax & Overloads
 
-> [color(x) → const color](#fun_color-0)
-> [color(x) → input color](#fun_color-1)
-> [color(x) → simple color](#fun_color-2)
-> [color(x) → series color](#fun_color-3)
+> [color(x) → const color](#fun_color-0) > [color(x) → input color](#fun_color-1) > [color(x) → simple color](#fun_color-2) > [color(x) → series color](#fun_color-3)
 
 ### Arguments
 
 - `x`
 
-    >  (`const` `color`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`const` `color`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -6197,12 +6101,12 @@ the value of the argument after casting to color.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [string](#fun_string)
-* [line](#fun_line)
-* [label](#fun_label)
+- [float](#fun_float)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [string](#fun_string)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## color.b
 
@@ -6212,20 +6116,17 @@ Retrieves the value of the color's blue component.
 
 ### syntax & Overloads
 
-> [color.b(color) → const float](#fun_color.b-0)
-> [color.b(color) → input float](#fun_color.b-1)
-> [color.b(color) → series float](#fun_color.b-2)
+> [color.b(color) → const float](#fun_color.b-0) > [color.b(color) → input float](#fun_color.b-1) > [color.b(color) → series float](#fun_color.b-2)
 
 ### Arguments
 
 - `color`
 
-    >  (`const` `color`)
-    
-    >  color.
+  > (`const` `color`)
+
+  > color.
 
 ### Example
-
 
 ```s
 
@@ -6242,46 +6143,45 @@ the value (0 to 255) of the color's blue component.
 
 ## color.from_gradient
 
-based on the relative position of value in the bottom\_value to top\_value range, the function returns a color from the gradient defined by bottom\_color to top\_color.
+based on the relative position of value in the bottom_value to top_value range, the function returns a color from the gradient defined by bottom_color to top_color.
 
 ### Syntax
 
-color.from\_gradient(value, bottom\_value, top\_value, bottom\_color, top_color) → series color
+color.from_gradient(value, bottom_value, top_value, bottom_color, top_color) → series color
 
 ### Arguments
 
 - `value`
 
-    >  (`series` `int`/`float`)
-    
-    >  Value to calculate the position-dependent color.
+  > (`series` `int`/`float`)
+
+  > Value to calculate the position-dependent color.
 
 - `bottom_value`
 
-    >  (`series` `int`/`float`)
-    
-    >  bottom position value corresponding to bottom_color.
+  > (`series` `int`/`float`)
+
+  > bottom position value corresponding to bottom_color.
 
 - `top_value`
 
-    >  (`series` `int`/`float`)
-    
-    >  Top position value corresponding to top_color.
+  > (`series` `int`/`float`)
+
+  > Top position value corresponding to top_color.
 
 - `bottom_color`
 
-    >  (`series` `color`)
-    
-    >  bottom position color.
+  > (`series` `color`)
+
+  > bottom position color.
 
 - `top_color`
 
-    >  (`series` `color`)
-    
-    >  Top position color.
+  > (`series` `color`)
+
+  > Top position color.
 
 ### Example
-
 
 ```s
 
@@ -6297,7 +6197,7 @@ plot(ta.rsi(close,7), color=color2)
 
 ### Returns
 
-a color calculated from the linear gradient between bottom\_color to top\_color.
+a color calculated from the linear gradient between bottom_color to top_color.
 
 ### Remarks
 
@@ -6311,20 +6211,17 @@ Retrieves the value of the color's green component.
 
 ### syntax & Overloads
 
-> [color.g(color) → const float](#fun_color.g-0)
-> [color.g(color) → input float](#fun_color.g-1)
-> [color.g(color) → series float](#fun_color.g-2)
+> [color.g(color) → const float](#fun_color.g-0) > [color.g(color) → input float](#fun_color.g-1) > [color.g(color) → series float](#fun_color.g-2)
 
 ### Arguments
 
 - `color`
 
-    >  (`const` `color`)
-    
-    >  color.
+  > (`const` `color`)
+
+  > color.
 
 ### Example
-
 
 ```s
 
@@ -6347,26 +6244,23 @@ Function color applies the specified transparency to the given color.
 
 ### syntax & Overloads
 
-> [color.new(color, transp) → const color](#fun_color.new-0)
-> [color.new(color, transp) → input color](#fun_color.new-1)
-> [color.new(color, transp) → series color](#fun_color.new-2)
+> [color.new(color, transp) → const color](#fun_color.new-0) > [color.new(color, transp) → input color](#fun_color.new-1) > [color.new(color, transp) → series color](#fun_color.new-2)
 
 ### Arguments
 
 - `color`
 
-    >  (`const` `color`)
-    
-    >  color to apply transparency to.
+  > (`const` `color`)
+
+  > color to apply transparency to.
 
 - `transp`
 
-    >  (`const` `int`/`float`)
-    
-    >  possible values are from 0 (not transparent) to 100 (invisible).
+  > (`const` `int`/`float`)
+
+  > possible values are from 0 (not transparent) to 100 (invisible).
 
 ### Example
-
 
 ```s
 
@@ -6393,20 +6287,17 @@ Retrieves the value of the color's red component.
 
 ### syntax & Overloads
 
-> [color.r(color) → const float](#fun_color.r-0)
-> [color.r(color) → input float](#fun_color.r-1)
-> [color.r(color) → series float](#fun_color.r-2)
+> [color.r(color) → const float](#fun_color.r-0) > [color.r(color) → input float](#fun_color.r-1) > [color.r(color) → series float](#fun_color.r-2)
 
 ### Arguments
 
 - `color`
 
-    >  (`const` `color`)
-    
-    >  color.
+  > (`const` `color`)
+
+  > color.
 
 ### Example
-
 
 ```s
 
@@ -6429,38 +6320,35 @@ Creates a new color with transparency using the RGb color model.
 
 ### syntax & Overloads
 
-> [color.rgb(red, green, blue, transp) → const color](#fun_color.rgb-0)
-> [color.rgb(red, green, blue, transp) → input color](#fun_color.rgb-1)
-> [color.rgb(red, green, blue, transp) → series color](#fun_color.rgb-2)
+> [color.rgb(red, green, blue, transp) → const color](#fun_color.rgb-0) > [color.rgb(red, green, blue, transp) → input color](#fun_color.rgb-1) > [color.rgb(red, green, blue, transp) → series color](#fun_color.rgb-2)
 
 ### Arguments
 
 - `red`
 
-    >  (`const` `int`/`float`)
-    
-    >  Red color component. possible values are from 0 to 255.
+  > (`const` `int`/`float`)
+
+  > Red color component. possible values are from 0 to 255.
 
 - `green`
 
-    >  (`const` `int`/`float`)
-    
-    >  Green color component. possible values are from 0 to 255.
+  > (`const` `int`/`float`)
+
+  > Green color component. possible values are from 0 to 255.
 
 - `blue`
 
-    >  (`const` `int`/`float`)
-    
-    >  blue color component. possible values are from 0 to 255.
+  > (`const` `int`/`float`)
+
+  > blue color component. possible values are from 0 to 255.
 
 - `transp`
 
-    >  (`const` `int`/`float`)
-    
-    >  optional. color transparency. possible values are from 0 (opaque) to 100 (invisible). Default value is 0.
+  > (`const` `int`/`float`)
+
+  > optional. color transparency. possible values are from 0 (opaque) to 100 (invisible). Default value is 0.
 
 ### Example
-
 
 ```s
 
@@ -6487,20 +6375,17 @@ Retrieves the color's transparency.
 
 ### syntax & Overloads
 
-> [color.t(color) → const float](#fun_color.t-0)
-> [color.t(color) → input float](#fun_color.t-1)
-> [color.t(color) → series float](#fun_color.t-2)
+> [color.t(color) → const float](#fun_color.t-0) > [color.t(color) → input float](#fun_color.t-1) > [color.t(color) → series float](#fun_color.t-2)
 
 ### Arguments
 
 - `color`
 
-    >  (`const` `color`)
-    
-    >  color.
+  > (`const` `color`)
+
+  > color.
 
 ### Example
-
 
 ```s
 
@@ -6521,16 +6406,15 @@ the value (0-100) of the color's transparency.
 
 ### syntax & Overloads
 
-> [dayofmonth(time) → series int](#fun_dayofmonth-0)
-> [dayofmonth(time, timezone) → series int](#fun_dayofmonth-1)
+> [dayofmonth(time) → series int](#fun_dayofmonth-0) > [dayofmonth(time, timezone) → series int](#fun_dayofmonth-1)
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -6544,14 +6428,14 @@ Note that this function returns the day based on the time of the bar's open. For
 
 ### See also
 
-* [dayofmonth](#var_dayofmonth)
-* [time](#fun_time)
-* [year](#fun_year)
-* [month](#fun_month)
-* [dayofweek](#fun_dayofweek)
-* [hour](#fun_hour)
-* [minute](#fun_minute)
-* [second](#fun_second)
+- [dayofmonth](#var_dayofmonth)
+- [time](#fun_time)
+- [year](#fun_year)
+- [month](#fun_month)
+- [dayofweek](#fun_dayofweek)
+- [hour](#fun_hour)
+- [minute](#fun_minute)
+- [second](#fun_second)
 
 ## dayofweek
 
@@ -6559,16 +6443,15 @@ Note that this function returns the day based on the time of the bar's open. For
 
 ### syntax & Overloads
 
-> [dayofweek(time) → series int](#fun_dayofweek-0)
-> [dayofweek(time, timezone) → series int](#fun_dayofweek-1)
+> [dayofweek(time) → series int](#fun_dayofweek-0) > [dayofweek(time, timezone) → series int](#fun_dayofweek-1)
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -6582,14 +6465,14 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### See also
 
-* [dayofweek](#var_dayofweek)
-* [time](#fun_time)
-* [year](#fun_year)
-* [month](#fun_month)
-* [dayofmonth](#fun_dayofmonth)
-* [hour](#fun_hour)
-* [minute](#fun_minute)
-* [second](#fun_second)
+- [dayofweek](#var_dayofweek)
+- [time](#fun_time)
+- [year](#fun_year)
+- [month](#fun_month)
+- [dayofmonth](#fun_dayofmonth)
+- [hour](#fun_hour)
+- [minute](#fun_minute)
+- [second](#fun_second)
 
 ## fill
 
@@ -6599,58 +6482,55 @@ Fills background between two plots or hlines with a given color.
 
 ### syntax & Overloads
 
-> [fill(hline1, hline2, color, title, editable, fillgaps, display) - void](#fun_fill-0)
-> [fill(plot1, plot2, color, title, editable, show_last, fillgaps, display) - void](#fun_fill-1)
-> [fill(plot1, plot2, top\_value, bottom\_value, top\_color, bottom\_color, title, display, fillgaps, editable) - void](#fun_fill-2)
+> [fill(hline1, hline2, color, title, editable, fillgaps, display) - void](#fun_fill-0) > [fill(plot1, plot2, color, title, editable, show_last, fillgaps, display) - void](#fun_fill-1) > [fill(plot1, plot2, top_value, bottom_value, top_color, bottom_color, title, display, fillgaps, editable) - void](#fun_fill-2)
 
 ### Arguments
 
 - `hline1`
 
-    >  (`hline`)
-    
-    >  the first hline object. Required argument.
+  > (`hline`)
+
+  > the first hline object. Required argument.
 
 - `hline2`
 
-    >  (`hline`)
-    
-    >  the second hline object. Required argument.
+  > (`hline`)
+
+  > the second hline object. Required argument.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the background fill. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the background fill. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the created fill object. optional argument.
+  > (`const` `string`)
+
+  > title of the created fill object. optional argument.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then fill style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then fill style will be editable in format dialog. Default is true.
 
 - `fillgaps`
 
-    >  (`const` `bool`)
-    
-    >  Controls continuing fills on gaps, i.e., when one of the plot() calls returns an na value. When true, the last fill will continue on gaps. the default is false.
+  > (`const` `bool`)
+
+  > Controls continuing fills on gaps, i.e., when one of the plot() calls returns an na value. When true, the last fill will continue on gaps. the default is false.
 
 - `display`
 
-    >  (`input` `plot`\`_simple`\`_display`)
-    
-    >  Controls where the fill is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
+  > (`input` `plot`\`\_simple`\`\_display`)
+
+  > Controls where the fill is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
 
 > - Fill between two horizontal lines
 
 ### Example
-
 
 ```s
 
@@ -6667,7 +6547,6 @@ Fill between two plots
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -6682,7 +6561,6 @@ Gradient fill between two horizontal lines
 ```
 
 ### Example
-
 
 ```s
 
@@ -6701,11 +6579,11 @@ fill(topline, botline, topVal, botVal, topcol, botcol)
 
 ### See also
 
-* [plot](#fun_plot)
-* [barcolor](#fun_barcolor)
-* [bgcolor](#fun_bgcolor)
-* [hline](#fun_hline)
-* [color.new](#fun_color.new)
+- [plot](#fun_plot)
+- [barcolor](#fun_barcolor)
+- [bgcolor](#fun_bgcolor)
+- [hline](#fun_hline)
+- [color.new](#fun_color.new)
 
 ## fixnan
 
@@ -6715,18 +6593,15 @@ For a given series replaces NaN values with previous nearest non-NaN value.
 
 ### syntax & Overloads
 
-> [fixnan(source) → series color](#fun_fixnan-0)
-> [fixnan(source) → series int](#fun_fixnan-1)
-> [fixnan(source) → series float](#fun_fixnan-2)
-> [fixnan(source) → series bool](#fun_fixnan-3)
+> [fixnan(source) → series color](#fun_fixnan-0) > [fixnan(source) → series int](#fun_fixnan-1) > [fixnan(source) → series float](#fun_fixnan-2) > [fixnan(source) → series bool](#fun_fixnan-3)
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `color`)
-    
-    >  source used for the calculation.
+  > (`series` `color`)
+
+  > source used for the calculation.
 
 ### Returns
 
@@ -6734,9 +6609,9 @@ series without na gaps.
 
 ### See also
 
-* [na](#fun_na)
-* [na](#var_na)
-* [nz](#fun_nz)
+- [na](#fun_na)
+- [na](#var_na)
+- [nz](#fun_nz)
 
 ## float
 
@@ -6746,18 +6621,15 @@ Casts na to float
 
 ### syntax & Overloads
 
-> [float(x) → const float](#fun_float-0)
-> [float(x) → input float](#fun_float-1)
-> [float(x) → simple float](#fun_float-2)
-> [float(x) → series float](#fun_float-3)
+> [float(x) → const float](#fun_float-0) > [float(x) → input float](#fun_float-1) > [float(x) → simple float](#fun_float-2) > [float(x) → series float](#fun_float-3)
 
 ### Arguments
 
 - `x`
 
-    >  (`const` `int`/`float`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`const` `int`/`float`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -6765,12 +6637,12 @@ the value of the argument after casting to float.
 
 ### See also
 
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [string](#fun_string)
-* [line](#fun_line)
-* [label](#fun_label)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [string](#fun_string)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## hline
 
@@ -6784,48 +6656,47 @@ hline(price, title, color, linestyle, linewidth, editable, display) - hline
 
 - `price`
 
-    >  (`input` `int`/`float`)
-    
-    >  price value at which the object will be rendered. Required argument.
+  > (`input` `int`/`float`)
+
+  > price value at which the object will be rendered. Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the object.
+  > (`const` `string`)
+
+  > title of the object.
 
 - `color`
 
-    >  (`input` `color`)
-    
-    >  color of the rendered line. Must be a constant value (not an expression). optional argument.
+  > (`input` `color`)
+
+  > color of the rendered line. Must be a constant value (not an expression). optional argument.
 
 - `linestyle`
 
-    >  (`input` `hline_style`)
-    
-    >  style of the rendered line. possible values are: [hline.style_solid](#var_hline.style_solid), [hline.style_dotted](#var_hline.style_dotted), [hline.style_dashed](#var_hline.style_dashed). optional argument.
+  > (`input` `hline_style`)
+
+  > style of the rendered line. possible values are: [hline.style_solid](#var_hline.style_solid), [hline.style_dotted](#var_hline.style_dotted), [hline.style_dashed](#var_hline.style_dashed). optional argument.
 
 - `linewidth`
 
-    >  (`input` `int`)
-    
-    >  Width of the rendered line. Default value is 1.
+  > (`input` `int`)
+
+  > Width of the rendered line. Default value is 1.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then hline style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then hline style will be editable in format dialog. Default is true.
 
 - `display`
 
-    >  (`input` `plot`\`_simple`\`_display`)
-    
-    >  Controls where the hline is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
+  > (`input` `plot`\`\_simple`\`\_display`)
+
+  > Controls where the hline is displayed. possible values are: [display.none](#var_display.none), [display.all](#var_display.all). Default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -6847,7 +6718,7 @@ an hline object, that can be used in [fill](#fun_fill)
 
 ### See also
 
-* [fill](#fun_fill)
+- [fill](#fun_fill)
 
 ## hour
 
@@ -6855,16 +6726,15 @@ an hline object, that can be used in [fill](#fun_fill)
 
 ### syntax & Overloads
 
-> [hour(time) → series int](#fun_hour-0)
-> [hour(time, timezone) → series int](#fun_hour-1)
+> [hour(time) → series int](#fun_hour-0) > [hour(time, timezone) → series int](#fun_hour-1)
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -6876,14 +6746,14 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### See also
 
-* [hour](#var_hour)
-* [time](#fun_time)
-* [year](#fun_year)
-* [month](#fun_month)
-* [dayofmonth](#fun_dayofmonth)
-* [dayofweek](#fun_dayofweek)
-* [minute](#fun_minute)
-* [second](#fun_second)
+- [hour](#var_hour)
+- [time](#fun_time)
+- [year](#fun_year)
+- [month](#fun_month)
+- [dayofmonth](#fun_dayofmonth)
+- [dayofweek](#fun_dayofweek)
+- [minute](#fun_minute)
+- [second](#fun_second)
 
 ## indicator
 
@@ -6891,96 +6761,95 @@ this declaration statement designates the script as an indicator and sets a numb
 
 ### Syntax
 
-indicator(title, shorttitle, overlay, format, precision, scale, max\_bars\_back, timeframe, timeframe\_gaps, explicit\_plot\_zorder, max\_lines\_count, max\_labels\_count, max\_boxes\_count, max\_polylines_count) - void
+indicator(title, shorttitle, overlay, format, precision, scale, max_bars_back, timeframe, timeframe_gaps, explicit_plot_zorder, max_lines_count, max_labels_count, max_boxes_count, max_polylines_count) - void
 
 ### Arguments
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  the title of the script. it is displayed on the chart when no \`shorttitle\` argument is used, and becomes the publication's default title when publishing the script.
+  > (`const` `string`)
+
+  > the title of the script. it is displayed on the chart when no \`shorttitle\` argument is used, and becomes the publication's default title when publishing the script.
 
 - `shorttitle`
 
-    >  (`const` `string`)
-    
-    >  the script's display name on charts. if specified, it will replace the \`title\` argument in most chart-related windows. optional. the default is the argument used for \`title\`.
+  > (`const` `string`)
+
+  > the script's display name on charts. if specified, it will replace the \`title\` argument in most chart-related windows. optional. the default is the argument used for \`title\`.
 
 - `overlay`
 
-    >  (`const` `bool`)
-    
-    >  if [true](#op_true), the indicator will be displayed over the chart. if [false](#op_false), it will be added in a separate pane. optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > if [true](#op_true), the indicator will be displayed over the chart. if [false](#op_false), it will be added in a separate pane. optional. the default is [false](#op_false).
 
 - `format`
 
-    >  (`const` `string`)
-    
-    >  specifies the formatting of the script's displayed values. possible values: [format.inherit](#var_format.inherit), [format.price](#var_format.price), [format.volume](#var_format.volume), [format.percent](#var_format.percent). optional. the default is [format.inherit](#var_format.inherit).
+  > (`const` `string`)
+
+  > specifies the formatting of the script's displayed values. possible values: [format.inherit](#var_format.inherit), [format.price](#var_format.price), [format.volume](#var_format.volume), [format.percent](#var_format.percent). optional. the default is [format.inherit](#var_format.inherit).
 
 - `precision`
 
-    >  (`const` `int`)
-    
-    >  specifies the number of digits after the floating point of the script's displayed values. Must be a non-negative integer no greater than 16. if \`format\` is set to [format.inherit](#var_format.inherit) and \`precision\` is specified, the format will instead be set to [format.price](#var_format.price). optional. the default is inherited from the precision of the chart's symbol.
+  > (`const` `int`)
+
+  > specifies the number of digits after the floating point of the script's displayed values. Must be a non-negative integer no greater than 16. if \`format\` is set to [format.inherit](#var_format.inherit) and \`precision\` is specified, the format will instead be set to [format.price](#var_format.price). optional. the default is inherited from the precision of the chart's symbol.
 
 - `scale`
 
-    >  (`const` `scale_type`)
-    
-    >  the price scale used. possible values: [scale.right](#var_scale.right), [scale.left](#var_scale.left), [scale.none](#var_scale.none). the [scale.none](#var_scale.none) value can only be applied in combination with \`overlay = true\`. optional. by default, the script uses the same scale as the chart.
+  > (`const` `scale_type`)
+
+  > the price scale used. possible values: [scale.right](#var_scale.right), [scale.left](#var_scale.left), [scale.none](#var_scale.none). the [scale.none](#var_scale.none) value can only be applied in combination with \`overlay = true\`. optional. by default, the script uses the same scale as the chart.
 
 - `max\_bars\_back`
 
-    >  (`const` `int`)
-    
-    >  the length of the historical buffer the script keeps for every variable and function, which determines how many past values can be referenced using the `\[\]` history-referencing operator. the required buffer size is automatically detected by the pine script(r) runtime. using this parameter is only necessary when a runtime error occurs because automatic detection fails. More information on the underlying mechanics of the historical buffer can be found [in our Help center](https://www.tradingview.com/chart/?solution=43000587849). optional. the default is 0.
+  > (`const` `int`)
+
+  > the length of the historical buffer the script keeps for every variable and function, which determines how many past values can be referenced using the `\[\]` history-referencing operator. the required buffer size is automatically detected by the pine script(r) runtime. using this parameter is only necessary when a runtime error occurs because automatic detection fails. More information on the underlying mechanics of the historical buffer can be found [in our Help center](https://www.tradingview.com/chart/?solution=43000587849). optional. the default is 0.
 
 - `timeframe`
 
-    >  (`const` `string`)
-    
-    >  adds multi-timeframe functionality to simple scripts. When used, a "timeframe" field will be added to the script's "settings/inputs" tab. the field's default value will be the argument supplied, whose format must conform to [timeframe string specifications](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications). To specify the chart's timeframe, use an empty string or the [timeframe.period](#var_timeframe.period) variable. the parameter cannot be used with scripts using pine script(r) drawings. optional. the default is [timeframe.period](#var_timeframe.period).
+  > (`const` `string`)
+
+  > adds multi-timeframe functionality to simple scripts. When used, a "timeframe" field will be added to the script's "settings/inputs" tab. the field's default value will be the argument supplied, whose format must conform to [timeframe string specifications](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications). To specify the chart's timeframe, use an empty string or the [timeframe.period](#var_timeframe.period) variable. the parameter cannot be used with scripts using pine script(r) drawings. optional. the default is [timeframe.period](#var_timeframe.period).
 
 - `timeframe_gaps`
 
-    >  (`const` `bool`)
-    
-    >  specifies how the indicator's values are displayed on chart bars when the \`timeframe\` is higher than the chart's. if [true](#op_true), a value only appears on a chart bar when the higher \`timeframe\` value becomes available, otherwise [na](#var_na) is returned (thus a "gap" occurs). With [false](#op_false), what would otherwise be gaps are filled with the latest known value returned, avoiding [na](#var_na) values. When used, a "Gaps" checkbox will appear in the indicator's "settings/inputs" tab. optional. the default is [true](#op_true).
+  > (`const` `bool`)
+
+  > specifies how the indicator's values are displayed on chart bars when the \`timeframe\` is higher than the chart's. if [true](#op_true), a value only appears on a chart bar when the higher \`timeframe\` value becomes available, otherwise [na](#var_na) is returned (thus a "gap" occurs). With [false](#op_false), what would otherwise be gaps are filled with the latest known value returned, avoiding [na](#var_na) values. When used, a "Gaps" checkbox will appear in the indicator's "settings/inputs" tab. optional. the default is [true](#op_true).
 
 - `explicit\_plot\_zorder`
 
-    >  (`const` `bool`)
-    
-    >  specifies the order in which the script's plots, fills, and hlines are rendered. if [true](#op_true), plots are drawn in the order in which they appear in the script's code, each newer plot being drawn above the previous ones. this only applies to \`plot*()\` functions, [fill](#fun_fill), and [hline](#fun_hline). optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > specifies the order in which the script's plots, fills, and hlines are rendered. if [true](#op_true), plots are drawn in the order in which they appear in the script's code, each newer plot being drawn above the previous ones. this only applies to \`plot\*()\` functions, [fill](#fun_fill), and [hline](#fun_hline). optional. the default is [false](#op_false).
 
 - `max\_lines\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [line](#op_line) drawings displayed. possible values: 1-500. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [line](#op_line) drawings displayed. possible values: 1-500. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
 
 - `max\_labels\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [label](#op_label) drawings displayed. possible values: 1-500. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [label](#op_label) drawings displayed. possible values: 1-500. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
 
 - `max\_boxes\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [box](#op_box) drawings displayed. possible values: 1-500. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [box](#op_box) drawings displayed. possible values: 1-500. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
 
 - `max\_polylines\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [polyline](#op_polyline) drawings displayed. possible values: 1-100. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [polyline](#op_polyline) drawings displayed. possible values: 1-100. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
 
 ### Example
-
 
 ```s
 
@@ -6997,8 +6866,8 @@ Every indicator script must have one [indicator](#fun_indicator) call.
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [library](#fun_library)
+- [strategy](#fun_strategy)
+- [library](#fun_library)
 
 ## input
 
@@ -7008,53 +6877,47 @@ adds an input to the inputs tab of your script's settings, which allows you to p
 
 ### syntax & Overloads
 
-> [input(defval, title, tooltip, inline, group, display) → input color](#fun_input-0)
-> [input(defval, title, tooltip, inline, group, display) → input string](#fun_input-1)
-> [input(defval, title, tooltip, inline, group, display) → input int](#fun_input-2)
-> [input(defval, title, tooltip, inline, group, display) → input float](#fun_input-3)
-> [input(defval, title, inline, group, tooltip, display) → series float](#fun_input-4)
-> [input(defval, title, tooltip, inline, group, display) → input bool](#fun_input-5)
+> [input(defval, title, tooltip, inline, group, display) → input color](#fun_input-0) > [input(defval, title, tooltip, inline, group, display) → input string](#fun_input-1) > [input(defval, title, tooltip, inline, group, display) → input int](#fun_input-2) > [input(defval, title, tooltip, inline, group, display) → input float](#fun_input-3) > [input(defval, title, inline, group, tooltip, display) → series float](#fun_input-4) > [input(defval, title, tooltip, inline, group, display) → input bool](#fun_input-5)
 
 ### Arguments
 
 - `defval`
 
-    >  (`const` `int`/`float`/`bool`/`string`/`color` `or` `source-type` `built-ins`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where script users can change it. source-type built-ins are built-in series float variables that specify the source of the calculation: \`close\`, \`hlc3\`, etc.
+  > (`const` `int`/`float`/`bool`/`string`/`color` `or` `source-type` `built-ins`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where script users can change it. source-type built-ins are built-in series float variables that specify the source of the calculation: \`close\`, \`hlc3\`, etc.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default depends on the type of the value passed to \`defval\`: [display.none](#var_display.none) for [bool](#op_bool) and [color](#op_color) values, [display.all](#var_display.all) for everything else.
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default depends on the type of the value passed to \`defval\`: [display.none](#var_display.none) for [bool](#op_bool) and [color](#op_color) values, [display.all](#var_display.all) for everything else.
 
 ### Example
-
 
 ```s
 
@@ -7091,17 +6954,17 @@ Result of [input](#fun_input) function always should be assigned to a variable, 
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.color](#fun_input.color)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.text_area](#fun_input.text_area)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.time](#fun_input.time)
+- [input.bool](#fun_input.bool)
+- [input.color](#fun_input.color)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.text_area](#fun_input.text_area)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.time](#fun_input.time)
 
 ## input.bool
 
@@ -7115,48 +6978,47 @@ input.bool(defval, title, tooltip, inline, group, confirm, display) → input bo
 
 - `defval`
 
-    >  (`const` `bool`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
+  > (`const` `bool`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
 
 ### Example
-
 
 ```s
 
@@ -7178,17 +7040,17 @@ Result of [input.bool](#fun_input.bool) function always should be assigned to a 
 
 ### See also
 
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.color
 
@@ -7202,48 +7064,47 @@ input.color(defval, title, tooltip, inline, group, confirm, display) → input c
 
 - `defval`
 
-    >  (`const` `color`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
+  > (`const` `color`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
 
 ### Example
-
 
 ```s
 
@@ -7265,17 +7126,17 @@ Result of [input.color](#fun_input.color) function always should be assigned to 
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.float
 
@@ -7285,61 +7146,59 @@ adds an input to the inputs tab of your script's settings, which allows you to p
 
 ### syntax & Overloads
 
-> [input.float(defval, title, options, tooltip, inline, group, confirm, display) → input float](#fun_input.float-0)
-> [input.float(defval, title, minval, maxval, step, tooltip, inline, group, confirm, display) → input float](#fun_input.float-1)
+> [input.float(defval, title, options, tooltip, inline, group, confirm, display) → input float](#fun_input.float-0) > [input.float(defval, title, minval, maxval, step, tooltip, inline, group, confirm, display) → input float](#fun_input.float-1)
 
 ### Arguments
 
 - `defval`
 
-    >  (`const` `int`/`float`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where script users can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
+  > (`const` `int`/`float`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where script users can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `options`
 
-    >  (`tuple` `of` `const` `int`/`float` `values:` \[`val1`, `val2`, `...`\])
-    
-    >  a list of options to choose from a dropdown menu, separated by commas and enclosed in square brackets: \[val1, val2, ...\]. When using this parameter, the \`minval\`, \`maxval\` and \`step\` parameters cannot be used.
+  > (`tuple` `of` `const` `int`/`float` `values:` \[`val1`, `val2`, `...`\])
+
+  > a list of options to choose from a dropdown menu, separated by commas and enclosed in square brackets: \[val1, val2, ...\]. When using this parameter, the \`minval\`, \`maxval\` and \`step\` parameters cannot be used.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -7364,17 +7223,17 @@ Result of [input.float](#fun_input.float) function always should be assigned to 
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.int
 
@@ -7384,61 +7243,59 @@ adds an input to the inputs tab of your script's settings, which allows you to p
 
 ### syntax & Overloads
 
-> [input.int(defval, title, options, tooltip, inline, group, confirm, display) → input int](#fun_input.int-0)
-> [input.int(defval, title, minval, maxval, step, tooltip, inline, group, confirm, display) → input int](#fun_input.int-1)
+> [input.int(defval, title, options, tooltip, inline, group, confirm, display) → input int](#fun_input.int-0) > [input.int(defval, title, minval, maxval, step, tooltip, inline, group, confirm, display) → input int](#fun_input.int-1)
 
 ### Arguments
 
 - `defval`
 
-    >  (`const` `int`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where script users can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
+  > (`const` `int`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where script users can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `options`
 
-    >  (`tuple` `of` `const` `int` `values:` \[`val1`, `val2`, `...`\])
-    
-    >  a list of options to choose from a dropdown menu, separated by commas and enclosed in square brackets: \[val1, val2, ...\]. When using this parameter, the \`minval\`, \`maxval\` and \`step\` parameters cannot be used.
+  > (`tuple` `of` `const` `int` `values:` \[`val1`, `val2`, `...`\])
+
+  > a list of options to choose from a dropdown menu, separated by commas and enclosed in square brackets: \[val1, val2, ...\]. When using this parameter, the \`minval\`, \`maxval\` and \`step\` parameters cannot be used.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -7463,17 +7320,17 @@ Result of [input.int](#fun_input.int) function always should be assigned to a va
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.price
 
@@ -7487,48 +7344,47 @@ input.price(defval, title, tooltip, inline, group, confirm, display) → input f
 
 - `defval`
 
-    >  (`const` `int`/`float`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
+  > (`const` `int`/`float`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, the interactive input mode is enabled and the selection is done by clicking on the chart when the indicator is added to the chart, or by selecting the indicator and moving the selection after that. optional. the default is false.
+  > (`const` `bool`)
+
+  > if true, the interactive input mode is enabled and the selection is done by clicking on the chart when the indicator is added to the chart, or by selecting the indicator and moving the selection after that. optional. the default is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -7553,17 +7409,17 @@ When using interactive mode, a time input can be combined with a price input if 
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.resolution](#fun_input.resolution)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.resolution](#fun_input.resolution)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input](#fun_input)
 
 ## input.session
 
@@ -7577,54 +7433,53 @@ input.session(defval, title, options, tooltip, inline, group, confirm, display) 
 
 - `defval`
 
-    >  (`const` `string`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
+  > (`const` `string`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `options`
 
-    >  (`tuple` `of` `const` `string` `values:` \[`val1`, `val2`, `...`\])
-    
-    >  a list of options to choose from.
+  > (`tuple` `of` `const` `string` `values:` \[`val1`, `val2`, `...`\])
+
+  > a list of options to choose from.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -7647,17 +7502,17 @@ Result of [input.session](#fun_input.session) function always should be assigned
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.source
 
@@ -7671,42 +7526,41 @@ input.source(defval, title, tooltip, inline, group, display) → series float
 
 - `defval`
 
-    >  (`open`/`high`/`low`/`close`/`hl2`/`hlc3`/`ohlc4`/`hlcc4`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
+  > (`open`/`high`/`low`/`close`/`hl2`/`hlc3`/`ohlc4`/`hlcc4`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -7728,17 +7582,17 @@ Result of [input.source](#fun_input.source) function always should be assigned t
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.string
 
@@ -7752,54 +7606,53 @@ input.string(defval, title, options, tooltip, inline, group, confirm, display) �
 
 - `defval`
 
-    >  (`const` `string`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
+  > (`const` `string`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `options`
 
-    >  (`tuple` `of` `const` `string` `values:` \[`val1`, `val2`, `...`\])
-    
-    >  a list of options to choose from.
+  > (`tuple` `of` `const` `string` `values:` \[`val1`, `val2`, `...`\])
+
+  > a list of options to choose from.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -7822,17 +7675,17 @@ Result of [input.string](#fun_input.string) function always should be assigned t
 
 ### See also
 
-* [input.text_area](#fun_input.text_area)
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.text_area](#fun_input.text_area)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.symbol
 
@@ -7846,48 +7699,47 @@ input.symbol(defval, title, tooltip, inline, group, confirm, display) → input 
 
 - `defval`
 
-    >  (`const` `string`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
+  > (`const` `string`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -7910,17 +7762,17 @@ Result of [input.symbol](#fun_input.symbol) function always should be assigned t
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.text_area
 
@@ -7934,42 +7786,41 @@ input.text_area(defval, title, tooltip, group, confirm, display) → input strin
 
 - `defval`
 
-    >  (`const` `string`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
+  > (`const` `string`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
 
 ### Example
-
 
 ```s
 
@@ -7992,17 +7843,17 @@ Result of [input.text_area](#fun_input.text_area) function always should be assi
 
 ### See also
 
-* [input.string](#fun_input.string)
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.string](#fun_input.string)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## input.time
 
@@ -8016,48 +7867,47 @@ input.time(defval, title, tooltip, inline, group, confirm, display) → input in
 
 - `defval`
 
-    >  (`const` `int`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. the value can be a [timestamp](#fun_timestamp) function, but only if it uses a date argument in const string format.
+  > (`const` `int`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. the value can be a [timestamp](#fun_timestamp) function, but only if it uses a date argument in const string format.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, the interactive input mode is enabled and the selection is done by clicking on the chart when the indicator is added to the chart, or by selecting the indicator and moving the selection after that. optional. the default is false.
+  > (`const` `bool`)
+
+  > if true, the interactive input mode is enabled and the selection is done by clicking on the chart when the indicator is added to the chart, or by selecting the indicator and moving the selection after that. optional. the default is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.none](#var_display.none).
 
 ### Example
-
 
 ```s
 
@@ -8080,17 +7930,17 @@ When using interactive mode, a price input can be combined with a time input if 
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.timeframe](#fun_input.timeframe)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.timeframe](#fun_input.timeframe)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input](#fun_input)
 
 ## input.timeframe
 
@@ -8104,54 +7954,53 @@ input.timeframe(defval, title, options, tooltip, inline, group, confirm, display
 
 - `defval`
 
-    >  (`const` `string`)
-    
-    >  Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
+  > (`const` `string`)
+
+  > Determines the default value of the input variable proposed in the script's "settings/inputs" tab, from where the user can change it. When a list of values is used with the \`options\` parameter, the value must be one of them.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
+  > (`const` `string`)
+
+  > title of the input. if not specified, the variable name is used as the input's title. if the title is specified, but it is empty, the name will be an empty string.
 
 - `options`
 
-    >  (`tuple` `of` `const` `string` `values:` \[`val1`, `val2`, `...`\])
-    
-    >  a list of options to choose from.
+  > (`tuple` `of` `const` `string` `values:` \[`val1`, `val2`, `...`\])
+
+  > a list of options to choose from.
 
 - `tooltip`
 
-    >  (`const` `string`)
-    
-    >  the string that will be shown to the user when hovering over the tooltip icon.
+  > (`const` `string`)
+
+  > the string that will be shown to the user when hovering over the tooltip icon.
 
 - `inline`
 
-    >  (`const` `string`)
-    
-    >  Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
+  > (`const` `string`)
+
+  > Combines all the input calls using the same argument in one line. the string used as an argument is not displayed. it is only used to identify inputs belonging to the same line.
 
 - `group`
 
-    >  (`const` `string`)
-    
-    >  Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
+  > (`const` `string`)
+
+  > Creates a header above all inputs using the same group argument string. the string is also used as the header's text.
 
 - `confirm`
 
-    >  (`const` `bool`)
-    
-    >  if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
+  > (`const` `bool`)
+
+  > if true, then user will be asked to confirm input value before indicator is added to chart. Default value is false.
 
 - `display`
 
-    >  (`const` `plot_display`)
-    
-    >  Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`const` `plot_display`)
+
+  > Controls where the script will display the input's information, aside from within the script's settings. this option allows one to remove a specific input from the script's status line or the data Window to ensure only the most necessary inputs are displayed there. possible values: [display.none](#var_display.none), [display.data_window](#var_display.data_window), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -8174,17 +8023,17 @@ Result of [input.timeframe](#fun_input.timeframe) function always should be assi
 
 ### See also
 
-* [input.bool](#fun_input.bool)
-* [input.int](#fun_input.int)
-* [input.float](#fun_input.float)
-* [input.string](#fun_input.string)
-* [input.text_area](#fun_input.text_area)
-* [input.symbol](#fun_input.symbol)
-* [input.session](#fun_input.session)
-* [input.source](#fun_input.source)
-* [input.color](#fun_input.color)
-* [input.time](#fun_input.time)
-* [input](#fun_input)
+- [input.bool](#fun_input.bool)
+- [input.int](#fun_input.int)
+- [input.float](#fun_input.float)
+- [input.string](#fun_input.string)
+- [input.text_area](#fun_input.text_area)
+- [input.symbol](#fun_input.symbol)
+- [input.session](#fun_input.session)
+- [input.source](#fun_input.source)
+- [input.color](#fun_input.color)
+- [input.time](#fun_input.time)
+- [input](#fun_input)
 
 ## int
 
@@ -8194,18 +8043,15 @@ Casts na or truncates float value to int
 
 ### syntax & Overloads
 
-> [int(x) → const int](#fun_int-0)
-> [int(x) → input int](#fun_int-1)
-> [int(x) → simple int](#fun_int-2)
-> [int(x) → series int](#fun_int-3)
+> [int(x) → const int](#fun_int-0) > [int(x) → input int](#fun_int-1) > [int(x) → simple int](#fun_int-2) > [int(x) → series int](#fun_int-3)
 
 ### Arguments
 
 - `x`
 
-    >  (`const` `int`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`const` `int`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -8213,12 +8059,12 @@ the value of the argument after casting to int.
 
 ### See also
 
-* [float](#fun_float)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [string](#fun_string)
-* [line](#fun_line)
-* [label](#fun_label)
+- [float](#fun_float)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [string](#fun_string)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## label
 
@@ -8232,9 +8078,9 @@ label(x) → series label
 
 - `x`
 
-    >  (`series` `label`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`series` `label`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -8242,12 +8088,12 @@ the value of the argument after casting to label.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [string](#fun_string)
-* [line](#fun_line)
+- [float](#fun_float)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [string](#fun_string)
+- [line](#fun_line)
 
 ## label.copy
 
@@ -8261,12 +8107,11 @@ label.copy(id) → series label
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 ### Example
-
 
 ```s
 
@@ -8307,7 +8152,7 @@ label.delete(id) → void
 - `id`
 
     >  (`series` `label`)
-    
+
     >  label object to delete.
 
 ### See also
@@ -8327,7 +8172,7 @@ label.get_text(id) → series string
 - `id`
 
     >  (`series` `label`)
-    
+
     >  label object.
 
 
@@ -8348,7 +8193,7 @@ string object containing the text of this label.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.get_x
 
@@ -8362,12 +8207,11 @@ label.get_x(id) → series int
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 ### Example
-
 
 ```s
 
@@ -8386,7 +8230,7 @@ unix timestamp (in milliseconds) or bar index.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.get_y
 
@@ -8400,9 +8244,9 @@ label.get_y(id) → series float
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 ### Returns
 
@@ -8410,7 +8254,7 @@ Floating point value representing price.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.new
 
@@ -8420,79 +8264,77 @@ Creates new label object.
 
 ### syntax & Overloads
 
-> [label.new(point, text, xloc, yloc, color, style, textcolor, size, textalign, tooltip, text\_font\_family) → series label](#fun_label.new-0)
-> [label.new(x, y, text, xloc, yloc, color, style, textcolor, size, textalign, tooltip, text\_font\_family) → series label](#fun_label.new-1)
+> [label.new(point, text, xloc, yloc, color, style, textcolor, size, textalign, tooltip, text_font_family) → series label](#fun_label.new-0) > [label.new(x, y, text, xloc, yloc, color, style, textcolor, size, textalign, tooltip, text_font_family) → series label](#fun_label.new-1)
 
 ### Arguments
 
 - `point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object that specifies the label's location.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object that specifies the label's location.
 
 - `text`
 
-    >  (`series` `string`)
-    
-    >  label text. Default is empty string.
+  > (`series` `string`)
+
+  > label text. Default is empty string.
 
 - `xloc`
 
-    >  (`series` `string`)
-    
-    >  see description of **x** argument. possible values: [xloc.bar_index](#var_xloc.bar_index) and [xloc.bar_time](#var_xloc.bar_time). Default is [xloc.bar_index](#var_xloc.bar_index).
+  > (`series` `string`)
+
+  > see description of **x** argument. possible values: [xloc.bar_index](#var_xloc.bar_index) and [xloc.bar_time](#var_xloc.bar_time). Default is [xloc.bar_index](#var_xloc.bar_index).
 
 - `yloc`
 
-    >  (`series` `string`)
-    
-    >  possible values are [yloc.price](#var_yloc.price), [yloc.abovebar](#var_yloc.abovebar), [yloc.belowbar](#var_yloc.belowbar). if yloc=[yloc.price](#var_yloc.price), **y** argument specifies the price of the label position. if yloc=[yloc.abovebar](#var_yloc.abovebar), label is located above bar. if yloc=[yloc.belowbar](#var_yloc.belowbar), label is located below bar. Default is [yloc.price](#var_yloc.price).
+  > (`series` `string`)
+
+  > possible values are [yloc.price](#var_yloc.price), [yloc.abovebar](#var_yloc.abovebar), [yloc.belowbar](#var_yloc.belowbar). if yloc=[yloc.price](#var_yloc.price), **y** argument specifies the price of the label position. if yloc=[yloc.abovebar](#var_yloc.abovebar), label is located above bar. if yloc=[yloc.belowbar](#var_yloc.belowbar), label is located below bar. Default is [yloc.price](#var_yloc.price).
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the label border and arrow
+  > (`series` `color`)
+
+  > color of the label border and arrow
 
 - `style`
 
-    >  (`series` `string`)
-    
-    >  label style. possible values: [label.style_none](#var_label.style_none), [label.style_xcross](#var_label.style_xcross), [label.style_cross](#var_label.style_cross), [label.style_triangleup](#var_label.style_triangleup), [label.style_triangledown](#var_label.style_triangledown), [label.style_flag](#var_label.style_flag), [label.style_circle](#var_label.style_circle), [label.style_arrowup](#var_label.style_arrowup), [label.style_arrowdown](#var_label.style_arrowdown), [label.style\_label\_up](#var_label.style_label_up), [label.style\_label\_down](#var_label.style_label_down), [label.style\_label\_left](#var_label.style_label_left), [label.style\_label\_right](#var_label.style_label_right), [label.style\_label\_lower_left](#var_label.style_label_lower_left), [label.style\_label\_lower_right](#var_label.style_label_lower_right), [label.style\_label\_upper_left](#var_label.style_label_upper_left), [label.style\_label\_upper_right](#var_label.style_label_upper_right), [label.style\_label\_center](#var_label.style_label_center), [label.style_square](#var_label.style_square), [label.style_diamond](#var_label.style_diamond), [label.style\_text\_outline](#var_label.style_text_outline). Default is [label.style\_label\_down](#var_label.style_label_down).
+  > (`series` `string`)
+
+  > label style. possible values: [label.style_none](#var_label.style_none), [label.style_xcross](#var_label.style_xcross), [label.style_cross](#var_label.style_cross), [label.style_triangleup](#var_label.style_triangleup), [label.style_triangledown](#var_label.style_triangledown), [label.style_flag](#var_label.style_flag), [label.style_circle](#var_label.style_circle), [label.style_arrowup](#var_label.style_arrowup), [label.style_arrowdown](#var_label.style_arrowdown), [label.style_label_up](#var_label.style_label_up), [label.style_label_down](#var_label.style_label_down), [label.style_label_left](#var_label.style_label_left), [label.style_label_right](#var_label.style_label_right), [label.style_label_lower_left](#var_label.style_label_lower_left), [label.style_label_lower_right](#var_label.style_label_lower_right), [label.style_label_upper_left](#var_label.style_label_upper_left), [label.style_label_upper_right](#var_label.style_label_upper_right), [label.style_label_center](#var_label.style_label_center), [label.style_square](#var_label.style_square), [label.style_diamond](#var_label.style_diamond), [label.style_text_outline](#var_label.style_text_outline). Default is [label.style_label_down](#var_label.style_label_down).
 
 - `textcolor`
 
-    >  (`series` `color`)
-    
-    >  Text color.
+  > (`series` `color`)
+
+  > Text color.
 
 - `size`
 
-    >  (`series` `string`)
-    
-    >  label size. possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default value is [size.normal](#var_size.normal).
+  > (`series` `string`)
+
+  > label size. possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default value is [size.normal](#var_size.normal).
 
 - `textalign`
 
-    >  (`series` `string`)
-    
-    >  label text alignment. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right). Default value is [text.align_center](#var_text.align_center).
+  > (`series` `string`)
+
+  > label text alignment. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right). Default value is [text.align_center](#var_text.align_center).
 
 - `tooltip`
 
-    >  (`series` `string`)
-    
-    >  Hover to see tooltip label.
+  > (`series` `string`)
+
+  > Hover to see tooltip label.
 
 - `text\_font\_family`
 
-    >  (`series` `string`)
-    
-    >  the font family of the text. optional. the default value is [font.family_default](#var_font.family_default). possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
+  > (`series` `string`)
+
+  > the font family of the text. optional. the default value is [font.family_default](#var_font.family_default). possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
 
 ### Example
-
 
 ```s
 
@@ -8513,18 +8355,18 @@ label iD object which may be passed to label.setXXX and label.getXXX functions.
 
 ### See also
 
-* [label.delete](#fun_label.delete)
-* [label.set_x](#fun_label.set_x)
-* [label.set_y](#fun_label.set_y)
-* [label.set_xy](#fun_label.set_xy)
-* [label.set_xloc](#fun_label.set_xloc)
-* [label.set_yloc](#fun_label.set_yloc)
-* [label.set_color](#fun_label.set_color)
-* [label.set_textcolor](#fun_label.set_textcolor)
-* [label.set_style](#fun_label.set_style)
-* [label.set_size](#fun_label.set_size)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.set_tooltip](#fun_label.set_tooltip)
+- [label.delete](#fun_label.delete)
+- [label.set_x](#fun_label.set_x)
+- [label.set_y](#fun_label.set_y)
+- [label.set_xy](#fun_label.set_xy)
+- [label.set_xloc](#fun_label.set_xloc)
+- [label.set_yloc](#fun_label.set_yloc)
+- [label.set_color](#fun_label.set_color)
+- [label.set_textcolor](#fun_label.set_textcolor)
+- [label.set_style](#fun_label.set_style)
+- [label.set_size](#fun_label.set_size)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.set_tooltip](#fun_label.set_tooltip)
 
 ## label.set_color
 
@@ -8538,19 +8380,19 @@ label.set_color(id, color) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  New label border and arrow color.
+  > (`series` `color`)
+
+  > New label border and arrow color.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.set_point
 
@@ -8564,15 +8406,15 @@ label.set_point(id, point) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  a [label](#op_label) object.
+  > (`series` `label`)
+
+  > a [label](#op_label) object.
 
 - `point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object.
 
 ## label.set_size
 
@@ -8586,25 +8428,25 @@ label.set_size(id, size) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `size`
 
-    >  (`series` `string`)
-    
-    >  possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default value is [size.auto](#var_size.auto).
+  > (`series` `string`)
+
+  > possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default value is [size.auto](#var_size.auto).
 
 ### See also
 
-* [size.auto](#var_size.auto)
-* [size.tiny](#var_size.tiny)
-* [size.small](#var_size.small)
-* [size.normal](#var_size.normal)
-* [size.large](#var_size.large)
-* [size.huge](#var_size.huge)
-* [label.new](#fun_label.new)
+- [size.auto](#var_size.auto)
+- [size.tiny](#var_size.tiny)
+- [size.small](#var_size.small)
+- [size.normal](#var_size.normal)
+- [size.large](#var_size.large)
+- [size.huge](#var_size.huge)
+- [label.new](#fun_label.new)
 
 ## label.set_style
 
@@ -8618,19 +8460,19 @@ label.set_style(id, style) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `style`
 
-    >  (`series` `string`)
-    
-    >  New label style. possible values: [label.style_none](#var_label.style_none), [label.style_xcross](#var_label.style_xcross), [label.style_cross](#var_label.style_cross), [label.style_triangleup](#var_label.style_triangleup), [label.style_triangledown](#var_label.style_triangledown), [label.style_flag](#var_label.style_flag), [label.style_circle](#var_label.style_circle), [label.style_arrowup](#var_label.style_arrowup), [label.style_arrowdown](#var_label.style_arrowdown), [label.style\_label\_up](#var_label.style_label_up), [label.style\_label\_down](#var_label.style_label_down), [label.style\_label\_left](#var_label.style_label_left), [label.style\_label\_right](#var_label.style_label_right), [label.style\_label\_lower_left](#var_label.style_label_lower_left), [label.style\_label\_lower_right](#var_label.style_label_lower_right), [label.style\_label\_upper_left](#var_label.style_label_upper_left), [label.style\_label\_upper_right](#var_label.style_label_upper_right), [label.style\_label\_center](#var_label.style_label_center), [label.style_square](#var_label.style_square), [label.style_diamond](#var_label.style_diamond), [label.style\_text\_outline](#var_label.style_text_outline).
+  > (`series` `string`)
+
+  > New label style. possible values: [label.style_none](#var_label.style_none), [label.style_xcross](#var_label.style_xcross), [label.style_cross](#var_label.style_cross), [label.style_triangleup](#var_label.style_triangleup), [label.style_triangledown](#var_label.style_triangledown), [label.style_flag](#var_label.style_flag), [label.style_circle](#var_label.style_circle), [label.style_arrowup](#var_label.style_arrowup), [label.style_arrowdown](#var_label.style_arrowdown), [label.style_label_up](#var_label.style_label_up), [label.style_label_down](#var_label.style_label_down), [label.style_label_left](#var_label.style_label_left), [label.style_label_right](#var_label.style_label_right), [label.style_label_lower_left](#var_label.style_label_lower_left), [label.style_label_lower_right](#var_label.style_label_lower_right), [label.style_label_upper_left](#var_label.style_label_upper_left), [label.style_label_upper_right](#var_label.style_label_upper_right), [label.style_label_center](#var_label.style_label_center), [label.style_square](#var_label.style_square), [label.style_diamond](#var_label.style_diamond), [label.style_text_outline](#var_label.style_text_outline).
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.set_text
 
@@ -8644,44 +8486,43 @@ label.set_text(id, text) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `text`
 
-    >  (`series` `string`)
-    
-    >  New label text.
+  > (`series` `string`)
+
+  > New label text.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
-## label.set\_text\_font_family
+## label.set_text_font_family
 
 the function sets the font family of the text inside the label.
 
 ### Syntax
 
-label.set\_text\_font\_family(id, text\_font_family) - void
+label.set_text_font_family(id, text_font_family) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  a label object.
+  > (`series` `label`)
+
+  > a label object.
 
 - `text\_font\_family`
 
-    >  (`series` `string`)
-    
-    >  the font family of the text. possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
+  > (`series` `string`)
+
+  > the font family of the text. possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
 
 ### Example
-
 
 ```s
 
@@ -8696,9 +8537,9 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [font.family_default](#var_font.family_default)
-* [font.family_monospace](#var_font.family_monospace)
+- [label.new](#fun_label.new)
+- [font.family_default](#var_font.family_default)
+- [font.family_monospace](#var_font.family_monospace)
 
 ## label.set_textalign
 
@@ -8712,22 +8553,22 @@ label.set_textalign(id, textalign) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `textalign`
 
-    >  (`series` `string`)
-    
-    >  label text alignment. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
+  > (`series` `string`)
+
+  > label text alignment. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
 
 ### See also
 
-* [text.align_left](#var_text.align_left)
-* [text.align_center](#var_text.align_center)
-* [text.align_right](#var_text.align_right)
-* [label.new](#fun_label.new)
+- [text.align_left](#var_text.align_left)
+- [text.align_center](#var_text.align_center)
+- [text.align_right](#var_text.align_right)
+- [label.new](#fun_label.new)
 
 ## label.set_textcolor
 
@@ -8741,19 +8582,19 @@ label.set_textcolor(id, textcolor) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `textcolor`
 
-    >  (`series` `color`)
-    
-    >  New text color.
+  > (`series` `color`)
+
+  > New text color.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.set_tooltip
 
@@ -8767,19 +8608,19 @@ label.set_tooltip(id, tooltip) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `tooltip`
 
-    >  (`series` `string`)
-    
-    >  Tooltip text.
+  > (`series` `string`)
+
+  > Tooltip text.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.set_x
 
@@ -8793,19 +8634,19 @@ label.set_x(id, x) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `x`
 
-    >  (`series` `int`)
-    
-    >  New bar index or bar time of the label position. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
+  > (`series` `int`)
+
+  > New bar index or bar time of the label position. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.set_xloc
 
@@ -8819,27 +8660,27 @@ label.set_xloc(id, x, xloc) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `x`
 
-    >  (`series` `int`)
-    
-    >  New bar index or bar time of the label position.
+  > (`series` `int`)
+
+  > New bar index or bar time of the label position.
 
 - `xloc`
 
-    >  (`series` `string`)
-    
-    >  New x-location value.
+  > (`series` `string`)
+
+  > New x-location value.
 
 ### See also
 
-* [xloc.bar_index](#var_xloc.bar_index)
-* [xloc.bar_time](#var_xloc.bar_time)
-* [label.new](#fun_label.new)
+- [xloc.bar_index](#var_xloc.bar_index)
+- [xloc.bar_time](#var_xloc.bar_time)
+- [label.new](#fun_label.new)
 
 ## label.set_xy
 
@@ -8853,25 +8694,25 @@ label.set_xy(id, x, y) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `x`
 
-    >  (`series` `int`)
-    
-    >  New bar index or bar time of the label position. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
+  > (`series` `int`)
+
+  > New bar index or bar time of the label position. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
 
 - `y`
 
-    >  (`series` `int`/`float`)
-    
-    >  New price of the label position.
+  > (`series` `int`/`float`)
+
+  > New price of the label position.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.set_y
 
@@ -8885,19 +8726,19 @@ label.set_y(id, y) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `y`
 
-    >  (`series` `int`/`float`)
-    
-    >  New price of the label position.
+  > (`series` `int`/`float`)
+
+  > New price of the label position.
 
 ### See also
 
-* [label.new](#fun_label.new)
+- [label.new](#fun_label.new)
 
 ## label.set_yloc
 
@@ -8911,22 +8752,22 @@ label.set_yloc(id, yloc) - void
 
 - `id`
 
-    >  (`series` `label`)
-    
-    >  label object.
+  > (`series` `label`)
+
+  > label object.
 
 - `yloc`
 
-    >  (`series` `string`)
-    
-    >  New y-location value.
+  > (`series` `string`)
+
+  > New y-location value.
 
 ### See also
 
-* [yloc.price](#var_yloc.price)
-* [yloc.abovebar](#var_yloc.abovebar)
-* [yloc.belowbar](#var_yloc.belowbar)
-* [label.new](#fun_label.new)
+- [yloc.price](#var_yloc.price)
+- [yloc.abovebar](#var_yloc.abovebar)
+- [yloc.belowbar](#var_yloc.belowbar)
+- [label.new](#fun_label.new)
 
 ## library
 
@@ -8940,18 +8781,17 @@ library(title, overlay) - void
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  the title of the library and its identifier. it cannot contain spaces, special characters or begin with a digit. it is used as the publication's default title, and to uniquely identify the library in the [import](#op_import) statement, when another script uses it. it is also used as the script's name on the chart.
+  > (`const` `string`)
+
+  > the title of the library and its identifier. it cannot contain spaces, special characters or begin with a digit. it is used as the publication's default title, and to uniquely identify the library in the [import](#op_import) statement, when another script uses it. it is also used as the script's name on the chart.
 
 - `overlay`
 
-    >  (`const` `bool`)
-    
-    >  if true, the library will be added over the chart. if false, it will be added in a separate pane. optional. the default is false.
+  > (`const` `bool`)
+
+  > if true, the library will be added over the chart. if false, it will be added in a separate pane. optional. the default is false.
 
 ### Example
-
 
 ```s
 
@@ -8968,8 +8808,8 @@ plot(sinh(0))
 
 ### See also
 
-* [indicator](#fun_indicator)
-* [strategy](#fun_strategy)
+- [indicator](#fun_indicator)
+- [strategy](#fun_strategy)
 
 ## line
 
@@ -8983,9 +8823,9 @@ line(x) → series line
 
 - `x`
 
-    >  (`series` `line`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`series` `line`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -8993,12 +8833,12 @@ the value of the argument after casting to line.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [string](#fun_string)
-* [label](#fun_label)
+- [float](#fun_float)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [string](#fun_string)
+- [label](#fun_label)
 
 ## line.copy
 
@@ -9012,12 +8852,11 @@ line.copy(id) → series line
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 ### Example
-
 
 ```s
 
@@ -9055,7 +8894,7 @@ line.delete(id) → void
 - `id`
 
     >  (`series` `line`)
-    
+
     >  line object to delete.
 
 ### See also
@@ -9075,12 +8914,12 @@ line.get_price(id, x) → series float
 - `id`
 
     >  (`series` `line`)
-    
+
     >  line object.
 - `x`
 
     >  (`series` `int`)
-    
+
     >  bar index for which price is required.
 
 
@@ -9104,11 +8943,11 @@ price value of line 'id' at bar index 'x'.
 
 the line is considered to have been created using 'extend=extend.both'.
 
-this function can only be called for lines created using 'xloc.bar\_index'. if you try to call it for a line created with 'xloc.bar\_time', it will generate an error.
+this function can only be called for lines created using 'xloc.bar_index'. if you try to call it for a line created with 'xloc.bar_time', it will generate an error.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.get_x1
 
@@ -9122,12 +8961,11 @@ line.get_x1(id) → series int
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 ### Example
-
 
 ```s
 
@@ -9146,7 +8984,7 @@ unix timestamp (in milliseconds) or bar index.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.get_x2
 
@@ -9160,9 +8998,9 @@ line.get_x2(id) → series int
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 ### Returns
 
@@ -9170,7 +9008,7 @@ unix timestamp (in milliseconds) or bar index.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.get_y1
 
@@ -9184,9 +9022,9 @@ line.get_y1(id) → series float
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 ### Returns
 
@@ -9194,7 +9032,7 @@ price value.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.get_y2
 
@@ -9208,9 +9046,9 @@ line.get_y2(id) → series float
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 ### Returns
 
@@ -9218,7 +9056,7 @@ price value.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.new
 
@@ -9228,55 +9066,53 @@ Creates new line object.
 
 ### syntax & Overloads
 
-> [line.new(first\_point, second\_point, xloc, extend, color, style, width) → series line](#fun_line.new-0)
-> [line.new(x1, y1, x2, y2, xloc, extend, color, style, width) → series line](#fun_line.new-1)
+> [line.new(first_point, second_point, xloc, extend, color, style, width) → series line](#fun_line.new-0) > [line.new(x1, y1, x2, y2, xloc, extend, color, style, width) → series line](#fun_line.new-1)
 
 ### Arguments
 
 - `first_point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object that specifies the line's starting coordinate.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object that specifies the line's starting coordinate.
 
 - `second_point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object that specifies the line's ending coordinate.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object that specifies the line's ending coordinate.
 
 - `xloc`
 
-    >  (`series` `string`)
-    
-    >  see description of **x1** argument. possible values: [xloc.bar_index](#var_xloc.bar_index) and [xloc.bar_time](#var_xloc.bar_time). Default is [xloc.bar_index](#var_xloc.bar_index).
+  > (`series` `string`)
+
+  > see description of **x1** argument. possible values: [xloc.bar_index](#var_xloc.bar_index) and [xloc.bar_time](#var_xloc.bar_time). Default is [xloc.bar_index](#var_xloc.bar_index).
 
 - `extend`
 
-    >  (`series` `string`)
-    
-    >  if extend=[extend.none](#var_extend.none), draws segment starting at point (x1, y1) and ending at point (x2, y2). if extend is equal to [extend.right](#var_extend.right) or [extend.left](#var_extend.left), draws a ray starting at point (x1, y1) or (x2, y2), respectively. if extend=[extend.both](#var_extend.both), draws a straight line that goes through these points. Default value is [extend.none](#var_extend.none).
+  > (`series` `string`)
+
+  > if extend=[extend.none](#var_extend.none), draws segment starting at point (x1, y1) and ending at point (x2, y2). if extend is equal to [extend.right](#var_extend.right) or [extend.left](#var_extend.left), draws a ray starting at point (x1, y1) or (x2, y2), respectively. if extend=[extend.both](#var_extend.both), draws a straight line that goes through these points. Default value is [extend.none](#var_extend.none).
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  line color.
+  > (`series` `color`)
+
+  > line color.
 
 - `style`
 
-    >  (`series` `string`)
-    
-    >  line style. possible values: [line.style_solid](#var_line.style_solid), [line.style_dotted](#var_line.style_dotted), [line.style_dashed](#var_line.style_dashed), [line.style\_arrow\_left](#var_line.style_arrow_left), [line.style\_arrow\_right](#var_line.style_arrow_right), [line.style\_arrow\_both](#var_line.style_arrow_both).
+  > (`series` `string`)
+
+  > line style. possible values: [line.style_solid](#var_line.style_solid), [line.style_dotted](#var_line.style_dotted), [line.style_dashed](#var_line.style_dashed), [line.style_arrow_left](#var_line.style_arrow_left), [line.style_arrow_right](#var_line.style_arrow_right), [line.style_arrow_both](#var_line.style_arrow_both).
 
 - `width`
 
-    >  (`series` `int`)
-    
-    >  line width in pixels.
+  > (`series` `int`)
+
+  > line width in pixels.
 
 ### Example
-
 
 ```s
 
@@ -9298,18 +9134,18 @@ line iD object which may be passed to line.setXXX and line.getXXX functions.
 
 ### See also
 
-* [line.delete](#fun_line.delete)
-* [line.set_x1](#fun_line.set_x1)
-* [line.set_y1](#fun_line.set_y1)
-* [line.set_xy1](#fun_line.set_xy1)
-* [line.set_x2](#fun_line.set_x2)
-* [line.set_y2](#fun_line.set_y2)
-* [line.set_xy2](#fun_line.set_xy2)
-* [line.set_xloc](#fun_line.set_xloc)
-* [line.set_color](#fun_line.set_color)
-* [line.set_extend](#fun_line.set_extend)
-* [line.set_style](#fun_line.set_style)
-* [line.set_width](#fun_line.set_width)
+- [line.delete](#fun_line.delete)
+- [line.set_x1](#fun_line.set_x1)
+- [line.set_y1](#fun_line.set_y1)
+- [line.set_xy1](#fun_line.set_xy1)
+- [line.set_x2](#fun_line.set_x2)
+- [line.set_y2](#fun_line.set_y2)
+- [line.set_xy2](#fun_line.set_xy2)
+- [line.set_xloc](#fun_line.set_xloc)
+- [line.set_color](#fun_line.set_color)
+- [line.set_extend](#fun_line.set_extend)
+- [line.set_style](#fun_line.set_style)
+- [line.set_width](#fun_line.set_width)
 
 ## line.set_color
 
@@ -9323,19 +9159,19 @@ line.set_color(id, color) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  New line color
+  > (`series` `color`)
+
+  > New line color
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.set_extend
 
@@ -9349,67 +9185,67 @@ line.set_extend(id, extend) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `extend`
 
-    >  (`series` `string`)
-    
-    >  New extending type.
+  > (`series` `string`)
+
+  > New extending type.
 
 ### See also
 
-* [extend.none](#var_extend.none)
-* [extend.right](#var_extend.right)
-* [extend.left](#var_extend.left)
-* [extend.both](#var_extend.both)
-* [line.new](#fun_line.new)
+- [extend.none](#var_extend.none)
+- [extend.right](#var_extend.right)
+- [extend.left](#var_extend.left)
+- [extend.both](#var_extend.both)
+- [line.new](#fun_line.new)
 
-## line.set\_first\_point
+## line.set_first_point
 
 sets the first point of the \`id\` line to \`point\`.
 
 ### Syntax
 
-line.set\_first\_point(id, point) - void
+line.set_first_point(id, point) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  a [line](#op_line) object.
+  > (`series` `line`)
+
+  > a [line](#op_line) object.
 
 - `point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object.
+  > (`chart.point`)
 
-## line.set\_second\_point
+  > a [chart.point](#op_chart.point) object.
+
+## line.set_second_point
 
 sets the second point of the \`id\` line to \`point\`.
 
 ### Syntax
 
-line.set\_second\_point(id, point) - void
+line.set_second_point(id, point) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  a [line](#op_line) object.
+  > (`series` `line`)
+
+  > a [line](#op_line) object.
 
 - `point`
 
-    >  (`chart.point`)
-    
-    >  a [chart.point](#op_chart.point) object.
+  > (`chart.point`)
+
+  > a [chart.point](#op_chart.point) object.
 
 ## line.set_style
 
@@ -9423,25 +9259,25 @@ line.set_style(id, style) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `style`
 
-    >  (`series` `string`)
-    
-    >  New line style.
+  > (`series` `string`)
+
+  > New line style.
 
 ### See also
 
-* [line.style_solid](#var_line.style_solid)
-* [line.style_dotted](#var_line.style_dotted)
-* [line.style_dashed](#var_line.style_dashed)
-* [line.style\_arrow\_left](#var_line.style_arrow_left)
-* [line.style\_arrow\_right](#var_line.style_arrow_right)
-* [line.style\_arrow\_both](#var_line.style_arrow_both)
-* [line.new](#fun_line.new)
+- [line.style_solid](#var_line.style_solid)
+- [line.style_dotted](#var_line.style_dotted)
+- [line.style_dashed](#var_line.style_dashed)
+- [line.style_arrow_left](#var_line.style_arrow_left)
+- [line.style_arrow_right](#var_line.style_arrow_right)
+- [line.style_arrow_both](#var_line.style_arrow_both)
+- [line.new](#fun_line.new)
 
 ## line.set_width
 
@@ -9455,19 +9291,19 @@ line.set_width(id, width) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `width`
 
-    >  (`series` `int`)
-    
-    >  New line width in pixels.
+  > (`series` `int`)
+
+  > New line width in pixels.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.set_x1
 
@@ -9481,19 +9317,19 @@ line.set_x1(id, x) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `x`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
+  > (`series` `int`)
+
+  > bar index or bar time. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.set_x2
 
@@ -9507,19 +9343,19 @@ line.set_x2(id, x) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `x`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
+  > (`series` `int`)
+
+  > bar index or bar time. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.set_xloc
 
@@ -9533,33 +9369,33 @@ line.set_xloc(id, x1, x2, xloc) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `x1`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time of the first point.
+  > (`series` `int`)
+
+  > bar index or bar time of the first point.
 
 - `x2`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time of the second point.
+  > (`series` `int`)
+
+  > bar index or bar time of the second point.
 
 - `xloc`
 
-    >  (`series` `string`)
-    
-    >  New x-location value.
+  > (`series` `string`)
+
+  > New x-location value.
 
 ### See also
 
-* [xloc.bar_index](#var_xloc.bar_index)
-* [xloc.bar_time](#var_xloc.bar_time)
-* [line.new](#fun_line.new)
+- [xloc.bar_index](#var_xloc.bar_index)
+- [xloc.bar_time](#var_xloc.bar_time)
+- [line.new](#fun_line.new)
 
 ## line.set_xy1
 
@@ -9573,25 +9409,25 @@ line.set_xy1(id, x, y) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `x`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
+  > (`series` `int`)
+
+  > bar index or bar time. Note that objects positioned using [xloc.bar_index](#var_xloc.bar_index) cannot be drawn further than 500 bars into the future.
 
 - `y`
 
-    >  (`series` `int`/`float`)
-    
-    >  price.
+  > (`series` `int`/`float`)
+
+  > price.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.set_xy2
 
@@ -9605,25 +9441,25 @@ line.set_xy2(id, x, y) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `x`
 
-    >  (`series` `int`)
-    
-    >  bar index or bar time.
+  > (`series` `int`)
+
+  > bar index or bar time.
 
 - `y`
 
-    >  (`series` `int`/`float`)
-    
-    >  price.
+  > (`series` `int`/`float`)
+
+  > price.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.set_y1
 
@@ -9637,19 +9473,19 @@ line.set_y1(id, y) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `y`
 
-    >  (`series` `int`/`float`)
-    
-    >  price.
+  > (`series` `int`/`float`)
+
+  > price.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## line.set_y2
 
@@ -9663,19 +9499,19 @@ line.set_y2(id, y) - void
 
 - `id`
 
-    >  (`series` `line`)
-    
-    >  line object.
+  > (`series` `line`)
+
+  > line object.
 
 - `y`
 
-    >  (`series` `int`/`float`)
-    
-    >  price.
+  > (`series` `int`/`float`)
+
+  > price.
 
 ### See also
 
-* [line.new](#fun_line.new)
+- [line.new](#fun_line.new)
 
 ## linefill
 
@@ -9689,9 +9525,9 @@ linefill(x) → series linefill
 
 - `x`
 
-    >  (`series` `linefill`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`series` `linefill`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -9699,13 +9535,13 @@ the value of the argument after casting to linefill.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [string](#fun_string)
-* [line](#fun_line)
-* [label](#fun_label)
+- [float](#fun_float)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [string](#fun_string)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## linefill.delete
 
@@ -9719,9 +9555,9 @@ linefill.delete(id) - void
 
 - `id`
 
-    >  (`series` `linefill`)
-    
-    >  a linefill object.
+  > (`series` `linefill`)
+
+  > a linefill object.
 
 ## linefill.get_line1
 
@@ -9735,9 +9571,9 @@ linefill.get_line1(id) → series line
 
 - `id`
 
-    >  (`series` `linefill`)
-    
-    >  a linefill object.
+  > (`series` `linefill`)
+
+  > a linefill object.
 
 ## linefill.get_line2
 
@@ -9751,9 +9587,9 @@ linefill.get_line2(id) → series line
 
 - `id`
 
-    >  (`series` `linefill`)
-    
-    >  a linefill object.
+  > (`series` `linefill`)
+
+  > a linefill object.
 
 ## linefill.new
 
@@ -9767,25 +9603,25 @@ linefill.new(line1, line2, color) → series linefill
 
 - `line1`
 
-    >  (`series` `line`)
-    
-    >  First line object.
+  > (`series` `line`)
+
+  > First line object.
 
 - `line2`
 
-    >  (`series` `line`)
-    
-    >  second line object.
+  > (`series` `line`)
+
+  > second line object.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  the color used to fill the space between the lines.
+  > (`series` `color`)
+
+  > the color used to fill the space between the lines.
 
 ### Returns
 
-the iD of a linefill object that can be passed to other linefill.*() functions.
+the iD of a linefill object that can be passed to other linefill.\*() functions.
 
 ### Remarks
 
@@ -9805,15 +9641,15 @@ linefill.set_color(id, color) - void
 
 - `id`
 
-    >  (`series` `linefill`)
-    
-    >  a linefill object.
+  > (`series` `linefill`)
+
+  > a linefill object.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  the color of the linefill object.
+  > (`series` `color`)
+
+  > the color of the linefill object.
 
 ## log.error
 
@@ -9825,19 +9661,17 @@ the formatting string can contain literal text and one placeholder in curly brac
 
 ### syntax & Overloads
 
-> [log.error(message) - void](#fun_log.error-0)
-> [log.error(formatstring, arg0, arg1, ...) - void](#fun_log.error-1)
+> [log.error(message) - void](#fun_log.error-0) > [log.error(formatstring, arg0, arg1, ...) - void](#fun_log.error-1)
 
 ### Arguments
 
 - `message`
 
-    >  (`series` `string`)
-    
-    >  Log message.
+  > (`series` `string`)
+
+  > Log message.
 
 ### Example
-
 
 ```s
 
@@ -9874,7 +9708,7 @@ any curly braces within an unquoted pattern must be balanced. For example, "ab {
 
 the function can apply additional formatting to some values inside of the `{}`. the list of additional formatting options can be found in the EXaMpLE section of the [str.format](#fun_str.format) article.
 
-the "pine Logs..." button is accessible from the "More" dropdown in the pine Editor and from the "More" dropdown in the status line of any script that uses \`log.*()\` functions.
+the "pine Logs..." button is accessible from the "More" dropdown in the pine Editor and from the "More" dropdown in the status line of any script that uses \`log.\*()\` functions.
 
 ## log.info
 
@@ -9886,19 +9720,17 @@ the formatting string can contain literal text and one placeholder in curly brac
 
 ### syntax & Overloads
 
-> [log.info(message) - void](#fun_log.info-0)
-> [log.info(formatstring, arg0, arg1, ...) - void](#fun_log.info-1)
+> [log.info(message) - void](#fun_log.info-0) > [log.info(formatstring, arg0, arg1, ...) - void](#fun_log.info-1)
 
 ### Arguments
 
 - `message`
 
-    >  (`series` `string`)
-    
-    >  Log message.
+  > (`series` `string`)
+
+  > Log message.
 
 ### Example
-
 
 ```s
 
@@ -9935,7 +9767,7 @@ any curly braces within an unquoted pattern must be balanced. For example, "ab {
 
 the function can apply additional formatting to some values inside of the `{}`. the list of additional formatting options can be found in the EXaMpLE section of the [str.format](#fun_str.format) article.
 
-the "pine Logs..." button is accessible from the "More" dropdown in the pine Editor and from the "More" dropdown in the status line of any script that uses \`log.*()\` functions.
+the "pine Logs..." button is accessible from the "More" dropdown in the pine Editor and from the "More" dropdown in the status line of any script that uses \`log.\*()\` functions.
 
 ## log.warning
 
@@ -9947,19 +9779,17 @@ the formatting string can contain literal text and one placeholder in curly brac
 
 ### syntax & Overloads
 
-> [log.warning(message) - void](#fun_log.warning-0)
-> [log.warning(formatstring, arg0, arg1, ...) - void](#fun_log.warning-1)
+> [log.warning(message) - void](#fun_log.warning-0) > [log.warning(formatstring, arg0, arg1, ...) - void](#fun_log.warning-1)
 
 ### Arguments
 
 - `message`
 
-    >  (`series` `string`)
-    
-    >  Log message.
+  > (`series` `string`)
+
+  > Log message.
 
 ### Example
-
 
 ```s
 
@@ -9996,7 +9826,7 @@ any curly braces within an unquoted pattern must be balanced. For example, "ab {
 
 the function can apply additional formatting to some values inside of the `{}`. the list of additional formatting options can be found in the EXaMpLE section of the [str.format](#fun_str.format) article.
 
-the "pine Logs..." button is accessible from the "More" dropdown in the pine Editor and from the "More" dropdown in the status line of any script that uses \`log.*()\` functions.
+the "pine Logs..." button is accessible from the "More" dropdown in the pine Editor and from the "More" dropdown in the status line of any script that uses \`log.\*()\` functions.
 
 ## map.clear
 
@@ -10010,12 +9840,11 @@ map.clear(id) - void
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 ### Example
-
 
 ```s
 
@@ -10033,10 +9862,11 @@ plot(oddmap.size())
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put_all](#fun_map.put_all)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.remove](#fun_map.remove)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put_all](#fun_map.put_all)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.remove](#fun_map.remove)
 
 ## map.contains
 
@@ -10050,18 +9880,17 @@ map.contains(id, key) → series bool
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 - `key`
 
-    >  (`series` <`type` `of` `the` `map's` `elements`>;)
-    
-    >  the key to search in the map.
+  > (`series` <`type` `of` `the` `map's` `elements`>;)
+
+  > the key to search in the map.
 
 ### Example
-
 
 ```s
 
@@ -10079,10 +9908,11 @@ plot(p)
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.size](#fun_map.size)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.size](#fun_map.size)
 
 ## map.copy
 
@@ -10096,12 +9926,11 @@ map.copy(id) - map<keyType, valueType>;
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object to copy.
+  > (`any` `map` `type`)
+
+  > a map object to copy.
 
 ### Example
-
 
 ```s
 
@@ -10124,11 +9953,12 @@ a copy of the \`id\` map.
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.get](#fun_map.get)
-* [map.size](#fun_map.size)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.get](#fun_map.get)
+- [map.size](#fun_map.size)
 
 ## map.get
 
@@ -10142,18 +9972,17 @@ map.get(id, key) - <value_type>;
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 - `key`
 
-    >  (`series` <`type` `of` `the` `map's` `elements`>;)
-    
-    >  the key of the value to retrieve.
+  > (`series` <`type` `of` `the` `map's` `elements`>;)
+
+  > the key of the value to retrieve.
 
 ### Example
-
 
 ```s
 
@@ -10170,10 +9999,11 @@ plot(map.get(a, 1))
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.contains](#fun_map.contains)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.contains](#fun_map.contains)
 
 ## map.keys
 
@@ -10187,12 +10017,11 @@ map.keys(id) - type\[\]
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 ### Example
-
 
 ```s
 
@@ -10218,10 +10047,11 @@ maps maintain insertion order. the elements within the array returned by this fu
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.get](#fun_map.get)
-* [map.values](#fun_map.values)
-* [map.size](#fun_map.size)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.get](#fun_map.get)
+- [map.values](#fun_map.values)
+- [map.size](#fun_map.size)
 
 ## map.new<type,type>;
 
@@ -10237,7 +10067,6 @@ map.new<keyType, valueType>;() - map<keyType, valueType>;
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -10251,7 +10080,7 @@ label.new(bar_index, close, str.tostring(a.get("example")))
 
 ### Returns
 
-the iD of a map object which may be used in other map.*() functions.
+the iD of a map object which may be used in other map.\*() functions.
 
 ### Remarks
 
@@ -10261,11 +10090,11 @@ maps maintain insertion order. Note that the order does not change when insertin
 
 ### See also
 
-* [map.put](#fun_map.put)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.get](#fun_map.get)
-* [array.new<type>;](#fun_array.new%3Ctype%3E)
+- [map.put](#fun_map.put)
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.get](#fun_map.get)
+- [array.new<type>;](#fun_array.new%3Ctype%3E)
 
 ## map.put
 
@@ -10279,24 +10108,23 @@ map.put(id, key, value) - <value_type>;
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 - `key`
 
-    >  (`series` <`type` `of` `the` `map's` `elements`>;)
-    
-    >  the key to put into the map.
+  > (`series` <`type` `of` `the` `map's` `elements`>;)
+
+  > the key to put into the map.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `map's` `elements`>;)
-    
-    >  the key value to put into the map.
+  > (`series` <`type` `of` `the` `map's` `elements`>;)
+
+  > the key value to put into the map.
 
 ### Example
-
 
 ```s
 
@@ -10323,10 +10151,11 @@ maps maintain insertion order. Note that the order does not change when insertin
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put_all](#fun_map.put_all)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.remove](#fun_map.remove)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put_all](#fun_map.put_all)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.remove](#fun_map.remove)
 
 ## map.put_all
 
@@ -10340,18 +10169,17 @@ map.put_all(id, id2) - void
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object to append to.
+  > (`any` `map` `type`)
+
+  > a map object to append to.
 
 - `id2`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object to be appended.
+  > (`any` `map` `type`)
+
+  > a map object to be appended.
 
 ### Example
-
 
 ```s
 
@@ -10370,10 +10198,11 @@ plot(a.get("third"))
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.remove](#fun_map.remove)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.remove](#fun_map.remove)
 
 ## map.remove
 
@@ -10387,18 +10216,17 @@ map.remove(id, key) - <value_type>;
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 - `key`
 
-    >  (`series` <`type` `of` `the` `map's` `elements`>;)
-    
-    >  the key of the pair to remove from the map.
+  > (`series` <`type` `of` `the` `map's` `elements`>;)
+
+  > the key of the pair to remove from the map.
 
 ### Example
-
 
 ```s
 
@@ -10418,10 +10246,11 @@ the previous value associated with \`key\` if the key was present in the map, or
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.clear](#fun_map.clear)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.clear](#fun_map.clear)
 
 ## map.size
 
@@ -10435,12 +10264,11 @@ map.size(id) → series int
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 ### Example
-
 
 ```s
 
@@ -10457,10 +10285,11 @@ plot(map.size(a))
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.keys](#fun_map.keys)
-* [map.values](#fun_map.values)
-* [map.get](#fun_map.get)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.keys](#fun_map.keys)
+- [map.values](#fun_map.values)
+- [map.get](#fun_map.get)
 
 ## map.values
 
@@ -10474,12 +10303,11 @@ map.values(id) - type\[\]
 
 - `id`
 
-    >  (`any` `map` `type`)
-    
-    >  a map object.
+  > (`any` `map` `type`)
+
+  > a map object.
 
 ### Example
-
 
 ```s
 
@@ -10505,10 +10333,11 @@ maps maintain insertion order. the elements within the array returned by this fu
 
 ### See also
 
-> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)* [map.put](#fun_map.put)
-* [map.get](#fun_map.get)
-* [map.keys](#fun_map.keys)
-* [map.size](#fun_map.size)
+> [map.new<type,type>;](#fun_map.new%3Ctype,type%3E)\* [map.put](#fun_map.put)
+
+- [map.get](#fun_map.get)
+- [map.keys](#fun_map.keys)
+- [map.size](#fun_map.size)
 
 ## math.abs
 
@@ -10518,22 +10347,15 @@ absolute value of \`number\` is \`number\` if \`number\` >= 0, or -\`number\` ot
 
 ### syntax & Overloads
 
-> [math.abs(number) → const int](#fun_math.abs-0)
-> [math.abs(number) → input int](#fun_math.abs-1)
-> [math.abs(number) → const float](#fun_math.abs-2)
-> [math.abs(number) → simple int](#fun_math.abs-3)
-> [math.abs(number) → input float](#fun_math.abs-4)
-> [math.abs(number) → series int](#fun_math.abs-5)
-> [math.abs(number) → simple float](#fun_math.abs-6)
-> [math.abs(number) → series float](#fun_math.abs-7)
+> [math.abs(number) → const int](#fun_math.abs-0) > [math.abs(number) → input int](#fun_math.abs-1) > [math.abs(number) → const float](#fun_math.abs-2) > [math.abs(number) → simple int](#fun_math.abs-3) > [math.abs(number) → input float](#fun_math.abs-4) > [math.abs(number) → series int](#fun_math.abs-5) > [math.abs(number) → simple float](#fun_math.abs-6) > [math.abs(number) → series float](#fun_math.abs-7)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -10547,18 +10369,15 @@ the acos function returns the arccosine (in radians) of number such that cos(aco
 
 ### syntax & Overloads
 
-> [math.acos(angle) → const float](#fun_math.acos-0)
-> [math.acos(angle) → input float](#fun_math.acos-1)
-> [math.acos(angle) → simple float](#fun_math.acos-2)
-> [math.acos(angle) → series float](#fun_math.acos-3)
+> [math.acos(angle) → const float](#fun_math.acos-0) > [math.acos(angle) → input float](#fun_math.acos-1) > [math.acos(angle) → simple float](#fun_math.acos-2) > [math.acos(angle) → series float](#fun_math.acos-3)
 
 ### Arguments
 
 - `angle`
 
-    >  (`const` `int`/`float`)
-    
-    >  the value, in radians, to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the value, in radians, to use in the calculation.
 
 ### Returns
 
@@ -10572,18 +10391,15 @@ the asin function returns the arcsine (in radians) of number such that sin(asin(
 
 ### syntax & Overloads
 
-> [math.asin(angle) → const float](#fun_math.asin-0)
-> [math.asin(angle) → input float](#fun_math.asin-1)
-> [math.asin(angle) → simple float](#fun_math.asin-2)
-> [math.asin(angle) → series float](#fun_math.asin-3)
+> [math.asin(angle) → const float](#fun_math.asin-0) > [math.asin(angle) → input float](#fun_math.asin-1) > [math.asin(angle) → simple float](#fun_math.asin-2) > [math.asin(angle) → series float](#fun_math.asin-3)
 
 ### Arguments
 
 - `angle`
 
-    >  (`const` `int`/`float`)
-    
-    >  the value, in radians, to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the value, in radians, to use in the calculation.
 
 ### Returns
 
@@ -10597,18 +10413,15 @@ the atan function returns the arctangent (in radians) of number such that tan(at
 
 ### syntax & Overloads
 
-> [math.atan(angle) → const float](#fun_math.atan-0)
-> [math.atan(angle) → input float](#fun_math.atan-1)
-> [math.atan(angle) → simple float](#fun_math.atan-2)
-> [math.atan(angle) → series float](#fun_math.atan-3)
+> [math.atan(angle) → const float](#fun_math.atan-0) > [math.atan(angle) → input float](#fun_math.atan-1) > [math.atan(angle) → simple float](#fun_math.atan-2) > [math.atan(angle) → series float](#fun_math.atan-3)
 
 ### Arguments
 
 - `angle`
 
-    >  (`const` `int`/`float`)
-    
-    >  the value, in radians, to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the value, in radians, to use in the calculation.
 
 ### Returns
 
@@ -10622,16 +10435,15 @@ Calculates average of all given series (elementwise).
 
 ### syntax & Overloads
 
-> [math.avg(number0, number1, ...) → simple float](#fun_math.avg-0)
-> [math.avg(number0, number1, ...) → series float](#fun_math.avg-1)
+> [math.avg(number0, number1, ...) → simple float](#fun_math.avg-0) > [math.avg(number0, number1, ...) → series float](#fun_math.avg-1)
 
 ### Arguments
 
 - `number0, number1, ...`
 
-    >  (`simple` `int`/`float`)
-    
-    >  a sequence of numbers to use in the calculation.
+  > (`simple` `int`/`float`)
+
+  > a sequence of numbers to use in the calculation.
 
 ### Returns
 
@@ -10639,9 +10451,9 @@ average.
 
 ### See also
 
-* [math.sum](#fun_math.sum)
-* [ta.cum](#fun_ta.cum)
-* [ta.sma](#fun_ta.sma)
+- [math.sum](#fun_math.sum)
+- [ta.cum](#fun_ta.cum)
+- [ta.sma](#fun_ta.sma)
 
 ## math.ceil
 
@@ -10651,18 +10463,15 @@ the ceil function returns the smallest (closest to negative infinity) integer th
 
 ### syntax & Overloads
 
-> [math.ceil(number) → const int](#fun_math.ceil-0)
-> [math.ceil(number) → input int](#fun_math.ceil-1)
-> [math.ceil(number) → simple int](#fun_math.ceil-2)
-> [math.ceil(number) → series int](#fun_math.ceil-3)
+> [math.ceil(number) → const int](#fun_math.ceil-0) > [math.ceil(number) → input int](#fun_math.ceil-1) > [math.ceil(number) → simple int](#fun_math.ceil-2) > [math.ceil(number) → series int](#fun_math.ceil-3)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -10670,8 +10479,8 @@ the smallest integer greater than or equal to the given number.
 
 ### See also
 
-* [math.floor](#fun_math.floor)
-* [math.round](#fun_math.round)
+- [math.floor](#fun_math.floor)
+- [math.round](#fun_math.round)
 
 ## math.cos
 
@@ -10681,18 +10490,15 @@ the cos function returns the trigonometric cosine of an angle.
 
 ### syntax & Overloads
 
-> [math.cos(angle) → const float](#fun_math.cos-0)
-> [math.cos(angle) → input float](#fun_math.cos-1)
-> [math.cos(angle) → simple float](#fun_math.cos-2)
-> [math.cos(angle) → series float](#fun_math.cos-3)
+> [math.cos(angle) → const float](#fun_math.cos-0) > [math.cos(angle) → input float](#fun_math.cos-1) > [math.cos(angle) → simple float](#fun_math.cos-2) > [math.cos(angle) → series float](#fun_math.cos-3)
 
 ### Arguments
 
 - `angle`
 
-    >  (`const` `int`/`float`)
-    
-    >  angle, in radians.
+  > (`const` `int`/`float`)
+
+  > angle, in radians.
 
 ### Returns
 
@@ -10706,18 +10512,15 @@ the exp function of \`number\` is e raised to the power of \`number\`, where e i
 
 ### syntax & Overloads
 
-> [math.exp(number) → const float](#fun_math.exp-0)
-> [math.exp(number) → input float](#fun_math.exp-1)
-> [math.exp(number) → simple float](#fun_math.exp-2)
-> [math.exp(number) → series float](#fun_math.exp-3)
+> [math.exp(number) → const float](#fun_math.exp-0) > [math.exp(number) → input float](#fun_math.exp-1) > [math.exp(number) → simple float](#fun_math.exp-2) > [math.exp(number) → series float](#fun_math.exp-3)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`/`float`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -10725,7 +10528,7 @@ a value representing e raised to the power of \`number\`.
 
 ### See also
 
-* [math.pow](#fun_math.pow)
+- [math.pow](#fun_math.pow)
 
 ## math.floor
 
@@ -10733,18 +10536,15 @@ a value representing e raised to the power of \`number\`.
 
 ### syntax & Overloads
 
-> [math.floor(number) → const int](#fun_math.floor-0)
-> [math.floor(number) → input int](#fun_math.floor-1)
-> [math.floor(number) → simple int](#fun_math.floor-2)
-> [math.floor(number) → series int](#fun_math.floor-3)
+> [math.floor(number) → const int](#fun_math.floor-0) > [math.floor(number) → input int](#fun_math.floor-1) > [math.floor(number) → simple int](#fun_math.floor-2) > [math.floor(number) → series int](#fun_math.floor-3)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -10752,8 +10552,8 @@ the largest integer less than or equal to the given number.
 
 ### See also
 
-* [math.ceil](#fun_math.ceil)
-* [math.round](#fun_math.round)
+- [math.ceil](#fun_math.ceil)
+- [math.round](#fun_math.round)
 
 ## math.log
 
@@ -10763,18 +10563,15 @@ Natural logarithm of any \`number\` > 0 is the unique y such that e^y = \`number
 
 ### syntax & Overloads
 
-> [math.log(number) → const float](#fun_math.log-0)
-> [math.log(number) → input float](#fun_math.log-1)
-> [math.log(number) → simple float](#fun_math.log-2)
-> [math.log(number) → series float](#fun_math.log-3)
+> [math.log(number) → const float](#fun_math.log-0) > [math.log(number) → input float](#fun_math.log-1) > [math.log(number) → simple float](#fun_math.log-2) > [math.log(number) → series float](#fun_math.log-3)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`/`float`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -10782,7 +10579,7 @@ the natural logarithm of \`number\`.
 
 ### See also
 
-* [math.log10](#fun_math.log10)
+- [math.log10](#fun_math.log10)
 
 ## math.log10
 
@@ -10792,18 +10589,15 @@ the common (or base 10) logarithm of \`number\` is the power to which 10 must be
 
 ### syntax & Overloads
 
-> [math.log10(number) → const float](#fun_math.log10-0)
-> [math.log10(number) → input float](#fun_math.log10-1)
-> [math.log10(number) → simple float](#fun_math.log10-2)
-> [math.log10(number) → series float](#fun_math.log10-3)
+> [math.log10(number) → const float](#fun_math.log10-0) > [math.log10(number) → input float](#fun_math.log10-1) > [math.log10(number) → simple float](#fun_math.log10-2) > [math.log10(number) → series float](#fun_math.log10-3)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`/`float`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -10811,7 +10605,7 @@ the base 10 logarithm of \`number\`.
 
 ### See also
 
-* [math.log](#fun_math.log)
+- [math.log](#fun_math.log)
 
 ## math.max
 
@@ -10821,23 +10615,17 @@ Returns the greatest of multiple values.
 
 ### syntax & Overloads
 
-> [math.max(number0, number1, ...) → input int](#fun_math.max-0)
-> [math.max(number0, number1, ...) → simple int](#fun_math.max-1)
-> [math.max(number0, number1, ...) → input float](#fun_math.max-2)
-> [math.max(number0, number1, ...) → series int](#fun_math.max-3)
-> [math.max(number0, number1, ...) → simple float](#fun_math.max-4)
-> [math.max(number0, number1, ...) → series float](#fun_math.max-5)
+> [math.max(number0, number1, ...) → input int](#fun_math.max-0) > [math.max(number0, number1, ...) → simple int](#fun_math.max-1) > [math.max(number0, number1, ...) → input float](#fun_math.max-2) > [math.max(number0, number1, ...) → series int](#fun_math.max-3) > [math.max(number0, number1, ...) → simple float](#fun_math.max-4) > [math.max(number0, number1, ...) → series float](#fun_math.max-5)
 
 ### Arguments
 
 - `number0, number1, ...`
 
-    >  (`input` `int`)
-    
-    >  a sequence of numbers to use in the calculation.
+  > (`input` `int`)
+
+  > a sequence of numbers to use in the calculation.
 
 ### Example
-
 
 ```s
 
@@ -10855,7 +10643,7 @@ the greatest of multiple given values.
 
 ### See also
 
-* [math.min](#fun_math.min)
+- [math.min](#fun_math.min)
 
 ## math.min
 
@@ -10865,23 +10653,17 @@ Returns the smallest of multiple values.
 
 ### syntax & Overloads
 
-> [math.min(number0, number1, ...) → input int](#fun_math.min-0)
-> [math.min(number0, number1, ...) → simple int](#fun_math.min-1)
-> [math.min(number0, number1, ...) → input float](#fun_math.min-2)
-> [math.min(number0, number1, ...) → series int](#fun_math.min-3)
-> [math.min(number0, number1, ...) → simple float](#fun_math.min-4)
-> [math.min(number0, number1, ...) → series float](#fun_math.min-5)
+> [math.min(number0, number1, ...) → input int](#fun_math.min-0) > [math.min(number0, number1, ...) → simple int](#fun_math.min-1) > [math.min(number0, number1, ...) → input float](#fun_math.min-2) > [math.min(number0, number1, ...) → series int](#fun_math.min-3) > [math.min(number0, number1, ...) → simple float](#fun_math.min-4) > [math.min(number0, number1, ...) → series float](#fun_math.min-5)
 
 ### Arguments
 
 - `number0, number1, ...`
 
-    >  (`input` `int`)
-    
-    >  a sequence of numbers to use in the calculation.
+  > (`input` `int`)
+
+  > a sequence of numbers to use in the calculation.
 
 ### Example
-
 
 ```s
 
@@ -10899,7 +10681,7 @@ the smallest of multiple given values.
 
 ### See also
 
-* [math.max](#fun_math.max)
+- [math.max](#fun_math.max)
 
 ## math.pow
 
@@ -10909,27 +10691,23 @@ Mathematical power function.
 
 ### syntax & Overloads
 
-> [math.pow(base, exponent) → const float](#fun_math.pow-0)
-> [math.pow(base, exponent) → input float](#fun_math.pow-1)
-> [math.pow(base, exponent) → simple float](#fun_math.pow-2)
-> [math.pow(base, exponent) → series float](#fun_math.pow-3)
+> [math.pow(base, exponent) → const float](#fun_math.pow-0) > [math.pow(base, exponent) → input float](#fun_math.pow-1) > [math.pow(base, exponent) → simple float](#fun_math.pow-2) > [math.pow(base, exponent) → series float](#fun_math.pow-3)
 
 ### Arguments
 
 - `base`
 
-    >  (`const` `int`/`float`)
-    
-    >  specify the base to use.
+  > (`const` `int`/`float`)
+
+  > specify the base to use.
 
 - `exponent`
 
-    >  (`const` `int`/`float`)
-    
-    >  specifies the exponent.
+  > (`const` `int`/`float`)
+
+  > specifies the exponent.
 
 ### Example
-
 
 ```s
 
@@ -10946,8 +10724,8 @@ plot(math.pow(close, 2))
 
 ### See also
 
-* [math.sqrt](#fun_math.sqrt)
-* [math.exp](#fun_math.exp)
+- [math.sqrt](#fun_math.sqrt)
+- [math.exp](#fun_math.exp)
 
 ## math.random
 
@@ -10961,21 +10739,21 @@ math.random(min, max, seed) → series float
 
 - `min`
 
-    >  (`series` `int`/`float`)
-    
-    >  the lower bound of the range of random values. the value is not included in the range. the default is 0.
+  > (`series` `int`/`float`)
+
+  > the lower bound of the range of random values. the value is not included in the range. the default is 0.
 
 - `max`
 
-    >  (`series` `int`/`float`)
-    
-    >  the upper bound of the range of random values. the value is not included in the range. the default is 1.
+  > (`series` `int`/`float`)
+
+  > the upper bound of the range of random values. the value is not included in the range. the default is 1.
 
 - `seed`
 
-    >  (`simple` `int`)
-    
-    >  optional argument. When the same seed is used, allows successive calls to the function to produce a repeatable set of values.
+  > (`simple` `int`)
+
+  > optional argument. When the same seed is used, allows successive calls to the function to produce a repeatable set of values.
 
 ### Returns
 
@@ -10989,22 +10767,15 @@ Returns the value of \`number\` rounded to the nearest integer, with ties roundi
 
 ### syntax & Overloads
 
-> [math.round(number) → const int](#fun_math.round-0)
-> [math.round(number) → input int](#fun_math.round-1)
-> [math.round(number) → simple int](#fun_math.round-2)
-> [math.round(number) → series int](#fun_math.round-3)
-> [math.round(number, precision) → const float](#fun_math.round-4)
-> [math.round(number, precision) → input float](#fun_math.round-5)
-> [math.round(number, precision) → simple float](#fun_math.round-6)
-> [math.round(number, precision) → series float](#fun_math.round-7)
+> [math.round(number) → const int](#fun_math.round-0) > [math.round(number) → input int](#fun_math.round-1) > [math.round(number) → simple int](#fun_math.round-2) > [math.round(number) → series int](#fun_math.round-3) > [math.round(number, precision) → const float](#fun_math.round-4) > [math.round(number, precision) → input float](#fun_math.round-5) > [math.round(number, precision) → simple float](#fun_math.round-6) > [math.round(number, precision) → series float](#fun_math.round-7)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`)
-    
-    >  the value to be rounded.
+  > (`const` `int`)
+
+  > the value to be rounded.
 
 ### Returns
 
@@ -11016,10 +10787,10 @@ Note that for 'na' values function returns 'na'.
 
 ### See also
 
-* [math.ceil](#fun_math.ceil)
-* [math.floor](#fun_math.floor)
+- [math.ceil](#fun_math.ceil)
+- [math.floor](#fun_math.floor)
 
-## math.round\_to\_mintick
+## math.round_to_mintick
 
 +1 overload
 
@@ -11027,16 +10798,15 @@ Returns the value rounded to the symbol's mintick, i.e. the nearest value that c
 
 ### syntax & Overloads
 
-> [math.round\_to\_mintick(number) → simple float](#fun_math.round_to_mintick-0)
-> [math.round\_to\_mintick(number) → series float](#fun_math.round_to_mintick-1)
+> [math.round_to_mintick(number) → simple float](#fun_math.round_to_mintick-0) > [math.round_to_mintick(number) → series float](#fun_math.round_to_mintick-1)
 
 ### Arguments
 
 - `number`
 
-    >  (`simple` `int`/`float`)
-    
-    >  the value to be rounded.
+  > (`simple` `int`/`float`)
+
+  > the value to be rounded.
 
 ### Returns
 
@@ -11048,8 +10818,8 @@ Note that for 'na' values function returns 'na'.
 
 ### See also
 
-* [math.ceil](#fun_math.ceil)
-* [math.floor](#fun_math.floor)
+- [math.ceil](#fun_math.ceil)
+- [math.floor](#fun_math.floor)
 
 ## math.sign
 
@@ -11059,18 +10829,15 @@ sign (signum) of \`number\` is zero if \`number\` is zero, 1.0 if \`number\` is 
 
 ### syntax & Overloads
 
-> [math.sign(number) → const float](#fun_math.sign-0)
-> [math.sign(number) → input float](#fun_math.sign-1)
-> [math.sign(number) → simple float](#fun_math.sign-2)
-> [math.sign(number) → series float](#fun_math.sign-3)
+> [math.sign(number) → const float](#fun_math.sign-0) > [math.sign(number) → input float](#fun_math.sign-1) > [math.sign(number) → simple float](#fun_math.sign-2) > [math.sign(number) → series float](#fun_math.sign-3)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`/`float`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -11084,18 +10851,15 @@ the sin function returns the trigonometric sine of an angle.
 
 ### syntax & Overloads
 
-> [math.sin(angle) → const float](#fun_math.sin-0)
-> [math.sin(angle) → input float](#fun_math.sin-1)
-> [math.sin(angle) → simple float](#fun_math.sin-2)
-> [math.sin(angle) → series float](#fun_math.sin-3)
+> [math.sin(angle) → const float](#fun_math.sin-0) > [math.sin(angle) → input float](#fun_math.sin-1) > [math.sin(angle) → simple float](#fun_math.sin-2) > [math.sin(angle) → series float](#fun_math.sin-3)
 
 ### Arguments
 
 - `angle`
 
-    >  (`const` `int`/`float`)
-    
-    >  angle, in radians.
+  > (`const` `int`/`float`)
+
+  > angle, in radians.
 
 ### Returns
 
@@ -11109,18 +10873,15 @@ square root of any \`number\` >= 0 is the unique y >= 0 such that y^2 = \`number
 
 ### syntax & Overloads
 
-> [math.sqrt(number) → const float](#fun_math.sqrt-0)
-> [math.sqrt(number) → input float](#fun_math.sqrt-1)
-> [math.sqrt(number) → simple float](#fun_math.sqrt-2)
-> [math.sqrt(number) → series float](#fun_math.sqrt-3)
+> [math.sqrt(number) → const float](#fun_math.sqrt-0) > [math.sqrt(number) → input float](#fun_math.sqrt-1) > [math.sqrt(number) → simple float](#fun_math.sqrt-2) > [math.sqrt(number) → series float](#fun_math.sqrt-3)
 
 ### Arguments
 
 - `number`
 
-    >  (`const` `int`/`float`)
-    
-    >  the number to use in the calculation.
+  > (`const` `int`/`float`)
+
+  > the number to use in the calculation.
 
 ### Returns
 
@@ -11128,7 +10889,7 @@ the square root of \`number\`.
 
 ### See also
 
-* [math.pow](#fun_math.pow)
+- [math.pow](#fun_math.pow)
 
 ## math.sum
 
@@ -11142,15 +10903,15 @@ math.sum(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -11162,8 +10923,8 @@ sum of \`source\` for \`length\` bars back.
 
 ### See also
 
-* [ta.cum](#fun_ta.cum)
-* [for](#op_for)
+- [ta.cum](#fun_ta.cum)
+- [for](#op_for)
 
 ## math.tan
 
@@ -11173,18 +10934,15 @@ the tan function returns the trigonometric tangent of an angle.
 
 ### syntax & Overloads
 
-> [math.tan(angle) → const float](#fun_math.tan-0)
-> [math.tan(angle) → input float](#fun_math.tan-1)
-> [math.tan(angle) → simple float](#fun_math.tan-2)
-> [math.tan(angle) → series float](#fun_math.tan-3)
+> [math.tan(angle) → const float](#fun_math.tan-0) > [math.tan(angle) → input float](#fun_math.tan-1) > [math.tan(angle) → simple float](#fun_math.tan-2) > [math.tan(angle) → series float](#fun_math.tan-3)
 
 ### Arguments
 
 - `angle`
 
-    >  (`const` `int`/`float`)
-    
-    >  angle, in radians.
+  > (`const` `int`/`float`)
+
+  > angle, in radians.
 
 ### Returns
 
@@ -11202,9 +10960,9 @@ math.todegrees(radians) → series float
 
 - `radians`
 
-    >  (`series` `int`/`float`)
-    
-    >  angle in radians.
+  > (`series` `int`/`float`)
+
+  > angle in radians.
 
 ### Returns
 
@@ -11222,9 +10980,9 @@ math.toradians(degrees) → series float
 
 - `degrees`
 
-    >  (`series` `int`/`float`)
-    
-    >  angle in degrees.
+  > (`series` `int`/`float`)
+
+  > angle in degrees.
 
 ### Returns
 
@@ -11238,27 +10996,25 @@ the function adds a column at the \`column\` index of the \`id\` matrix. the col
 
 ### syntax & Overloads
 
-> [matrix.add_col(id, column) - void](#fun_matrix.add_col-0)
-> [matrix.add\_col(id, column, array\_id) - void](#fun_matrix.add_col-1)
+> [matrix.add_col(id, column) - void](#fun_matrix.add_col-0) > [matrix.add_col(id, column, array_id) - void](#fun_matrix.add_col-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the column after which the new column will be inserted. optional. the default value is [matrix.columns](#fun_matrix.columns).
+  > (`series` `int`)
+
+  > the index of the column after which the new column will be inserted. optional. the default value is [matrix.columns](#fun_matrix.columns).
 
 > - adding a column to the matrix
 
 ### Example
-
 
 ```s
 
@@ -11283,7 +11039,6 @@ adding an array as a column to the matrix
 ```
 
 ### Example
-
 
 ```s
 
@@ -11314,12 +11069,12 @@ Rather than add columns to an empty matrix, it is far more efficient to declare 
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
-* [matrix.add_row](#fun_matrix.add_row)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
+- [matrix.add_row](#fun_matrix.add_row)
 
 ## matrix.add_row
 
@@ -11329,27 +11084,25 @@ the function adds a row at the \`row\` index of the \`id\` matrix. the row can c
 
 ### syntax & Overloads
 
-> [matrix.add_row(id, row) - void](#fun_matrix.add_row-0)
-> [matrix.add\_row(id, row, array\_id) - void](#fun_matrix.add_row-1)
+> [matrix.add_row(id, row) - void](#fun_matrix.add_row-0) > [matrix.add_row(id, row, array_id) - void](#fun_matrix.add_row-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the row after which the new row will be inserted. optional. the default value is [matrix.rows](#fun_matrix.rows).
+  > (`series` `int`)
+
+  > the index of the row after which the new row will be inserted. optional. the default value is [matrix.rows](#fun_matrix.rows).
 
 > - adding a row to the matrix
 
 ### Example
-
 
 ```s
 
@@ -11374,7 +11127,6 @@ adding an array as a row to the matrix
 ```
 
 ### Example
-
 
 ```s
 
@@ -11405,12 +11157,12 @@ indexing of rows and columns starts at zero. Rather than add rows to an empty ma
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
-* [matrix.add_col](#fun_matrix.add_col)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
+- [matrix.add_col](#fun_matrix.add_col)
 
 ## matrix.avg
 
@@ -11420,19 +11172,17 @@ the function calculates the average of all elements in the matrix.
 
 ### syntax & Overloads
 
-> [matrix.avg(id) → series float](#fun_matrix.avg-0)
-> [matrix.avg(id) → series int](#fun_matrix.avg-1)
+> [matrix.avg(id) → series float](#fun_matrix.avg-0) > [matrix.avg(id) → series int](#fun_matrix.avg-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -11461,11 +11211,11 @@ the average value from the \`id\` matrix.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.col
 
@@ -11479,18 +11229,17 @@ matrix.col(id, column) - type\[\]
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  index of the required column.
+  > (`series` `int`)
+
+  > index of the required column.
 
 ### Example
-
 
 ```s
 
@@ -11519,11 +11268,11 @@ indexing of rows starts at 0.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [array.get](#fun_array.get)
-* [matrix.col](#fun_matrix.col)
-* [matrix.columns](#fun_matrix.columns)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [array.get](#fun_array.get)
+- [matrix.col](#fun_matrix.col)
+- [matrix.columns](#fun_matrix.columns)
 
 ## matrix.columns
 
@@ -11537,12 +11286,11 @@ matrix.columns(id) → series int
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -11569,12 +11317,12 @@ the number of columns in the matrix \`id\`.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.col](#fun_matrix.col)
-* [matrix.row](#fun_matrix.row)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.col](#fun_matrix.col)
+- [matrix.row](#fun_matrix.row)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.concat
 
@@ -11588,18 +11336,17 @@ matrix.concat(id1, id2) - matrix<type>;
 
 - `id1`
 
-    >  (`any` `matrix` `type`)
-    
-    >  Matrix object to concatenate into.
+  > (`any` `matrix` `type`)
+
+  > Matrix object to concatenate into.
 
 - `id2`
 
-    >  (`any` `matrix` `type`)
-    
-    >  Matrix object whose elements will be appended to \`id1\`.
+  > (`any` `matrix` `type`)
+
+  > Matrix object whose elements will be appended to \`id1\`.
 
 ### Example
-
 
 ```s
 
@@ -11633,11 +11380,11 @@ the number of columns in both matrices must be identical.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.copy
 
@@ -11651,12 +11398,11 @@ matrix.copy(id) - matrix<type>;
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object to copy.
+  > (`any` `matrix` `type`)
+
+  > a matrix object to copy.
 
 ### Example
-
 
 ```s
 
@@ -11691,11 +11437,11 @@ a new matrix object of the copied \`id\` matrix.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.det
 
@@ -11705,19 +11451,17 @@ the function returns the [determinant](https://en.wikipedia.org/wiki/Determinant
 
 ### syntax & Overloads
 
-> [matrix.det(id) → series float](#fun_matrix.det-0)
-> [matrix.det(id) → series int](#fun_matrix.det-1)
+> [matrix.det(id) → series float](#fun_matrix.det-0) > [matrix.det(id) → series int](#fun_matrix.det-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -11750,9 +11494,9 @@ Function calculation based on the [Lu decomposition](https://en.wikipedia.org/wi
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.is_square](#fun_matrix.is_square)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.is_square](#fun_matrix.is_square)
 
 ## matrix.diff
 
@@ -11762,27 +11506,25 @@ the function returns a new matrix resulting from the subtraction between matrice
 
 ### syntax & Overloads
 
-> [matrix.diff(id1, id2) - matrix<int>;](#fun_matrix.diff-0)
-> [matrix.diff(id1, id2) - matrix<float>;](#fun_matrix.diff-1)
+> [matrix.diff(id1, id2) - matrix<int>;](#fun_matrix.diff-0) > [matrix.diff(id1, id2) - matrix<float>;](#fun_matrix.diff-1)
 
 ### Arguments
 
 - `id1`
 
-    >  (`matrix`<`int`>;)
-    
-    >  Matrix to subtract from.
+  > (`matrix`<`int`>;)
+
+  > Matrix to subtract from.
 
 - `id2`
 
-    >  (`matrix`<`int`>;)
-    
-    >  Matrix object or a scalar value to be subtracted.
+  > (`matrix`<`int`>;)
+
+  > Matrix object or a scalar value to be subtracted.
 
 > - Difference between two matrices
 
 ### Example
-
 
 ```s
 
@@ -11809,7 +11551,6 @@ Difference between a matrix and a scalar value
 ```
 
 ### Example
-
 
 ```s
 
@@ -11838,11 +11579,11 @@ a new matrix object containing the difference between \`id2\` and \`id1\`.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.eigenvalues
 
@@ -11852,19 +11593,17 @@ the function returns an array containing the [eigenvalues](https://en.wikipedia.
 
 ### syntax & Overloads
 
-> [matrix.eigenvalues(id) - float\[\]](#fun_matrix.eigenvalues-0)
-> [matrix.eigenvalues(id) - int\[\]](#fun_matrix.eigenvalues-1)
+> [matrix.eigenvalues(id) - float\[\]](#fun_matrix.eigenvalues-0) > [matrix.eigenvalues(id) - int\[\]](#fun_matrix.eigenvalues-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -11904,9 +11643,9 @@ the function is calculated using "the implicit qL algorithm".
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.eigenvectors](#fun_matrix.eigenvectors)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.eigenvectors](#fun_matrix.eigenvectors)
 
 ## matrix.eigenvectors
 
@@ -11916,19 +11655,17 @@ Returns a matrix of [eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and
 
 ### syntax & Overloads
 
-> [matrix.eigenvectors(id) - matrix<float>;](#fun_matrix.eigenvectors-0)
-> [matrix.eigenvectors(id) - matrix<int>;](#fun_matrix.eigenvectors-1)
+> [matrix.eigenvectors(id) - matrix<float>;](#fun_matrix.eigenvectors-0) > [matrix.eigenvectors(id) - matrix<int>;](#fun_matrix.eigenvectors-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -11968,10 +11705,10 @@ the function is calculated using "the implicit qL algorithm".
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.eigenvalues](#fun_matrix.eigenvalues)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.eigenvalues](#fun_matrix.eigenvalues)
 
 ## matrix.elements_count
 
@@ -11985,64 +11722,63 @@ matrix.elements_count(id) → series int
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.fill
 
-the function fills a rectangular area of the \`id\` matrix defined by the indices \`from\_column\` to \`to\_column\` (not including it) and \`from\_row\` to \`to\_row\`(not including it) with the \`value\`.
+the function fills a rectangular area of the \`id\` matrix defined by the indices \`from_column\` to \`to_column\` (not including it) and \`from_row\` to \`to_row\`(not including it) with the \`value\`.
 
 ### Syntax
 
-matrix.fill(id, value, from\_row, to\_row, from\_column, to\_column) - void
+matrix.fill(id, value, from_row, to_row, from_column, to_column) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `matrix's` `elements`>;)
-    
-    >  the value to fill with.
+  > (`series` <`type` `of` `the` `matrix's` `elements`>;)
+
+  > the value to fill with.
 
 - `from_row`
 
-    >  (`series` `int`)
-    
-    >  Row index from which the fill will begin (inclusive). optional. the default value is 0.
+  > (`series` `int`)
+
+  > Row index from which the fill will begin (inclusive). optional. the default value is 0.
 
 - `to_row`
 
-    >  (`series` `int`)
-    
-    >  Row index where the fill will end (not inclusive). optional. the default value is [matrix.rows](#fun_matrix.rows).
+  > (`series` `int`)
+
+  > Row index where the fill will end (not inclusive). optional. the default value is [matrix.rows](#fun_matrix.rows).
 
 - `from_column`
 
-    >  (`series` `int`)
-    
-    >  column index from which the fill will begin (inclusive). optional. the default value is 0.
+  > (`series` `int`)
+
+  > column index from which the fill will begin (inclusive). optional. the default value is 0.
 
 - `to_column`
 
-    >  (`series` `int`)
-    
-    >  column index where the fill will end (non inclusive). optional. the default value is [matrix.columns](#fun_matrix.columns).
+  > (`series` `int`)
+
+  > column index where the fill will end (non inclusive). optional. the default value is [matrix.columns](#fun_matrix.columns).
 
 ### Example
-
 
 ```s
 
@@ -12064,11 +11800,11 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.get
 
@@ -12082,24 +11818,23 @@ matrix.get(id, row, column) - <matrix_type>;
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  index of the required row.
+  > (`series` `int`)
+
+  > index of the required row.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  index of the required column.
+  > (`series` `int`)
+
+  > index of the required column.
 
 ### Example
-
 
 ```s
 
@@ -12127,10 +11862,10 @@ indexing of the rows and columns starts at zero.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.inv
 
@@ -12140,19 +11875,17 @@ the function returns the [inverse](https://en.wikipedia.org/wiki/invertible_matr
 
 ### syntax & Overloads
 
-> [matrix.inv(id) - matrix<float>;](#fun_matrix.inv-0)
-> [matrix.inv(id) - matrix<int>;](#fun_matrix.inv-1)
+> [matrix.inv(id) - matrix<float>;](#fun_matrix.inv-0) > [matrix.inv(id) - matrix<int>;](#fun_matrix.inv-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -12192,11 +11925,11 @@ the function is calculated using the [Lu decomposition](https://en.wikipedia.org
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.pinv](#fun_matrix.pinv)
-* [matrix.copy](#fun_matrix.copy)
-* [str.tostring](#fun_str.tostring)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.pinv](#fun_matrix.pinv)
+- [matrix.copy](#fun_matrix.copy)
+- [str.tostring](#fun_str.tostring)
 
 ## matrix.is_antidiagonal
 
@@ -12210,9 +11943,9 @@ matrix.is_antidiagonal(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12224,11 +11957,11 @@ Returns false with non-square matrices.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.is_square](#fun_matrix.is_square)
-* [matrix.is_identity](#fun_matrix.is_identity)
-* [matrix.is_diagonal](#fun_matrix.is_diagonal)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.is_square](#fun_matrix.is_square)
+- [matrix.is_identity](#fun_matrix.is_identity)
+- [matrix.is_diagonal](#fun_matrix.is_diagonal)
 
 ## matrix.is_antisymmetric
 
@@ -12242,9 +11975,9 @@ matrix.is_antisymmetric(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12256,10 +11989,10 @@ Returns false with non-square matrices.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.is_square](#fun_matrix.is_square)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.is_square](#fun_matrix.is_square)
 
 ## matrix.is_binary
 
@@ -12273,9 +12006,9 @@ matrix.is_binary(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12283,9 +12016,9 @@ Returns true if the \`id\` matrix is binary, false otherwise.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
 
 ## matrix.is_diagonal
 
@@ -12299,9 +12032,9 @@ matrix.is_diagonal(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12313,11 +12046,11 @@ Returns false with non-square matrices.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.is_square](#fun_matrix.is_square)
-* [matrix.is_identity](#fun_matrix.is_identity)
-* [matrix.is_antidiagonal](#fun_matrix.is_antidiagonal)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.is_square](#fun_matrix.is_square)
+- [matrix.is_identity](#fun_matrix.is_identity)
+- [matrix.is_antidiagonal](#fun_matrix.is_antidiagonal)
 
 ## matrix.is_identity
 
@@ -12331,9 +12064,9 @@ matrix.is_identity(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12345,9 +12078,9 @@ Returns false with non-square matrices.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.is_square](#fun_matrix.is_square)
-* [matrix.is_diagonal](#fun_matrix.is_diagonal)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.is_square](#fun_matrix.is_square)
+- [matrix.is_diagonal](#fun_matrix.is_diagonal)
 
 ## matrix.is_square
 
@@ -12361,9 +12094,9 @@ matrix.is_square(id) → series bool
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  Matrix object to test.
+  > (`any` `matrix` `type`)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12371,11 +12104,11 @@ Returns true if the \`id\` matrix is square, false otherwise.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.is_stochastic
 
@@ -12389,9 +12122,9 @@ matrix.is_stochastic(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12399,8 +12132,8 @@ Returns true if the \`id\` matrix is stochastic, false otherwise.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
 
 ## matrix.is_symmetric
 
@@ -12414,9 +12147,9 @@ matrix.is_symmetric(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12428,10 +12161,10 @@ Returns false with non-square matrices.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.is_square](#fun_matrix.is_square)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.is_square](#fun_matrix.is_square)
 
 ## matrix.is_triangular
 
@@ -12445,9 +12178,9 @@ matrix.is_triangular(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to test.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to test.
 
 ### Returns
 
@@ -12459,9 +12192,9 @@ Returns false with non-square matrices.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.is_square](#fun_matrix.is_square)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.is_square](#fun_matrix.is_square)
 
 ## matrix.is_zero
 
@@ -12475,9 +12208,9 @@ matrix.is_zero(id) → series bool
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  Matrix object to check.
+  > (`matrix`<`float`>;)
+
+  > Matrix object to check.
 
 ### Returns
 
@@ -12485,9 +12218,9 @@ Returns true if all elements of the \`id\` matrix are zero, false otherwise.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
 
 ## matrix.kron
 
@@ -12497,25 +12230,23 @@ the function returns the [Kronecker product](https://en.wikipedia.org/wiki/Krone
 
 ### syntax & Overloads
 
-> [matrix.kron(id1, id2) - matrix<float>;](#fun_matrix.kron-0)
-> [matrix.kron(id1, id2) - matrix<int>;](#fun_matrix.kron-1)
+> [matrix.kron(id1, id2) - matrix<float>;](#fun_matrix.kron-0) > [matrix.kron(id1, id2) - matrix<int>;](#fun_matrix.kron-1)
 
 ### Arguments
 
 - `id1`
 
-    >  (`matrix`<`float`>;)
-    
-    >  First matrix object.
+  > (`matrix`<`float`>;)
+
+  > First matrix object.
 
 - `id2`
 
-    >  (`matrix`<`float`>;)
-    
-    >  second matrix object.
+  > (`matrix`<`float`>;)
+
+  > second matrix object.
 
 ### Example
-
 
 ```s
 
@@ -12551,10 +12282,10 @@ a new matrix containing the [Kronecker product](https://en.wikipedia.org/wiki/Kr
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.mult](#fun_matrix.mult)
-* [str.tostring](#fun_str.tostring)
-* [table.new](#fun_table.new)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.mult](#fun_matrix.mult)
+- [str.tostring](#fun_str.tostring)
+- [table.new](#fun_table.new)
 
 ## matrix.max
 
@@ -12564,19 +12295,17 @@ the function returns the largest value from the matrix elements.
 
 ### syntax & Overloads
 
-> [matrix.max(id) → series float](#fun_matrix.max-0)
-> [matrix.max(id) → series int](#fun_matrix.max-1)
+> [matrix.max(id) → series float](#fun_matrix.max-0) > [matrix.max(id) → series int](#fun_matrix.max-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -12605,10 +12334,10 @@ the maximum value from the \`id\` matrix.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.min](#fun_matrix.min)
-* [matrix.avg](#fun_matrix.avg)
-* [matrix.sort](#fun_matrix.sort)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.min](#fun_matrix.min)
+- [matrix.avg](#fun_matrix.avg)
+- [matrix.sort](#fun_matrix.sort)
 
 ## matrix.median
 
@@ -12618,19 +12347,17 @@ the function calculates the [median](https://en.wikipedia.org/wiki/Median) ("the
 
 ### syntax & Overloads
 
-> [matrix.median(id) → series float](#fun_matrix.median-0)
-> [matrix.median(id) → series int](#fun_matrix.median-1)
+> [matrix.median(id) → series float](#fun_matrix.median-0) > [matrix.median(id) → series int](#fun_matrix.median-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -12659,10 +12386,10 @@ Note that [na](#var_na) elements of the matrix are not considered when calculati
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.mode](#fun_matrix.mode)
-* [matrix.sort](#fun_matrix.sort)
-* [matrix.avg](#fun_matrix.avg)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.mode](#fun_matrix.mode)
+- [matrix.sort](#fun_matrix.sort)
+- [matrix.avg](#fun_matrix.avg)
 
 ## matrix.min
 
@@ -12672,19 +12399,17 @@ the function returns the smallest value from the matrix elements.
 
 ### syntax & Overloads
 
-> [matrix.min(id) → series float](#fun_matrix.min-0)
-> [matrix.min(id) → series int](#fun_matrix.min-1)
+> [matrix.min(id) → series float](#fun_matrix.min-0) > [matrix.min(id) → series int](#fun_matrix.min-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -12713,32 +12438,30 @@ the smallest value from the \`id\` matrix.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.max](#fun_matrix.max)
-* [matrix.avg](#fun_matrix.avg)
-* [matrix.sort](#fun_matrix.sort)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.max](#fun_matrix.max)
+- [matrix.avg](#fun_matrix.avg)
+- [matrix.sort](#fun_matrix.sort)
 
 ## matrix.mode
 
 +1 overload
 
-the function calculates the [mode](https://en.wikipedia.org/wiki/Mode_(statistics)) of the matrix, which is the most frequently occurring value from the matrix elements. When there are multiple values occurring equally frequently, the function returns the smallest of those values.
+the function calculates the [mode](<https://en.wikipedia.org/wiki/Mode_(statistics)>) of the matrix, which is the most frequently occurring value from the matrix elements. When there are multiple values occurring equally frequently, the function returns the smallest of those values.
 
 ### syntax & Overloads
 
-> [matrix.mode(id) → series float](#fun_matrix.mode-0)
-> [matrix.mode(id) → series int](#fun_matrix.mode-1)
+> [matrix.mode(id) → series float](#fun_matrix.mode-0) > [matrix.mode(id) → series int](#fun_matrix.mode-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -12771,11 +12494,11 @@ Note that [na](#var_na) elements of the matrix are not considered when calculati
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.median](#fun_matrix.median)
-* [matrix.sort](#fun_matrix.sort)
-* [matrix.avg](#fun_matrix.avg)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.median](#fun_matrix.median)
+- [matrix.sort](#fun_matrix.sort)
+- [matrix.avg](#fun_matrix.avg)
 
 ## matrix.mult
 
@@ -12785,29 +12508,25 @@ the function returns a new matrix resulting from the [product](https://en.wikipe
 
 ### syntax & Overloads
 
-> [matrix.mult(id1, id2) - matrix<int>;](#fun_matrix.mult-0)
-> [matrix.mult(id1, id2) - matrix<float>;](#fun_matrix.mult-1)
-> [matrix.mult(id1, id2) - int\[\]](#fun_matrix.mult-2)
-> [matrix.mult(id1, id2) - float\[\]](#fun_matrix.mult-3)
+> [matrix.mult(id1, id2) - matrix<int>;](#fun_matrix.mult-0) > [matrix.mult(id1, id2) - matrix<float>;](#fun_matrix.mult-1) > [matrix.mult(id1, id2) - int\[\]](#fun_matrix.mult-2) > [matrix.mult(id1, id2) - float\[\]](#fun_matrix.mult-3)
 
 ### Arguments
 
 - `id1`
 
-    >  (`matrix`<`int`>;)
-    
-    >  First matrix object.
+  > (`matrix`<`int`>;)
+
+  > First matrix object.
 
 - `id2`
 
-    >  (`matrix`<`int`>;)
-    
-    >  second matrix object, value or array.
+  > (`matrix`<`int`>;)
+
+  > second matrix object, value or array.
 
 > - product of two matrices
 
 ### Example
-
 
 ```s
 
@@ -12835,7 +12554,6 @@ product of a matrix and a scalar
 ```
 
 ### Example
-
 
 ```s
 
@@ -12868,7 +12586,6 @@ product of a matrix and an array vector
 ```
 
 ### Example
-
 
 ```s
 
@@ -12906,9 +12623,9 @@ a new matrix object containing the product of \`id2\` and \`id1\`.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.sum](#fun_matrix.sum)
-* [matrix.diff](#fun_matrix.diff)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.sum](#fun_matrix.sum)
+- [matrix.diff](#fun_matrix.diff)
 
 ## matrix.new<type>;
 
@@ -12922,26 +12639,25 @@ matrix.new<type>;(rows, columns, initial_value) - matrix<type>;
 
 - `rows`
 
-    >  (`series` `int`)
-    
-    >  initial row count of the matrix. optional. the default value is 0.
+  > (`series` `int`)
+
+  > initial row count of the matrix. optional. the default value is 0.
 
 - `columns`
 
-    >  (`series` `int`)
-    
-    >  initial column count of the matrix. optional. the default value is 0.
+  > (`series` `int`)
+
+  > initial column count of the matrix. optional. the default value is 0.
 
 - `initial\_value`
 
-    >  (<`matrix`\`_type`>;)
-    
-    >  initial value of all matrix elements. optional. the default is 'na'.
+  > (<`matrix`\`\_type`>;)
+
+  > initial value of all matrix elements. optional. the default is 'na'.
 
 > - Create a matrix of elements with the same initial value
 
 ### Example
-
 
 ```s
 
@@ -12961,7 +12677,6 @@ Create a matrix from array values
 ```
 
 ### Example
-
 
 ```s
 
@@ -12988,7 +12703,6 @@ Create a matrix from an `input.text_area()` field
 ```
 
 ### Example
-
 
 ```s
 
@@ -13030,7 +12744,6 @@ Create matrix from random values
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -13060,11 +12773,11 @@ the iD of the new matrix object.
 
 ### See also
 
-* [matrix.set](#fun_matrix.set)
-* [matrix.fill](#fun_matrix.fill)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
-* [array.new<type>;](#fun_array.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.fill](#fun_matrix.fill)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
+- [array.new<type>;](#fun_array.new%3Ctype%3E)
 
 ## matrix.pinv
 
@@ -13074,19 +12787,17 @@ the function returns the [pseudoinverse](https://en.wikipedia.org/wiki/Moore%E2%
 
 ### syntax & Overloads
 
-> [matrix.pinv(id) - matrix<float>;](#fun_matrix.pinv-0)
-> [matrix.pinv(id) - matrix<int>;](#fun_matrix.pinv-1)
+> [matrix.pinv(id) - matrix<float>;](#fun_matrix.pinv-0) > [matrix.pinv(id) - matrix<int>;](#fun_matrix.pinv-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -13126,9 +12837,9 @@ the function is calculated using a [Moore-penrose](https://en.wikipedia.org/wiki
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.inv](#fun_matrix.inv)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.inv](#fun_matrix.inv)
 
 ## matrix.pow
 
@@ -13138,25 +12849,23 @@ the function calculates the product of the matrix by itself \`power\` times.
 
 ### syntax & Overloads
 
-> [matrix.pow(id, power) - matrix<float>;](#fun_matrix.pow-0)
-> [matrix.pow(id, power) - matrix<int>;](#fun_matrix.pow-1)
+> [matrix.pow(id, power) - matrix<float>;](#fun_matrix.pow-0) > [matrix.pow(id, power) - matrix<int>;](#fun_matrix.pow-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 - `power`
 
-    >  (`series` `int`)
-    
-    >  the number of times the matrix will be multiplied by itself.
+  > (`series` `int`)
+
+  > the number of times the matrix will be multiplied by itself.
 
 ### Example
-
 
 ```s
 
@@ -13186,13 +12895,13 @@ the product of the \`id\` matrix by itself \`power\` times.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.mult](#fun_matrix.mult)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.mult](#fun_matrix.mult)
 
 ## matrix.rank
 
-the function calculates the [rank](https://en.wikipedia.org/wiki/Rank_(linear_algebra)) of the matrix.
+the function calculates the [rank](<https://en.wikipedia.org/wiki/Rank_(linear_algebra)>) of the matrix.
 
 ### Syntax
 
@@ -13202,12 +12911,11 @@ matrix.rank(id) → series int
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -13243,9 +12951,9 @@ the rank of the \`id\` matrix.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [str.tostring](#fun_str.tostring)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [str.tostring](#fun_str.tostring)
 
 ## matrix.remove_col
 
@@ -13259,18 +12967,17 @@ matrix.remove_col(id, column) - type\[\]
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the column to be removed. optional. the default value is [matrix.columns](#fun_matrix.columns).
+  > (`series` `int`)
+
+  > the index of the column to be removed. optional. the default value is [matrix.columns](#fun_matrix.columns).
 
 ### Example
-
 
 ```s
 
@@ -13315,10 +13022,10 @@ indexing of rows and columns starts at zero. it is far more efficient to declare
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.copy](#fun_matrix.copy)
-* [matrix.remove_row](#fun_matrix.remove_row)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.copy](#fun_matrix.copy)
+- [matrix.remove_row](#fun_matrix.remove_row)
 
 ## matrix.remove_row
 
@@ -13332,18 +13039,17 @@ matrix.remove_row(id, row) - type\[\]
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the row to be deleted. optional. the default value is [matrix.rows](#fun_matrix.rows).
+  > (`series` `int`)
+
+  > the index of the row to be deleted. optional. the default value is [matrix.rows](#fun_matrix.rows).
 
 ### Example
-
 
 ```s
 
@@ -13387,10 +13093,10 @@ indexing of rows and columns starts at zero. it is far more efficient to declare
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.copy](#fun_matrix.copy)
-* [matrix.remove_col](#fun_matrix.remove_col)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.copy](#fun_matrix.copy)
+- [matrix.remove_col](#fun_matrix.remove_col)
 
 ## matrix.reshape
 
@@ -13404,24 +13110,23 @@ matrix.reshape(id, rows, columns) - void
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `rows`
 
-    >  (`series` `int`)
-    
-    >  the number of rows of the reshaped matrix.
+  > (`series` `int`)
+
+  > the number of rows of the reshaped matrix.
 
 - `columns`
 
-    >  (`series` `int`)
-    
-    >  the number of columns of the reshaped matrix.
+  > (`series` `int`)
+
+  > the number of columns of the reshaped matrix.
 
 ### Example
-
 
 ```s
 
@@ -13458,11 +13163,11 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.add_row](#fun_matrix.add_row)
-* [matrix.add_col](#fun_matrix.add_col)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.add_row](#fun_matrix.add_row)
+- [matrix.add_col](#fun_matrix.add_col)
 
 ## matrix.reverse
 
@@ -13476,12 +13181,11 @@ matrix.reverse(id) - void
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -13516,11 +13220,11 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
-* [matrix.reshape](#fun_matrix.reshape)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
+- [matrix.reshape](#fun_matrix.reshape)
 
 ## matrix.row
 
@@ -13534,18 +13238,17 @@ matrix.row(id, row) - type\[\]
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  index of the required row.
+  > (`series` `int`)
+
+  > index of the required row.
 
 ### Example
-
 
 ```s
 
@@ -13574,11 +13277,11 @@ indexing of rows starts at 0.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [array.get](#fun_array.get)
-* [matrix.col](#fun_matrix.col)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [array.get](#fun_array.get)
+- [matrix.col](#fun_matrix.col)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.rows
 
@@ -13592,12 +13295,11 @@ matrix.rows(id) → series int
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -13624,11 +13326,11 @@ the number of rows in the matrix \`id\`.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.row](#fun_matrix.row)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.row](#fun_matrix.row)
 
 ## matrix.set
 
@@ -13642,30 +13344,29 @@ matrix.set(id, row, column, value) - void
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the row index of the element to be modified.
+  > (`series` `int`)
+
+  > the row index of the element to be modified.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the column index of the element to be modified.
+  > (`series` `int`)
+
+  > the column index of the element to be modified.
 
 - `value`
 
-    >  (`series` <`type` `of` `the` `matrix's` `elements`>;)
-    
-    >  the new value to be set.
+  > (`series` <`type` `of` `the` `matrix's` `elements`>;)
+
+  > the new value to be set.
 
 ### Example
-
 
 ```s
 
@@ -13687,10 +13388,10 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.sort
 
@@ -13704,24 +13405,23 @@ matrix.sort(id, column, order) - void
 
 - `id`
 
-    >  (`matrix`<`int`>;)
-    
-    >  a matrix object to be sorted.
+  > (`matrix`<`int`>;)
+
+  > a matrix object to be sorted.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  index of the column whose sorted values determine the new order of rows. optional. the default value is 0.
+  > (`series` `int`)
+
+  > index of the column whose sorted values determine the new order of rows. optional. the default value is 0.
 
 - `order`
 
-    >  (`simple` `sort_order`)
-    
-    >  the sort order. possible values: [order.ascending](#var_order.ascending) (default), [order.descending](#var_order.descending).
+  > (`simple` `sort_order`)
+
+  > the sort order. possible values: [order.ascending](#var_order.ascending) (default), [order.descending](#var_order.descending).
 
 ### Example
-
 
 ```s
 
@@ -13756,10 +13456,10 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.max](#fun_matrix.max)
-* [matrix.min](#fun_matrix.min)
-* [matrix.avg](#fun_matrix.avg)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.max](#fun_matrix.max)
+- [matrix.min](#fun_matrix.min)
+- [matrix.avg](#fun_matrix.avg)
 
 ## matrix.submatrix
 
@@ -13767,42 +13467,41 @@ the function extracts a submatrix of the \`id\` matrix within the specified indi
 
 ### Syntax
 
-matrix.submatrix(id, from\_row, to\_row, from\_column, to\_column) - matrix<type>;
+matrix.submatrix(id, from_row, to_row, from_column, to_column) - matrix<type>;
 
 ### Arguments
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `from_row`
 
-    >  (`series` `int`)
-    
-    >  index of the row from which the extraction will begin (inclusive). optional. the default value is 0.
+  > (`series` `int`)
+
+  > index of the row from which the extraction will begin (inclusive). optional. the default value is 0.
 
 - `to_row`
 
-    >  (`series` `int`)
-    
-    >  index of the row where the extraction will end (non inclusive). optional. the default value is [matrix.rows](#fun_matrix.rows).
+  > (`series` `int`)
+
+  > index of the row where the extraction will end (non inclusive). optional. the default value is [matrix.rows](#fun_matrix.rows).
 
 - `from_column`
 
-    >  (`series` `int`)
-    
-    >  index of the column from which the extraction will begin (inclusive). optional. the default value is 0.
+  > (`series` `int`)
+
+  > index of the column from which the extraction will begin (inclusive). optional. the default value is 0.
 
 - `to_column`
 
-    >  (`series` `int`)
-    
-    >  index of the column where the extraction will end (non inclusive). optional. the default value is [matrix.columns](#fun_matrix.columns).
+  > (`series` `int`)
+
+  > index of the column where the extraction will end (non inclusive). optional. the default value is [matrix.columns](#fun_matrix.columns).
 
 ### Example
-
 
 ```s
 
@@ -13836,7 +13535,7 @@ if barstate.islastconfirmedhistory
 
 ### Returns
 
-a new matrix object containing the submatrix of the \`id\` matrix defined by the \`from\_row\`, \`to\_row\`, \`from\_column\` and \`to\_column\` indices.
+a new matrix object containing the submatrix of the \`id\` matrix defined by the \`from_row\`, \`to_row\`, \`from_column\` and \`to_column\` indices.
 
 ### Remarks
 
@@ -13844,11 +13543,11 @@ indexing of the rows and columns starts at zero.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.row](#fun_matrix.row)
-* [matrix.col](#fun_matrix.col)
-* [matrix.reshape](#fun_matrix.reshape)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.row](#fun_matrix.row)
+- [matrix.col](#fun_matrix.col)
+- [matrix.reshape](#fun_matrix.reshape)
 
 ## matrix.sum
 
@@ -13858,27 +13557,25 @@ the function returns a new matrix resulting from the [sum](https://en.wikipedia.
 
 ### syntax & Overloads
 
-> [matrix.sum(id1, id2) - matrix<int>;](#fun_matrix.sum-0)
-> [matrix.sum(id1, id2) - matrix<float>;](#fun_matrix.sum-1)
+> [matrix.sum(id1, id2) - matrix<int>;](#fun_matrix.sum-0) > [matrix.sum(id1, id2) - matrix<float>;](#fun_matrix.sum-1)
 
 ### Arguments
 
 - `id1`
 
-    >  (`matrix`<`int`>;)
-    
-    >  First matrix object.
+  > (`matrix`<`int`>;)
+
+  > First matrix object.
 
 - `id2`
 
-    >  (`matrix`<`int`>;)
-    
-    >  second matrix object, or scalar value.
+  > (`matrix`<`int`>;)
+
+  > second matrix object, or scalar value.
 
 > - sum of two matrices
 
 ### Example
-
 
 ```s
 
@@ -13905,7 +13602,6 @@ sum of a matrix and scalar
 ```
 
 ### Example
-
 
 ```s
 
@@ -13934,11 +13630,11 @@ a new matrix object containing the sum of \`id2\` and \`id1\`.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.swap_columns
 
@@ -13952,24 +13648,23 @@ matrix.swap_columns(id, column1, column2) - void
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `column1`
 
-    >  (`series` `int`)
-    
-    >  index of the first column to be swapped.
+  > (`series` `int`)
+
+  > index of the first column to be swapped.
 
 - `column2`
 
-    >  (`series` `int`)
-    
-    >  index of the second column to be swapped.
+  > (`series` `int`)
+
+  > index of the second column to be swapped.
 
 ### Example
-
 
 ```s
 
@@ -14008,11 +13703,11 @@ indexing of the rows and columns starts at zero.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.swap_rows
 
@@ -14026,24 +13721,23 @@ matrix.swap_rows(id, row1, row2) - void
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 - `row1`
 
-    >  (`series` `int`)
-    
-    >  index of the first row to be swapped.
+  > (`series` `int`)
+
+  > index of the first row to be swapped.
 
 - `row2`
 
-    >  (`series` `int`)
-    
-    >  index of the second row to be swapped.
+  > (`series` `int`)
+
+  > index of the second row to be swapped.
 
 ### Example
-
 
 ```s
 
@@ -14084,33 +13778,31 @@ indexing of the rows and columns starts at zero.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.swap_columns](#fun_matrix.swap_columns)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.swap_columns](#fun_matrix.swap_columns)
 
 ## matrix.trace
 
 +1 overload
 
-the function calculates the [trace](https://en.wikipedia.org/wiki/trace_(linear_algebra)) of a matrix (the sum of the main diagonal's elements).
+the function calculates the [trace](<https://en.wikipedia.org/wiki/trace_(linear_algebra)>) of a matrix (the sum of the main diagonal's elements).
 
 ### syntax & Overloads
 
-> [matrix.trace(id) → series float](#fun_matrix.trace-0)
-> [matrix.trace(id) → series int](#fun_matrix.trace-1)
+> [matrix.trace(id) → series float](#fun_matrix.trace-0) > [matrix.trace(id) → series int](#fun_matrix.trace-1)
 
 ### Arguments
 
 - `id`
 
-    >  (`matrix`<`float`>;)
-    
-    >  a matrix object.
+  > (`matrix`<`float`>;)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -14146,11 +13838,11 @@ the trace of the \`id\` matrix.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.get](#fun_matrix.get)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.get](#fun_matrix.get)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
 
 ## matrix.transpose
 
@@ -14164,12 +13856,11 @@ matrix.transpose(id) - matrix<type>;
 
 - `id`
 
-    >  (`any` `matrix` `type`)
-    
-    >  a matrix object.
+  > (`any` `matrix` `type`)
+
+  > a matrix object.
 
 ### Example
-
 
 ```s
 
@@ -14205,41 +13896,40 @@ a new matrix containing the transposed version of the \`id\` matrix.
 
 ### See also
 
-* [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
-* [matrix.set](#fun_matrix.set)
-* [matrix.columns](#fun_matrix.columns)
-* [matrix.rows](#fun_matrix.rows)
-* [matrix.reshape](#fun_matrix.reshape)
-* [matrix.reverse](#fun_matrix.reverse)
+- [matrix.new<type>;](#fun_matrix.new%3Ctype%3E)
+- [matrix.set](#fun_matrix.set)
+- [matrix.columns](#fun_matrix.columns)
+- [matrix.rows](#fun_matrix.rows)
+- [matrix.reshape](#fun_matrix.reshape)
+- [matrix.reverse](#fun_matrix.reverse)
 
-## max\_bars\_back
+## max_bars_back
 
 Function sets the maximum number of bars that is available for historical reference of a given built-in or user variable. When operator '\[\]' is applied to a variable - it is a reference to a historical value of that variable.
 
-if an argument of an operator '\[\]' is a compile time constant value (e.g. 'v\[10\]', 'close\[500\]') then there is no need to use 'max\_bars\_back' function for that variable. pine script(r) compiler will use that constant value as history buffer size.
+if an argument of an operator '\[\]' is a compile time constant value (e.g. 'v\[10\]', 'close\[500\]') then there is no need to use 'max_bars_back' function for that variable. pine script(r) compiler will use that constant value as history buffer size.
 
-if an argument of an operator '\[\]' is a value, calculated at runtime (e.g. 'v\[i\]' where 'i' - is a series variable) then pine script(r) attempts to autodetect the history buffer size at runtime. sometimes it fails and the script crashes at runtime because it eventually refers to historical values that are out of the buffer. in that case you should use 'max\_bars\_back' to fix that problem manually.
+if an argument of an operator '\[\]' is a value, calculated at runtime (e.g. 'v\[i\]' where 'i' - is a series variable) then pine script(r) attempts to autodetect the history buffer size at runtime. sometimes it fails and the script crashes at runtime because it eventually refers to historical values that are out of the buffer. in that case you should use 'max_bars_back' to fix that problem manually.
 
 ### Syntax
 
-max\_bars\_back(var, num) - void
+max_bars_back(var, num) - void
 
 ### Arguments
 
 - `var`
 
-    >  (`series` `bool`)
-    
-    >  series variable identifier for which history buffer should be resized. possible values are: 'open', 'high', 'low', 'close', 'volume', 'time', or any user defined variable id.
+  > (`series` `bool`)
+
+  > series variable identifier for which history buffer should be resized. possible values are: 'open', 'high', 'low', 'close', 'volume', 'time', or any user defined variable id.
 
 - `num`
 
-    >  (`const` `int`)
-    
-    >  History buffer size which is the number of bars that could be referenced for variable 'var'.
+  > (`const` `int`)
+
+  > History buffer size which is the number of bars that could be referenced for variable 'var'.
 
 ### Example
-
 
 ```s
 
@@ -14265,13 +13955,13 @@ void
 
 ### Remarks
 
-at the moment 'max\_bars\_back' cannot be applied to built-ins like 'hl2', 'hlc3', 'ohlc4'. please use multiple 'max\_bars\_back' calls as workaround here (e.g. instead of a single 'max\_bars\_back(hl2, 100)' call you should call the function twice: 'max\_bars\_back(high, 100), max\_bars\_back(low, 100)').
+at the moment 'max_bars_back' cannot be applied to built-ins like 'hl2', 'hlc3', 'ohlc4'. please use multiple 'max_bars_back' calls as workaround here (e.g. instead of a single 'max_bars_back(hl2, 100)' call you should call the function twice: 'max_bars_back(high, 100), max_bars_back(low, 100)').
 
-if the [indicator](#fun_indicator) or [strategy](#fun_strategy) 'max\_bars\_back' parameter is used, all variables in the indicator are affected. this may result in excessive memory usage and cause runtime problems. When possible (i.e. when the cause is a variable rather than a function), please use the [max\_bars\_back](#fun_max_bars_back) function instead.
+if the [indicator](#fun_indicator) or [strategy](#fun_strategy) 'max_bars_back' parameter is used, all variables in the indicator are affected. this may result in excessive memory usage and cause runtime problems. When possible (i.e. when the cause is a variable rather than a function), please use the [max_bars_back](#fun_max_bars_back) function instead.
 
 ### See also
 
-* [indicator](#fun_indicator)
+- [indicator](#fun_indicator)
 
 ## minute
 
@@ -14279,17 +13969,17 @@ if the [indicator](#fun_indicator) or [strategy](#fun_strategy) 'max\_bars\_back
 
 ### syntax & Overloads
 
-> [minute(time) → series int](#fun_minute-0)
-> [minute(time, timezone) → series int](#fun_minute-1)
-* [
+> [minute(time) → series int](#fun_minute-0) > [minute(time, timezone) → series int](#fun_minute-1)
+
+- [
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -14301,14 +13991,14 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### See also
 
-* [minute](#var_minute)
-* [time](#fun_time)
-* [year](#fun_year)
-* [month](#fun_month)
-* [dayofmonth](#fun_dayofmonth)
-* [dayofweek](#fun_dayofweek)
-* [hour](#fun_hour)
-* [second](#fun_second)
+- [minute](#var_minute)
+- [time](#fun_time)
+- [year](#fun_year)
+- [month](#fun_month)
+- [dayofmonth](#fun_dayofmonth)
+- [dayofweek](#fun_dayofweek)
+- [hour](#fun_hour)
+- [second](#fun_second)
 
 ## month
 
@@ -14316,16 +14006,15 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### syntax & Overloads
 
-> [month(time) → series int](#fun_month-0)
-> [month(time, timezone) → series int](#fun_month-1)
+> [month(time) → series int](#fun_month-0) > [month(time, timezone) → series int](#fun_month-1)
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -14339,14 +14028,14 @@ Note that this function returns the month based on the time of the bar's open. F
 
 ### See also
 
-* [month](#var_month)
-* [time](#fun_time)
-* [year](#fun_year)
-* [dayofmonth](#fun_dayofmonth)
-* [dayofweek](#fun_dayofweek)
-* [hour](#fun_hour)
-* [minute](#fun_minute)
-* [second](#fun_second)
+- [month](#var_month)
+- [time](#fun_time)
+- [year](#fun_year)
+- [dayofmonth](#fun_dayofmonth)
+- [dayofweek](#fun_dayofweek)
+- [hour](#fun_hour)
+- [minute](#fun_minute)
+- [second](#fun_second)
 
 ## na
 
@@ -14356,19 +14045,17 @@ Tests if \`x\` is [na](#var_na).
 
 ### syntax & Overloads
 
-> [na(x) → series bool](#fun_na-0)
-> [na(x) → simple bool](#fun_na-1)
+> [na(x) → series bool](#fun_na-0) > [na(x) → simple bool](#fun_na-1)
 
 ### Arguments
 
 - `x`
 
-    >  (<`arg_type`>;)
-    
-    >  Value to be tested.
+  > (<`arg_type`>;)
+
+  > Value to be tested.
 
 ### Example
-
 
 ```s
 
@@ -14389,9 +14076,9 @@ Returns [true](#op_true) if \`x\` is [na](#var_na), [false](#op_false) otherwise
 
 ### See also
 
-* [na](#var_na)
-* [fixnan](#fun_fixnan)
-* [nz](#fun_nz)
+- [na](#var_na)
+- [fixnan](#fun_fixnan)
+- [nz](#fun_nz)
 
 ## nz
 
@@ -14401,33 +14088,17 @@ Replaces NaN values with zeros (or given value) in a series.
 
 ### syntax & Overloads
 
-> [nz(source) → simple color](#fun_nz-0)
-> [nz(source) → simple int](#fun_nz-1)
-> [nz(source) → series color](#fun_nz-2)
-> [nz(source) → series int](#fun_nz-3)
-> [nz(source) → simple float](#fun_nz-4)
-> [nz(source) → series float](#fun_nz-5)
-> [nz(source, replacement) → simple color](#fun_nz-6)
-> [nz(source, replacement) → simple int](#fun_nz-7)
-> [nz(source, replacement) → series color](#fun_nz-8)
-> [nz(source, replacement) → series int](#fun_nz-9)
-> [nz(source, replacement) → simple float](#fun_nz-10)
-> [nz(source, replacement) → series float](#fun_nz-11)
-> [nz(source) → simple bool](#fun_nz-12)
-> [nz(source) → series bool](#fun_nz-13)
-> [nz(source, replacement) → simple bool](#fun_nz-14)
-> [nz(source, replacement) → series bool](#fun_nz-15)
+> [nz(source) → simple color](#fun_nz-0) > [nz(source) → simple int](#fun_nz-1) > [nz(source) → series color](#fun_nz-2) > [nz(source) → series int](#fun_nz-3) > [nz(source) → simple float](#fun_nz-4) > [nz(source) → series float](#fun_nz-5) > [nz(source, replacement) → simple color](#fun_nz-6) > [nz(source, replacement) → simple int](#fun_nz-7) > [nz(source, replacement) → series color](#fun_nz-8) > [nz(source, replacement) → series int](#fun_nz-9) > [nz(source, replacement) → simple float](#fun_nz-10) > [nz(source, replacement) → series float](#fun_nz-11) > [nz(source) → simple bool](#fun_nz-12) > [nz(source) → series bool](#fun_nz-13) > [nz(source, replacement) → simple bool](#fun_nz-14) > [nz(source, replacement) → series bool](#fun_nz-15)
 
 ### Arguments
 
 - `source`
 
-    >  (`simple` `color`)
-    
-    >  series of values to process.
+  > (`simple` `color`)
+
+  > series of values to process.
 
 ### Example
-
 
 ```s
 
@@ -14444,9 +14115,9 @@ the value of \`source\` if it is not \`na\`. if the value of \`source\` is \`na\
 
 ### See also
 
-* [na](#var_na)
-* [na](#fun_na)
-* [fixnan](#fun_fixnan)
+- [na](#var_na)
+- [na](#fun_na)
+- [fixnan](#fun_fixnan)
 
 ## plot
 
@@ -14460,78 +14131,77 @@ plot(series, title, color, linewidth, style, trackprice, histbase, offset, join,
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of data to be plotted. Required argument.
+  > (`series` `int`/`float`)
+
+  > series of data to be plotted. Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the plot.
+  > (`const` `string`)
+
+  > title of the plot.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the plot. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the plot. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
 
 - `linewidth`
 
-    >  (`input` `int`)
-    
-    >  Width of the plotted line. Default value is 1. Not applicable to every style.
+  > (`input` `int`)
+
+  > Width of the plotted line. Default value is 1. Not applicable to every style.
 
 - `style`
 
-    >  (`input` `plot_style`)
-    
-    >  Type of plot. possible values are: [plot.style_line](#var_plot.style_line), [plot.style_stepline](#var_plot.style_stepline), [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond), [plot.style_histogram](#var_plot.style_histogram), [plot.style_cross](#var_plot.style_cross), [plot.style_area](#var_plot.style_area), [plot.style_columns](#var_plot.style_columns), [plot.style_circles](#var_plot.style_circles), [plot.style_linebr](#var_plot.style_linebr), [plot.style_areabr](#var_plot.style_areabr), [plot.style_steplinebr](#var_plot.style_steplinebr). Default value is [plot.style_line](#var_plot.style_line).
+  > (`input` `plot_style`)
+
+  > Type of plot. possible values are: [plot.style_line](#var_plot.style_line), [plot.style_stepline](#var_plot.style_stepline), [plot.style_stepline_diamond](#var_plot.style_stepline_diamond), [plot.style_histogram](#var_plot.style_histogram), [plot.style_cross](#var_plot.style_cross), [plot.style_area](#var_plot.style_area), [plot.style_columns](#var_plot.style_columns), [plot.style_circles](#var_plot.style_circles), [plot.style_linebr](#var_plot.style_linebr), [plot.style_areabr](#var_plot.style_areabr), [plot.style_steplinebr](#var_plot.style_steplinebr). Default value is [plot.style_line](#var_plot.style_line).
 
 - `trackprice`
 
-    >  (`input` `bool`)
-    
-    >  if true then a horizontal price line will be shown at the level of the last indicator value. Default is false.
+  > (`input` `bool`)
+
+  > if true then a horizontal price line will be shown at the level of the last indicator value. Default is false.
 
 - `histbase`
 
-    >  (`input` `int`/`float`)
-    
-    >  the price value used as the reference level when rendering plot with [plot.style_histogram](#var_plot.style_histogram), [plot.style_columns](#var_plot.style_columns) or [plot.style_area](#var_plot.style_area) style. Default is 0.0.
+  > (`input` `int`/`float`)
+
+  > the price value used as the reference level when rendering plot with [plot.style_histogram](#var_plot.style_histogram), [plot.style_columns](#var_plot.style_columns) or [plot.style_area](#var_plot.style_area) style. Default is 0.0.
 
 - `offset`
 
-    >  (`series` `int`)
-    
-    >  shifts the plot to the left or to the right on the given number of bars. Default is 0.
+  > (`series` `int`)
+
+  > shifts the plot to the left or to the right on the given number of bars. Default is 0.
 
 - `join`
 
-    >  (`input` `bool`)
-    
-    >  if true then plot points will be joined with line, applicable only to [plot.style_cross](#var_plot.style_cross) and [plot.style_circles](#var_plot.style_circles) styles. Default is false.
+  > (`input` `bool`)
+
+  > if true then plot points will be joined with line, applicable only to [plot.style_cross](#var_plot.style_cross) and [plot.style_circles](#var_plot.style_circles) styles. Default is false.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then plot style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then plot style will be editable in format dialog. Default is true.
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of bars (from the last bar back to the past) to plot on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of bars (from the last bar back to the past) to plot on chart.
 
 - `display`
 
-    >  (`input` `plot_display`)
-    
-    >  Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status\_line\` will display the plot's information everywhere except in the script's status line. \`display.price\_scale + display.status\_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price\_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`input` `plot_display`)
+
+  > Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status_line\` will display the plot's information everywhere except in the script's status line. \`display.price_scale + display.status_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -14555,12 +14225,12 @@ a plot object, that can be used in [fill](#fun_fill)
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [barcolor](#fun_barcolor)
-* [bgcolor](#fun_bgcolor)
-* [fill](#fun_fill)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [barcolor](#fun_barcolor)
+- [bgcolor](#fun_bgcolor)
+- [fill](#fun_fill)
 
 ## plotarrow
 
@@ -14574,66 +14244,65 @@ plotarrow(series, title, colorup, colordown, offset, minheight, maxheight, edita
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of data to be plotted as arrows. Required argument.
+  > (`series` `int`/`float`)
+
+  > series of data to be plotted as arrows. Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the plot.
+  > (`const` `string`)
+
+  > title of the plot.
 
 - `colorup`
 
-    >  (`series` `color`)
-    
-    >  color of the up arrows. optional argument.
+  > (`series` `color`)
+
+  > color of the up arrows. optional argument.
 
 - `colordown`
 
-    >  (`series` `color`)
-    
-    >  color of the down arrows. optional argument.
+  > (`series` `color`)
+
+  > color of the down arrows. optional argument.
 
 - `offset`
 
-    >  (`series` `int`)
-    
-    >  shifts arrows to the left or to the right on the given number of bars. Default is 0.
+  > (`series` `int`)
+
+  > shifts arrows to the left or to the right on the given number of bars. Default is 0.
 
 - `minheight`
 
-    >  (`input` `int`)
-    
-    >  Minimal possible arrow height in pixels. Default is 5.
+  > (`input` `int`)
+
+  > Minimal possible arrow height in pixels. Default is 5.
 
 - `maxheight`
 
-    >  (`input` `int`)
-    
-    >  Maximum possible arrow height in pixels. Default is 100.
+  > (`input` `int`)
+
+  > Maximum possible arrow height in pixels. Default is 100.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then plotarrow style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then plotarrow style will be editable in format dialog. Default is true.
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of arrows (from the last bar back to the past) to plot on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of arrows (from the last bar back to the past) to plot on chart.
 
 - `display`
 
-    >  (`input` `plot_display`)
-    
-    >  Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status\_line\` will display the plot's information everywhere except in the script's status line. \`display.price\_scale + display.status\_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price\_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`input` `plot_display`)
+
+  > Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status_line\` will display the plot's information everywhere except in the script's status line. \`display.price_scale + display.status_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -14651,11 +14320,11 @@ use [plotarrow](#fun_plotarrow) function in conjunction with 'overlay=true' [ind
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [barcolor](#fun_barcolor)
-* [bgcolor](#fun_bgcolor)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [barcolor](#fun_barcolor)
+- [bgcolor](#fun_bgcolor)
 
 ## plotbar
 
@@ -14669,60 +14338,59 @@ plotbar(open, high, low, close, title, color, editable, show_last, display) - vo
 
 - `open`
 
-    >  (`series` `int`/`float`)
-    
-    >  Open series of data to be used as open values of bars. Required argument.
+  > (`series` `int`/`float`)
+
+  > Open series of data to be used as open values of bars. Required argument.
 
 - `high`
 
-    >  (`series` `int`/`float`)
-    
-    >  High series of data to be used as high values of bars. Required argument.
+  > (`series` `int`/`float`)
+
+  > High series of data to be used as high values of bars. Required argument.
 
 - `low`
 
-    >  (`series` `int`/`float`)
-    
-    >  Low series of data to be used as low values of bars. Required argument.
+  > (`series` `int`/`float`)
+
+  > Low series of data to be used as low values of bars. Required argument.
 
 - `close`
 
-    >  (`series` `int`/`float`)
-    
-    >  Close series of data to be used as close values of bars. Required argument.
+  > (`series` `int`/`float`)
+
+  > Close series of data to be used as close values of bars. Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the plotbar. optional argument.
+  > (`const` `string`)
+
+  > title of the plotbar. optional argument.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the ohlc bars. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the ohlc bars. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then plotbar style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then plotbar style will be editable in format dialog. Default is true.
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of bars (from the last bar back to the past) to plot on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of bars (from the last bar back to the past) to plot on chart.
 
 - `display`
 
-    >  (`input` `plot_display`)
-    
-    >  Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status\_line\` will display the plot's information everywhere except in the script's status line. \`display.price\_scale + display.status\_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price\_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`input` `plot_display`)
+
+  > Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status_line\` will display the plot's information everywhere except in the script's status line. \`display.price_scale + display.status_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -14741,7 +14409,7 @@ the maximal value of open, high, low or close will be set as 'high', and the min
 
 ### See also
 
-* [plotcandle](#fun_plotcandle)
+- [plotcandle](#fun_plotcandle)
 
 ## plotcandle
 
@@ -14755,72 +14423,71 @@ plotcandle(open, high, low, close, title, color, wickcolor, editable, show_last,
 
 - `open`
 
-    >  (`series` `int`/`float`)
-    
-    >  Open series of data to be used as open values of candles. Required argument.
+  > (`series` `int`/`float`)
+
+  > Open series of data to be used as open values of candles. Required argument.
 
 - `high`
 
-    >  (`series` `int`/`float`)
-    
-    >  High series of data to be used as high values of candles. Required argument.
+  > (`series` `int`/`float`)
+
+  > High series of data to be used as high values of candles. Required argument.
 
 - `low`
 
-    >  (`series` `int`/`float`)
-    
-    >  Low series of data to be used as low values of candles. Required argument.
+  > (`series` `int`/`float`)
+
+  > Low series of data to be used as low values of candles. Required argument.
 
 - `close`
 
-    >  (`series` `int`/`float`)
-    
-    >  Close series of data to be used as close values of candles. Required argument.
+  > (`series` `int`/`float`)
+
+  > Close series of data to be used as close values of candles. Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the plotcandles. optional argument.
+  > (`const` `string`)
+
+  > title of the plotcandles. optional argument.
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the candles. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the candles. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
 
 - `wickcolor`
 
-    >  (`series` `color`)
-    
-    >  the color of the wick of candles. an optional argument.
+  > (`series` `color`)
+
+  > the color of the wick of candles. an optional argument.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then plotcandle style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then plotcandle style will be editable in format dialog. Default is true.
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of candles (from the last bar back to the past) to plot on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of candles (from the last bar back to the past) to plot on chart.
 
 - `bordercolor`
 
-    >  (`series` `color`)
-    
-    >  the border color of candles. an optional argument.
+  > (`series` `color`)
+
+  > the border color of candles. an optional argument.
 
 - `display`
 
-    >  (`input` `plot_display`)
-    
-    >  Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status\_line\` will display the plot's information everywhere except in the script's status line. \`display.price\_scale + display.status\_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price\_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`input` `plot_display`)
+
+  > Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status_line\` will display the plot's information everywhere except in the script's status line. \`display.price_scale + display.status_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -14839,7 +14506,7 @@ the maximal value of open, high, low or close will be set as 'high', and the min
 
 ### See also
 
-* [plotbar](#fun_plotbar)
+- [plotbar](#fun_plotbar)
 
 ## plotchar
 
@@ -14853,78 +14520,77 @@ plotchar(series, title, char, location, color, offset, text, textcolor, editable
 
 - `series`
 
-    >  (`series` `bool`)
-    
-    >  series of data to be plotted as shapes. series is treated as a series of boolean values for all location values except [location.absolute](#var_location.absolute). Required argument.
+  > (`series` `bool`)
+
+  > series of data to be plotted as shapes. series is treated as a series of boolean values for all location values except [location.absolute](#var_location.absolute). Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the plot.
+  > (`const` `string`)
+
+  > title of the plot.
 
 - `char`
 
-    >  (`input` `string`)
-    
-    >  Character to use as a visual shape.
+  > (`input` `string`)
+
+  > Character to use as a visual shape.
 
 - `location`
 
-    >  (`input` `string`)
-    
-    >  Location of shapes on the chart. possible values are: [location.abovebar](#var_location.abovebar), [location.belowbar](#var_location.belowbar), [location.top](#var_location.top), [location.bottom](#var_location.bottom), [location.absolute](#var_location.absolute). Default value is [location.abovebar](#var_location.abovebar).
+  > (`input` `string`)
+
+  > Location of shapes on the chart. possible values are: [location.abovebar](#var_location.abovebar), [location.belowbar](#var_location.belowbar), [location.top](#var_location.top), [location.bottom](#var_location.bottom), [location.absolute](#var_location.absolute). Default value is [location.abovebar](#var_location.abovebar).
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the shapes. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the shapes. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
 
 - `offset`
 
-    >  (`series` `int`)
-    
-    >  shifts shapes to the left or to the right on the given number of bars. Default is 0.
+  > (`series` `int`)
+
+  > shifts shapes to the left or to the right on the given number of bars. Default is 0.
 
 - `text`
 
-    >  (`const` `string`)
-    
-    >  Text to display with the shape. You can use multiline text, to separate lines use '\n' escape sequence. Example: 'line one\nline two'.
+  > (`const` `string`)
+
+  > Text to display with the shape. You can use multiline text, to separate lines use '\n' escape sequence. Example: 'line one\nline two'.
 
 - `textcolor`
 
-    >  (`series` `color`)
-    
-    >  color of the text. You can use constants like 'textcolor=color.red' or 'textcolor=#ff001a' as well as complex expressions like 'textcolor = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the text. You can use constants like 'textcolor=color.red' or 'textcolor=#ff001a' as well as complex expressions like 'textcolor = close >= open ? color.green : color.red'. optional argument.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then plotchar style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then plotchar style will be editable in format dialog. Default is true.
 
 - `size`
 
-    >  (`const` `string`)
-    
-    >  size of characters on the chart. possible values are: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default is [size.auto](#var_size.auto).
+  > (`const` `string`)
+
+  > size of characters on the chart. possible values are: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default is [size.auto](#var_size.auto).
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of chars (from the last bar back to the past) to plot on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of chars (from the last bar back to the past) to plot on chart.
 
 - `display`
 
-    >  (`input` `plot_display`)
-    
-    >  Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status\_line\` will display the plot's information everywhere except in the script's status line. \`display.price\_scale + display.status\_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price\_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`input` `plot_display`)
+
+  > Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status_line\` will display the plot's information everywhere except in the script's status line. \`display.price_scale + display.status_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -14942,11 +14608,11 @@ use [plotchar](#fun_plotchar) function in conjunction with 'overlay=true' [indic
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotarrow](#fun_plotarrow)
-* [barcolor](#fun_barcolor)
-* [bgcolor](#fun_bgcolor)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotarrow](#fun_plotarrow)
+- [barcolor](#fun_barcolor)
+- [bgcolor](#fun_bgcolor)
 
 ## plotshape
 
@@ -14960,78 +14626,77 @@ plotshape(series, title, style, location, color, offset, text, textcolor, editab
 
 - `series`
 
-    >  (`series` `bool`)
-    
-    >  series of data to be plotted as shapes. series is treated as a series of boolean values for all location values except [location.absolute](#var_location.absolute). Required argument.
+  > (`series` `bool`)
+
+  > series of data to be plotted as shapes. series is treated as a series of boolean values for all location values except [location.absolute](#var_location.absolute). Required argument.
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  title of the plot.
+  > (`const` `string`)
+
+  > title of the plot.
 
 - `style`
 
-    >  (`input` `string`)
-    
-    >  Type of plot. possible values are: [shape.xcross](#var_shape.xcross), [shape.cross](#var_shape.cross), [shape.triangleup](#var_shape.triangleup), [shape.triangledown](#var_shape.triangledown), [shape.flag](#var_shape.flag), [shape.circle](#var_shape.circle), [shape.arrowup](#var_shape.arrowup), [shape.arrowdown](#var_shape.arrowdown), [shape.labelup](#var_shape.labelup), [shape.labeldown](#var_shape.labeldown), [shape.square](#var_shape.square), [shape.diamond](#var_shape.diamond). Default value is [shape.xcross](#var_shape.xcross).
+  > (`input` `string`)
+
+  > Type of plot. possible values are: [shape.xcross](#var_shape.xcross), [shape.cross](#var_shape.cross), [shape.triangleup](#var_shape.triangleup), [shape.triangledown](#var_shape.triangledown), [shape.flag](#var_shape.flag), [shape.circle](#var_shape.circle), [shape.arrowup](#var_shape.arrowup), [shape.arrowdown](#var_shape.arrowdown), [shape.labelup](#var_shape.labelup), [shape.labeldown](#var_shape.labeldown), [shape.square](#var_shape.square), [shape.diamond](#var_shape.diamond). Default value is [shape.xcross](#var_shape.xcross).
 
 - `location`
 
-    >  (`input` `string`)
-    
-    >  Location of shapes on the chart. possible values are: [location.abovebar](#var_location.abovebar), [location.belowbar](#var_location.belowbar), [location.top](#var_location.top), [location.bottom](#var_location.bottom), [location.absolute](#var_location.absolute). Default value is [location.abovebar](#var_location.abovebar).
+  > (`input` `string`)
+
+  > Location of shapes on the chart. possible values are: [location.abovebar](#var_location.abovebar), [location.belowbar](#var_location.belowbar), [location.top](#var_location.top), [location.bottom](#var_location.bottom), [location.absolute](#var_location.absolute). Default value is [location.abovebar](#var_location.abovebar).
 
 - `color`
 
-    >  (`series` `color`)
-    
-    >  color of the shapes. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the shapes. You can use constants like 'color=color.red' or 'color=#ff001a' as well as complex expressions like 'color = close >= open ? color.green : color.red'. optional argument.
 
 - `offset`
 
-    >  (`series` `int`)
-    
-    >  shifts shapes to the left or to the right on the given number of bars. Default is 0.
+  > (`series` `int`)
+
+  > shifts shapes to the left or to the right on the given number of bars. Default is 0.
 
 - `text`
 
-    >  (`const` `string`)
-    
-    >  Text to display with the shape. You can use multiline text, to separate lines use '\n' escape sequence. Example: 'line one\nline two'.
+  > (`const` `string`)
+
+  > Text to display with the shape. You can use multiline text, to separate lines use '\n' escape sequence. Example: 'line one\nline two'.
 
 - `textcolor`
 
-    >  (`series` `color`)
-    
-    >  color of the text. You can use constants like 'textcolor=color.red' or 'textcolor=#ff001a' as well as complex expressions like 'textcolor = close >= open ? color.green : color.red'. optional argument.
+  > (`series` `color`)
+
+  > color of the text. You can use constants like 'textcolor=color.red' or 'textcolor=#ff001a' as well as complex expressions like 'textcolor = close >= open ? color.green : color.red'. optional argument.
 
 - `editable`
 
-    >  (`const` `bool`)
-    
-    >  if true then plotshape style will be editable in format dialog. Default is true.
+  > (`const` `bool`)
+
+  > if true then plotshape style will be editable in format dialog. Default is true.
 
 - `size`
 
-    >  (`const` `string`)
-    
-    >  size of shapes on the chart. possible values are: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default is [size.auto](#var_size.auto).
+  > (`const` `string`)
+
+  > size of shapes on the chart. possible values are: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge). Default is [size.auto](#var_size.auto).
 
 - `show_last`
 
-    >  (`input` `int`)
-    
-    >  if set, defines the number of shapes (from the last bar back to the past) to plot on chart.
+  > (`input` `int`)
+
+  > if set, defines the number of shapes (from the last bar back to the past) to plot on chart.
 
 - `display`
 
-    >  (`input` `plot_display`)
-    
-    >  Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status\_line\` will display the plot's information everywhere except in the script's status line. \`display.price\_scale + display.status\_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price\_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
+  > (`input` `plot_display`)
+
+  > Controls where the plot's information is displayed. Display options support addition and subtraction, meaning that using \`display.all - display.status_line\` will display the plot's information everywhere except in the script's status line. \`display.price_scale + display.status_line\` will display the plot only in the price scale and status line. When \`display\` arguments such as \`display.price_scale\` have user-controlled chart settings equivalents, the relevant plot information will only appear when all settings allow for it. possible values: [display.none](#var_display.none), [display.pane](#var_display.pane), [display.data_window](#var_display.data_window), [display.price_scale](#var_display.price_scale), [display.status_line](#var_display.status_line), [display.all](#var_display.all). optional. the default is [display.all](#var_display.all).
 
 ### Example
-
 
 ```s
 
@@ -15049,11 +14714,11 @@ use [plotshape](#fun_plotshape) function in conjunction with 'overlay=true' [ind
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [barcolor](#fun_barcolor)
-* [bgcolor](#fun_bgcolor)
+- [plot](#fun_plot)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [barcolor](#fun_barcolor)
+- [bgcolor](#fun_bgcolor)
 
 ## polyline.delete
 
@@ -15067,9 +14732,9 @@ polyline.delete(id) - void
 
 - `id`
 
-    >  (`series` `polyline`)
-    
-    >  the polyline iD to delete.
+  > (`series` `polyline`)
+
+  > the polyline iD to delete.
 
 ## polyline.new
 
@@ -15077,60 +14742,59 @@ Creates a new [polyline](#op_polyline) instance and displays it on the chart, se
 
 ### Syntax
 
-polyline.new(points, curved, closed, xloc, line\_color, fill\_color, line\_style, line\_width) → series polyline
+polyline.new(points, curved, closed, xloc, line_color, fill_color, line_style, line_width) → series polyline
 
 ### Arguments
 
 - `points`
 
-    >  (`chart.point`\[\])
-    
-    >  an array of [chart.point](#op_chart.point) objects for the drawing to sequentially connect.
+  > (`chart.point`\[\])
+
+  > an array of [chart.point](#op_chart.point) objects for the drawing to sequentially connect.
 
 - `curved`
 
-    >  (`series` `bool`)
-    
-    >  if [true](#op_true), the drawing will connect all points from the \`points\` array using curved line segments. optional. the default is [false](#op_false).
+  > (`series` `bool`)
+
+  > if [true](#op_true), the drawing will connect all points from the \`points\` array using curved line segments. optional. the default is [false](#op_false).
 
 - `closed`
 
-    >  (`series` `bool`)
-    
-    >  if [true](#op_true), the drawing will also connect the first point to the last point from the \`points\` array, resulting in a closed polyline. optional. the default is [false](#op_false).
+  > (`series` `bool`)
+
+  > if [true](#op_true), the drawing will also connect the first point to the last point from the \`points\` array, resulting in a closed polyline. optional. the default is [false](#op_false).
 
 - `xloc`
 
-    >  (`series` `string`)
-    
-    >  Determines the field of the [chart.point](#op_chart.point) objects in the \`points\` array that the polyline will use for its x-coordinates. if [xloc.bar_index](#var_xloc.bar_index), the polyline will use the \`index\` field from each point. if [xloc.bar_time](#var_xloc.bar_time), it will use the \`time\` field. optional. the default is [xloc.bar_index](#var_xloc.bar_index).
+  > (`series` `string`)
+
+  > Determines the field of the [chart.point](#op_chart.point) objects in the \`points\` array that the polyline will use for its x-coordinates. if [xloc.bar_index](#var_xloc.bar_index), the polyline will use the \`index\` field from each point. if [xloc.bar_time](#var_xloc.bar_time), it will use the \`time\` field. optional. the default is [xloc.bar_index](#var_xloc.bar_index).
 
 - `line_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the line segments. optional. the default is [color.blue](#var_color.blue).
+  > (`series` `color`)
+
+  > the color of the line segments. optional. the default is [color.blue](#var_color.blue).
 
 - `fill_color`
 
-    >  (`series` `color`)
-    
-    >  the fill color of the polyline. optional. the default is [na](#var_na).
+  > (`series` `color`)
+
+  > the fill color of the polyline. optional. the default is [na](#var_na).
 
 - `line_style`
 
-    >  (`series` `string`)
-    
-    >  the style of the polyline. possible values: [line.style_solid](#var_line.style_solid), [line.style_dotted](#var_line.style_dotted), [line.style_dashed](#var_line.style_dashed), [line.style\_arrow\_left](#var_line.style_arrow_left), [line.style\_arrow\_right](#var_line.style_arrow_right), [line.style\_arrow\_both](#var_line.style_arrow_both). optional. the default is [line.style_solid](#var_line.style_solid).
+  > (`series` `string`)
+
+  > the style of the polyline. possible values: [line.style_solid](#var_line.style_solid), [line.style_dotted](#var_line.style_dotted), [line.style_dashed](#var_line.style_dashed), [line.style_arrow_left](#var_line.style_arrow_left), [line.style_arrow_right](#var_line.style_arrow_right), [line.style_arrow_both](#var_line.style_arrow_both). optional. the default is [line.style_solid](#var_line.style_solid).
 
 - `line_width`
 
-    >  (`series` `int`)
-    
-    >  the width of the line segments, expressed in pixels. optional. the default is 1.
+  > (`series` `int`)
+
+  > the width of the line segments, expressed in pixels. optional. the default is 1.
 
 ### Example
-
 
 ```s
 
@@ -15178,11 +14842,11 @@ if barstate.islastconfirmedhistory
 
 ### Returns
 
-the iD of a new polyline object that a script can use in other \`polyline.*()\` functions.
+the iD of a new polyline object that a script can use in other \`polyline.\*()\` functions.
 
 ### See also
 
-* [chart.point.new](#fun_chart.point.new)
+- [chart.point.new](#fun_chart.point.new)
 
 ## request.currency_rate
 
@@ -15190,30 +14854,29 @@ provides a daily rate that can be used to convert a value expressed in the \`fro
 
 ### Syntax
 
-request.currency\_rate(from, to, ignore\_invalid_currency) → series float
+request.currency_rate(from, to, ignore_invalid_currency) → series float
 
 ### Arguments
 
 - `from`
 
-    >  (`simple` `string`)
-    
-    >  the currency in which the value to be converted is expressed. possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD"), or one of the built-in variables that return currency codes, like [syminfo.currency](#var_syminfo.currency) or [currency.usD](#var_currency.usD).
+  > (`simple` `string`)
+
+  > the currency in which the value to be converted is expressed. possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD"), or one of the built-in variables that return currency codes, like [syminfo.currency](#var_syminfo.currency) or [currency.usD](#var_currency.usD).
 
 - `to`
 
-    >  (`simple` `string`)
-    
-    >  the currency in which the value is to be converted. possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD"), or one of the built-in variables that return currency codes, like [syminfo.currency](#var_syminfo.currency) or [currency.usD](#var_currency.usD).
+  > (`simple` `string`)
+
+  > the currency in which the value is to be converted. possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD"), or one of the built-in variables that return currency codes, like [syminfo.currency](#var_syminfo.currency) or [currency.usD](#var_currency.usD).
 
 - `ignore\_invalid\_currency`
 
-    >  (`simple` `bool`)
-    
-    >  Determines the behavior of the function if a conversion rate between the two currencies cannot be calculated: if [false](#op_false), the script will halt and return a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
+  > (`simple` `bool`)
+
+  > Determines the behavior of the function if a conversion rate between the two currencies cannot be calculated: if [false](#op_false), the script will halt and return a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
 
 ### Example
-
 
 ```s
 
@@ -15235,48 +14898,47 @@ Requests dividends data for the specified symbol.
 
 ### Syntax
 
-request.dividends(ticker, field, gaps, lookahead, ignore\_invalid\_symbol, currency) → series float
+request.dividends(ticker, field, gaps, lookahead, ignore_invalid_symbol, currency) → series float
 
 ### Arguments
 
 - `ticker`
 
-    >  (`simple` `string`)
-    
-    >  symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL". using [syminfo.ticker](#var_syminfo.ticker) will cause an error. use [syminfo.tickerid](#var_syminfo.tickerid) instead.
+  > (`simple` `string`)
+
+  > symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL". using [syminfo.ticker](#var_syminfo.ticker) will cause an error. use [syminfo.tickerid](#var_syminfo.tickerid) instead.
 
 - `field`
 
-    >  (`simple` `string`)
-    
-    >  input string. possible values include: [dividends.net](#var_dividends.net), [dividends.gross](#var_dividends.gross). Default value is [dividends.gross](#var_dividends.gross).
+  > (`simple` `string`)
+
+  > input string. possible values include: [dividends.net](#var_dividends.net), [dividends.gross](#var_dividends.gross). Default value is [dividends.gross](#var_dividends.gross).
 
 - `gaps`
 
-    >  (`simple` `barmerge_gaps`)
-    
-    >  Merge strategy for the requested data (requested data automatically merges with the main series OHLC data). possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
+  > (`simple` `barmerge_gaps`)
+
+  > Merge strategy for the requested data (requested data automatically merges with the main series OHLC data). possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
 
 - `lookahead`
 
-    >  (`simple` `barmerge_lookahead`)
-    
-    >  Merge strategy for the requested data position. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Default value is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from version 3. Note that behavour is the same on real-time, and differs only on history.
+  > (`simple` `barmerge_lookahead`)
+
+  > Merge strategy for the requested data position. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Default value is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from version 3. Note that behavour is the same on real-time, and differs only on history.
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
+  > (`input` `bool`)
+
+  > an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
 
 - `currency`
 
-    >  (`simple` `string`)
-    
-    >  Currency into which the symbol's currency-related dividends values (e.g. [dividends.gross](#var_dividends.gross)) are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). optional. the default is [syminfo.currency](#var_syminfo.currency). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.* namespace, e.g. [currency.usD](#var_currency.usD).
+  > (`simple` `string`)
+
+  > Currency into which the symbol's currency-related dividends values (e.g. [dividends.gross](#var_dividends.gross)) are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). optional. the default is [syminfo.currency](#var_syminfo.currency). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.\* namespace, e.g. [currency.usD](#var_currency.usD).
 
 ### Example
-
 
 ```s
 
@@ -15296,10 +14958,10 @@ Requested series, or n/a if there is no dividends data for the specified symbol.
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
-* [request.splits](#fun_request.splits)
-* [request.security](#fun_request.security)
-* [syminfo.tickerid](#var_syminfo.tickerid)
+- [request.earnings](#fun_request.earnings)
+- [request.splits](#fun_request.splits)
+- [request.security](#fun_request.security)
+- [syminfo.tickerid](#var_syminfo.tickerid)
 
 ## request.earnings
 
@@ -15307,48 +14969,47 @@ Requests earnings data for the specified symbol.
 
 ### Syntax
 
-request.earnings(ticker, field, gaps, lookahead, ignore\_invalid\_symbol, currency) → series float
+request.earnings(ticker, field, gaps, lookahead, ignore_invalid_symbol, currency) → series float
 
 ### Arguments
 
 - `ticker`
 
-    >  (`simple` `string`)
-    
-    >  symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL". using [syminfo.ticker](#var_syminfo.ticker) will cause an error. use [syminfo.tickerid](#var_syminfo.tickerid) instead.
+  > (`simple` `string`)
+
+  > symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL". using [syminfo.ticker](#var_syminfo.ticker) will cause an error. use [syminfo.tickerid](#var_syminfo.tickerid) instead.
 
 - `field`
 
-    >  (`simple` `string`)
-    
-    >  input string. possible values include: [earnings.actual](#var_earnings.actual), [earnings.estimate](#var_earnings.estimate), [earnings.standardized](#var_earnings.standardized). Default value is [earnings.actual](#var_earnings.actual).
+  > (`simple` `string`)
+
+  > input string. possible values include: [earnings.actual](#var_earnings.actual), [earnings.estimate](#var_earnings.estimate), [earnings.standardized](#var_earnings.standardized). Default value is [earnings.actual](#var_earnings.actual).
 
 - `gaps`
 
-    >  (`simple` `barmerge_gaps`)
-    
-    >  Merge strategy for the requested data (requested data automatically merges with the main series OHLC data). possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
+  > (`simple` `barmerge_gaps`)
+
+  > Merge strategy for the requested data (requested data automatically merges with the main series OHLC data). possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
 
 - `lookahead`
 
-    >  (`simple` `barmerge_lookahead`)
-    
-    >  Merge strategy for the requested data position. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Default value is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from version 3. Note that behavour is the same on real-time, and differs only on history.
+  > (`simple` `barmerge_lookahead`)
+
+  > Merge strategy for the requested data position. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Default value is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from version 3. Note that behavour is the same on real-time, and differs only on history.
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
+  > (`input` `bool`)
+
+  > an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
 
 - `currency`
 
-    >  (`simple` `string`)
-    
-    >  Currency into which the symbol's currency-related earnings values (e.g. [earnings.actual](#var_earnings.actual)) are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). optional. the default is [syminfo.currency](#var_syminfo.currency). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.* namespace, e.g. [currency.usD](#var_currency.usD).
+  > (`simple` `string`)
+
+  > Currency into which the symbol's currency-related earnings values (e.g. [earnings.actual](#var_earnings.actual)) are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). optional. the default is [syminfo.currency](#var_syminfo.currency). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.\* namespace, e.g. [currency.usD](#var_currency.usD).
 
 ### Example
-
 
 ```s
 
@@ -15368,10 +15029,10 @@ Requested series, or n/a if there is no earnings data for the specified symbol.
 
 ### See also
 
-* [request.dividends](#fun_request.dividends)
-* [request.splits](#fun_request.splits)
-* [request.security](#fun_request.security)
-* [syminfo.tickerid](#var_syminfo.tickerid)
+- [request.dividends](#fun_request.dividends)
+- [request.splits](#fun_request.splits)
+- [request.security](#fun_request.security)
+- [syminfo.tickerid](#var_syminfo.tickerid)
 
 ## request.economic
 
@@ -15379,36 +15040,35 @@ Requests economic data for a symbol. Economic data includes information such as 
 
 ### Syntax
 
-request.economic(country\_code, field, gaps, ignore\_invalid_symbol) → series float
+request.economic(country_code, field, gaps, ignore_invalid_symbol) → series float
 
 ### Arguments
 
 - `country_code`
 
-    >  (`simple` `string`)
-    
-    >  the code of the country (e.g. "us") or the region (e.g. "Eu") for which the economic data is requested. the [Help center article](https://www.tradingview.com/chart/?solution=43000665359) lists the countries and their codes. the countries for which information is available vary with metrics. the [Help center article for each metric](https://www.tradingview.com/support/folders/43000581956-list-of-available-economic-indicators/) lists the countries for which the metric is available.
+  > (`simple` `string`)
+
+  > the code of the country (e.g. "us") or the region (e.g. "Eu") for which the economic data is requested. the [Help center article](https://www.tradingview.com/chart/?solution=43000665359) lists the countries and their codes. the countries for which information is available vary with metrics. the [Help center article for each metric](https://www.tradingview.com/support/folders/43000581956-list-of-available-economic-indicators/) lists the countries for which the metric is available.
 
 - `field`
 
-    >  (`simple` `string`)
-    
-    >  the code of the requested economic metric (e.g., "GDp"). the [Help center article](https://www.tradingview.com/chart/?solution=43000665359) lists the metrics and their codes.
+  > (`simple` `string`)
+
+  > the code of the requested economic metric (e.g., "GDp"). the [Help center article](https://www.tradingview.com/chart/?solution=43000665359) lists the metrics and their codes.
 
 - `gaps`
 
-    >  (`simple` `barmerge_gaps`)
-    
-    >  specifies how the returned values are merged on chart bars. possible values: [barmerge.gaps_off](#var_barmerge.gaps_off), [barmerge.gaps_on](#var_barmerge.gaps_on). With [barmerge.gaps_on](#var_barmerge.gaps_on), a value only appears on the current chart bar when it first becomes available from the function's context, otherwise [na](#var_na) is returned (thus a "gap" occurs). With [barmerge.gaps_off](#var_barmerge.gaps_off), what would otherwise be gaps are filled with the latest known value returned, avoiding [na](#var_na) values. optional. the default is [barmerge.gaps_off](#var_barmerge.gaps_off).
+  > (`simple` `barmerge_gaps`)
+
+  > specifies how the returned values are merged on chart bars. possible values: [barmerge.gaps_off](#var_barmerge.gaps_off), [barmerge.gaps_on](#var_barmerge.gaps_on). With [barmerge.gaps_on](#var_barmerge.gaps_on), a value only appears on the current chart bar when it first becomes available from the function's context, otherwise [na](#var_na) is returned (thus a "gap" occurs). With [barmerge.gaps_off](#var_barmerge.gaps_off), what would otherwise be gaps are filled with the latest known value returned, avoiding [na](#var_na) values. optional. the default is [barmerge.gaps_off](#var_barmerge.gaps_off).
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and return a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
+  > (`input` `bool`)
+
+  > Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and return a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
 
 ### Example
-
 
 ```s
 
@@ -15430,8 +15090,8 @@ Economic data can also be accessed from charts, just like a regular symbol. use 
 
 ### See also
 
-* [request.financial](#fun_request.financial)
-* [request.quandl](#fun_request.quandl)
+- [request.financial](#fun_request.financial)
+- [request.quandl](#fun_request.quandl)
 
 ## request.financial
 
@@ -15439,48 +15099,47 @@ Requests financial series for symbol.
 
 ### Syntax
 
-request.financial(symbol, financial\_id, period, gaps, ignore\_invalid_symbol, currency) → series float
+request.financial(symbol, financial_id, period, gaps, ignore_invalid_symbol, currency) → series float
 
 ### Arguments
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL".
+  > (`simple` `string`)
+
+  > symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL".
 
 - `financial_id`
 
-    >  (`simple` `string`)
-    
-    >  Financial identifier. You can find the list of available ids via our [Help center](https://www.tradingview.com/?solution=43000564727).
+  > (`simple` `string`)
+
+  > Financial identifier. You can find the list of available ids via our [Help center](https://www.tradingview.com/?solution=43000564727).
 
 - `period`
 
-    >  (`simple` `string`)
-    
-    >  Reporting period. possible values are "ttM", "FY", "Fq", "FH".
+  > (`simple` `string`)
+
+  > Reporting period. possible values are "ttM", "FY", "Fq", "FH".
 
 - `gaps`
 
-    >  (`simple` `barmerge_gaps`)
-    
-    >  Merge strategy for the requested data (requested data automatically merges with the main series: OHLC data). possible values include: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous, nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
+  > (`simple` `barmerge_gaps`)
+
+  > Merge strategy for the requested data (requested data automatically merges with the main series: OHLC data). possible values include: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous, nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
+  > (`input` `bool`)
+
+  > an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
 
 - `currency`
 
-    >  (`simple` `string`)
-    
-    >  Currency into which the symbol's financial metrics (e.g. Net income) are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). optional. the default is [syminfo.currency](#var_syminfo.currency). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.* namespace, e.g. [currency.usD](#var_currency.usD).
+  > (`simple` `string`)
+
+  > Currency into which the symbol's financial metrics (e.g. Net income) are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). optional. the default is [syminfo.currency](#var_syminfo.currency). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.\* namespace, e.g. [currency.usD](#var_currency.usD).
 
 ### Example
-
 
 ```s
 
@@ -15498,8 +15157,8 @@ Requested series.
 
 ### See also
 
-* [request.security](#fun_request.security)
-* [syminfo.tickerid](#var_syminfo.tickerid)
+- [request.security](#fun_request.security)
+- [syminfo.tickerid](#var_syminfo.tickerid)
 
 ## request.quandl
 
@@ -15507,36 +15166,35 @@ Requests [Nasdaq data link](https://data.nasdaq.com/) (formerly quandl) data for
 
 ### Syntax
 
-request.quandl(ticker, gaps, index, ignore\_invalid\_symbol) → series float
+request.quandl(ticker, gaps, index, ignore_invalid_symbol) → series float
 
 ### Arguments
 
 - `ticker`
 
-    >  (`simple` `string`)
-    
-    >  symbol. Note that the name of a time series and quandl data feed should be divided by a forward slash. For example: "CFTC/sb\_FO\_aLL".
+  > (`simple` `string`)
+
+  > symbol. Note that the name of a time series and quandl data feed should be divided by a forward slash. For example: "CFTC/sb_FO_aLL".
 
 - `gaps`
 
-    >  (`simple` `barmerge_gaps`)
-    
-    >  Merge strategy for the requested data (requested data automatically merges with the main series: OHLC data). possible values include: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous, nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
+  > (`simple` `barmerge_gaps`)
+
+  > Merge strategy for the requested data (requested data automatically merges with the main series: OHLC data). possible values include: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous, nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
 
 - `index`
 
-    >  (`simple` `int`)
-    
-    >  a quandl time-series column index.
+  > (`simple` `int`)
+
+  > a quandl time-series column index.
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
+  > (`input` `bool`)
+
+  > an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
 
 ### Example
-
 
 ```s
 
@@ -15558,8 +15216,8 @@ You can learn more about how to find ticker and index values in our [Help center
 
 ### See also
 
-* [request.security](#fun_request.security)
-* [syminfo.tickerid](#var_syminfo.tickerid)
+- [request.security](#fun_request.security)
+- [syminfo.tickerid](#var_syminfo.tickerid)
 
 ## request.security
 
@@ -15567,54 +15225,53 @@ Requests data from another symbol and/or timeframe.
 
 ### Syntax
 
-request.security(symbol, timeframe, expression, gaps, lookahead, ignore\_invalid\_symbol, currency) → series <type>;
+request.security(symbol, timeframe, expression, gaps, lookahead, ignore_invalid_symbol, currency) → series <type>;
 
 ### Arguments
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol to request the data from. use [syminfo.tickerid](#var_syminfo.tickerid) to request data from the chart's symbol. To request data with additional parameters (extended sessions, dividend adjustments, or a non-standard chart type like Heikin ashi or Renko), a custom ticker identifier must first be created using functions in the \`ticker.*\` namespace.
+  > (`simple` `string`)
+
+  > symbol to request the data from. use [syminfo.tickerid](#var_syminfo.tickerid) to request data from the chart's symbol. To request data with additional parameters (extended sessions, dividend adjustments, or a non-standard chart type like Heikin ashi or Renko), a custom ticker identifier must first be created using functions in the \`ticker.\*\` namespace.
 
 - `timeframe`
 
-    >  (`simple` `string`)
-    
-    >  timeframe of the requested data. To use the chart's timeframe, use an empty string or the [timeframe.period](#var_timeframe.period) variable. Valid timeframe strings are documented in the user Manual's [timeframes](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications) page.
+  > (`simple` `string`)
+
+  > timeframe of the requested data. To use the chart's timeframe, use an empty string or the [timeframe.period](#var_timeframe.period) variable. Valid timeframe strings are documented in the user Manual's [timeframes](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications) page.
 
 - `expression`
 
-    >  (`variable`, `function`, `object`, `array` `or` `matrix` `of` `series` `int`/`float`/`bool`/`string`/`color`, `or` `a` `tuple` `of` `these`)
-    
-    >  an expression to be calculated and returned from the [request.security](#fun_request.security) call's context. it can be a built-in variable like [close](#var_close), an expression such as \`ta.sma(close, 100)\`, a non-mutable user-defined variable previously calculated in the script, a function call that does not use pine script(r) drawings, an array, a matrix, or a tuple. Mutable variables are not allowed, unless they are enclosed in the body of a function used in the expression.
+  > (`variable`, `function`, `object`, `array` `or` `matrix` `of` `series` `int`/`float`/`bool`/`string`/`color`, `or` `a` `tuple` `of` `these`)
+
+  > an expression to be calculated and returned from the [request.security](#fun_request.security) call's context. it can be a built-in variable like [close](#var_close), an expression such as \`ta.sma(close, 100)\`, a non-mutable user-defined variable previously calculated in the script, a function call that does not use pine script(r) drawings, an array, a matrix, or a tuple. Mutable variables are not allowed, unless they are enclosed in the body of a function used in the expression.
 
 - `gaps`
 
-    >  (`simple` `barmerge_gaps`)
-    
-    >  specifies how the returned values are merged on chart bars. possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). With [barmerge.gaps_on](#var_barmerge.gaps_on) a value only appears on the current chart bar when it first becomes available from the function's context, otherwise [na](#var_na) is returned (thus a "gap" occurs). With [barmerge.gaps_off](#var_barmerge.gaps_off) what would otherwise be gaps are filled with the latest known value returned, avoiding [na](#var_na) values. optional. the default is [barmerge.gaps_off](#var_barmerge.gaps_off).
+  > (`simple` `barmerge_gaps`)
+
+  > specifies how the returned values are merged on chart bars. possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). With [barmerge.gaps_on](#var_barmerge.gaps_on) a value only appears on the current chart bar when it first becomes available from the function's context, otherwise [na](#var_na) is returned (thus a "gap" occurs). With [barmerge.gaps_off](#var_barmerge.gaps_off) what would otherwise be gaps are filled with the latest known value returned, avoiding [na](#var_na) values. optional. the default is [barmerge.gaps_off](#var_barmerge.gaps_off).
 
 - `lookahead`
 
-    >  (`simple` `barmerge_lookahead`)
-    
-    >  On historical bars only, returns data from the timeframe before it elapses. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Has no effect on realtime values. optional. the default is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from pine script(r) v3. the default is [barmerge.lookahead_on](#var_barmerge.lookahead_on) in v1 and v2. WaRNiNG: using [barmerge.lookahead_on](#var_barmerge.lookahead_on) at timeframes higher than the chart's without offsetting the \`expression\` argument like in \`close\[1\]\` will introduce future leak in scripts, as the function will then return the \`close\` price before it is actually known in the current context. as is explained in the user Manual's page on [Repainting](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html#future-leak-with-request-security) this will produce misleading results.
+  > (`simple` `barmerge_lookahead`)
+
+  > On historical bars only, returns data from the timeframe before it elapses. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Has no effect on realtime values. optional. the default is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from pine script(r) v3. the default is [barmerge.lookahead_on](#var_barmerge.lookahead_on) in v1 and v2. WaRNiNG: using [barmerge.lookahead_on](#var_barmerge.lookahead_on) at timeframes higher than the chart's without offsetting the \`expression\` argument like in \`close\[1\]\` will introduce future leak in scripts, as the function will then return the \`close\` price before it is actually known in the current context. as is explained in the user Manual's page on [Repainting](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html#future-leak-with-request-security) this will produce misleading results.
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and throw a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
+  > (`input` `bool`)
+
+  > Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and throw a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
 
 - `currency`
 
-    >  (`simple` `string`)
-    
-    >  Currency into which values expressed in currency units ([open](#var_open), [high](#var_high), [low](#var_low), [close](#var_close), etc.) or expressions using such values are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.* namespace, e.g. [currency.usD](#var_currency.usD). Note that literal values such as \`200\` are not converted. optional. the default is [syminfo.currency](#var_syminfo.currency).
+  > (`simple` `string`)
+
+  > Currency into which values expressed in currency units ([open](#var_open), [high](#var_high), [low](#var_low), [close](#var_close), etc.) or expressions using such values are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.\* namespace, e.g. [currency.usD](#var_currency.usD). Note that literal values such as \`200\` are not converted. optional. the default is [syminfo.currency](#var_syminfo.currency).
 
 ### Example
-
 
 ```s
 
@@ -15633,7 +15290,6 @@ plot(aaplClose)
 ```
 
 ### Example
-
 
 ```s
 
@@ -15684,70 +15340,69 @@ a result determined by \`expression\`.
 
 pine script(r) code using this function may calculate differently on historical and realtime bars, leading to [repainting](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html).
 
-a single script can have no more than 40 calls to \`request.*()\` functions.
+a single script can have no more than 40 calls to \`request.\*()\` functions.
 
 ### See also
 
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [timeframe.period](#var_timeframe.period)
-* [ticker.new](#fun_ticker.new)
-* [ticker.modify](#fun_ticker.modify)
-* [request.security\_lower\_tf](#fun_request.security_lower_tf)
-* [request.dividends](#fun_request.dividends)
-* [request.earnings](#fun_request.earnings)
-* [request.splits](#fun_request.splits)
-* [request.financial](#fun_request.financial)
-* [request.quandl](#fun_request.quandl)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [timeframe.period](#var_timeframe.period)
+- [ticker.new](#fun_ticker.new)
+- [ticker.modify](#fun_ticker.modify)
+- [request.security_lower_tf](#fun_request.security_lower_tf)
+- [request.dividends](#fun_request.dividends)
+- [request.earnings](#fun_request.earnings)
+- [request.splits](#fun_request.splits)
+- [request.financial](#fun_request.financial)
+- [request.quandl](#fun_request.quandl)
 
-## request.security\_lower\_tf
+## request.security_lower_tf
 
 Requests data from a specified symbol from a lower timeframe than the chart's. the function returns an array containing one element for each closed lower timeframe intrabar inside the current chart's bar. On a 5-minute chart using a \`timeframe\` argument of "1", the size of the array will usually be 5, with each array element representing the value of \`expression\` on a 1-minute intrabar, ordered sequentially in time.
 
 ### Syntax
 
-request.security\_lower\_tf(symbol, timeframe, expression, ignore\_invalid\_symbol, currency, ignore\_invalid\_timeframe) - array<type>;
+request.security_lower_tf(symbol, timeframe, expression, ignore_invalid_symbol, currency, ignore_invalid_timeframe) - array<type>;
 
 ### Arguments
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol to request the data from. use [syminfo.tickerid](#var_syminfo.tickerid) to request data from the chart's symbol. To request data with additional parameters (extended sessions, dividend adjustments, or a non-standard chart type like Heikin ashi or Renko), a custom ticker identifier must first be created using functions in the \`ticker.*\` namespace.
+  > (`simple` `string`)
+
+  > symbol to request the data from. use [syminfo.tickerid](#var_syminfo.tickerid) to request data from the chart's symbol. To request data with additional parameters (extended sessions, dividend adjustments, or a non-standard chart type like Heikin ashi or Renko), a custom ticker identifier must first be created using functions in the \`ticker.\*\` namespace.
 
 - `timeframe`
 
-    >  (`simple` `string`)
-    
-    >  timeframe of the requested data. To use the chart's timeframe, use an empty string or the [timeframe.period](#var_timeframe.period) variable. Valid timeframe strings are documented in the user Manual's [timeframes](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications) page.
+  > (`simple` `string`)
+
+  > timeframe of the requested data. To use the chart's timeframe, use an empty string or the [timeframe.period](#var_timeframe.period) variable. Valid timeframe strings are documented in the user Manual's [timeframes](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications) page.
 
 - `expression`
 
-    >  (`variable`, `object` `or` `function` `of` `series` `int`/`float`/`bool`/`string`/`color`, `or` `a` `tuple` `of` `these`)
-    
-    >  an expression to be calculated and returned from the function call's context. it can be a built-in variable like [close](#var_close), an expression such as \`ta.sma(close, 100)\`, a non-mutable user-defined variable previously calculated in the script, a function call that does not use pine script(r) drawings, arrays or matrices, or a tuple. Mutable variables are not allowed, unless they are enclosed in the body of a function used in the expression.
+  > (`variable`, `object` `or` `function` `of` `series` `int`/`float`/`bool`/`string`/`color`, `or` `a` `tuple` `of` `these`)
+
+  > an expression to be calculated and returned from the function call's context. it can be a built-in variable like [close](#var_close), an expression such as \`ta.sma(close, 100)\`, a non-mutable user-defined variable previously calculated in the script, a function call that does not use pine script(r) drawings, arrays or matrices, or a tuple. Mutable variables are not allowed, unless they are enclosed in the body of a function used in the expression.
 
 - `ignore\_invalid\_symbol`
 
-    >  (`const` `bool`)
-    
-    >  Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and throw a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and throw a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
 
 - `currency`
 
-    >  (`simple` `string`)
-    
-    >  Currency into which values expressed in currency units ([open](#var_open), [high](#var_high), [low](#var_low), [close](#var_close), etc.) or expressions using such values are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.* namespace, e.g. [currency.usD](#var_currency.usD). Note that literal values such as \`200\` are not converted. optional. the default is [syminfo.currency](#var_syminfo.currency).
+  > (`simple` `string`)
+
+  > Currency into which values expressed in currency units ([open](#var_open), [high](#var_high), [low](#var_low), [close](#var_close), etc.) or expressions using such values are to be converted. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). possible values: a three-letter string with the [currency code in the isO 4217 format](https://en.wikipedia.org/wiki/isO_4217#active_codes) (e.g. "usD") or one of the constants in the currency.\* namespace, e.g. [currency.usD](#var_currency.usD). Note that literal values such as \`200\` are not converted. optional. the default is [syminfo.currency](#var_syminfo.currency).
 
 - `ignore\_invalid\_timeframe`
 
-    >  (`const` `bool`)
-    
-    >  Determines the behavior of the function when the chart's timeframe is smaller than the \`timeframe\` used in the function call. if [false](#op_false), the script will halt and throw a runtime error. if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > Determines the behavior of the function when the chart's timeframe is smaller than the \`timeframe\` used in the function call. if [false](#op_false), the script will halt and throw a runtime error. if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
 
 ### Example
-
 
 ```s
 
@@ -15771,24 +15426,24 @@ an array of a type determined by \`expression\`, or a tuple of these.
 
 pine script(r) code using this function may calculate differently on historical and real-time bars, leading to [repainting](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html).
 
-please note that spreads (e.g., "aapL+MsFT*TsLa") will not always return reliable data with this function.
+please note that spreads (e.g., "aapL+MsFT\*TsLa") will not always return reliable data with this function.
 
-a single script can have no more than 40 calls to \`request.*()\` functions.
+a single script can have no more than 40 calls to \`request.\*()\` functions.
 
 a maximum of 100,000 lower timeframe bars can be accessed by this function. the number of chart bars for which lower timeframe data is available will thus vary with the requested lower timeframe.
 
 ### See also
 
-* [request.security](#fun_request.security)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [timeframe.period](#var_timeframe.period)
-* [ticker.new](#fun_ticker.new)
-* [request.dividends](#fun_request.dividends)
-* [request.earnings](#fun_request.earnings)
-* [request.splits](#fun_request.splits)
-* [request.financial](#fun_request.financial)
-* [request.quandl](#fun_request.quandl)
+- [request.security](#fun_request.security)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [timeframe.period](#var_timeframe.period)
+- [ticker.new](#fun_ticker.new)
+- [request.dividends](#fun_request.dividends)
+- [request.earnings](#fun_request.earnings)
+- [request.splits](#fun_request.splits)
+- [request.financial](#fun_request.financial)
+- [request.quandl](#fun_request.quandl)
 
 ## request.seed
 
@@ -15796,36 +15451,35 @@ Requests data from a user-maintained Github repository and returns it as a serie
 
 ### Syntax
 
-request.seed(source, symbol, expression, ignore\_invalid\_symbol) → series <type>;
+request.seed(source, symbol, expression, ignore_invalid_symbol) → series <type>;
 
 ### Arguments
 
 - `source`
 
-    >  (`simple` `string`)
-    
-    >  Name of the Github repository.
+  > (`simple` `string`)
+
+  > Name of the Github repository.
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  Name of the file in the Github repository containing the data. the ".csv" file extension must not be included.
+  > (`simple` `string`)
+
+  > Name of the file in the Github repository containing the data. the ".csv" file extension must not be included.
 
 - `expression`
 
-    >  (<`arg`\`_expr`\`_type`>;)
-    
-    >  an expression to be calculated and returned from the requested symbol's context. it can be a built-in variable like [close](#var_close), an expression such as \`ta.sma(close, 100)\`, a non-mutable variable previously calculated in the script, a function call that does not use pine script(r) drawings, an array, a matrix, or a tuple. Mutable variables are not allowed, unless they are enclosed in the body of a function used in the expression.
+  > (<`arg`\`\_expr`\`\_type`>;)
+
+  > an expression to be calculated and returned from the requested symbol's context. it can be a built-in variable like [close](#var_close), an expression such as \`ta.sma(close, 100)\`, a non-mutable variable previously calculated in the script, a function call that does not use pine script(r) drawings, an array, a matrix, or a tuple. Mutable variables are not allowed, unless they are enclosed in the body of a function used in the expression.
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and throw a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
+  > (`input` `bool`)
+
+  > Determines the behavior of the function if the specified symbol is not found: if [false](#op_false), the script will halt and throw a runtime error; if [true](#op_true), the function will return [na](#var_na) and execution will continue. optional. the default is [false](#op_false).
 
 ### Example
-
 
 ```s
 
@@ -15850,42 +15504,41 @@ Requests splits data for the specified symbol.
 
 ### Syntax
 
-request.splits(ticker, field, gaps, lookahead, ignore\_invalid\_symbol) → series float
+request.splits(ticker, field, gaps, lookahead, ignore_invalid_symbol) → series float
 
 ### Arguments
 
 - `ticker`
 
-    >  (`simple` `string`)
-    
-    >  symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL". using [syminfo.ticker](#var_syminfo.ticker) will cause an error. use [syminfo.tickerid](#var_syminfo.tickerid) instead.
+  > (`simple` `string`)
+
+  > symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL". using [syminfo.ticker](#var_syminfo.ticker) will cause an error. use [syminfo.tickerid](#var_syminfo.tickerid) instead.
 
 - `field`
 
-    >  (`simple` `string`)
-    
-    >  input string. possible values include: [splits.denominator](#var_splits.denominator), [splits.numerator](#var_splits.numerator).
+  > (`simple` `string`)
+
+  > input string. possible values include: [splits.denominator](#var_splits.denominator), [splits.numerator](#var_splits.numerator).
 
 - `gaps`
 
-    >  (`simple` `barmerge_gaps`)
-    
-    >  Merge strategy for the requested data (requested data automatically merges with the main series OHLC data). possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
+  > (`simple` `barmerge_gaps`)
+
+  > Merge strategy for the requested data (requested data automatically merges with the main series OHLC data). possible values: [barmerge.gaps_on](#var_barmerge.gaps_on), [barmerge.gaps_off](#var_barmerge.gaps_off). [barmerge.gaps_on](#var_barmerge.gaps_on) \- requested data is merged with possible gaps ([na](#var_na) values). [barmerge.gaps_off](#var_barmerge.gaps_off) \- requested data is merged continuously without gaps, all the gaps are filled with the previous nearest existing values. Default value is [barmerge.gaps_off](#var_barmerge.gaps_off).
 
 - `lookahead`
 
-    >  (`simple` `barmerge_lookahead`)
-    
-    >  Merge strategy for the requested data position. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Default value is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from version 3. Note that behavour is the same on real-time, and differs only on history.
+  > (`simple` `barmerge_lookahead`)
+
+  > Merge strategy for the requested data position. possible values: [barmerge.lookahead_on](#var_barmerge.lookahead_on), [barmerge.lookahead_off](#var_barmerge.lookahead_off). Default value is [barmerge.lookahead_off](#var_barmerge.lookahead_off) starting from version 3. Note that behavour is the same on real-time, and differs only on history.
 
 - `ignore\_invalid\_symbol`
 
-    >  (`input` `bool`)
-    
-    >  an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
+  > (`input` `bool`)
+
+  > an optional parameter. Determines the behavior of the function if the specified symbol is not found: if false, the script will halt and return a runtime error; if true, the function will return na and execution will continue. the default value is false.
 
 ### Example
-
 
 ```s
 
@@ -15905,10 +15558,10 @@ Requested series, or n/a if there is no splits data for the specified symbol.
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
-* [request.dividends](#fun_request.dividends)
-* [request.security](#fun_request.security)
-* [syminfo.tickerid](#var_syminfo.tickerid)
+- [request.earnings](#fun_request.earnings)
+- [request.dividends](#fun_request.dividends)
+- [request.security](#fun_request.security)
+- [syminfo.tickerid](#var_syminfo.tickerid)
 
 ## runtime.error
 
@@ -15922,9 +15575,9 @@ runtime.error(message) - void
 
 - `message`
 
-    >  (`series` `string`)
-    
-    >  Error message.
+  > (`series` `string`)
+
+  > Error message.
 
 ## second
 
@@ -15932,16 +15585,15 @@ runtime.error(message) - void
 
 ### syntax & Overloads
 
-> [second(time) → series int](#fun_second-0)
-> [second(time, timezone) → series int](#fun_second-1)
+> [second(time) → series int](#fun_second-0) > [second(time, timezone) → series int](#fun_second-1)
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -15953,14 +15605,14 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### See also
 
-* [second](#var_second)
-* [time](#fun_time)
-* [year](#fun_year)
-* [month](#fun_month)
-* [dayofmonth](#fun_dayofmonth)
-* [dayofweek](#fun_dayofweek)
-* [hour](#fun_hour)
-* [minute](#fun_minute)
+- [second](#var_second)
+- [time](#fun_time)
+- [year](#fun_year)
+- [month](#fun_month)
+- [dayofmonth](#fun_dayofmonth)
+- [dayofweek](#fun_dayofweek)
+- [hour](#fun_hour)
+- [minute](#fun_minute)
 
 ## str.contains
 
@@ -15970,26 +15622,23 @@ Returns true if the \`source\` string contains the \`str\` substring, false othe
 
 ### syntax & Overloads
 
-> [str.contains(source, str) → const bool](#fun_str.contains-0)
-> [str.contains(source, str) → simple bool](#fun_str.contains-1)
-> [str.contains(source, str) → series bool](#fun_str.contains-2)
+> [str.contains(source, str) → const bool](#fun_str.contains-0) > [str.contains(source, str) → simple bool](#fun_str.contains-1) > [str.contains(source, str) → series bool](#fun_str.contains-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  source string.
+  > (`const` `string`)
+
+  > source string.
 
 - `str`
 
-    >  (`const` `string`)
-    
-    >  the substring to search for.
+  > (`const` `string`)
+
+  > the substring to search for.
 
 ### Example
-
 
 ```s
 
@@ -16008,8 +15657,8 @@ true if the \`str\` was found in the \`source\` string, false otherwise.
 
 ### See also
 
-* [str.pos](#fun_str.pos)
-* [str.match](#fun_str.match)
+- [str.pos](#fun_str.pos)
+- [str.match](#fun_str.match)
 
 ## str.endswith
 
@@ -16019,23 +15668,21 @@ Returns true if the \`source\` string ends with the substring specified in \`str
 
 ### syntax & Overloads
 
-> [str.endswith(source, str) → const bool](#fun_str.endswith-0)
-> [str.endswith(source, str) → simple bool](#fun_str.endswith-1)
-> [str.endswith(source, str) → series bool](#fun_str.endswith-2)
+> [str.endswith(source, str) → const bool](#fun_str.endswith-0) > [str.endswith(source, str) → simple bool](#fun_str.endswith-1) > [str.endswith(source, str) → series bool](#fun_str.endswith-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  source string.
+  > (`const` `string`)
+
+  > source string.
 
 - `str`
 
-    >  (`const` `string`)
-    
-    >  the substring to search for.
+  > (`const` `string`)
+
+  > the substring to search for.
 
 ### Returns
 
@@ -16043,7 +15690,7 @@ true if the \`source\` string ends with the substring specified in \`str\`, fals
 
 ### See also
 
-* [str.startswith](#fun_str.startswith)
+- [str.startswith](#fun_str.startswith)
 
 ## str.format
 
@@ -16053,25 +15700,23 @@ Converts the formatting string and value(s) into a formatted string. the formatt
 
 ### syntax & Overloads
 
-> [str.format(formatstring, arg0, arg1, ...) → simple string](#fun_str.format-0)
-> [str.format(formatstring, arg0, arg1, ...) → series string](#fun_str.format-1)
+> [str.format(formatstring, arg0, arg1, ...) → simple string](#fun_str.format-0) > [str.format(formatstring, arg0, arg1, ...) → series string](#fun_str.format-1)
 
 ### Arguments
 
 - `formatstring`
 
-    >  (`simple` `string`)
-    
-    >  format string.
+  > (`simple` `string`)
+
+  > format string.
 
 - `arg0, arg1, ...`
 
-    >  (`simple` `int`/`float`/`bool`/`string`)
-    
-    >  Values to format.
+  > (`simple` `int`/`float`/`bool`/`string`)
+
+  > Values to format.
 
 ### Example
-
 
 ```s
 
@@ -16136,24 +15781,23 @@ str.format_time(time, format, timezone) → series string
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time, in milliseconds.
+  > (`series` `int`)
+
+  > unix time, in milliseconds.
 
 - `format`
 
-    >  (`series` `string`)
-    
-    >  a format string specifying the date/time representation of the \`time\` in the returned string. all letters used in the string, except those escaped by single quotation marks `'`, are considered formatting tokens and will be used as a formatting instruction. Refer to the Remarks section for a list of the most useful tokens. optional. the default is "yyyy-MM-dd'T'HH:mm:ssZ", which represents the isO 8601 standard.
+  > (`series` `string`)
+
+  > a format string specifying the date/time representation of the \`time\` in the returned string. all letters used in the string, except those escaped by single quotation marks `'`, are considered formatting tokens and will be used as a formatting instruction. Refer to the Remarks section for a list of the most useful tokens. optional. the default is "yyyy-MM-dd'T'HH:mm:ssZ", which represents the isO 8601 standard.
 
 - `timezone`
 
-    >  (`series` `string`)
-    
-    >  allows adjusting the returned value to a time zone specified in either uTC/GMT notation (e.g., "uTC-5", "GMT+0530") or as an [iaNa time zone database name](https://en.wikipedia.org/wiki/list_of_tz_database_time_zones) (e.g., "america/New_York"). optional. the default is [syminfo.timezone](#var_syminfo.timezone).
+  > (`series` `string`)
+
+  > allows adjusting the returned value to a time zone specified in either uTC/GMT notation (e.g., "uTC-5", "GMT+0530") or as an [iaNa time zone database name](https://en.wikipedia.org/wiki/list_of_tz_database_time_zones) (e.g., "america/New_York"). optional. the default is [syminfo.timezone](#var_syminfo.timezone).
 
 ### Example
-
 
 ```s
 
@@ -16176,25 +15820,25 @@ the formatted string.
 
 #### the most frequently used formatting tokens are:
 
-  > y - Year. use \y`y\` to output the last two digits of the year or \y`yyy\` to output all four. Year 2000 will be \`00\` with \y`y\` or \`2000\` with \y`yyy\`.
+> y - Year. use \y`y\` to output the last two digits of the year or \y`yyy\` to output all four. Year 2000 will be \`00\` with \y`y\` or \`2000\` with \y`yyy\`.
 
-  > M - Month. Not to be confused with lowercase \`m\`, which stands for minute.
+> M - Month. Not to be confused with lowercase \`m\`, which stands for minute.
 
-  > d - Day of the month.
+> d - Day of the month.
 
-  > a - aM/pM postfix.
+> a - aM/pM postfix.
 
-  > h - Hour in the 12-hour format. the last hour of the day will be \`11\` in this format.
+> h - Hour in the 12-hour format. the last hour of the day will be \`11\` in this format.
 
-  > H - Hour in the 24-hour format. the last hour of the day will be \`23\` in this format.
+> H - Hour in the 24-hour format. the last hour of the day will be \`23\` in this format.
 
-  > m - Minute.
+> m - Minute.
 
-  > s - second.
+> s - second.
 
-  > s - Fractions of a second.
+> s - Fractions of a second.
 
-  > Z - timezone, the HHmm offset from uTC, preceded by either `+` or `-`.
+> Z - timezone, the HHmm offset from uTC, preceded by either `+` or `-`.
 
 ## str.length
 
@@ -16204,17 +15848,15 @@ Returns an integer corresponding to the amount of chars in that string.
 
 ### syntax & Overloads
 
-> [str.length(string) → const int](#fun_str.length-0)
-> [str.length(string) → simple int](#fun_str.length-1)
-> [str.length(string) → series int](#fun_str.length-2)
+> [str.length(string) → const int](#fun_str.length-0) > [str.length(string) → simple int](#fun_str.length-1) > [str.length(string) → series int](#fun_str.length-2)
 
 ### Arguments
 
 - `string`
 
-    >  (`const` `string`)
-    
-    >  source string.
+  > (`const` `string`)
+
+  > source string.
 
 ### Returns
 
@@ -16228,17 +15870,15 @@ Returns a new string with all letters converted to lowercase.
 
 ### syntax & Overloads
 
-> [str.lower(source) → const string](#fun_str.lower-0)
-> [str.lower(source) → simple string](#fun_str.lower-1)
-> [str.lower(source) → series string](#fun_str.lower-2)
+> [str.lower(source) → const string](#fun_str.lower-0) > [str.lower(source) → simple string](#fun_str.lower-1) > [str.lower(source) → series string](#fun_str.lower-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  string to be converted.
+  > (`const` `string`)
+
+  > string to be converted.
 
 ### Returns
 
@@ -16246,7 +15886,7 @@ a new string with all letters converted to lowercase.
 
 ### See also
 
-* [str.upper](#fun_str.upper)
+- [str.upper](#fun_str.upper)
 
 ## str.match
 
@@ -16256,25 +15896,23 @@ Returns the new substring of the \`source\` string if it matches a \`regex\` reg
 
 ### syntax & Overloads
 
-> [str.match(source, regex) → simple string](#fun_str.match-0)
-> [str.match(source, regex) → series string](#fun_str.match-1)
+> [str.match(source, regex) → simple string](#fun_str.match-0) > [str.match(source, regex) → series string](#fun_str.match-1)
 
 ### Arguments
 
 - `source`
 
-    >  (`simple` `string`)
-    
-    >  source string.
+  > (`simple` `string`)
+
+  > source string.
 
 - `regex`
 
-    >  (`simple` `string`)
-    
-    >  the regular expression to which this string is to be matched.
+  > (`simple` `string`)
+
+  > the regular expression to which this string is to be matched.
 
 ### Example
-
 
 ```s
 
@@ -16304,8 +15942,8 @@ the backslash "\" symbol in the\`regex\` string needs to be escaped with additio
 
 ### See also
 
-* [str.contains](#fun_str.contains)
-* [str.substring](#fun_str.substring)
+- [str.contains](#fun_str.contains)
+- [str.substring](#fun_str.substring)
 
 ## str.pos
 
@@ -16315,23 +15953,21 @@ Returns the position of the first occurrence of the \`str\` string in the \`sour
 
 ### syntax & Overloads
 
-> [str.pos(source, str) → const int](#fun_str.pos-0)
-> [str.pos(source, str) → simple int](#fun_str.pos-1)
-> [str.pos(source, str) → series int](#fun_str.pos-2)
+> [str.pos(source, str) → const int](#fun_str.pos-0) > [str.pos(source, str) → simple int](#fun_str.pos-1) > [str.pos(source, str) → series int](#fun_str.pos-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  source string.
+  > (`const` `string`)
+
+  > source string.
 
 - `str`
 
-    >  (`const` `string`)
-    
-    >  the substring to search for.
+  > (`const` `string`)
+
+  > the substring to search for.
 
 ### Returns
 
@@ -16343,9 +15979,9 @@ strings indexing starts at 0.
 
 ### See also
 
-* [str.contains](#fun_str.contains)
-* [str.match](#fun_str.match)
-* [str.substring](#fun_str.substring)
+- [str.contains](#fun_str.contains)
+- [str.match](#fun_str.match)
+- [str.substring](#fun_str.substring)
 
 ## str.replace
 
@@ -16355,38 +15991,35 @@ Returns a new string with the Nth occurrence of the \`target\` string replaced b
 
 ### syntax & Overloads
 
-> [str.replace(source, target, replacement, occurrence) → const string](#fun_str.replace-0)
-> [str.replace(source, target, replacement, occurrence) → simple string](#fun_str.replace-1)
-> [str.replace(source, target, replacement, occurrence) → series string](#fun_str.replace-2)
+> [str.replace(source, target, replacement, occurrence) → const string](#fun_str.replace-0) > [str.replace(source, target, replacement, occurrence) → simple string](#fun_str.replace-1) > [str.replace(source, target, replacement, occurrence) → series string](#fun_str.replace-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  source string.
+  > (`const` `string`)
+
+  > source string.
 
 - `target`
 
-    >  (`const` `string`)
-    
-    >  string to be replaced.
+  > (`const` `string`)
+
+  > string to be replaced.
 
 - `replacement`
 
-    >  (`const` `string`)
-    
-    >  string to be inserted instead of the target string.
+  > (`const` `string`)
+
+  > string to be inserted instead of the target string.
 
 - `occurrence`
 
-    >  (`const` `int`)
-    
-    >  N-th occurrence of the target string to replace. indexing starts at 0 for the first match. optional. Default value is 0.
+  > (`const` `int`)
+
+  > N-th occurrence of the target string to replace. indexing starts at 0 for the first match. optional. Default value is 0.
 
 ### Example
-
 
 ```s
 
@@ -16410,8 +16043,8 @@ processed string.
 
 ### See also
 
-* [str.replace_all](#fun_str.replace_all)
-* [str.match](#fun_str.match)
+- [str.replace_all](#fun_str.replace_all)
+- [str.match](#fun_str.match)
 
 ## str.replace_all
 
@@ -16421,28 +16054,27 @@ Replaces each occurrence of the target string in the source string with the repl
 
 ### syntax & Overloads
 
-> [str.replace_all(source, target, replacement) → simple string](#fun_str.replace_all-0)
-> [str.replace_all(source, target, replacement) → series string](#fun_str.replace_all-1)
+> [str.replace_all(source, target, replacement) → simple string](#fun_str.replace_all-0) > [str.replace_all(source, target, replacement) → series string](#fun_str.replace_all-1)
 
 ### Arguments
 
 - `source`
 
-    >  (`simple` `string`)
-    
-    >  source string.
+  > (`simple` `string`)
+
+  > source string.
 
 - `target`
 
-    >  (`simple` `string`)
-    
-    >  string to be replaced.
+  > (`simple` `string`)
+
+  > string to be replaced.
 
 - `replacement`
 
-    >  (`simple` `string`)
-    
-    >  string to be substituted for each occurrence of target string.
+  > (`simple` `string`)
+
+  > string to be substituted for each occurrence of target string.
 
 ### Returns
 
@@ -16460,15 +16092,15 @@ str.split(string, separator) - string\[\]
 
 - `string`
 
-    >  (`series` `string`)
-    
-    >  source string.
+  > (`series` `string`)
+
+  > source string.
 
 - `separator`
 
-    >  (`series` `string`)
-    
-    >  the string separating each substring.
+  > (`series` `string`)
+
+  > the string separating each substring.
 
 ### Returns
 
@@ -16482,23 +16114,21 @@ Returns true if the \`source\` string starts with the substring specified in \`s
 
 ### syntax & Overloads
 
-> [str.startswith(source, str) → const bool](#fun_str.startswith-0)
-> [str.startswith(source, str) → simple bool](#fun_str.startswith-1)
-> [str.startswith(source, str) → series bool](#fun_str.startswith-2)
+> [str.startswith(source, str) → const bool](#fun_str.startswith-0) > [str.startswith(source, str) → simple bool](#fun_str.startswith-1) > [str.startswith(source, str) → series bool](#fun_str.startswith-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  source string.
+  > (`const` `string`)
+
+  > source string.
 
 - `str`
 
-    >  (`const` `string`)
-    
-    >  the substring to search for.
+  > (`const` `string`)
+
+  > the substring to search for.
 
 ### Returns
 
@@ -16506,39 +16136,33 @@ true if the \`source\` string starts with the substring specified in \`str\`, fa
 
 ### See also
 
-* [str.endswith](#fun_str.endswith)
+- [str.endswith](#fun_str.endswith)
 
 ## str.substring
 
 +5 overloads
 
-Returns a new string that is a substring of the \`source\` string. the substring begins with the character at the index specified by \`begin\_pos\` and extends to 'end\_pos - 1' of the \`source\` string.
+Returns a new string that is a substring of the \`source\` string. the substring begins with the character at the index specified by \`begin_pos\` and extends to 'end_pos - 1' of the \`source\` string.
 
 ### syntax & Overloads
 
-> [str.substring(source, begin_pos) → const string](#fun_str.substring-0)
-> [str.substring(source, begin_pos) → simple string](#fun_str.substring-1)
-> [str.substring(source, begin_pos) → series string](#fun_str.substring-2)
-> [str.substring(source, begin\_pos, end\_pos) → const string](#fun_str.substring-3)
-> [str.substring(source, begin\_pos, end\_pos) → simple string](#fun_str.substring-4)
-> [str.substring(source, begin\_pos, end\_pos) → series string](#fun_str.substring-5)
+> [str.substring(source, begin_pos) → const string](#fun_str.substring-0) > [str.substring(source, begin_pos) → simple string](#fun_str.substring-1) > [str.substring(source, begin_pos) → series string](#fun_str.substring-2) > [str.substring(source, begin_pos, end_pos) → const string](#fun_str.substring-3) > [str.substring(source, begin_pos, end_pos) → simple string](#fun_str.substring-4) > [str.substring(source, begin_pos, end_pos) → series string](#fun_str.substring-5)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  source string from which to extract the substring.
+  > (`const` `string`)
+
+  > source string from which to extract the substring.
 
 - `begin_pos`
 
-    >  (`const` `int`)
-    
-    >  the beginning position of the extracted substring. it is inclusive (the extracted substring includes the character at that position).
+  > (`const` `int`)
+
+  > the beginning position of the extracted substring. it is inclusive (the extracted substring includes the character at that position).
 
 ### Example
-
 
 ```s
 
@@ -16559,13 +16183,13 @@ the substring extracted from the source string.
 
 ### Remarks
 
-strings indexing starts from 0. if \`begin\_pos\` is equal to \`end\_pos\`, the function returns an empty string.
+strings indexing starts from 0. if \`begin_pos\` is equal to \`end_pos\`, the function returns an empty string.
 
 ### See also
 
-* [str.contains](#fun_str.contains)
-* [str.pos](#fun_str.pos)
-* [str.match](#fun_str.match)
+- [str.contains](#fun_str.contains)
+- [str.pos](#fun_str.pos)
+- [str.match](#fun_str.match)
 
 ## str.tonumber
 
@@ -16575,18 +16199,15 @@ Converts a value represented in \`string\` to its "float" equivalent.
 
 ### syntax & Overloads
 
-> [str.tonumber(string) → const float](#fun_str.tonumber-0)
-> [str.tonumber(string) → input float](#fun_str.tonumber-1)
-> [str.tonumber(string) → simple float](#fun_str.tonumber-2)
-> [str.tonumber(string) → series float](#fun_str.tonumber-3)
+> [str.tonumber(string) → const float](#fun_str.tonumber-0) > [str.tonumber(string) → input float](#fun_str.tonumber-1) > [str.tonumber(string) → simple float](#fun_str.tonumber-2) > [str.tonumber(string) → series float](#fun_str.tonumber-3)
 
 ### Arguments
 
 - `string`
 
-    >  (`const` `string`)
-    
-    >  string containing the representation of an integer or floating point value.
+  > (`const` `string`)
+
+  > string containing the representation of an integer or floating point value.
 
 ### Returns
 
@@ -16598,18 +16219,15 @@ a "float" equivalent of the value in \`string\`. if the value is not a properly 
 
 ### syntax & Overloads
 
-> [str.tostring(value) → simple string](#fun_str.tostring-0)
-> [str.tostring(value) → series string](#fun_str.tostring-1)
-> [str.tostring(value, format) → simple string](#fun_str.tostring-2)
-> [str.tostring(value, format) → series string](#fun_str.tostring-3)
+> [str.tostring(value) → simple string](#fun_str.tostring-0) > [str.tostring(value) → series string](#fun_str.tostring-1) > [str.tostring(value, format) → simple string](#fun_str.tostring-2) > [str.tostring(value, format) → series string](#fun_str.tostring-3)
 
 ### Arguments
 
 - `value`
 
-    >  (`simple` `int`/`float`)
-    
-    >  Value or array iD whose elements are converted to a string.
+  > (`simple` `int`/`float`)
+
+  > Value or array iD whose elements are converted to a string.
 
 ### Returns
 
@@ -16641,17 +16259,15 @@ Returns a new string with all letters converted to uppercase.
 
 ### syntax & Overloads
 
-> [str.upper(source) → const string](#fun_str.upper-0)
-> [str.upper(source) → simple string](#fun_str.upper-1)
-> [str.upper(source) → series string](#fun_str.upper-2)
+> [str.upper(source) → const string](#fun_str.upper-0) > [str.upper(source) → simple string](#fun_str.upper-1) > [str.upper(source) → series string](#fun_str.upper-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`const` `string`)
-    
-    >  string to be converted.
+  > (`const` `string`)
+
+  > string to be converted.
 
 ### Returns
 
@@ -16659,7 +16275,7 @@ a new string with all letters converted to uppercase.
 
 ### See also
 
-* [str.lower](#fun_str.lower)
+- [str.lower](#fun_str.lower)
 
 ## strategy
 
@@ -16667,186 +16283,185 @@ this declaration statement designates the script as a strategy and sets a number
 
 ### Syntax
 
-strategy(title, shorttitle, overlay, format, precision, scale, pyramiding, calc\_on\_order\_fills, calc\_on\_every\_tick, max\_bars\_back, backtest\_fill\_limits\_assumption, default\_qty\_type, default\_qty\_value, initial\_capital, currency, slippage, commission\_type, commission\_value, process\_orders\_on\_close, close\_entries\_rule, margin\_long, margin\_short, explicit\_plot\_zorder, max\_lines\_count, max\_labels\_count, max\_boxes\_count, risk\_free\_rate, use\_bar\_magnifier, max\_polylines_count) - void
+strategy(title, shorttitle, overlay, format, precision, scale, pyramiding, calc_on_order_fills, calc_on_every_tick, max_bars_back, backtest_fill_limits_assumption, default_qty_type, default_qty_value, initial_capital, currency, slippage, commission_type, commission_value, process_orders_on_close, close_entries_rule, margin_long, margin_short, explicit_plot_zorder, max_lines_count, max_labels_count, max_boxes_count, risk_free_rate, use_bar_magnifier, max_polylines_count) - void
 
 ### Arguments
 
 - `title`
 
-    >  (`const` `string`)
-    
-    >  the title of the script. it is displayed on the chart when no \`shorttitle\` argument is used, and becomes the publication's default title when publishing the script.
+  > (`const` `string`)
+
+  > the title of the script. it is displayed on the chart when no \`shorttitle\` argument is used, and becomes the publication's default title when publishing the script.
 
 - `shorttitle`
 
-    >  (`const` `string`)
-    
-    >  the script's display name on charts. if specified, it will replace the \`title\` argument in most chart-related windows. optional. the default is the argument used for \`title\`.
+  > (`const` `string`)
+
+  > the script's display name on charts. if specified, it will replace the \`title\` argument in most chart-related windows. optional. the default is the argument used for \`title\`.
 
 - `overlay`
 
-    >  (`const` `bool`)
-    
-    >  if [true](#op_true), the strategy will be displayed over the chart. if [false](#op_false), it will be added in a separate pane. strategy-specific labels that display entries and exits will be displayed over the main chart regardless of this setting. optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > if [true](#op_true), the strategy will be displayed over the chart. if [false](#op_false), it will be added in a separate pane. strategy-specific labels that display entries and exits will be displayed over the main chart regardless of this setting. optional. the default is [false](#op_false).
 
 - `format`
 
-    >  (`const` `string`)
-    
-    >  specifies the formatting of the script's displayed values. possible values: [format.inherit](#var_format.inherit), [format.price](#var_format.price), [format.volume](#var_format.volume), [format.percent](#var_format.percent). optional. the default is [format.inherit](#var_format.inherit).
+  > (`const` `string`)
+
+  > specifies the formatting of the script's displayed values. possible values: [format.inherit](#var_format.inherit), [format.price](#var_format.price), [format.volume](#var_format.volume), [format.percent](#var_format.percent). optional. the default is [format.inherit](#var_format.inherit).
 
 - `precision`
 
-    >  (`const` `int`)
-    
-    >  specifies the number of digits after the floating point of the script's displayed values. Must be a non-negative integer no greater than 16. if \`format\` is set to [format.inherit](#var_format.inherit) and \`precision\` is specified, the format will instead be set to [format.price](#var_format.price). optional. the default is inherited from the precision of the chart's symbol.
+  > (`const` `int`)
+
+  > specifies the number of digits after the floating point of the script's displayed values. Must be a non-negative integer no greater than 16. if \`format\` is set to [format.inherit](#var_format.inherit) and \`precision\` is specified, the format will instead be set to [format.price](#var_format.price). optional. the default is inherited from the precision of the chart's symbol.
 
 - `scale`
 
-    >  (`const` `scale_type`)
-    
-    >  the price scale used. possible values: [scale.right](#var_scale.right), [scale.left](#var_scale.left), [scale.none](#var_scale.none). the [scale.none](#var_scale.none) value can only be applied in combination with \`overlay = true\`. optional. by default, the script uses the same scale as the chart.
+  > (`const` `scale_type`)
+
+  > the price scale used. possible values: [scale.right](#var_scale.right), [scale.left](#var_scale.left), [scale.none](#var_scale.none). the [scale.none](#var_scale.none) value can only be applied in combination with \`overlay = true\`. optional. by default, the script uses the same scale as the chart.
 
 - `pyramiding`
 
-    >  (`const` `int`)
-    
-    >  the maximum number of entries allowed in the same direction. if the value is 0, only one entry order in the same direction can be opened, and additional entry orders are rejected. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0.
+  > (`const` `int`)
+
+  > the maximum number of entries allowed in the same direction. if the value is 0, only one entry order in the same direction can be opened, and additional entry orders are rejected. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0.
 
 - `calc\_on\_order_fills`
 
-    >  (`const` `bool`)
-    
-    >  specifies whether the strategy should be recalculated after an order is filled. if [true](#op_true), the strategy recalculates after an order is filled, as opposed to recalculating only when the bar closes. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > specifies whether the strategy should be recalculated after an order is filled. if [true](#op_true), the strategy recalculates after an order is filled, as opposed to recalculating only when the bar closes. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [false](#op_false).
 
 - `calc\_on\_every_tick`
 
-    >  (`const` `bool`)
-    
-    >  specifies whether the strategy should be recalculated on each realtime tick. if [true](#op_true), when the strategy is running on a realtime bar, it will recalculate on each chart update. if [false](#op_false), the strategy only calculates when the realtime bar closes. the argument used does not affect strategy calculation on historical data. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > specifies whether the strategy should be recalculated on each realtime tick. if [true](#op_true), when the strategy is running on a realtime bar, it will recalculate on each chart update. if [false](#op_false), the strategy only calculates when the realtime bar closes. the argument used does not affect strategy calculation on historical data. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [false](#op_false).
 
 - `max\_bars\_back`
 
-    >  (`const` `int`)
-    
-    >  the length of the historical buffer the script keeps for every variable and function, which determines how many past values can be referenced using the `\[\]` history-referencing operator. the required buffer size is automatically detected by the pine script(r) runtime. using this parameter is only necessary when a runtime error occurs because automatic detection fails. More information on the underlying mechanics of the historical buffer can be found [in our Help center](https://www.tradingview.com/chart/?solution=43000587849). optional. the default is 0.
+  > (`const` `int`)
+
+  > the length of the historical buffer the script keeps for every variable and function, which determines how many past values can be referenced using the `\[\]` history-referencing operator. the required buffer size is automatically detected by the pine script(r) runtime. using this parameter is only necessary when a runtime error occurs because automatic detection fails. More information on the underlying mechanics of the historical buffer can be found [in our Help center](https://www.tradingview.com/chart/?solution=43000587849). optional. the default is 0.
 
 - `backtest\_fill\_limits_assumption`
 
-    >  (`const` `int`)
-    
-    >  limit order execution threshold in ticks. When it is used, limit orders are only filled if the market price exceeds the order's limit level by the specified number of ticks. optional. the default is 0.
+  > (`const` `int`)
+
+  > limit order execution threshold in ticks. When it is used, limit orders are only filled if the market price exceeds the order's limit level by the specified number of ticks. optional. the default is 0.
 
 - `default\_qty\_type`
 
-    >  (`const` `string`)
-    
-    >  specifies the units used for \`default\_qty\_value\`. possible values are: [strategy.fixed](#var_strategy.fixed) for contracts/shares/lots, [strategy.cash](#var_strategy.cash) for currency amounts, or [strategy.percent\_of\_equity](#var_strategy.percent_of_equity) for a percentage of available equity. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [strategy.fixed](#var_strategy.fixed).
+  > (`const` `string`)
+
+  > specifies the units used for \`default_qty_value\`. possible values are: [strategy.fixed](#var_strategy.fixed) for contracts/shares/lots, [strategy.cash](#var_strategy.cash) for currency amounts, or [strategy.percent_of_equity](#var_strategy.percent_of_equity) for a percentage of available equity. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [strategy.fixed](#var_strategy.fixed).
 
 - `default\_qty\_value`
 
-    >  (`const` `int`/`float`)
-    
-    >  the default quantity to trade, in units determined by the argument used with the \`default\_qty\_type\` parameter. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 1.
+  > (`const` `int`/`float`)
+
+  > the default quantity to trade, in units determined by the argument used with the \`default_qty_type\` parameter. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 1.
 
 - `initial_capital`
 
-    >  (`const` `int`/`float`)
-    
-    >  the amount of funds initially available for the strategy to trade, in units of \`currency\`. optional. the default is 1000000.
+  > (`const` `int`/`float`)
+
+  > the amount of funds initially available for the strategy to trade, in units of \`currency\`. optional. the default is 1000000.
 
 - `currency`
 
-    >  (`const` `string`)
-    
-    >  Currency used by the strategy in currency-related calculations. market positions are still opened by converting \`currency\` into the chart symbol's currency. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [currency.NONE](#var_currency.NONE), in which case the chart's currency is used. possible values: one of the constants in the \`currency.*\` namespace, e.g. [currency.usD](#var_currency.usD).
+  > (`const` `string`)
+
+  > Currency used by the strategy in currency-related calculations. market positions are still opened by converting \`currency\` into the chart symbol's currency. the conversion rates used are based on the FX_iDC pairs' daily rates of the previous day (relative to the bar where the calculation is done). this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [currency.NONE](#var_currency.NONE), in which case the chart's currency is used. possible values: one of the constants in the \`currency.\*\` namespace, e.g. [currency.usD](#var_currency.usD).
 
 - `slippage`
 
-    >  (`const` `int`)
-    
-    >  slippage expressed in ticks. this value is added to or subtracted from the fill price of market/stop orders to make the fill price less favorable for the strategy. E.g., if [syminfo.mintick](#var_syminfo.mintick) is 0.01 and \`slippage\` is set to 5, a long market order will enter at 5 * 0.01 = 0.05 points above the actual price. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0.
+  > (`const` `int`)
+
+  > slippage expressed in ticks. this value is added to or subtracted from the fill price of market/stop orders to make the fill price less favorable for the strategy. E.g., if [syminfo.mintick](#var_syminfo.mintick) is 0.01 and \`slippage\` is set to 5, a long market order will enter at 5 \* 0.01 = 0.05 points above the actual price. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0.
 
 - `commission_type`
 
-    >  (`const` `string`)
-    
-    >  Determines what the number passed to the \`commission_value\` expresses: [strategy.commission.percent](#var_strategy.commission.percent) for a percentage of the cash volume of the order, [strategy.commission.cash\_per\_contract](#var_strategy.commission.cash_per_contract) for currency per contract, [strategy.commission.cash\_per\_order](#var_strategy.commission.cash_per_order) for currency per order. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [strategy.commission.percent](#var_strategy.commission.percent).
+  > (`const` `string`)
+
+  > Determines what the number passed to the \`commission_value\` expresses: [strategy.commission.percent](#var_strategy.commission.percent) for a percentage of the cash volume of the order, [strategy.commission.cash_per_contract](#var_strategy.commission.cash_per_contract) for currency per contract, [strategy.commission.cash_per_order](#var_strategy.commission.cash_per_order) for currency per order. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [strategy.commission.percent](#var_strategy.commission.percent).
 
 - `commission_value`
 
-    >  (`const` `int`/`float`)
-    
-    >  Commission applied to the strategy's orders in units determined by the argument passed to the \`commission_type\` parameter. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0.
+  > (`const` `int`/`float`)
+
+  > Commission applied to the strategy's orders in units determined by the argument passed to the \`commission_type\` parameter. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0.
 
 - `process\_orders\_on_close`
 
-    >  (`const` `bool`)
-    
-    >  When set to [true](#op_true), generates an additional attempt to execute orders after a bar closes and strategy calculations are completed. if the orders are market orders, the broker emulator executes them before the next bar's open. if the orders are price-dependent, they will only be filled if the price conditions are met. this option is useful if you wish to close positions on the current bar. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > When set to [true](#op_true), generates an additional attempt to execute orders after a bar closes and strategy calculations are completed. if the orders are market orders, the broker emulator executes them before the next bar's open. if the orders are price-dependent, they will only be filled if the price conditions are met. this option is useful if you wish to close positions on the current bar. this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is [false](#op_false).
 
 - `close\_entries\_rule`
 
-    >  (`const` `string`)
-    
-    >  Determines the order in which trades are closed. possible values are: "FiFO" (First-in, First-Out) if the earliest exit order must close the earliest entry order, or "aNY" if the orders are closed based on the \`from_entry\` parameter of the [strategy.exit](#fun_strategy.exit) function. "FiFO" can only be used with stocks, futures and us forex (NFa Compliance Rule 2-43b), while "aNY" is allowed in non-us forex. optional. the default is "FiFO".
+  > (`const` `string`)
+
+  > Determines the order in which trades are closed. possible values are: "FiFO" (First-in, First-Out) if the earliest exit order must close the earliest entry order, or "aNY" if the orders are closed based on the \`from_entry\` parameter of the [strategy.exit](#fun_strategy.exit) function. "FiFO" can only be used with stocks, futures and us forex (NFa Compliance Rule 2-43b), while "aNY" is allowed in non-us forex. optional. the default is "FiFO".
 
 - `margin_long`
 
-    >  (`const` `int`/`float`)
-    
-    >  Margin long is the percentage of the purchase price of a security that must be covered by cash or collateral for long positions. Must be a non-negative number. the logic used to simulate margin calls is explained in the [Help center](https://www.tradingview.com/chart/?solution=43000628599). this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0, in which case the strategy does not enforce any limits on position size.
+  > (`const` `int`/`float`)
+
+  > Margin long is the percentage of the purchase price of a security that must be covered by cash or collateral for long positions. Must be a non-negative number. the logic used to simulate margin calls is explained in the [Help center](https://www.tradingview.com/chart/?solution=43000628599). this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0, in which case the strategy does not enforce any limits on position size.
 
 - `margin_short`
 
-    >  (`const` `int`/`float`)
-    
-    >  Margin short is the percentage of the purchase price of a security that must be covered by cash or collateral for short positions. Must be a non-negative number. the logic used to simulate margin calls is explained in the [Help center](https://www.tradingview.com/chart/?solution=43000628599). this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0, in which case the strategy does not enforce any limits on position size.
+  > (`const` `int`/`float`)
+
+  > Margin short is the percentage of the purchase price of a security that must be covered by cash or collateral for short positions. Must be a non-negative number. the logic used to simulate margin calls is explained in the [Help center](https://www.tradingview.com/chart/?solution=43000628599). this setting can also be changed in the strategy's "settings/properties" tab. optional. the default is 0, in which case the strategy does not enforce any limits on position size.
 
 - `explicit\_plot\_zorder`
 
-    >  (`const` `bool`)
-    
-    >  specifies the order in which the script's plots, fills, and hlines are rendered. if [true](#op_true), plots are drawn in the order in which they appear in the script's code, each newer plot being drawn above the previous ones. this only applies to \`plot*()\` functions, [fill](#fun_fill), and [hline](#fun_hline). optional. the default is [false](#op_false).
+  > (`const` `bool`)
+
+  > specifies the order in which the script's plots, fills, and hlines are rendered. if [true](#op_true), plots are drawn in the order in which they appear in the script's code, each newer plot being drawn above the previous ones. this only applies to \`plot\*()\` functions, [fill](#fun_fill), and [hline](#fun_hline). optional. the default is [false](#op_false).
 
 - `max\_lines\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [line](#op_line) drawings displayed. possible values: 1-500. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [line](#op_line) drawings displayed. possible values: 1-500. optional. the default is 50.
 
 - `max\_labels\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [label](#op_label) drawings displayed. possible values: 1-500. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [label](#op_label) drawings displayed. possible values: 1-500. optional. the default is 50.
 
 - `max\_boxes\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [box](#op_box) drawings displayed. possible values: 1-500. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [box](#op_box) drawings displayed. possible values: 1-500. optional. the default is 50.
 
 - `risk\_free\_rate`
 
-    >  (`const` `int`/`float`)
-    
-    >  the risk-free rate of return is the annual percentage change in the value of an investment with minimal or zero risk. it is used to calculate the [sharpe and sortino ratios](https://www.tradingview.com/chart/?solution=43000561856). optional. the default is 2.
+  > (`const` `int`/`float`)
+
+  > the risk-free rate of return is the annual percentage change in the value of an investment with minimal or zero risk. it is used to calculate the [sharpe and sortino ratios](https://www.tradingview.com/chart/?solution=43000561856). optional. the default is 2.
 
 - `use\_bar\_magnifier`
 
-    >  (`const` `bool`)
-    
-    >  When true, the [broker emulator](https://www.tradingview.com/pine-script-docs/en/v5/concepts/strategies.html#broker-emulator) uses lower timeframe data during history backtesting to achieve more realistic results. optional. the default is [false](#op_false). Only [premium](https://www.tradingview.com/gopro/) accounts have access to this feature.
+  > (`const` `bool`)
+
+  > When true, the [broker emulator](https://www.tradingview.com/pine-script-docs/en/v5/concepts/strategies.html#broker-emulator) uses lower timeframe data during history backtesting to achieve more realistic results. optional. the default is [false](#op_false). Only [premium](https://www.tradingview.com/gopro/) accounts have access to this feature.
 
 - `max\_polylines\_count`
 
-    >  (`const` `int`)
-    
-    >  the number of last [polyline](#op_polyline) drawings displayed. possible values: 1-100. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
+  > (`const` `int`)
+
+  > the number of last [polyline](#op_polyline) drawings displayed. possible values: 1-100. the count is approximate; more drawings than the specified count may be displayed. optional. the default is 50.
 
 ### Example
-
 
 ```s
 
@@ -16868,14 +16483,14 @@ You can learn more about strategies in our [user Manual](https://www.tradingview
 
 Every strategy script must have one [strategy](#fun_strategy) call.
 
-strategies using \`calc\_on\_every_tick = true\` parameter may calculate differently on historical and realtime bars, which causes [repainting](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html).
+strategies using \`calc_on_every_tick = true\` parameter may calculate differently on historical and realtime bars, which causes [repainting](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Repainting.html).
 
 strategies always use the chart's prices to enter and exit positions. using them on non-standard chart types (Heikin ashi, Renko, etc.) will produce misleading results, as their prices are synthetic. backtesting on non-standard charts is thus not recommended.
 
 ### See also
 
-* [indicator](#fun_indicator)
-* [library](#fun_library)
+- [indicator](#fun_indicator)
+- [library](#fun_library)
 
 ## strategy.cancel
 
@@ -16889,12 +16504,11 @@ strategy.cancel(id) - void
 
 - `id`
 
-    >  (`series` `string`)
-    
-    >  a required parameter. the order identifier. it is possible to cancel an order by referencing its identifier.
+  > (`series` `string`)
+
+  > a required parameter. the order identifier. it is possible to cancel an order by referencing its identifier.
 
 ### Example
-
 
 ```s
 
@@ -16942,37 +16556,37 @@ strategy.close(id, comment, qty, qty_percent, alert_message, immediately, disabl
 - `id`
 
     >  (`series` `string`)
-    
+
     >  a required parameter. the order identifier. it is possible to close an order by referencing its identifier.
 - `comment`
 
     >  (`series` `string`)
-    
+
     >  an optional parameter. additional notes on the order.
 - `qty`
 
     >  (`series` `int`/`float`)
-    
+
     >  an optional parameter. Number of contracts/shares/lots/units to exit a trade with. the default value is 'NaN'.
 - `qty_percent`
 
     >  (`series` `int`/`float`)
-    
+
     >  Defines the percentage (0-100) of the position to close. its priority is lower than that of the 'qty' parameter. optional. the default is 100.
 - `alert_message`
 
     >  (`series` `string`)
-    
+
     >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 - `immediately`
 
     >  (`series` `bool`)
-    
+
     >  an optional parameter. if true, the closing order will be executed on the tick where it has been placed, ignoring the strategy parameters that restrict the order execution to the open of the next bar. the default is false.
 - `disable_alert`
 
     >  (`series` `bool`)
-    
+
     >  if true when the function creates an order, the strategy alert will not fire upon the execution of that order. the parameter accepts a 'series bool' argument, allowing users to control which orders will trigger alerts when they fill. optional. the default is false.
 
 
@@ -16996,25 +16610,23 @@ Exits the current market position, making it flat.
 
 ### syntax & Overloads
 
-> [strategy.close\_all(comment, alert\_message) - void](#fun_strategy.close_all-0)
-> [strategy.close\_all(comment, alert\_message, immediately, disable_alert) - void](#fun_strategy.close_all-1)
+> [strategy.close_all(comment, alert_message) - void](#fun_strategy.close_all-0) > [strategy.close_all(comment, alert_message, immediately, disable_alert) - void](#fun_strategy.close_all-1)
 
 ### Arguments
 
 - `comment`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter. additional notes on the order.
+  > (`series` `string`)
+
+  > an optional parameter. additional notes on the order.
 
 - `alert_message`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
+  > (`series` `string`)
+
+  > an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 
 ### Example
-
 
 ```s
 
@@ -17040,12 +16652,11 @@ strategy.closedtrades.commission(trade_num) → series float
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17066,27 +16677,26 @@ plot(strategy.closedtrades.commission(strategy.closedtrades - 1))
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.opentrades.commission](#fun_strategy.opentrades.commission)
+- [strategy](#fun_strategy)
+- [strategy.opentrades.commission](#fun_strategy.opentrades.commission)
 
-## strategy.closedtrades.entry\_bar\_index
+## strategy.closedtrades.entry_bar_index
 
 Returns the bar_index of the closed trade's entry.
 
 ### Syntax
 
-strategy.closedtrades.entry\_bar\_index(trade_num) → series int
+strategy.closedtrades.entry_bar_index(trade_num) → series int
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17111,8 +16721,8 @@ plot(avgbarspertrade())
 
 ### See also
 
-* [strategy.closedtrades.exit\_bar\_index](#fun_strategy.closedtrades.exit_bar_index)
-* [strategy.opentrades.entry\_bar\_index](#fun_strategy.opentrades.entry_bar_index)
+- [strategy.closedtrades.exit_bar_index](#fun_strategy.closedtrades.exit_bar_index)
+- [strategy.opentrades.entry_bar_index](#fun_strategy.opentrades.entry_bar_index)
 
 ## strategy.closedtrades.entry_comment
 
@@ -17120,18 +16730,17 @@ Returns the comment message of the closed trade's entry, or [na](#var_na) if the
 
 ### Syntax
 
-strategy.closedtrades.entry\_comment(trade\_num) → series string
+strategy.closedtrades.entry_comment(trade_num) → series string
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17156,13 +16765,13 @@ if barstate.islastconfirmedhistory or barstate.isrealtime
 
 ```
 
-#.####"))    strategy.exit("EXiT", trail_points = 1000, trail_offset = 0)var testtable = table.new(position.top_right, 1, 3, color.orange, border_width = 1)if barstate.islastconfirmedhistory or barstate.isrealtime    table.cell(testtable, 0, 0, 'Last closed trade:')    table.cell(testtable, 0, 1, "Order stop price value: " + strategy.closedtrades.entry_comment(strategy.closedtrades - 1))    table.cell(testtable, 0, 2, "actual Entry price: " + str.tostring(strategy.closedtrades.entry_price(strategy.closedtrades - 1)))
+#.####")) strategy.exit("EXiT", trail_points = 1000, trail_offset = 0)var testtable = table.new(position.top_right, 1, 3, color.orange, border_width = 1)if barstate.islastconfirmedhistory or barstate.isrealtime table.cell(testtable, 0, 0, 'Last closed trade:') table.cell(testtable, 0, 1, "Order stop price value: " + strategy.closedtrades.entry_comment(strategy.closedtrades - 1)) table.cell(testtable, 0, 2, "actual Entry price: " + str.tostring(strategy.closedtrades.entry_price(strategy.closedtrades - 1)))
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.entry](#fun_strategy.entry)
-* [strategy.closedtrades](#var_strategy.closedtrades)
+- [strategy](#fun_strategy)
+- [strategy.entry](#fun_strategy.entry)
+- [strategy.closedtrades](#var_strategy.closedtrades)
 
 ## strategy.closedtrades.entry_id
 
@@ -17170,18 +16779,17 @@ Returns the id of the closed trade's entry.
 
 ### Syntax
 
-strategy.closedtrades.entry\_id(trade\_num) → series string
+strategy.closedtrades.entry_id(trade_num) → series string
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17201,7 +16809,7 @@ if barstate.islastconfirmedhistory
 
 ```
 
-#" + str.tostring(bar_index), strategy.short)if bar_index == last_bar_index - 2    strategy.close_all()    // Display iD of the last entry position.if barstate.islastconfirmedhistory    label.new(last_bar_index, high, "Last Entry iD is: " + strategy.closedtrades.entry_id(strategy.closedtrades - 1))
+#" + str.tostring(bar_index), strategy.short)if bar_index == last_bar_index - 2 strategy.close_all() // Display iD of the last entry position.if barstate.islastconfirmedhistory label.new(last_bar_index, high, "Last Entry iD is: " + strategy.closedtrades.entry_id(strategy.closedtrades - 1))
 
 ### Returns
 
@@ -17213,9 +16821,9 @@ the function returns na if trade_num is not in the range: 0 to strategy.closedtr
 
 ### See also
 
-* [strategy.closedtrades.entry\_bar\_index](#fun_strategy.closedtrades.entry_bar_index)
-* [strategy.closedtrades.entry_price](#fun_strategy.closedtrades.entry_price)
-* [strategy.closedtrades.entry_time](#fun_strategy.closedtrades.entry_time)
+- [strategy.closedtrades.entry_bar_index](#fun_strategy.closedtrades.entry_bar_index)
+- [strategy.closedtrades.entry_price](#fun_strategy.closedtrades.entry_price)
+- [strategy.closedtrades.entry_time](#fun_strategy.closedtrades.entry_time)
 
 ## strategy.closedtrades.entry_price
 
@@ -17223,18 +16831,17 @@ Returns the price of the closed trade's entry.
 
 ### Syntax
 
-strategy.closedtrades.entry\_price(trade\_num) → series float
+strategy.closedtrades.entry_price(trade_num) → series float
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17290,10 +16897,10 @@ plot(avgprofitpct)
 
 ### See also
 
-* [strategy.closedtrades.entry_price](#fun_strategy.closedtrades.entry_price)
-* [strategy.closedtrades.exit_price](#fun_strategy.closedtrades.exit_price)
-* [strategy.closedtrades.size](#fun_strategy.closedtrades.size)
-* [strategy.closedtrades](#var_strategy.closedtrades)
+- [strategy.closedtrades.entry_price](#fun_strategy.closedtrades.entry_price)
+- [strategy.closedtrades.exit_price](#fun_strategy.closedtrades.exit_price)
+- [strategy.closedtrades.size](#fun_strategy.closedtrades.size)
+- [strategy.closedtrades](#var_strategy.closedtrades)
 
 ## strategy.closedtrades.entry_time
 
@@ -17301,18 +16908,17 @@ Returns the unix time of the closed trade's entry.
 
 ### Syntax
 
-strategy.closedtrades.entry\_time(trade\_num) → series int
+strategy.closedtrades.entry_time(trade_num) → series int
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17343,28 +16949,27 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [strategy.opentrades.entry_time](#fun_strategy.opentrades.entry_time)
-* [strategy.closedtrades.exit_time](#fun_strategy.closedtrades.exit_time)
-* [time](#var_time)
+- [strategy.opentrades.entry_time](#fun_strategy.opentrades.entry_time)
+- [strategy.closedtrades.exit_time](#fun_strategy.closedtrades.exit_time)
+- [time](#var_time)
 
-## strategy.closedtrades.exit\_bar\_index
+## strategy.closedtrades.exit_bar_index
 
 Returns the bar_index of the closed trade's exit.
 
 ### Syntax
 
-strategy.closedtrades.exit\_bar\_index(trade_num) → series int
+strategy.closedtrades.exit_bar_index(trade_num) → series int
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17415,8 +17020,8 @@ plot(avgbarspertrade())
 
 ### See also
 
-* [bar_index](#var_bar_index)
-* [last\_bar\_index](#var_last_bar_index)
+- [bar_index](#var_bar_index)
+- [last_bar_index](#var_last_bar_index)
 
 ## strategy.closedtrades.exit_comment
 
@@ -17424,18 +17029,17 @@ Returns the comment message of the closed trade's exit, or [na](#var_na) if ther
 
 ### Syntax
 
-strategy.closedtrades.exit\_comment(trade\_num) → series string
+strategy.closedtrades.exit_comment(trade_num) → series string
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17474,10 +17078,10 @@ if barstate.islastconfirmedhistory
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.exit](#fun_strategy.exit)
-* [strategy.close](#fun_strategy.close)
-* [strategy.closedtrades](#fun_strategy.closedtrades)
+- [strategy](#fun_strategy)
+- [strategy.exit](#fun_strategy.exit)
+- [strategy.close](#fun_strategy.close)
+- [strategy.closedtrades](#fun_strategy.closedtrades)
 
 ## strategy.closedtrades.exit_id
 
@@ -17485,18 +17089,17 @@ Returns the id of the closed trade's exit.
 
 ### Syntax
 
-strategy.closedtrades.exit\_id(trade\_num) → series string
+strategy.closedtrades.exit_id(trade_num) → series string
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17533,9 +17136,9 @@ the function returns na if trade_num is not in the range: 0 to strategy.closedtr
 
 ### See also
 
-* [strategy.closedtrades.exit\_bar\_index](#fun_strategy.closedtrades.exit_bar_index)
-* [strategy.closedtrades.exit_price](#fun_strategy.closedtrades.exit_price)
-* [strategy.closedtrades.exit_time](#fun_strategy.closedtrades.exit_time)
+- [strategy.closedtrades.exit_bar_index](#fun_strategy.closedtrades.exit_bar_index)
+- [strategy.closedtrades.exit_price](#fun_strategy.closedtrades.exit_price)
+- [strategy.closedtrades.exit_time](#fun_strategy.closedtrades.exit_time)
 
 ## strategy.closedtrades.exit_price
 
@@ -17543,18 +17146,17 @@ Returns the price of the closed trade's exit.
 
 ### Syntax
 
-strategy.closedtrades.exit\_price(trade\_num) → series float
+strategy.closedtrades.exit_price(trade_num) → series float
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17609,7 +17211,7 @@ plot(avgprofitpct)
 
 ### See also
 
-* [strategy.closedtrades.entry_price](#fun_strategy.closedtrades.entry_price)
+- [strategy.closedtrades.entry_price](#fun_strategy.closedtrades.entry_price)
 
 ## strategy.closedtrades.exit_time
 
@@ -17617,18 +17219,17 @@ Returns the unix time of the closed trade's exit.
 
 ### Syntax
 
-strategy.closedtrades.exit\_time(trade\_num) → series int
+strategy.closedtrades.exit_time(trade_num) → series int
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17686,7 +17287,7 @@ if ta.change(strategy.opentrades)
 
 ### See also
 
-* [strategy.closedtrades.entry_time](#fun_strategy.closedtrades.entry_time)
+- [strategy.closedtrades.entry_time](#fun_strategy.closedtrades.entry_time)
 
 ## strategy.closedtrades.max_drawdown
 
@@ -17694,18 +17295,17 @@ Returns the maximum drawdown of the closed trade, i.e., the maximum possible los
 
 ### Syntax
 
-strategy.closedtrades.max\_drawdown(trade\_num) → series float
+strategy.closedtrades.max_drawdown(trade_num) → series float
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17736,8 +17336,8 @@ the function returns na if trade_num is not in the range: 0 to strategy.closedtr
 
 ### See also
 
-* [strategy.opentrades.max_drawdown](#fun_strategy.opentrades.max_drawdown)
-* [strategy.max_drawdown](#fun_strategy.max_drawdown)
+- [strategy.opentrades.max_drawdown](#fun_strategy.opentrades.max_drawdown)
+- [strategy.max_drawdown](#fun_strategy.max_drawdown)
 
 ## strategy.closedtrades.max_runup
 
@@ -17745,18 +17345,17 @@ Returns the maximum run up of the closed trade, i.e., the maximum possible profi
 
 ### Syntax
 
-strategy.closedtrades.max\_runup(trade\_num) → series float
+strategy.closedtrades.max_runup(trade_num) → series float
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17783,8 +17382,8 @@ plot(maxtradeRunup(), "Max trade runup")
 
 ### See also
 
-* [strategy.opentrades.max_runup](#fun_strategy.opentrades.max_runup)
-* [strategy.max_drawdown](#fun_strategy.max_drawdown)
+- [strategy.opentrades.max_runup](#fun_strategy.opentrades.max_runup)
+- [strategy.max_drawdown](#fun_strategy.max_drawdown)
 
 ## strategy.closedtrades.profit
 
@@ -17798,12 +17397,11 @@ strategy.closedtrades.profit(trade_num) → series float
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17830,8 +17428,8 @@ plot(avgGrossprofit(), "average gross profit")
 
 ### See also
 
-* [strategy.opentrades.profit](#fun_strategy.opentrades.profit)
-* [strategy.closedtrades.commission](#fun_strategy.closedtrades.commission)
+- [strategy.opentrades.profit](#fun_strategy.opentrades.profit)
+- [strategy.closedtrades.commission](#fun_strategy.closedtrades.commission)
 
 ## strategy.closedtrades.size
 
@@ -17845,12 +17443,11 @@ strategy.closedtrades.size(trade_num) → series float
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the closed trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the closed trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -17904,29 +17501,28 @@ plot(avgprofitpct)
 
 ### See also
 
-* [strategy.opentrades.size](#fun_strategy.opentrades.size)
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.closedtrades](#var_strategy.closedtrades)
-* [strategy.opentrades](#var_strategy.opentrades)
+- [strategy.opentrades.size](#fun_strategy.opentrades.size)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.closedtrades](#var_strategy.closedtrades)
+- [strategy.opentrades](#var_strategy.opentrades)
 
-## strategy.convert\_to\_account
+## strategy.convert_to_account
 
 Converts the value from the currency that the symbol on the chart is traded in ([syminfo.currency](#var_syminfo.currency)) to the currency used by the strategy ([strategy.account_currency](#var_strategy.account_currency)).
 
 ### Syntax
 
-strategy.convert\_to\_account(value) → series float
+strategy.convert_to_account(value) → series float
 
 ### Arguments
 
 - `value`
 
-    >  (`series` `int`/`float`)
-    
-    >  the value to be converted.
+  > (`series` `int`/`float`)
+
+  > the value to be converted.
 
 ### Example
-
 
 ```s
 
@@ -17963,27 +17559,26 @@ plot(buyandHoldReturnpct(dateinput))
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.convert\_to\_symbol](#fun_strategy.convert_to_symbol)
+- [strategy](#fun_strategy)
+- [strategy.convert_to_symbol](#fun_strategy.convert_to_symbol)
 
-## strategy.convert\_to\_symbol
+## strategy.convert_to_symbol
 
 Converts the value from the currency used by the strategy ([strategy.account_currency](#var_strategy.account_currency)) to the currency that the symbol on the chart is traded in ([syminfo.currency](#var_syminfo.currency)).
 
 ### Syntax
 
-strategy.convert\_to\_symbol(value) → series float
+strategy.convert_to_symbol(value) → series float
 
 ### Arguments
 
 - `value`
 
-    >  (`series` `int`/`float`)
-    
-    >  the value to be converted.
+  > (`series` `int`/`float`)
+
+  > the value to be converted.
 
 ### Example
-
 
 ```s
 
@@ -18008,27 +17603,26 @@ if bar_index % 20 == 0
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.convert\_to\_account](#fun_strategy.convert_to_account)
+- [strategy](#fun_strategy)
+- [strategy.convert_to_account](#fun_strategy.convert_to_account)
 
-## strategy.default\_entry\_qty
+## strategy.default_entry_qty
 
-Calculates the default quantity, in units, of an entry order from [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) if it were to fill at the specified \`fill\_price\` value. the calculation depends on several strategy properties, including \`default\_qty\_type\`, \`default\_qty_value\`, \`currency\`, and other parameters in the [strategy](#fun_strategy) function and their representation in the "properties" tab of the strategy's settings.
+Calculates the default quantity, in units, of an entry order from [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) if it were to fill at the specified \`fill_price\` value. the calculation depends on several strategy properties, including \`default_qty_type\`, \`default_qty_value\`, \`currency\`, and other parameters in the [strategy](#fun_strategy) function and their representation in the "properties" tab of the strategy's settings.
 
 ### Syntax
 
-strategy.default\_entry\_qty(fill_price) → series float
+strategy.default_entry_qty(fill_price) → series float
 
 ### Arguments
 
 - `fill_price`
 
-    >  (`series` `int`/`float`)
-    
-    >  the fill price for which to calculate the default order quantity.
+  > (`series` `int`/`float`)
+
+  > the fill price for which to calculate the default order quantity.
 
 ### Example
-
 
 ```s
 
@@ -18074,72 +17668,71 @@ it is a command to enter market position. if an order with the same iD is alread
 
 ### Syntax
 
-strategy.entry(id, direction, qty, limit, stop, oca\_name, oca\_type, comment, alert\_message, disable\_alert) - void
+strategy.entry(id, direction, qty, limit, stop, oca_name, oca_type, comment, alert_message, disable_alert) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `string`)
-    
-    >  a required parameter. the order identifier. it is possible to cancel or modify an order by referencing its identifier.
+  > (`series` `string`)
+
+  > a required parameter. the order identifier. it is possible to cancel or modify an order by referencing its identifier.
 
 - `direction`
 
-    >  (`series` `strategy_direction`)
-    
-    >  a required parameter. market position direction: 'strategy.long' is for long, 'strategy.short' is for short.
+  > (`series` `strategy_direction`)
+
+  > a required parameter. market position direction: 'strategy.long' is for long, 'strategy.short' is for short.
 
 - `qty`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. Number of contracts/shares/lots/units to trade. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. Number of contracts/shares/lots/units to trade. the default value is 'NaN'.
 
 - `limit`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. limit price of the order. if it is specified, the order type is either 'limit', or 'stop-limit'. 'NaN' should be specified for any other order type.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. limit price of the order. if it is specified, the order type is either 'limit', or 'stop-limit'. 'NaN' should be specified for any other order type.
 
 - `stop`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. stop price of the order. if it is specified, the order type is either 'stop', or 'stop-limit'. 'NaN' should be specified for any other order type.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. stop price of the order. if it is specified, the order type is either 'stop', or 'stop-limit'. 'NaN' should be specified for any other order type.
 
 - `oca_name`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter. Name of the OCa group the order belongs to. if the order should not belong to any particular OCa group, there should be an empty string.
+  > (`series` `string`)
+
+  > an optional parameter. Name of the OCa group the order belongs to. if the order should not belong to any particular OCa group, there should be an empty string.
 
 - `oca_type`
 
-    >  (`input` `string`)
-    
-    >  an optional parameter. Type of the OCa group. the allowed values are: [strategy.oca.none](#var_strategy.oca.none) \- the order should not belong to any particular OCa group; [strategy.oca.cancel](#var_strategy.oca.cancel) \- the order should belong to an OCa group, where as soon as an order is filled, all other orders of the same group are cancelled; [strategy.oca.reduce](#var_strategy.oca.reduce) \- the order should belong to an OCa group, where if X number of contracts of an order is filled, number of contracts for each other order of the same OCa group is decreased by X.
+  > (`input` `string`)
+
+  > an optional parameter. Type of the OCa group. the allowed values are: [strategy.oca.none](#var_strategy.oca.none) \- the order should not belong to any particular OCa group; [strategy.oca.cancel](#var_strategy.oca.cancel) \- the order should belong to an OCa group, where as soon as an order is filled, all other orders of the same group are cancelled; [strategy.oca.reduce](#var_strategy.oca.reduce) \- the order should belong to an OCa group, where if X number of contracts of an order is filled, number of contracts for each other order of the same OCa group is decreased by X.
 
 - `comment`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter. additional notes on the order.
+  > (`series` `string`)
+
+  > an optional parameter. additional notes on the order.
 
 - `alert_message`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
+  > (`series` `string`)
+
+  > an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 
 - `disable_alert`
 
-    >  (`series` `bool`)
-    
-    >  if [true](#op_true) when the function creates an order, the strategy alert will not fire upon the execution of that order. the parameter accepts a 'series bool' argument, allowing users to control which orders will trigger alerts when they fill. optional. the default is [false](#op_false).
+  > (`series` `bool`)
+
+  > if [true](#op_true) when the function creates an order, the strategy alert will not fire upon the execution of that order. the parameter accepts a 'series bool' argument, allowing users to control which orders will trigger alerts when they fill. optional. the default is [false](#op_false).
 
 ### Example
-
 
 ```s
 
@@ -18152,8 +17745,8 @@ if open < low[1]
 
 ```
 
-
 ## strategy.exit
+
 it is a command to exit either a specific entry, or whole market position. if an order with the same iD is already pending, it is possible to modify the order. if an entry order was not filled, but an exit order is generated, the exit order will wait till entry order is filled and then the exit order is placed. To deactivate an exit order, the command strategy.cancel or strategy.cancel_all should be used. if the function strategy.exit is called once, it exits a position only once. if you want to exit multiple times, the command strategy.exit should be called multiple times. if you use a stop loss and a trailing stop, their order type is 'stop', so only one of them is placed (the one that is supposed to be filled first). if all the following parameters 'profit', 'limit', 'loss', 'stop', 'trail_points', 'trail_offset' are 'NaN', the command will fail. To use market order to exit, the command strategy.close or strategy.close_all should be used.
 
 ### Syntax
@@ -18164,110 +17757,129 @@ strategy.exit(id, from_entry, qty, qty_percent, profit, limit, loss, stop, trail
 
 - `id`
 
-    >  (`series` `string`)
-    
-    >  a required parameter. the order identifier. it is possible to cancel or modify an order by referencing its identifier.
+  > (`series` `string`)
+
+  > a required parameter. the order identifier. it is possible to cancel or modify an order by referencing its identifier.
+
 - `from_entry`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter. the identifier of a specific entry order to exit from it. To exit all entries an empty string should be used. the default values is empty string.
+  > (`series` `string`)
+
+  > an optional parameter. the identifier of a specific entry order to exit from it. To exit all entries an empty string should be used. the default values is empty string.
+
 - `qty`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. Number of contracts/shares/lots/units to exit a trade with. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. Number of contracts/shares/lots/units to exit a trade with. the default value is 'NaN'.
+
 - `qty_percent`
 
-    >  (`series` `int`/`float`)
-    
-    >  Defines the percentage of (0-100) the position to close. its priority is lower than that of the 'qty' parameter. optional. the default is 100.
+  > (`series` `int`/`float`)
+
+  > Defines the percentage of (0-100) the position to close. its priority is lower than that of the 'qty' parameter. optional. the default is 100.
+
 - `profit`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. profit target (specified in ticks). if it is specified, a limit order is placed to exit market position when the specified amount of profit (in ticks) is reached. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. profit target (specified in ticks). if it is specified, a limit order is placed to exit market position when the specified amount of profit (in ticks) is reached. the default value is 'NaN'.
+
 - `limit`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. profit target (requires a specific price). if it is specified, a limit order is placed to exit market position at the specified price (or better). priority of the parameter 'limit' is higher than priority of the parameter 'profit' ('limit' is used instead of 'profit', if its value is not 'NaN'). the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. profit target (requires a specific price). if it is specified, a limit order is placed to exit market position at the specified price (or better). priority of the parameter 'limit' is higher than priority of the parameter 'profit' ('limit' is used instead of 'profit', if its value is not 'NaN'). the default value is 'NaN'.
+
 - `loss`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. stop loss (specified in ticks). if it is specified, a stop order is placed to exit market position when the specified amount of loss (in ticks) is reached. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. stop loss (specified in ticks). if it is specified, a stop order is placed to exit market position when the specified amount of loss (in ticks) is reached. the default value is 'NaN'.
+
 - `stop`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. stop loss (requires a specific price). if it is specified, a stop order is placed to exit market position at the specified price (or worse). priority of the parameter 'stop' is higher than priority of the parameter 'loss' ('stop' is used instead of 'loss', if its value is not 'NaN'). the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. stop loss (requires a specific price). if it is specified, a stop order is placed to exit market position at the specified price (or worse). priority of the parameter 'stop' is higher than priority of the parameter 'loss' ('stop' is used instead of 'loss', if its value is not 'NaN'). the default value is 'NaN'.
+
 - `trail_price`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. trailing stop activation level (requires a specific price). if it is specified, a trailing stop order will be placed when the specified price level is reached. the offset (in ticks) to determine initial price of the trailing stop order is specified in the 'trail_offset' parameter: X ticks lower than activation level to exit long position; X ticks higher than activation level to exit short position. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. trailing stop activation level (requires a specific price). if it is specified, a trailing stop order will be placed when the specified price level is reached. the offset (in ticks) to determine initial price of the trailing stop order is specified in the 'trail_offset' parameter: X ticks lower than activation level to exit long position; X ticks higher than activation level to exit short position. the default value is 'NaN'.
+
 - `trail_points`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. trailing stop activation level (profit specified in ticks). if it is specified, a trailing stop order will be placed when the calculated price level (specified amount of profit) is reached. the offset (in ticks) to determine initial price of the trailing stop order is specified in the 'trail_offset' parameter: X ticks lower than activation level to exit long position; X ticks higher than activation level to exit short position. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. trailing stop activation level (profit specified in ticks). if it is specified, a trailing stop order will be placed when the calculated price level (specified amount of profit) is reached. the offset (in ticks) to determine initial price of the trailing stop order is specified in the 'trail_offset' parameter: X ticks lower than activation level to exit long position; X ticks higher than activation level to exit short position. the default value is 'NaN'.
+
 - `trail_offset`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. trailing stop price (specified in ticks). the offset in ticks to determine initial price of the trailing stop order: X ticks lower than 'trail_price' or 'trail_points' to exit long position; X ticks higher than 'trail_price' or 'trail_points' to exit short position. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. trailing stop price (specified in ticks). the offset in ticks to determine initial price of the trailing stop order: X ticks lower than 'trail_price' or 'trail_points' to exit long position; X ticks higher than 'trail_price' or 'trail_points' to exit short position. the default value is 'NaN'.
+
 - `oca_name`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter. Name of the OCa group (oca_type = strategy.oca.reduce) the profit target, the stop loss / the trailing stop orders belong to. if the name is not specified, it will be generated automatically.
+  > (`series` `string`)
+
+  > an optional parameter. Name of the OCa group (oca_type = strategy.oca.reduce) the profit target, the stop loss / the trailing stop orders belong to. if the name is not specified, it will be generated automatically.
+
 - `comment`
 
-    >  (`series` `string`)
-    
-    >  additional notes on the order. if specified, displays near the order marker on the chart. optional. the default is na.
+  > (`series` `string`)
+
+  > additional notes on the order. if specified, displays near the order marker on the chart. optional. the default is na.
+
 - `comment_profit`
 
-    >  (`series` `string`)
-    
-    >  additional notes on the order if the exit was triggered by crossing `profit` or `limit` specifically. if specified, supercedes the `comment` parameter and displays near the order marker on the chart. optional. the default is na.
+  > (`series` `string`)
+
+  > additional notes on the order if the exit was triggered by crossing `profit` or `limit` specifically. if specified, supercedes the `comment` parameter and displays near the order marker on the chart. optional. the default is na.
+
 - `comment_loss`
 
-    >  (`series` `string`)
-    
-    >  additional notes on the order if the exit was triggered by crossing `stop` or `loss` specifically. if specified, supercedes the `comment` parameter and displays near the order marker on the chart. optional. the default is na.
+  > (`series` `string`)
+
+  > additional notes on the order if the exit was triggered by crossing `stop` or `loss` specifically. if specified, supercedes the `comment` parameter and displays near the order marker on the chart. optional. the default is na.
+
 - `comment_trailing`
 
-    >  (`series` `string`)
-    
-    >  additional notes on the order if the exit was triggered by crossing `trail_offset` specifically. if specified, supercedes the `comment` parameter and displays near the order marker on the chart. optional. the default is na.
+  > (`series` `string`)
+
+  > additional notes on the order if the exit was triggered by crossing `trail_offset` specifically. if specified, supercedes the `comment` parameter and displays near the order marker on the chart. optional. the default is na.
+
 - `alert_message`
 
-    >  (`series` `string`)
-    
-    >  Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. optional. the default is na.
+  > (`series` `string`)
+
+  > Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. optional. the default is na.
+
 - `alert_profit`
 
-    >  (`series` `string`)
-    
-    >  Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. Only replaces the text if the exit was triggered by crossing `profit` or `limit` specifically. optional. the default is na.
+  > (`series` `string`)
+
+  > Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. Only replaces the text if the exit was triggered by crossing `profit` or `limit` specifically. optional. the default is na.
+
 - `alert_loss`
 
-    >  (`series` `string`)
-    
-    >  Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. Only replaces the text if the exit was triggered by crossing `stop` or `loss` specifically. optional. the default is na.
+  > (`series` `string`)
+
+  > Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. Only replaces the text if the exit was triggered by crossing `stop` or `loss` specifically. optional. the default is na.
+
 - `alert_trailing`
 
-    >  (`series` `string`)
-    
-    >  Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. Only replaces the text if the exit was triggered by crossing `trail_offset` specifically. optional. the default is na.
+  > (`series` `string`)
+
+  > Text that will replace the '{{strategy.order.alert_message}}' placeholder when one is used in the "Message" field of the "Create alert" dialog. Only replaces the text if the exit was triggered by crossing `trail_offset` specifically. optional. the default is na.
+
 - `disable_alert`
 
-    >  (`series` `bool`)
-    
-    >  if true when the function creates an order, the strategy alert will not fire upon the execution of that order. the parameter accepts a 'series bool' argument, allowing users to control which orders will trigger alerts when they fill. optional. the default is false.
+  > (`series` `bool`)
 
+  > if true when the function creates an order, the strategy alert will not fire upon the execution of that order. the parameter accepts a 'series bool' argument, allowing users to control which orders will trigger alerts when they fill. optional. the default is false.
 
 ### Example
 
@@ -18279,9 +17891,8 @@ if open > high[1]
 strategy.exit("exit", "long", profit = 10, loss = 5) // generate full exit bracket (profit 10 points, loss 5 points per contract) from entry with name "long"
 ```
 
-
-
 ## strategy.opentrades.commission
+
 Returns the sum of entry and exit fees paid in the open trade, expressed in strategy.account_currency.
 
 ### Syntax
@@ -18292,10 +17903,9 @@ strategy.opentrades.commission(trade_num) → series float
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
 
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
 
@@ -18323,24 +17933,24 @@ plot(tradeOpenGrosspL())
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.closedtrades.commission](#fun_strategy.closedtrades.commission)
+- [strategy](#fun_strategy)
+- [strategy.closedtrades.commission](#fun_strategy.closedtrades.commission)
 
-## strategy.opentrades.entry\_bar\_index
+## strategy.opentrades.entry_bar_index
 
 Returns the bar_index of the open trade's entry.
 
 ### Syntax
 
-strategy.opentrades.entry\_bar\_index(trade_num) → series int
+strategy.opentrades.entry_bar_index(trade_num) → series int
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
 
@@ -18366,8 +17976,8 @@ if barssinceLastEntry() >= 10
 
 ### See also
 
-* [strategy.closedtrades.entry\_bar\_index](#fun_strategy.closedtrades.entry_bar_index)
-* [strategy.closedtrades.exit\_bar\_index](#fun_strategy.closedtrades.exit_bar_index)
+- [strategy.closedtrades.entry_bar_index](#fun_strategy.closedtrades.entry_bar_index)
+- [strategy.closedtrades.exit_bar_index](#fun_strategy.closedtrades.exit_bar_index)
 
 ## strategy.opentrades.entry_comment
 
@@ -18375,18 +17985,17 @@ Returns the comment message of the open trade's entry, or [na](#var_na) if there
 
 ### Syntax
 
-strategy.opentrades.entry\_comment(trade\_num) → series string
+strategy.opentrades.entry_comment(trade_num) → series string
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -18410,13 +18019,13 @@ if barstate.islastconfirmedhistory or barstate.isrealtime
 
 ```
 
-#.####"))var testtable = table.new(position.top_right, 1, 3, color.orange, border_width = 1)if barstate.islastconfirmedhistory or barstate.isrealtime    table.cell(testtable, 0, 0, 'Last entry stats')    table.cell(testtable, 0, 1, "Order stop price value: " + strategy.opentrades.entry_comment(strategy.opentrades - 1))    table.cell(testtable, 0, 2, "actual Entry price: " + str.tostring(strategy.opentrades.entry_price(strategy.opentrades - 1)))
+#.####"))var testtable = table.new(position.top_right, 1, 3, color.orange, border_width = 1)if barstate.islastconfirmedhistory or barstate.isrealtime table.cell(testtable, 0, 0, 'Last entry stats') table.cell(testtable, 0, 1, "Order stop price value: " + strategy.opentrades.entry_comment(strategy.opentrades - 1)) table.cell(testtable, 0, 2, "actual Entry price: " + str.tostring(strategy.opentrades.entry_price(strategy.opentrades - 1)))
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.entry](#fun_strategy.entry)
-* [strategy.opentrades](#var_strategy.opentrades)
+- [strategy](#fun_strategy)
+- [strategy.entry](#fun_strategy.entry)
+- [strategy.opentrades](#var_strategy.opentrades)
 
 ## strategy.opentrades.entry_id
 
@@ -18424,18 +18033,17 @@ Returns the id of the open trade's entry.
 
 ### Syntax
 
-strategy.opentrades.entry\_id(trade\_num) → series string
+strategy.opentrades.entry_id(trade_num) → series string
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -18461,8 +18069,8 @@ if barstate.islastconfirmedhistory
 
 ```
 
-#" + str.tostring(bar_index), strategy.long)if shortcondition    strategy.entry("short entry at bar #" + str.tostring(bar_index), strategy.short)// Display iD of the latest open position.if barstate.islastconfirmedhistory    label.new(bar_index, high + (2 * ta.tr),  "Last opened position is
- " + strategy.opentrades.entry_id(strategy.opentrades - 1))
+#" + str.tostring(bar_index), strategy.long)if shortcondition strategy.entry("short entry at bar #" + str.tostring(bar_index), strategy.short)// Display iD of the latest open position.if barstate.islastconfirmedhistory label.new(bar_index, high + (2 \* ta.tr), "Last opened position is
+" + strategy.opentrades.entry_id(strategy.opentrades - 1))
 
 ### Returns
 
@@ -18474,9 +18082,9 @@ the function returns na if trade_num is not in the range: 0 to strategy.opentrad
 
 ### See also
 
-* [strategy.opentrades.entry\_bar\_index](#fun_strategy.opentrades.entry_bar_index)
-* [strategy.opentrades.entry_price](#fun_strategy.opentrades.entry_price)
-* [strategy.opentrades.entry_time](#fun_strategy.opentrades.entry_time)
+- [strategy.opentrades.entry_bar_index](#fun_strategy.opentrades.entry_bar_index)
+- [strategy.opentrades.entry_price](#fun_strategy.opentrades.entry_price)
+- [strategy.opentrades.entry_time](#fun_strategy.opentrades.entry_time)
 
 ## strategy.opentrades.entry_price
 
@@ -18484,18 +18092,17 @@ Returns the price of the open trade's entry.
 
 ### Syntax
 
-strategy.opentrades.entry\_price(trade\_num) → series float
+strategy.opentrades.entry_price(trade_num) → series float
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -18548,7 +18155,7 @@ plot(avgOpenpositionprice())
 
 ### See also
 
-* [strategy.closedtrades.exit_price](#fun_strategy.closedtrades.exit_price)
+- [strategy.closedtrades.exit_price](#fun_strategy.closedtrades.exit_price)
 
 ## strategy.opentrades.entry_time
 
@@ -18556,18 +18163,17 @@ Returns the unix time of the open trade's entry.
 
 ### Syntax
 
-strategy.opentrades.entry\_time(trade\_num) → series int
+strategy.opentrades.entry_time(trade_num) → series int
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -18591,8 +18197,8 @@ plot(timesinceLastEntry() / 1000 * 60 * 60 * 24, "Days since last entry")
 
 ### See also
 
-* [strategy.closedtrades.entry_time](#fun_strategy.closedtrades.entry_time)
-* [strategy.closedtrades.exit_time](#fun_strategy.closedtrades.exit_time)
+- [strategy.closedtrades.entry_time](#fun_strategy.closedtrades.entry_time)
+- [strategy.closedtrades.exit_time](#fun_strategy.closedtrades.exit_time)
 
 ## strategy.opentrades.max_drawdown
 
@@ -18600,18 +18206,17 @@ Returns the maximum drawdown of the open trade, i.e., the maximum possible loss 
 
 ### Syntax
 
-strategy.opentrades.max\_drawdown(trade\_num) → series float
+strategy.opentrades.max_drawdown(trade_num) → series float
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -18663,8 +18268,8 @@ the function returns na if trade_num is not in the range: 0 to strategy.closedtr
 
 ### See also
 
-* [strategy.closedtrades.max_drawdown](#fun_strategy.closedtrades.max_drawdown)
-* [strategy.max_drawdown](#var_strategy.max_drawdown)
+- [strategy.closedtrades.max_drawdown](#fun_strategy.closedtrades.max_drawdown)
+- [strategy.max_drawdown](#var_strategy.max_drawdown)
 
 ## strategy.opentrades.max_runup
 
@@ -18672,18 +18277,17 @@ Returns the maximum run up of the open trade, i.e., the maximum possible profit 
 
 ### Syntax
 
-strategy.opentrades.max\_runup(trade\_num) → series float
+strategy.opentrades.max_runup(trade_num) → series float
 
 ### Arguments
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -18729,8 +18333,8 @@ plot(maxOpentradeRunup(), "biggest max runup of all open trades")
 
 ### See also
 
-* [strategy.closedtrades.max_runup](#fun_strategy.closedtrades.max_runup)
-* [strategy.max_drawdown](#var_strategy.max_drawdown)
+- [strategy.closedtrades.max_runup](#fun_strategy.closedtrades.max_runup)
+- [strategy.max_drawdown](#var_strategy.max_drawdown)
 
 ## strategy.opentrades.profit
 
@@ -18744,9 +18348,9 @@ strategy.opentrades.profit(trade_num) → series float
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
 
@@ -18794,10 +18398,10 @@ plot(tradeOpenpL(), "profit of all open trades")
 
 ### See also
 
-* [strategy.closedtrades.profit](#fun_strategy.closedtrades.profit)
-* [strategy.openprofit](#var_strategy.openprofit)
-* [strategy.netprofit](#var_strategy.netprofit)
-* [strategy.grossprofit](#var_strategy.grossprofit)
+- [strategy.closedtrades.profit](#fun_strategy.closedtrades.profit)
+- [strategy.openprofit](#var_strategy.openprofit)
+- [strategy.netprofit](#var_strategy.netprofit)
+- [strategy.grossprofit](#var_strategy.grossprofit)
 
 ## strategy.opentrades.size
 
@@ -18811,12 +18415,11 @@ strategy.opentrades.size(trade_num) → series float
 
 - `trade_num`
 
-    >  (`series` `int`)
-    
-    >  the trade number of the open trade. the number of the first trade is zero.
+  > (`series` `int`)
+
+  > the trade number of the open trade. the number of the first trade is zero.
 
 ### Example
-
 
 ```s
 
@@ -18868,10 +18471,10 @@ plot(avgprofitpct)
 
 ### See also
 
-* [strategy.closedtrades.size](#fun_strategy.closedtrades.size)
-* [strategy.position_size](#var_strategy.position_size)
-* [strategy.opentrades](#var_strategy.opentrades)
-* [strategy.closedtrades](#var_strategy.closedtrades)
+- [strategy.closedtrades.size](#fun_strategy.closedtrades.size)
+- [strategy.position_size](#var_strategy.position_size)
+- [strategy.opentrades](#var_strategy.opentrades)
+- [strategy.closedtrades](#var_strategy.closedtrades)
 
 ## strategy.order
 
@@ -18879,72 +18482,71 @@ it is a command to place order. if an order with the same iD is already pending,
 
 ### Syntax
 
-strategy.order(id, direction, qty, limit, stop, oca\_name, oca\_type, comment, alert\_message, disable\_alert) - void
+strategy.order(id, direction, qty, limit, stop, oca_name, oca_type, comment, alert_message, disable_alert) - void
 
 ### Arguments
 
 - `id`
 
-    >  (`series` `string`)
-    
-    >  a required parameter. the order identifier. it is possible to cancel or modify an order by referencing its identifier.
+  > (`series` `string`)
+
+  > a required parameter. the order identifier. it is possible to cancel or modify an order by referencing its identifier.
 
 - `direction`
 
-    >  (`series` `strategy_direction`)
-    
-    >  a required parameter. Order direction: 'strategy.long' is for buy, 'strategy.short' is for sell.
+  > (`series` `strategy_direction`)
+
+  > a required parameter. Order direction: 'strategy.long' is for buy, 'strategy.short' is for sell.
 
 - `qty`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. Number of contracts/shares/lots/units to trade. the default value is 'NaN'.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. Number of contracts/shares/lots/units to trade. the default value is 'NaN'.
 
 - `limit`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. limit price of the order. if it is specified, the order type is either 'limit', or 'stop-limit'. 'NaN' should be specified for any other order type.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. limit price of the order. if it is specified, the order type is either 'limit', or 'stop-limit'. 'NaN' should be specified for any other order type.
 
 - `stop`
 
-    >  (`series` `int`/`float`)
-    
-    >  an optional parameter. stop price of the order. if it is specified, the order type is either 'stop', or 'stop-limit'. 'NaN' should be specified for any other order type.
+  > (`series` `int`/`float`)
+
+  > an optional parameter. stop price of the order. if it is specified, the order type is either 'stop', or 'stop-limit'. 'NaN' should be specified for any other order type.
 
 - `oca_name`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter. Name of the OCa group the order belongs to. if the order should not belong to any particular OCa group, there should be an empty string.
+  > (`series` `string`)
+
+  > an optional parameter. Name of the OCa group the order belongs to. if the order should not belong to any particular OCa group, there should be an empty string.
 
 - `oca_type`
 
-    >  (`input` `string`)
-    
-    >  an optional parameter. Type of the OCa group. the allowed values are: [strategy.oca.none](#var_strategy.oca.none) \- the order should not belong to any particular OCa group; [strategy.oca.cancel](#var_strategy.oca.cancel) \- the order should belong to an OCa group, where as soon as an order is filled, all other orders of the same group are cancelled; [strategy.oca.reduce](#var_strategy.oca.reduce) \- the order should belong to an OCa group, where if X number of contracts of an order is filled, number of contracts for each other order of the same OCa group is decreased by X.
+  > (`input` `string`)
+
+  > an optional parameter. Type of the OCa group. the allowed values are: [strategy.oca.none](#var_strategy.oca.none) \- the order should not belong to any particular OCa group; [strategy.oca.cancel](#var_strategy.oca.cancel) \- the order should belong to an OCa group, where as soon as an order is filled, all other orders of the same group are cancelled; [strategy.oca.reduce](#var_strategy.oca.reduce) \- the order should belong to an OCa group, where if X number of contracts of an order is filled, number of contracts for each other order of the same OCa group is decreased by X.
 
 - `comment`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter. additional notes on the order.
+  > (`series` `string`)
+
+  > an optional parameter. additional notes on the order.
 
 - `alert_message`
 
-    >  (`series` `string`)
-    
-    >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
+  > (`series` `string`)
+
+  > an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 
 - `disable_alert`
 
-    >  (`series` `bool`)
-    
-    >  if [true](#op_true) when the function creates an order, the strategy alert will not fire upon the execution of that order. the parameter accepts a 'series bool' argument, allowing users to control which orders will trigger alerts when they fill. optional. the default is [false](#op_false).
+  > (`series` `bool`)
+
+  > if [true](#op_true) when the function creates an order, the strategy alert will not fire upon the execution of that order. the parameter accepts a 'series bool' argument, allowing users to control which orders will trigger alerts when they fill. optional. the default is [false](#op_false).
 
 ### Example
-
 
 ```s
 
@@ -18968,7 +18570,7 @@ strategy.risk.allow_entry_in(value) → void
 - `value`
 
     >  (`simple` `string`)
-    
+
     >  the allowed direction. possible values: strategy.direction.all, strategy.direction.long, strategy.direction.short
 
 
@@ -18986,30 +18588,29 @@ if open < close
 
 ```
 
-## strategy.risk.max\_cons\_loss_days
+## strategy.risk.max_cons_loss_days
 
 the purpose of this rule is to cancel all pending orders, close all open positions and stop placing orders after a specified number of consecutive days with losses. the rule affects the whole strategy.
 
 ### Syntax
 
-strategy.risk.max\_cons\_loss\_days(count, alert\_message) - void
+strategy.risk.max_cons_loss_days(count, alert_message) - void
 
 ### Arguments
 
 - `count`
 
-    >  (`simple` `int`)
-    
-    >  a required parameter. the allowed number of consecutive days with losses.
+  > (`simple` `int`)
+
+  > a required parameter. the allowed number of consecutive days with losses.
 
 - `alert_message`
 
-    >  (`simple` `string`)
-    
-    >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
+  > (`simple` `string`)
+
+  > an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 
 ### Example
-
 
 ```s
 
@@ -19026,30 +18627,29 @@ the purpose of this rule is to determine maximum drawdown. the rule affects the 
 
 ### Syntax
 
-strategy.risk.max\_drawdown(value, type, alert\_message) - void
+strategy.risk.max_drawdown(value, type, alert_message) - void
 
 ### Arguments
 
 - `value`
 
-    >  (`simple` `int`/`float`)
-    
-    >  a required parameter. the maximum drawdown value. it is specified either in money (base currency), or in percentage of maximum equity. For % of equity the range of allowed values is from 0 to 100.
+  > (`simple` `int`/`float`)
+
+  > a required parameter. the maximum drawdown value. it is specified either in money (base currency), or in percentage of maximum equity. For % of equity the range of allowed values is from 0 to 100.
 
 - `type`
 
-    >  (`simple` `string`)
-    
-    >  a required parameter. the type of the value. please specify one of the following values: [strategy.percent\_of\_equity](#var_strategy.percent_of_equity) or [strategy.cash](#var_strategy.cash). Note: if equity drops down to zero or to a negative and the 'strategy.percent\_of\_equity' is specified, all pending orders are cancelled, all open positions are closed and no new orders can be placed for good.
+  > (`simple` `string`)
+
+  > a required parameter. the type of the value. please specify one of the following values: [strategy.percent_of_equity](#var_strategy.percent_of_equity) or [strategy.cash](#var_strategy.cash). Note: if equity drops down to zero or to a negative and the 'strategy.percent_of_equity' is specified, all pending orders are cancelled, all open positions are closed and no new orders can be placed for good.
 
 - `alert_message`
 
-    >  (`simple` `string`)
-    
-    >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
+  > (`simple` `string`)
+
+  > an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 
 ### Example
-
 
 ```s
 
@@ -19064,7 +18664,6 @@ plot(strategy.position_size)
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -19074,30 +18673,29 @@ plot(strategy.position_size)
 
 ```
 
-## strategy.risk.max\_intraday\_filled_orders
+## strategy.risk.max_intraday_filled_orders
 
 the purpose of this rule is to determine maximum number of filled orders per 1 day (per 1 bar, if chart resolution is higher than 1 day). the rule affects the whole strategy. Once the maximum number of filled orders is reached, all pending orders are cancelled, all open positions are closed and no new orders can be placed till the end of the current trading session.
 
 ### Syntax
 
-strategy.risk.max\_intraday\_filled\_orders(count, alert\_message) - void
+strategy.risk.max_intraday_filled_orders(count, alert_message) - void
 
 ### Arguments
 
 - `count`
 
-    >  (`simple` `int`)
-    
-    >  a required parameter. the maximum number of filled orders per 1 day.
+  > (`simple` `int`)
+
+  > a required parameter. the maximum number of filled orders per 1 day.
 
 - `alert_message`
 
-    >  (`simple` `string`)
-    
-    >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
+  > (`simple` `string`)
+
+  > an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 
 ### Example
-
 
 ```s
 
@@ -19111,33 +18709,33 @@ if open < close
 
 ```
 
-## strategy.risk.max\_intraday\_loss
+## strategy.risk.max_intraday_loss
 
 the maximum loss value allowed during a day. it is specified either in money (base currency), or in percentage of maximum intraday equity (0 -100).
 
 ### Syntax
 
-strategy.risk.max\_intraday\_loss(value, type, alert_message) - void
+strategy.risk.max_intraday_loss(value, type, alert_message) - void
 
 ### Arguments
 
 - `value`
 
-    >  (`simple` `int`/`float`)
-    
-    >  a required parameter. the maximum loss value. it is specified either in money (base currency), or in percentage of maximum intraday equity. For % of equity the range of allowed values is from 0 to 100.
+  > (`simple` `int`/`float`)
+
+  > a required parameter. the maximum loss value. it is specified either in money (base currency), or in percentage of maximum intraday equity. For % of equity the range of allowed values is from 0 to 100.
 
 - `type`
 
-    >  (`simple` `string`)
-    
-    >  a required parameter. the type of the value. please specify one of the following values: [strategy.percent\_of\_equity](#var_strategy.percent_of_equity) or [strategy.cash](#var_strategy.cash). Note: if equity drops down to zero or to a negative and the [strategy.percent\_of\_equity](#var_strategy.percent_of_equity) is specified, all pending orders are cancelled, all open positions are closed and no new orders can be placed for good.
+  > (`simple` `string`)
+
+  > a required parameter. the type of the value. please specify one of the following values: [strategy.percent_of_equity](#var_strategy.percent_of_equity) or [strategy.cash](#var_strategy.cash). Note: if equity drops down to zero or to a negative and the [strategy.percent_of_equity](#var_strategy.percent_of_equity) is specified, all pending orders are cancelled, all open positions are closed and no new orders can be placed for good.
 
 - `alert_message`
 
-    >  (`simple` `string`)
-    
-    >  an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
+  > (`simple` `string`)
+
+  > an optional parameter which replaces the {{strategy.order.alert_message}} placeholder when it is used in the "Create alert" dialog box's "Message" field.
 
 ### Example
 
@@ -19203,28 +18801,27 @@ plot(priceChg)
 
 ### See also
 
-* [strategy](#fun_strategy)
-* [strategy.percent\_of\_equity](#var_strategy.percent_of_equity)
-* [strategy.cash](#var_strategy.cash)
+- [strategy](#fun_strategy)
+- [strategy.percent_of_equity](#var_strategy.percent_of_equity)
+- [strategy.cash](#var_strategy.cash)
 
-## strategy.risk.max\_position\_size
+## strategy.risk.max_position_size
 
-the purpose of this rule is to determine maximum size of a market position. the rule affects the following function: [strategy.entry](#fun_strategy.entry). the 'entry' quantity can be reduced (if needed) to such number of contracts/shares/lots/units, so the total position size doesn't exceed the value specified in 'strategy.risk.max\_position\_size'. if minimum possible quantity still violates the rule, the order will not be placed.
+the purpose of this rule is to determine maximum size of a market position. the rule affects the following function: [strategy.entry](#fun_strategy.entry). the 'entry' quantity can be reduced (if needed) to such number of contracts/shares/lots/units, so the total position size doesn't exceed the value specified in 'strategy.risk.max_position_size'. if minimum possible quantity still violates the rule, the order will not be placed.
 
 ### Syntax
 
-strategy.risk.max\_position\_size(contracts) - void
+strategy.risk.max_position_size(contracts) - void
 
 ### Arguments
 
 - `contracts`
 
-    >  (`simple` `int`/`float`)
-    
-    >  a required parameter. Maximum number of contracts/shares/lots/units in a position.
+  > (`simple` `int`/`float`)
+
+  > a required parameter. Maximum number of contracts/shares/lots/units in a position.
 
 ### Example
-
 
 ```s
 
@@ -19245,18 +18842,15 @@ Casts na to string
 
 ### syntax & Overloads
 
-> [string(x) → const string](#fun_string-0)
-> [string(x) → input string](#fun_string-1)
-> [string(x) → simple string](#fun_string-2)
-> [string(x) → series string](#fun_string-3)
+> [string(x) → const string](#fun_string-0) > [string(x) → input string](#fun_string-1) > [string(x) → simple string](#fun_string-2) > [string(x) → series string](#fun_string-3)
 
 ### Arguments
 
 - `x`
 
-    >  (`const` `string`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`const` `string`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -19264,12 +18858,12 @@ the value of the argument after casting to string.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [line](#fun_line)
-* [label](#fun_label)
+- [float](#fun_float)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## syminfo.prefix
 
@@ -19279,19 +18873,17 @@ Returns exchange prefix of the \`symbol\`, e.g. "NasDaq".
 
 ### syntax & Overloads
 
-> [syminfo.prefix(symbol) → simple string](#fun_syminfo.prefix-0)
-> [syminfo.prefix(symbol) → series string](#fun_syminfo.prefix-1)
+> [syminfo.prefix(symbol) → simple string](#fun_syminfo.prefix-0) > [syminfo.prefix(symbol) → series string](#fun_syminfo.prefix-1)
 
 ### Arguments
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL".
+  > (`simple` `string`)
+
+  > symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL".
 
 ### Example
-
 
 ```s
 
@@ -19317,11 +18909,11 @@ the result of the function is used in the [ticker.new](#fun_ticker.new)/[ticker.
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.prefix](#var_syminfo.prefix)
-* [syminfo.ticker](#fun_syminfo.ticker)
-* [ticker.new](#fun_ticker.new)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.prefix](#var_syminfo.prefix)
+- [syminfo.ticker](#fun_syminfo.ticker)
+- [ticker.new](#fun_ticker.new)
 
 ## syminfo.ticker
 
@@ -19331,19 +18923,17 @@ Returns \`symbol\` name without exchange prefix, e.g. "aapL".
 
 ### syntax & Overloads
 
-> [syminfo.ticker(symbol) → simple string](#fun_syminfo.ticker-0)
-> [syminfo.ticker(symbol) → series string](#fun_syminfo.ticker-1)
+> [syminfo.ticker(symbol) → simple string](#fun_syminfo.ticker-0) > [syminfo.ticker(symbol) → series string](#fun_syminfo.ticker-1)
 
 ### Arguments
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL".
+  > (`simple` `string`)
+
+  > symbol. Note that the symbol should be passed with a prefix. For example: "NasDaq:aapL" instead of "aapL".
 
 ### Example
-
 
 ```s
 
@@ -19369,11 +18959,11 @@ the result of the function is used in the [ticker.new](#fun_ticker.new)/[ticker.
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.prefix](#var_syminfo.prefix)
-* [syminfo.prefix](#fun_syminfo.prefix)
-* [ticker.new](#fun_ticker.new)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.prefix](#var_syminfo.prefix)
+- [syminfo.prefix](#fun_syminfo.prefix)
+- [ticker.new](#fun_ticker.new)
 
 ## ta.alma
 
@@ -19383,37 +18973,35 @@ arnaud Legoux Moving average. it uses Gaussian distribution as weights for movin
 
 ### syntax & Overloads
 
-> [ta.alma(series, length, offset, sigma) → series float](#fun_ta.alma-0)
-> [ta.alma(series, length, offset, sigma, floor) → series float](#fun_ta.alma-1)
+> [ta.alma(series, length, offset, sigma) → series float](#fun_ta.alma-0) > [ta.alma(series, length, offset, sigma, floor) → series float](#fun_ta.alma-1)
 
 ### Arguments
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 - `offset`
 
-    >  (`simple` `int`/`float`)
-    
-    >  Controls tradeoff between smoothness (closer to 1) and responsiveness (closer to 0).
+  > (`simple` `int`/`float`)
+
+  > Controls tradeoff between smoothness (closer to 1) and responsiveness (closer to 0).
 
 - `sigma`
 
-    >  (`simple` `int`/`float`)
-    
-    >  Changes the smoothness of aLMa. the larger sigma the smoother aLMa.
+  > (`simple` `int`/`float`)
+
+  > Changes the smoothness of aLMa. the larger sigma the smoother aLMa.
 
 ### Example
-
 
 ```s
 
@@ -19448,12 +19036,12 @@ arnaud Legoux Moving average.
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.ema](#fun_ta.ema)
-* [ta.rma](#fun_ta.rma)
-* [ta.wma](#fun_ta.wma)
-* [ta.vwma](#fun_ta.vwma)
-* [ta.swma](#fun_ta.swma)
+- [ta.sma](#fun_ta.sma)
+- [ta.ema](#fun_ta.ema)
+- [ta.rma](#fun_ta.rma)
+- [ta.wma](#fun_ta.wma)
+- [ta.vwma](#fun_ta.vwma)
+- [ta.swma](#fun_ta.swma)
 
 ## ta.atr
 
@@ -19467,12 +19055,11 @@ ta.atr(length) → series float
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Length (number of bars back).
+  > (`simple` `int`)
+
+  > Length (number of bars back).
 
 ### Example
-
 
 ```s
 
@@ -19501,8 +19088,8 @@ average true range.
 
 ### See also
 
-* [ta.tr](#fun_ta.tr)
-* [ta.rma](#fun_ta.rma)
+- [ta.tr](#fun_ta.tr)
+- [ta.rma](#fun_ta.rma)
 
 ## ta.barssince
 
@@ -19516,12 +19103,11 @@ ta.barssince(condition) → series int
 
 - `condition`
 
-    >  (`series` `bool`)
-    
-    >  the condition to check for.
+  > (`series` `bool`)
+
+  > the condition to check for.
 
 ### Example
-
 
 ```s
 
@@ -19545,11 +19131,11 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [ta.lowestbars](#fun_ta.lowestbars)
-* [ta.highestbars](#fun_ta.highestbars)
-* [ta.valuewhen](#fun_ta.valuewhen)
-* [ta.highest](#fun_ta.highest)
-* [ta.lowest](#fun_ta.lowest)
+- [ta.lowestbars](#fun_ta.lowestbars)
+- [ta.highestbars](#fun_ta.highestbars)
+- [ta.valuewhen](#fun_ta.valuewhen)
+- [ta.highest](#fun_ta.highest)
+- [ta.lowest](#fun_ta.lowest)
 
 ## ta.bb
 
@@ -19563,24 +19149,23 @@ ta.bb(series, length, mult) - \[series float, series float, series float\]
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 - `mult`
 
-    >  (`simple` `int`/`float`)
-    
-    >  standard deviation factor.
+  > (`simple` `int`/`float`)
+
+  > standard deviation factor.
 
 ### Example
-
 
 ```s
 
@@ -19617,9 +19202,9 @@ bollinger bands.
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.stdev](#fun_ta.stdev)
-* [ta.kc](#fun_ta.kc)
+- [ta.sma](#fun_ta.sma)
+- [ta.stdev](#fun_ta.stdev)
+- [ta.kc](#fun_ta.kc)
 
 ## ta.bbw
 
@@ -19633,24 +19218,23 @@ ta.bbw(series, length, mult) → series float
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 - `mult`
 
-    >  (`simple` `int`/`float`)
-    
-    >  standard deviation factor.
+  > (`simple` `int`/`float`)
+
+  > standard deviation factor.
 
 ### Example
-
 
 ```s
 
@@ -19680,9 +19264,9 @@ bollinger bands Width.
 
 ### See also
 
-* [ta.bb](#fun_ta.bb)
-* [ta.sma](#fun_ta.sma)
-* [ta.stdev](#fun_ta.stdev)
+- [ta.bb](#fun_ta.bb)
+- [ta.sma](#fun_ta.sma)
+- [ta.stdev](#fun_ta.stdev)
 
 ## ta.cci
 
@@ -19696,15 +19280,15 @@ ta.cci(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -19722,23 +19306,17 @@ Compares the current \`source\` value to its value \`length\` bars ago and retur
 
 ### syntax & Overloads
 
-> [ta.change(source) → series int](#fun_ta.change-0)
-> [ta.change(source) → series float](#fun_ta.change-1)
-> [ta.change(source, length) → series int](#fun_ta.change-2)
-> [ta.change(source, length) → series float](#fun_ta.change-3)
-> [ta.change(source) → series bool](#fun_ta.change-4)
-> [ta.change(source, length) → series bool](#fun_ta.change-5)
+> [ta.change(source) → series int](#fun_ta.change-0) > [ta.change(source) → series float](#fun_ta.change-1) > [ta.change(source, length) → series int](#fun_ta.change-2) > [ta.change(source, length) → series float](#fun_ta.change-3) > [ta.change(source) → series bool](#fun_ta.change-4) > [ta.change(source, length) → series bool](#fun_ta.change-5)
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`)
-    
-    >  source series.
+  > (`series` `int`)
+
+  > source series.
 
 ### Example
-
 
 ```s
 
@@ -19778,12 +19356,12 @@ ta.cmo(series, length) → series float
 - `series`
 
     >  (`series` `int`/`float`)
-    
+
     >  series of values to process.
 - `length`
 
     >  (`series` `int`)
-    
+
     >  Number of bars (length).
 
 
@@ -19815,9 +19393,9 @@ Chande Momentum Oscillator.
 
 ### See also
 
-* [ta.rsi](#fun_ta.rsi)
-* [ta.stoch](#fun_ta.stoch)
-* [math.sum](#fun_math.sum)
+- [ta.rsi](#fun_ta.rsi)
+- [ta.stoch](#fun_ta.stoch)
+- [math.sum](#fun_math.sum)
 
 ## ta.cog
 
@@ -19831,18 +19409,17 @@ ta.cog(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -19874,7 +19451,7 @@ center of Gravity.
 
 ### See also
 
-* [ta.stoch](#fun_ta.stoch)
+- [ta.stoch](#fun_ta.stoch)
 
 ## ta.correlation
 
@@ -19888,21 +19465,21 @@ ta.correlation(source1, source2, length) → series float
 
 - `source1`
 
-    >  (`series` `int`/`float`)
-    
-    >  source series.
+  > (`series` `int`/`float`)
+
+  > source series.
 
 - `source2`
 
-    >  (`series` `int`/`float`)
-    
-    >  Target series.
+  > (`series` `int`/`float`)
+
+  > Target series.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Length (number of bars back).
+  > (`series` `int`)
+
+  > Length (number of bars back).
 
 ### Returns
 
@@ -19914,7 +19491,7 @@ Correlation coefficient.
 
 ### See also
 
-* [request.security](#fun_request.security)
+- [request.security](#fun_request.security)
 
 ## ta.cross
 
@@ -19926,15 +19503,15 @@ ta.cross(source1, source2) → series bool
 
 - `source1`
 
-    >  (`series` `int`/`float`)
-    
-    >  First data series.
+  > (`series` `int`/`float`)
+
+  > First data series.
 
 - `source2`
 
-    >  (`series` `int`/`float`)
-    
-    >  second data series.
+  > (`series` `int`/`float`)
+
+  > second data series.
 
 ### Returns
 
@@ -19942,7 +19519,7 @@ true if two series have crossed each other, otherwise false.
 
 ### See also
 
-* [ta.change](#fun_ta.change)
+- [ta.change](#fun_ta.change)
 
 ## ta.crossover
 
@@ -19956,15 +19533,15 @@ ta.crossover(source1, source2) → series bool
 
 - `source1`
 
-    >  (`series` `int`/`float`)
-    
-    >  First data series.
+  > (`series` `int`/`float`)
+
+  > First data series.
 
 - `source2`
 
-    >  (`series` `int`/`float`)
-    
-    >  second data series.
+  > (`series` `int`/`float`)
+
+  > second data series.
 
 ### Returns
 
@@ -19982,15 +19559,15 @@ ta.crossunder(source1, source2) → series bool
 
 - `source1`
 
-    >  (`series` `int`/`float`)
-    
-    >  First data series.
+  > (`series` `int`/`float`)
+
+  > First data series.
 
 - `source2`
 
-    >  (`series` `int`/`float`)
-    
-    >  second data series.
+  > (`series` `int`/`float`)
+
+  > second data series.
 
 ### Returns
 
@@ -20008,9 +19585,9 @@ ta.cum(source) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source used for the calculation.
+  > (`series` `int`/`float`)
+
+  > source used for the calculation.
 
 ### Returns
 
@@ -20018,7 +19595,7 @@ Total sum series.
 
 ### See also
 
-* [math.sum](#fun_math.sum)
+- [math.sum](#fun_math.sum)
 
 ## ta.dev
 
@@ -20032,18 +19609,17 @@ ta.dev(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -20074,8 +19650,8 @@ Deviation of \`source\` for \`length\` bars back.
 
 ### See also
 
-* [ta.variance](#fun_ta.variance)
-* [ta.stdev](#fun_ta.stdev)
+- [ta.variance](#fun_ta.variance)
+- [ta.stdev](#fun_ta.stdev)
 
 ## ta.dmi
 
@@ -20089,18 +19665,17 @@ ta.dmi(diLength, adxsmoothing) - \[series float, series float, series float\]
 
 - `diLength`
 
-    >  (`simple` `int`)
-    
-    >  Di period.
+  > (`simple` `int`)
+
+  > Di period.
 
 - `adxsmoothing`
 
-    >  (`simple` `int`)
-    
-    >  aDX smoothing period.
+  > (`simple` `int`)
+
+  > aDX smoothing period.
 
 ### Example
-
 
 ```s
 
@@ -20136,12 +19711,12 @@ ta.ema(source, length) → series float
 - `source`
 
     >  (`series` `int`/`float`)
-    
+
     >  series of values to process.
 - `length`
 
     >  (`simple` `int`)
-    
+
     >  Number of bars (length).
 
 
@@ -20173,12 +19748,12 @@ please note that using this variable/function can cause [indicator repainting](h
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.rma](#fun_ta.rma)
-* [ta.wma](#fun_ta.wma)
-* [ta.vwma](#fun_ta.vwma)
-* [ta.swma](#fun_ta.swma)
-* [ta.alma](#fun_ta.alma)
+- [ta.sma](#fun_ta.sma)
+- [ta.rma](#fun_ta.rma)
+- [ta.wma](#fun_ta.wma)
+- [ta.vwma](#fun_ta.vwma)
+- [ta.swma](#fun_ta.swma)
+- [ta.alma](#fun_ta.alma)
 
 ## ta.falling
 
@@ -20192,15 +19767,15 @@ ta.falling(source, length) → series bool
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -20212,7 +19787,7 @@ true if current \`source\` value is less than any previous \`source\` value for 
 
 ### See also
 
-* [ta.rising](#fun_ta.rising)
+- [ta.rising](#fun_ta.rising)
 
 ## ta.highest
 
@@ -20222,16 +19797,15 @@ Highest value for a given number of bars back.
 
 ### syntax & Overloads
 
-> [ta.highest(length) → series float](#fun_ta.highest-0)
-> [ta.highest(source, length) → series float](#fun_ta.highest-1)
+> [ta.highest(length) → series float](#fun_ta.highest-0) > [ta.highest(source, length) → series float](#fun_ta.highest-1)
 
 ### Arguments
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -20247,11 +19821,11 @@ One arg version: \`length\` is the number of bars back. algorithm uses high as a
 
 ### See also
 
-* [ta.lowest](#fun_ta.lowest)
-* [ta.lowestbars](#fun_ta.lowestbars)
-* [ta.highestbars](#fun_ta.highestbars)
-* [ta.valuewhen](#fun_ta.valuewhen)
-* [ta.barssince](#fun_ta.barssince)
+- [ta.lowest](#fun_ta.lowest)
+- [ta.lowestbars](#fun_ta.lowestbars)
+- [ta.highestbars](#fun_ta.highestbars)
+- [ta.valuewhen](#fun_ta.valuewhen)
+- [ta.barssince](#fun_ta.barssince)
 
 ## ta.highestbars
 
@@ -20261,16 +19835,15 @@ Highest value offset for a given number of bars back.
 
 ### syntax & Overloads
 
-> [ta.highestbars(length) → series int](#fun_ta.highestbars-0)
-> [ta.highestbars(source, length) → series int](#fun_ta.highestbars-1)
+> [ta.highestbars(length) → series int](#fun_ta.highestbars-0) > [ta.highestbars(source, length) → series int](#fun_ta.highestbars-1)
 
 ### Arguments
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -20286,11 +19859,11 @@ One arg version: \`length\` is the number of bars back. algorithm uses high as a
 
 ### See also
 
-* [ta.lowest](#fun_ta.lowest)
-* [ta.highest](#fun_ta.highest)
-* [ta.lowestbars](#fun_ta.lowestbars)
-* [ta.barssince](#fun_ta.barssince)
-* [ta.valuewhen](#fun_ta.valuewhen)
+- [ta.lowest](#fun_ta.lowest)
+- [ta.highest](#fun_ta.highest)
+- [ta.lowestbars](#fun_ta.lowestbars)
+- [ta.barssince](#fun_ta.barssince)
+- [ta.valuewhen](#fun_ta.valuewhen)
 
 ## ta.hma
 
@@ -20304,18 +19877,17 @@ ta.hma(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars.
+  > (`simple` `int`)
+
+  > Number of bars.
 
 ### Example
-
 
 ```s
 
@@ -20341,11 +19913,11 @@ Hull moving average of 'source' for 'length' bars back.
 
 ### See also
 
-* [ta.ema](#fun_ta.ema)
-* [ta.rma](#fun_ta.rma)
-* [ta.wma](#fun_ta.wma)
-* [ta.vwma](#fun_ta.vwma)
-* [ta.sma](#fun_ta.sma)
+- [ta.ema](#fun_ta.ema)
+- [ta.rma](#fun_ta.rma)
+- [ta.wma](#fun_ta.wma)
+- [ta.vwma](#fun_ta.vwma)
+- [ta.sma](#fun_ta.sma)
 
 ## ta.kc
 
@@ -20355,31 +19927,29 @@ Keltner Channels. Keltner channel is a technical analysis indicator showing a ce
 
 ### syntax & Overloads
 
-> [ta.kc(series, length, mult) - \[series float, series float, series float\]](#fun_ta.kc-0)
-> [ta.kc(series, length, mult, usetrueRange) - \[series float, series float, series float\]](#fun_ta.kc-1)
+> [ta.kc(series, length, mult) - \[series float, series float, series float\]](#fun_ta.kc-0) > [ta.kc(series, length, mult, usetrueRange) - \[series float, series float, series float\]](#fun_ta.kc-1)
 
 ### Arguments
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 - `mult`
 
-    >  (`simple` `int`/`float`)
-    
-    >  standard deviation factor.
+  > (`simple` `int`/`float`)
+
+  > standard deviation factor.
 
 ### Example
-
 
 ```s
 
@@ -20418,9 +19988,9 @@ Keltner Channels.
 
 ### See also
 
-* [ta.ema](#fun_ta.ema)
-* [ta.atr](#fun_ta.atr)
-* [ta.bb](#fun_ta.bb)
+- [ta.ema](#fun_ta.ema)
+- [ta.atr](#fun_ta.atr)
+- [ta.bb](#fun_ta.bb)
 
 ## ta.kcw
 
@@ -20430,31 +20000,29 @@ Keltner Channels Width. the Keltner Channels Width is the difference between the
 
 ### syntax & Overloads
 
-> [ta.kcw(series, length, mult) → series float](#fun_ta.kcw-0)
-> [ta.kcw(series, length, mult, usetrueRange) → series float](#fun_ta.kcw-1)
+> [ta.kcw(series, length, mult) → series float](#fun_ta.kcw-0) > [ta.kcw(series, length, mult, usetrueRange) → series float](#fun_ta.kcw-1)
 
 ### Arguments
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 - `mult`
 
-    >  (`simple` `int`/`float`)
-    
-    >  standard deviation factor.
+  > (`simple` `int`/`float`)
+
+  > standard deviation factor.
 
 ### Example
-
 
 ```s
 
@@ -20486,14 +20054,14 @@ Keltner Channels Width.
 
 ### See also
 
-* [ta.kc](#fun_ta.kc)
-* [ta.ema](#fun_ta.ema)
-* [ta.atr](#fun_ta.atr)
-* [ta.bb](#fun_ta.bb)
+- [ta.kc](#fun_ta.kc)
+- [ta.ema](#fun_ta.ema)
+- [ta.atr](#fun_ta.atr)
+- [ta.bb](#fun_ta.bb)
 
 ## ta.linreg
 
-linear regression curve. a line that best fits the prices specified over a user-defined time period. it is calculated using the least squares method. the result of this function is calculated using the formula: linreg = intercept + slope * (length - 1 - offset), where intercept and slope are the values calculated with the least squares method on \`source\` series.
+linear regression curve. a line that best fits the prices specified over a user-defined time period. it is calculated using the least squares method. the result of this function is calculated using the formula: linreg = intercept + slope \* (length - 1 - offset), where intercept and slope are the values calculated with the least squares method on \`source\` series.
 
 ### Syntax
 
@@ -20503,21 +20071,21 @@ ta.linreg(source, length, offset) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source series.
+  > (`series` `int`/`float`)
+
+  > source series.
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 - `offset`
 
-    >  (`simple` `int`)
-    
-    >  Offset.
+  > (`simple` `int`)
+
+  > Offset.
 
 ### Returns
 
@@ -20535,16 +20103,15 @@ Lowest value for a given number of bars back.
 
 ### syntax & Overloads
 
-> [ta.lowest(length) → series float](#fun_ta.lowest-0)
-> [ta.lowest(source, length) → series float](#fun_ta.lowest-1)
+> [ta.lowest(length) → series float](#fun_ta.lowest-0) > [ta.lowest(source, length) → series float](#fun_ta.lowest-1)
 
 ### Arguments
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -20560,11 +20127,11 @@ One arg version: \`length\` is the number of bars back. algorithm uses low as a 
 
 ### See also
 
-* [ta.highest](#fun_ta.highest)
-* [ta.lowestbars](#fun_ta.lowestbars)
-* [ta.highestbars](#fun_ta.highestbars)
-* [ta.valuewhen](#fun_ta.valuewhen)
-* [ta.barssince](#fun_ta.barssince)
+- [ta.highest](#fun_ta.highest)
+- [ta.lowestbars](#fun_ta.lowestbars)
+- [ta.highestbars](#fun_ta.highestbars)
+- [ta.valuewhen](#fun_ta.valuewhen)
+- [ta.barssince](#fun_ta.barssince)
 
 ## ta.lowestbars
 
@@ -20574,16 +20141,15 @@ Lowest value offset for a given number of bars back.
 
 ### syntax & Overloads
 
-> [ta.lowestbars(length) → series int](#fun_ta.lowestbars-0)
-> [ta.lowestbars(source, length) → series int](#fun_ta.lowestbars-1)
+> [ta.lowestbars(length) → series int](#fun_ta.lowestbars-0) > [ta.lowestbars(source, length) → series int](#fun_ta.lowestbars-1)
 
 ### Arguments
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars back.
+  > (`simple` `int`)
+
+  > Number of bars back.
 
 ### Returns
 
@@ -20599,11 +20165,11 @@ One arg version: \`length\` is the number of bars back. algorithm uses low as a 
 
 ### See also
 
-* [ta.lowest](#fun_ta.lowest)
-* [ta.highest](#fun_ta.highest)
-* [ta.highestbars](#fun_ta.highestbars)
-* [ta.barssince](#fun_ta.barssince)
-* [ta.valuewhen](#fun_ta.valuewhen)
+- [ta.lowest](#fun_ta.lowest)
+- [ta.highest](#fun_ta.highest)
+- [ta.highestbars](#fun_ta.highestbars)
+- [ta.barssince](#fun_ta.barssince)
+- [ta.valuewhen](#fun_ta.valuewhen)
 
 ## ta.macd
 
@@ -20617,30 +20183,29 @@ ta.macd(source, fastlen, slowlen, siglen) - \[series float, series float, series
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `fastlen`
 
-    >  (`simple` `int`)
-    
-    >  Fast Length parameter.
+  > (`simple` `int`)
+
+  > Fast Length parameter.
 
 - `slowlen`
 
-    >  (`simple` `int`)
-    
-    >  slow Length parameter.
+  > (`simple` `int`)
+
+  > slow Length parameter.
 
 - `siglen`
 
-    >  (`simple` `int`)
-    
-    >  signal Length parameter.
+  > (`simple` `int`)
+
+  > signal Length parameter.
 
 ### Example
-
 
 ```s
 
@@ -20657,7 +20222,6 @@ if you need only one value, use placeholders '_' like this:
 ```
 
 ### Example
-
 
 ```s
 
@@ -20679,8 +20243,8 @@ plot(signalline, color=color.orange)
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.ema](#fun_ta.ema)
+- [ta.sma](#fun_ta.sma)
+- [ta.ema](#fun_ta.ema)
 
 ## ta.max
 
@@ -20694,9 +20258,9 @@ ta.max(source) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source used for the calculation.
+  > (`series` `int`/`float`)
+
+  > source used for the calculation.
 
 ### Remarks
 
@@ -20710,22 +20274,21 @@ Returns the median of the series.
 
 ### syntax & Overloads
 
-> [ta.median(source, length) → series int](#fun_ta.median-0)
-> [ta.median(source, length) → series float](#fun_ta.median-1)
+> [ta.median(source, length) → series int](#fun_ta.median-0) > [ta.median(source, length) → series float](#fun_ta.median-1)
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`)
-    
-    >  series of values to process.
+  > (`series` `int`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -20747,18 +20310,17 @@ ta.mfi(series, length) → series float
 
 - `series`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -20789,8 +20351,8 @@ Money Flow index.
 
 ### See also
 
-* [ta.rsi](#fun_ta.rsi)
-* [math.sum](#fun_math.sum)
+- [ta.rsi](#fun_ta.rsi)
+- [math.sum](#fun_math.sum)
 
 ## ta.min
 
@@ -20804,9 +20366,9 @@ ta.min(source) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source used for the calculation.
+  > (`series` `int`/`float`)
+
+  > source used for the calculation.
 
 ### Remarks
 
@@ -20816,26 +20378,25 @@ ta.min(source) → series float
 
 +1 overload
 
-Returns the [mode](https://en.wikipedia.org/wiki/Mode_(statistics)) of the series. if there are several values with the same frequency, it returns the smallest value.
+Returns the [mode](<https://en.wikipedia.org/wiki/Mode_(statistics)>) of the series. if there are several values with the same frequency, it returns the smallest value.
 
 ### syntax & Overloads
 
-> [ta.mode(source, length) → series int](#fun_ta.mode-0)
-> [ta.mode(source, length) → series float](#fun_ta.mode-1)
+> [ta.mode(source, length) → series int](#fun_ta.mode-0) > [ta.mode(source, length) → series float](#fun_ta.mode-1)
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`)
-    
-    >  series of values to process.
+  > (`series` `int`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -20857,15 +20418,15 @@ ta.mom(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Offset from the current bar to the previous bar.
+  > (`series` `int`)
+
+  > Offset from the current bar to the previous bar.
 
 ### Returns
 
@@ -20877,35 +20438,35 @@ Momentum of \`source\` price and \`source\` price \`length\` bars ago.
 
 ### See also
 
-* [ta.change](#fun_ta.change)
+- [ta.change](#fun_ta.change)
 
-## ta.percentile\_linear\_interpolation
+## ta.percentile_linear_interpolation
 
 Calculates percentile using method of linear interpolation between the two nearest ranks.
 
 ### Syntax
 
-ta.percentile\_linear\_interpolation(source, length, percentage) → series float
+ta.percentile_linear_interpolation(source, length, percentage) → series float
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process (source).
+  > (`series` `int`/`float`)
+
+  > series of values to process (source).
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars back (length).
+  > (`series` `int`)
+
+  > Number of bars back (length).
 
 - `percentage`
 
-    >  (`simple` `int`/`float`)
-    
-    >  percentage, a number from range 0..100.
+  > (`simple` `int`/`float`)
+
+  > percentage, a number from range 0..100.
 
 ### Returns
 
@@ -20919,35 +20480,35 @@ Note that a percentile calculated using this method will NOT always be a member 
 
 ### See also
 
-* [ta.percentile\_nearest\_rank](#fun_ta.percentile_nearest_rank)
+- [ta.percentile_nearest_rank](#fun_ta.percentile_nearest_rank)
 
-## ta.percentile\_nearest\_rank
+## ta.percentile_nearest_rank
 
 Calculates percentile using method of Nearest Rank.
 
 ### Syntax
 
-ta.percentile\_nearest\_rank(source, length, percentage) → series float
+ta.percentile_nearest_rank(source, length, percentage) → series float
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process (source).
+  > (`series` `int`/`float`)
+
+  > series of values to process (source).
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars back (length).
+  > (`series` `int`)
+
+  > Number of bars back (length).
 
 - `percentage`
 
-    >  (`simple` `int`/`float`)
-    
-    >  percentage, a number from range 0..100.
+  > (`simple` `int`/`float`)
+
+  > percentage, a number from range 0..100.
 
 ### Returns
 
@@ -20965,8 +20526,8 @@ the 100th percentile is defined to be the largest value in the input data set.
 
 ### See also
 
-* [ta.percentile\_linear\_interpolation](#fun_ta.percentile_linear_interpolation)
-* [](#)
+- [ta.percentile_linear_interpolation](#fun_ta.percentile_linear_interpolation)
+- [](#)
 
 ## ta.percentrank
 
@@ -20980,15 +20541,15 @@ ta.percentrank(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -20998,36 +20559,35 @@ percent rank of \`source\` for \`length\` bars back.
 
 \`na\` values in the \`source\` series are included in calculations and will produce an \`na\` result.
 
-## ta.pivot\_point\_levels
+## ta.pivot_point_levels
 
 Calculates the pivot point levels using the specified \`type\` and \`anchor\`.
 
 ### Syntax
 
-ta.pivot\_point\_levels(type, anchor, developing) - float\[\]
+ta.pivot_point_levels(type, anchor, developing) - float\[\]
 
 ### Arguments
 
 - `type`
 
-    >  (`series` `string`)
-    
-    >  the type of pivot point levels. possible values: "traditional", "Fibonacci", "Woodie", "Classic", "DM", "Camarilla".
+  > (`series` `string`)
+
+  > the type of pivot point levels. possible values: "traditional", "Fibonacci", "Woodie", "Classic", "DM", "Camarilla".
 
 - `anchor`
 
-    >  (`series` `bool`)
-    
-    >  the condition that triggers the reset of the pivot point calculations. When [true](#op_true), calculations reset; when [false](#op_false), results calculated at the last reset persist.
+  > (`series` `bool`)
+
+  > the condition that triggers the reset of the pivot point calculations. When [true](#op_true), calculations reset; when [false](#op_false), results calculated at the last reset persist.
 
 - `developing`
 
-    >  (`series` `bool`)
-    
-    >  if [false](#op_false), the values are those calculated the last time the anchor condition was [true](#op_true). they remain constant until the anchor condition becomes [true](#op_true) again. if [true](#op_true), the pivots are developing, i.e., they constantly recalculate on the data developing between the point of the last anchor (or bar zero if the anchor condition was never [true](#op_true)) and the current bar. optional. the default is [false](#op_false).
+  > (`series` `bool`)
+
+  > if [false](#op_false), the values are those calculated the last time the anchor condition was [true](#op_true). they remain constant until the anchor condition becomes [true](#op_true) again. if [true](#op_true), the pivots are developing, i.e., they constantly recalculate on the data developing between the point of the last anchor (or bar zero if the anchor condition was never [true](#op_true)) and the current bar. optional. the default is [false](#op_false).
 
 ### Example
-
 
 ```s
 
@@ -21060,25 +20620,23 @@ this function returns price of the pivot high point. it returns 'NaN', if there 
 
 ### syntax & Overloads
 
-> [ta.pivothigh(leftbars, rightbars) → series float](#fun_ta.pivothigh-0)
-> [ta.pivothigh(source, leftbars, rightbars) → series float](#fun_ta.pivothigh-1)
+> [ta.pivothigh(leftbars, rightbars) → series float](#fun_ta.pivothigh-0) > [ta.pivothigh(source, leftbars, rightbars) → series float](#fun_ta.pivothigh-1)
 
 ### Arguments
 
 - `leftbars`
 
-    >  (`series` `int`/`float`)
-    
-    >  Left strength.
+  > (`series` `int`/`float`)
+
+  > Left strength.
 
 - `rightbars`
 
-    >  (`series` `int`/`float`)
-    
-    >  Right strength.
+  > (`series` `int`/`float`)
+
+  > Right strength.
 
 ### Example
-
 
 ```s
 
@@ -21098,7 +20656,7 @@ price of the point or 'NaN'.
 
 ### Remarks
 
-if parameters 'leftbars' or 'rightbars' are series you should use [max\_bars\_back](#fun_max_bars_back) function for the 'source' variable.
+if parameters 'leftbars' or 'rightbars' are series you should use [max_bars_back](#fun_max_bars_back) function for the 'source' variable.
 
 ## ta.pivotlow
 
@@ -21108,25 +20666,23 @@ this function returns price of the pivot low point. it returns 'NaN', if there w
 
 ### syntax & Overloads
 
-> [ta.pivotlow(leftbars, rightbars) → series float](#fun_ta.pivotlow-0)
-> [ta.pivotlow(source, leftbars, rightbars) → series float](#fun_ta.pivotlow-1)
+> [ta.pivotlow(leftbars, rightbars) → series float](#fun_ta.pivotlow-0) > [ta.pivotlow(source, leftbars, rightbars) → series float](#fun_ta.pivotlow-1)
 
 ### Arguments
 
 - `leftbars`
 
-    >  (`series` `int`/`float`)
-    
-    >  Left strength.
+  > (`series` `int`/`float`)
+
+  > Left strength.
 
 - `rightbars`
 
-    >  (`series` `int`/`float`)
-    
-    >  Right strength.
+  > (`series` `int`/`float`)
+
+  > Right strength.
 
 ### Example
-
 
 ```s
 
@@ -21146,7 +20702,7 @@ price of the point or 'NaN'.
 
 ### Remarks
 
-if parameters 'leftbars' or 'rightbars' are series you should use [max\_bars\_back](#fun_max_bars_back) function for the 'source' variable.
+if parameters 'leftbars' or 'rightbars' are series you should use [max_bars_back](#fun_max_bars_back) function for the 'source' variable.
 
 ## ta.range
 
@@ -21156,22 +20712,21 @@ Returns the difference between the min and max values in a series.
 
 ### syntax & Overloads
 
-> [ta.range(source, length) → series int](#fun_ta.range-0)
-> [ta.range(source, length) → series float](#fun_ta.range-1)
+> [ta.range(source, length) → series int](#fun_ta.range-0) > [ta.range(source, length) → series float](#fun_ta.range-1)
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`)
-    
-    >  series of values to process.
+  > (`series` `int`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -21193,15 +20748,15 @@ ta.rising(source, length) → series bool
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -21213,7 +20768,7 @@ true if current \`source\` is greater than any previous \`source\` for \`length\
 
 ### See also
 
-* [ta.falling](#fun_ta.falling)
+- [ta.falling](#fun_ta.falling)
 
 ## ta.rma
 
@@ -21227,18 +20782,17 @@ ta.rma(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -21266,19 +20820,19 @@ Exponential moving average of \`source\` with alpha = 1 / \`length\`.
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.ema](#fun_ta.ema)
-* [ta.wma](#fun_ta.wma)
-* [ta.vwma](#fun_ta.vwma)
-* [ta.swma](#fun_ta.swma)
-* [ta.alma](#fun_ta.alma)
-* [ta.rsi](#fun_ta.rsi)
+- [ta.sma](#fun_ta.sma)
+- [ta.ema](#fun_ta.ema)
+- [ta.wma](#fun_ta.wma)
+- [ta.vwma](#fun_ta.vwma)
+- [ta.swma](#fun_ta.swma)
+- [ta.alma](#fun_ta.alma)
+- [ta.rsi](#fun_ta.rsi)
 
 ## ta.roc
 
 Calculates the percentage of change (rate of change) between the current value of \`source\` and its value \`length\` bars ago.
 
-it is calculated by the formula: 100 * change(src, length) / src\[length\].
+it is calculated by the formula: 100 \* change(src, length) / src\[length\].
 
 ### Syntax
 
@@ -21288,15 +20842,15 @@ ta.roc(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Returns
 
@@ -21318,18 +20872,17 @@ ta.rsi(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`simple` `int`)
-    
-    >  Number of bars (length).
+  > (`simple` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -21360,7 +20913,7 @@ Relative strength index.
 
 ### See also
 
-* [ta.rma](#fun_ta.rma)
+- [ta.rma](#fun_ta.rma)
 
 ## ta.sar
 
@@ -21374,24 +20927,23 @@ ta.sar(start, inc, max) → series float
 
 - `start`
 
-    >  (`simple` `int`/`float`)
-    
-    >  start.
+  > (`simple` `int`/`float`)
+
+  > start.
 
 - `inc`
 
-    >  (`simple` `int`/`float`)
-    
-    >  increment.
+  > (`simple` `int`/`float`)
+
+  > increment.
 
 - `max`
 
-    >  (`simple` `int`/`float`)
-    
-    >  Maximum.
+  > (`simple` `int`/`float`)
+
+  > Maximum.
 
 ### Example
-
 
 ```s
 
@@ -21479,18 +21031,17 @@ ta.sma(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -21519,12 +21070,12 @@ simple moving average of \`source\` for \`length\` bars back.
 
 ### See also
 
-* [ta.ema](#fun_ta.ema)
-* [ta.rma](#fun_ta.rma)
-* [ta.wma](#fun_ta.wma)
-* [ta.vwma](#fun_ta.vwma)
-* [ta.swma](#fun_ta.swma)
-* [ta.alma](#fun_ta.alma)
+- [ta.ema](#fun_ta.ema)
+- [ta.rma](#fun_ta.rma)
+- [ta.wma](#fun_ta.wma)
+- [ta.vwma](#fun_ta.vwma)
+- [ta.swma](#fun_ta.swma)
+- [ta.alma](#fun_ta.alma)
 
 ## ta.stdev
 
@@ -21536,24 +21087,23 @@ ta.stdev(source, length, biased) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 - `biased`
 
-    >  (`series` `bool`)
-    
-    >  Determines which estimate should be used. optional. the default is true.
+  > (`series` `bool`)
+
+  > Determines which estimate should be used. optional. the default is true.
 
 ### Example
-
 
 ```s
 
@@ -21600,12 +21150,12 @@ if \`biased\` is true, function will calculate using a biased estimate of the en
 
 ### See also
 
-* [ta.dev](#fun_ta.dev)
-* [ta.variance](#fun_ta.variance)
+- [ta.dev](#fun_ta.dev)
+- [ta.variance](#fun_ta.variance)
 
 ## ta.stoch
 
-stochastic. it is calculated by a formula: 100 * (close - lowest(low, length)) / (highest(high, length) - lowest(low, length)).
+stochastic. it is calculated by a formula: 100 \* (close - lowest(low, length)) / (highest(high, length) - lowest(low, length)).
 
 ### Syntax
 
@@ -21615,27 +21165,27 @@ ta.stoch(source, high, low, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source series.
+  > (`series` `int`/`float`)
+
+  > source series.
 
 - `high`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of high.
+  > (`series` `int`/`float`)
+
+  > series of high.
 
 - `low`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of low.
+  > (`series` `int`/`float`)
+
+  > series of low.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Length (number of bars back).
+  > (`series` `int`)
+
+  > Length (number of bars back).
 
 ### Returns
 
@@ -21647,7 +21197,7 @@ stochastic.
 
 ### See also
 
-* [ta.cog](#fun_ta.cog)
+- [ta.cog](#fun_ta.cog)
 
 ## ta.supertrend
 
@@ -21661,18 +21211,17 @@ ta.supertrend(factor, atrperiod) - \[series float, series float\]
 
 - `factor`
 
-    >  (`series` `int`/`float`)
-    
-    >  the multiplier by which the atr will get multiplied.
+  > (`series` `int`/`float`)
+
+  > the multiplier by which the atr will get multiplied.
 
 - `atrperiod`
 
-    >  (`simple` `int`)
-    
-    >  Length of atr.
+  > (`simple` `int`)
+
+  > Length of atr.
 
 ### Example
-
 
 ```s
 
@@ -21719,7 +21268,7 @@ plot(pinedirection > 0 ? pine_supertrend : na, "Down direction", color = color.r
 
 ### See also
 
-* [ta.macd](#fun_ta.macd)
+- [ta.macd](#fun_ta.macd)
 
 ## ta.swma
 
@@ -21733,12 +21282,11 @@ ta.swma(source) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source series.
+  > (`series` `int`/`float`)
+
+  > source series.
 
 ### Example
-
 
 ```s
 
@@ -21764,12 +21312,12 @@ symmetrically weighted moving average.
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.ema](#fun_ta.ema)
-* [ta.rma](#fun_ta.rma)
-* [ta.wma](#fun_ta.wma)
-* [ta.vwma](#fun_ta.vwma)
-* [ta.alma](#fun_ta.alma)
+- [ta.sma](#fun_ta.sma)
+- [ta.ema](#fun_ta.ema)
+- [ta.rma](#fun_ta.rma)
+- [ta.wma](#fun_ta.wma)
+- [ta.vwma](#fun_ta.vwma)
+- [ta.alma](#fun_ta.alma)
 
 ## ta.tr
 
@@ -21781,9 +21329,9 @@ ta.tr(handle_na) → series float
 
 - `handle_na`
 
-    >  (`simple` `bool`)
-    
-    >  How NaN values are handled. if true, and previous day's close is NaN then tr would be calculated as current day high-low. Otherwise (if false) tr would return NaN in such cases. also note, that [ta.atr](#fun_ta.atr) uses ta.tr(true).
+  > (`simple` `bool`)
+
+  > How NaN values are handled. if true, and previous day's close is NaN then tr would be calculated as current day high-low. Otherwise (if false) tr would return NaN in such cases. also note, that [ta.atr](#fun_ta.atr) uses ta.tr(true).
 
 ### Returns
 
@@ -21795,8 +21343,8 @@ ta.tr(false) is exactly the same as [ta.tr](#var_ta.tr).
 
 ### See also
 
-* [ta.tr](#var_ta.tr)
-* [ta.atr](#fun_ta.atr)
+- [ta.tr](#var_ta.tr)
+- [ta.atr](#fun_ta.atr)
 
 ## ta.tsi
 
@@ -21804,27 +21352,27 @@ true strength index. it uses moving averages of the underlying momentum of a fin
 
 ### Syntax
 
-ta.tsi(source, short\_length, long\_length) → series float
+ta.tsi(source, short_length, long_length) → series float
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source series.
+  > (`series` `int`/`float`)
+
+  > source series.
 
 - `short_length`
 
-    >  (`simple` `int`)
-    
-    >  short length.
+  > (`simple` `int`)
+
+  > short length.
 
 - `long_length`
 
-    >  (`simple` `int`)
-    
-    >  Long length.
+  > (`simple` `int`)
+
+  > Long length.
 
 ### Returns
 
@@ -21842,33 +21390,29 @@ Returns the value of the \`source\` series on the bar where the \`condition\` wa
 
 ### syntax & Overloads
 
-> [ta.valuewhen(condition, source, occurrence) → series color](#fun_ta.valuewhen-0)
-> [ta.valuewhen(condition, source, occurrence) → series int](#fun_ta.valuewhen-1)
-> [ta.valuewhen(condition, source, occurrence) → series float](#fun_ta.valuewhen-2)
-> [ta.valuewhen(condition, source, occurrence) → series bool](#fun_ta.valuewhen-3)
+> [ta.valuewhen(condition, source, occurrence) → series color](#fun_ta.valuewhen-0) > [ta.valuewhen(condition, source, occurrence) → series int](#fun_ta.valuewhen-1) > [ta.valuewhen(condition, source, occurrence) → series float](#fun_ta.valuewhen-2) > [ta.valuewhen(condition, source, occurrence) → series bool](#fun_ta.valuewhen-3)
 
 ### Arguments
 
 - `condition`
 
-    >  (`series` `bool`)
-    
-    >  the condition to search for.
+  > (`series` `bool`)
+
+  > the condition to search for.
 
 - `source`
 
-    >  (`series` `color`)
-    
-    >  the value to be returned from the bar where the condition is met.
+  > (`series` `color`)
+
+  > the value to be returned from the bar where the condition is met.
 
 - `occurrence`
 
-    >  (`simple` `int`)
-    
-    >  the occurrence of the condition. the numbering starts from 0 and goes back in time, so '0' is the most recent occurrence of \`condition\`, '1' is the second most recent and so forth. Must be an integer >= 0.
+  > (`simple` `int`)
+
+  > the occurrence of the condition. the numbering starts from 0 and goes back in time, so '0' is the most recent occurrence of \`condition\`, '1' is the second most recent and so forth. Must be an integer >= 0.
 
 ### Example
-
 
 ```s
 
@@ -21888,11 +21432,11 @@ this function requires execution on every bar. it is not recommended to use it i
 
 ### See also
 
-* [ta.lowestbars](#fun_ta.lowestbars)
-* [ta.highestbars](#fun_ta.highestbars)
-* [ta.barssince](#fun_ta.barssince)
-* [ta.highest](#fun_ta.highest)
-* [ta.lowest](#fun_ta.lowest)
+- [ta.lowestbars](#fun_ta.lowestbars)
+- [ta.highestbars](#fun_ta.highestbars)
+- [ta.barssince](#fun_ta.barssince)
+- [ta.highest](#fun_ta.highest)
+- [ta.lowest](#fun_ta.lowest)
 
 ## ta.variance
 
@@ -21906,21 +21450,21 @@ ta.variance(source, length, biased) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 - `biased`
 
-    >  (`series` `bool`)
-    
-    >  Determines which estimate should be used. optional. the default is true.
+  > (`series` `bool`)
+
+  > Determines which estimate should be used. optional. the default is true.
 
 ### Returns
 
@@ -21934,8 +21478,8 @@ if \`biased\` is true, function will calculate using a biased estimate of the en
 
 ### See also
 
-* [ta.dev](#fun_ta.dev)
-* [ta.stdev](#fun_ta.stdev)
+- [ta.dev](#fun_ta.dev)
+- [ta.stdev](#fun_ta.stdev)
 
 ## ta.vwap
 
@@ -21945,20 +21489,17 @@ Volume weighted average price.
 
 ### syntax & Overloads
 
-> [ta.vwap(source) → series float](#fun_ta.vwap-0)
-> [ta.vwap(source, anchor) → series float](#fun_ta.vwap-1)
-> [ta.vwap(source, anchor, stdev_mult) - \[series float, series float, series float\]](#fun_ta.vwap-2)
+> [ta.vwap(source) → series float](#fun_ta.vwap-0) > [ta.vwap(source, anchor) → series float](#fun_ta.vwap-1) > [ta.vwap(source, anchor, stdev_mult) - \[series float, series float, series float\]](#fun_ta.vwap-2)
 
 ### Arguments
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  source used for the VWap calculation.
+  > (`series` `int`/`float`)
+
+  > source used for the VWap calculation.
 
 ### Example
-
 
 ```s
 
@@ -21972,7 +21513,6 @@ plot(vwap)
 ```
 
 ### Example
-
 
 ```s
 
@@ -21995,7 +21535,7 @@ plot(lower, color = color.green)
 
 ### Returns
 
-a VWap series, or a tuple \[vwap, upper\_band, lower\_band\] if \`stdev_mult\` is specified.
+a VWap series, or a tuple \[vwap, upper_band, lower_band\] if \`stdev_mult\` is specified.
 
 ### Remarks
 
@@ -22003,11 +21543,11 @@ Calculations only begin the first time the anchor condition becomes [true](#op_t
 
 ### See also
 
-* [ta.vwap](#var_ta.vwap)
+- [ta.vwap](#var_ta.vwap)
 
 ## ta.vwma
 
-the vwma function returns volume-weighted moving average of \`source\` for \`length\` bars back. it is the same as: sma(source * volume, length) / sma(volume, length).
+the vwma function returns volume-weighted moving average of \`source\` for \`length\` bars back. it is the same as: sma(source \* volume, length) / sma(volume, length).
 
 ### Syntax
 
@@ -22017,18 +21557,17 @@ ta.vwma(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -22054,12 +21593,12 @@ Volume-weighted moving average of \`source\` for \`length\` bars back.
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.ema](#fun_ta.ema)
-* [ta.rma](#fun_ta.rma)
-* [ta.wma](#fun_ta.wma)
-* [ta.swma](#fun_ta.swma)
-* [ta.alma](#fun_ta.alma)
+- [ta.sma](#fun_ta.sma)
+- [ta.ema](#fun_ta.ema)
+- [ta.rma](#fun_ta.rma)
+- [ta.wma](#fun_ta.wma)
+- [ta.swma](#fun_ta.swma)
+- [ta.alma](#fun_ta.alma)
 
 ## ta.wma
 
@@ -22073,18 +21612,17 @@ ta.wma(source, length) → series float
 
 - `source`
 
-    >  (`series` `int`/`float`)
-    
-    >  series of values to process.
+  > (`series` `int`/`float`)
+
+  > series of values to process.
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars (length).
+  > (`series` `int`)
+
+  > Number of bars (length).
 
 ### Example
-
 
 ```s
 
@@ -22116,12 +21654,12 @@ Weighted moving average of \`source\` for \`length\` bars back.
 
 ### See also
 
-* [ta.sma](#fun_ta.sma)
-* [ta.ema](#fun_ta.ema)
-* [ta.rma](#fun_ta.rma)
-* [ta.vwma](#fun_ta.vwma)
-* [ta.swma](#fun_ta.swma)
-* [ta.alma](#fun_ta.alma)
+- [ta.sma](#fun_ta.sma)
+- [ta.ema](#fun_ta.ema)
+- [ta.rma](#fun_ta.rma)
+- [ta.vwma](#fun_ta.vwma)
+- [ta.swma](#fun_ta.swma)
+- [ta.alma](#fun_ta.alma)
 
 ## ta.wpr
 
@@ -22135,12 +21673,11 @@ ta.wpr(length) → series float
 
 - `length`
 
-    >  (`series` `int`)
-    
-    >  Number of bars.
+  > (`series` `int`)
+
+  > Number of bars.
 
 ### Example
-
 
 ```s
 
@@ -22163,8 +21700,8 @@ Williams %R.
 
 ### See also
 
-* [ta.mfi](#fun_ta.mfi)
-* [ta.cmo](#fun_ta.cmo)
+- [ta.mfi](#fun_ta.mfi)
+- [ta.cmo](#fun_ta.cmo)
 
 ## table
 
@@ -22178,9 +21715,9 @@ table(x) → series table
 
 - `x`
 
-    >  (`series` `table`)
-    
-    >  the value to convert to the specified type, usually [na](#var_na).
+  > (`series` `table`)
+
+  > the value to convert to the specified type, usually [na](#var_na).
 
 ### Returns
 
@@ -22188,13 +21725,13 @@ the value of the argument after casting to table.
 
 ### See also
 
-* [float](#fun_float)
-* [int](#fun_int)
-* [bool](#fun_bool)
-* [color](#fun_color)
-* [string](#fun_string)
-* [line](#fun_line)
-* [label](#fun_label)
+- [float](#fun_float)
+- [int](#fun_int)
+- [bool](#fun_bool)
+- [color](#fun_color)
+- [string](#fun_string)
+- [line](#fun_line)
+- [label](#fun_label)
 
 ## table.cell
 
@@ -22202,234 +21739,233 @@ the function defines a cell in the table and sets its attributes.
 
 ### Syntax
 
-table.cell(table\_id, column, row, text, width, height, text\_color, text\_halign, text\_valign, text\_size, bgcolor, tooltip, text\_font_family) - void
+table.cell(table_id, column, row, text, width, height, text_color, text_halign, text_valign, text_size, bgcolor, tooltip, text_font_family) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `text`
 
-    >  (`series` `string`)
-    
-    >  the text to be displayed inside the cell. optional. the default is empty string.
+  > (`series` `string`)
+
+  > the text to be displayed inside the cell. optional. the default is empty string.
 
 - `width`
 
-    >  (`series` `int`)
-    
-    >  the width of the cell as a % of the indicator's visual space. optional. by default, auto-adjusts the width based on the text inside the cell. Value 0 has the same effect.
+  > (`series` `int`)
+
+  > the width of the cell as a % of the indicator's visual space. optional. by default, auto-adjusts the width based on the text inside the cell. Value 0 has the same effect.
 
 - `height`
 
-    >  (`series` `int`)
-    
-    >  the height of the cell as a % of the indicator's visual space. optional. by default, auto-adjusts the height based on the text inside of the cell. Value 0 has the same effect.
+  > (`series` `int`)
+
+  > the height of the cell as a % of the indicator's visual space. optional. by default, auto-adjusts the height based on the text inside of the cell. Value 0 has the same effect.
 
 - `text_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the text. optional. the default is [color.black](#var_color.black).
+  > (`series` `color`)
+
+  > the color of the text. optional. the default is [color.black](#var_color.black).
 
 - `text_halign`
 
-    >  (`series` `string`)
-    
-    >  the horizontal alignment of the cell's text. optional. the default value is [text.align_center](#var_text.align_center). possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
+  > (`series` `string`)
+
+  > the horizontal alignment of the cell's text. optional. the default value is [text.align_center](#var_text.align_center). possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
 
 - `text_valign`
 
-    >  (`series` `string`)
-    
-    >  the vertical alignment of the cell's text. optional. the default value is [text.align_center](#var_text.align_center). possible values: [text.align_top](#var_text.align_top), [text.align_center](#var_text.align_center), [text.align_bottom](#var_text.align_bottom).
+  > (`series` `string`)
+
+  > the vertical alignment of the cell's text. optional. the default value is [text.align_center](#var_text.align_center). possible values: [text.align_top](#var_text.align_top), [text.align_center](#var_text.align_center), [text.align_bottom](#var_text.align_bottom).
 
 - `text_size`
 
-    >  (`series` `string`)
-    
-    >  the size of the text. an optional parameter, the default value is [size.normal](#var_size.normal). possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge).
+  > (`series` `string`)
+
+  > the size of the text. an optional parameter, the default value is [size.normal](#var_size.normal). possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge).
 
 - `bgcolor`
 
-    >  (`series` `color`)
-    
-    >  the background color of the text. optional. the default is no color.
+  > (`series` `color`)
+
+  > the background color of the text. optional. the default is no color.
 
 - `tooltip`
 
-    >  (`series` `string`)
-    
-    >  the tooltip to be displayed inside the cell. optional.
+  > (`series` `string`)
+
+  > the tooltip to be displayed inside the cell. optional.
 
 - `text\_font\_family`
 
-    >  (`series` `string`)
-    
-    >  the font family of the text. optional. the default value is [font.family_default](#var_font.family_default). possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
+  > (`series` `string`)
+
+  > the font family of the text. optional. the default value is [font.family_default](#var_font.family_default). possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
 
 ### Remarks
 
 this function does not create the table itself, but defines the table's cells. To use it, you first need to create a table object with [table.new](#fun_table.new).
 
-Each [table.cell](#fun_table.cell) call overwrites all previously defined properties of a cell. if you call [table.cell](#fun_table.cell) twice in a row, e.g., the first time with text='Test Text', and the second time with text_color=[color.red](#var_color.red) but without a new text argument, the default value of the 'text' being an empty string, it will overwrite 'Test Text', and your cell will display an empty string. if you want, instead, to modify any of the cell's properties, use the table.cell\_set\_*() functions.
+Each [table.cell](#fun_table.cell) call overwrites all previously defined properties of a cell. if you call [table.cell](#fun_table.cell) twice in a row, e.g., the first time with text='Test Text', and the second time with text_color=[color.red](#var_color.red) but without a new text argument, the default value of the 'text' being an empty string, it will overwrite 'Test Text', and your cell will display an empty string. if you want, instead, to modify any of the cell's properties, use the table.cell_set\_\*() functions.
 
 a single script can only display one table in each of the possible locations. if [table.cell](#fun_table.cell) is used on several bars to change the same attribute of a cell (e.g. change the background color of the cell to red on the first bar, then to yellow on the second bar), only the last change will be reflected in the table, i.e., the cell's background will be yellow. avoid unnecessary setting of cell properties by enclosing function calls in an [if](#op_if) [barstate.islast](#var_barstate.islast) block whenever possible, to restrict their execution to the last bar of the series.
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_bgcolor
+## table.cell_set_bgcolor
 
 the function sets the background color of the cell.
 
 ### Syntax
 
-table.cell\_set\_bgcolor(table_id, column, row, bgcolor) - void
+table.cell_set_bgcolor(table_id, column, row, bgcolor) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `bgcolor`
 
-    >  (`series` `color`)
-    
-    >  the background color of the cell.
+  > (`series` `color`)
+
+  > the background color of the cell.
 
 ### See also
 
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_height
+## table.cell_set_height
 
 the function sets the height of cell.
 
 ### Syntax
 
-table.cell\_set\_height(table_id, column, row, height) - void
+table.cell_set_height(table_id, column, row, height) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `height`
 
-    >  (`series` `int`)
-    
-    >  the height of the cell as a % of the chart window. passing 0 auto-adjusts the height based on the text inside of the cell.
+  > (`series` `int`)
+
+  > the height of the cell as a % of the chart window. passing 0 auto-adjusts the height based on the text inside of the cell.
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_text
+## table.cell_set_text
 
 the function sets the text in the specified cell.
 
 ### Syntax
 
-table.cell\_set\_text(table_id, column, row, text) - void
+table.cell_set_text(table_id, column, row, text) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `text`
 
-    >  (`series` `string`)
-    
-    >  the text to be displayed inside the cell.
+  > (`series` `string`)
+
+  > the text to be displayed inside the cell.
 
 ### Example
-
 
 ```s
 
@@ -22444,96 +21980,95 @@ table.cell_set_text(tLog, row = 0, column = 0, text = "sometext")
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_text_color
+## table.cell_set_text_color
 
 the function sets the color of the text inside the cell.
 
 ### Syntax
 
-table.cell\_set\_text\_color(table\_id, column, row, text_color) - void
+table.cell_set_text_color(table_id, column, row, text_color) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `text_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the text.
+  > (`series` `color`)
+
+  > the color of the text.
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_text\_font\_family
+## table.cell_set_text_font_family
 
 the function sets the font family of the text inside the cell.
 
 ### Syntax
 
-table.cell\_set\_text\_font\_family(table\_id, column, row, text\_font_family) - void
+table.cell_set_text_font_family(table_id, column, row, text_font_family) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `text\_font\_family`
 
-    >  (`series` `string`)
-    
-    >  the font family of the text. possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
+  > (`series` `string`)
+
+  > the font family of the text. possible values: [font.family_default](#var_font.family_default), [font.family_monospace](#var_font.family_monospace).
 
 ### Example
-
 
 ```s
 
@@ -22548,181 +22083,180 @@ table.cell_set_text_font_family(t, 0, 0, font.family_monospace)
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [font.family_default](#var_font.family_default)
-* [font.family_monospace](#var_font.family_monospace)
+- [table.new](#fun_table.new)
+- [font.family_default](#var_font.family_default)
+- [font.family_monospace](#var_font.family_monospace)
 
-## table.cell\_set\_text_halign
+## table.cell_set_text_halign
 
 the function sets the horizontal alignment of the cell's text.
 
 ### Syntax
 
-table.cell\_set\_text\_halign(table\_id, column, row, text_halign) - void
+table.cell_set_text_halign(table_id, column, row, text_halign) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `text_halign`
 
-    >  (`series` `string`)
-    
-    >  the horizontal alignment of a cell's text. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
+  > (`series` `string`)
+
+  > the horizontal alignment of a cell's text. possible values: [text.align_left](#var_text.align_left), [text.align_center](#var_text.align_center), [text.align_right](#var_text.align_right).
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_text_size
+## table.cell_set_text_size
 
 the function sets the size of the cell's text.
 
 ### Syntax
 
-table.cell\_set\_text\_size(table\_id, column, row, text_size) - void
+table.cell_set_text_size(table_id, column, row, text_size) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `text_size`
 
-    >  (`series` `string`)
-    
-    >  the size of the text. possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge).
+  > (`series` `string`)
+
+  > the size of the text. possible values: [size.auto](#var_size.auto), [size.tiny](#var_size.tiny), [size.small](#var_size.small), [size.normal](#var_size.normal), [size.large](#var_size.large), [size.huge](#var_size.huge).
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_text_valign
+## table.cell_set_text_valign
 
 the function sets the vertical alignment of a cell's text.
 
 ### Syntax
 
-table.cell\_set\_text\_valign(table\_id, column, row, text_valign) - void
+table.cell_set_text_valign(table_id, column, row, text_valign) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `text_valign`
 
-    >  (`series` `string`)
-    
-    >  the vertical alignment of the cell's text. possible values: [text.align_top](#var_text.align_top), [text.align_center](#var_text.align_center), [text.align_bottom](#var_text.align_bottom).
+  > (`series` `string`)
+
+  > the vertical alignment of the cell's text. possible values: [text.align_top](#var_text.align_top), [text.align_center](#var_text.align_center), [text.align_bottom](#var_text.align_bottom).
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
-## table.cell\_set\_tooltip
+## table.cell_set_tooltip
 
 the function sets the tooltip in the specified cell.
 
 ### Syntax
 
-table.cell\_set\_tooltip(table_id, column, row, tooltip) - void
+table.cell_set_tooltip(table_id, column, row, tooltip) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `tooltip`
 
-    >  (`series` `string`)
-    
-    >  the tooltip to be displayed inside the cell.
+  > (`series` `string`)
+
+  > the tooltip to be displayed inside the cell.
 
 ### Example
-
 
 ```s
 
@@ -22737,102 +22271,101 @@ table.cell_set_tooltip(tLog, row = 0, column = 0, tooltip = "sometext")
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_width](#fun_table.cell_set_width)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_width](#fun_table.cell_set_width)
+- [table.cell_set_text](#fun_table.cell_set_text)
 
-## table.cell\_set\_width
+## table.cell_set_width
 
 the function sets the width of the cell.
 
 ### Syntax
 
-table.cell\_set\_width(table_id, column, row, width) - void
+table.cell_set_width(table_id, column, row, width) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `column`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's column. Numbering starts at 0.
 
 - `row`
 
-    >  (`series` `int`)
-    
-    >  the index of the cell's row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the cell's row. Numbering starts at 0.
 
 - `width`
 
-    >  (`series` `int`)
-    
-    >  the width of the cell as a % of the chart window. passing 0 auto-adjusts the width based on the text inside of the cell.
+  > (`series` `int`)
+
+  > the width of the cell as a % of the chart window. passing 0 auto-adjusts the width based on the text inside of the cell.
 
 ### See also
 
-* [table.cell\_set\_bgcolor](#fun_table.cell_set_bgcolor)
-* [table.cell\_set\_height](#fun_table.cell_set_height)
-* [table.cell\_set\_text](#fun_table.cell_set_text)
-* [table.cell\_set\_text_color](#fun_table.cell_set_text_color)
-* [table.cell\_set\_text_halign](#fun_table.cell_set_text_halign)
-* [table.cell\_set\_text_size](#fun_table.cell_set_text_size)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [table.cell\_set\_tooltip](#fun_table.cell_set_tooltip)
+- [table.cell_set_bgcolor](#fun_table.cell_set_bgcolor)
+- [table.cell_set_height](#fun_table.cell_set_height)
+- [table.cell_set_text](#fun_table.cell_set_text)
+- [table.cell_set_text_color](#fun_table.cell_set_text_color)
+- [table.cell_set_text_halign](#fun_table.cell_set_text_halign)
+- [table.cell_set_text_size](#fun_table.cell_set_text_size)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [table.cell_set_tooltip](#fun_table.cell_set_tooltip)
 
 ## table.clear
 
-the function removes a cell or a sequence of cells from the table. the cells are removed in a rectangle shape where the start\_column and start\_row specify the top-left corner, and end\_column and end\_row specify the bottom-right corner.
+the function removes a cell or a sequence of cells from the table. the cells are removed in a rectangle shape where the start_column and start_row specify the top-left corner, and end_column and end_row specify the bottom-right corner.
 
 ### Syntax
 
-table.clear(table\_id, start\_column, start\_row, end\_column, end_row) - void
+table.clear(table_id, start_column, start_row, end_column, end_row) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `start_column`
 
-    >  (`series` `int`)
-    
-    >  the index of the column of the first cell to delete. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the column of the first cell to delete. Numbering starts at 0.
 
 - `start_row`
 
-    >  (`series` `int`)
-    
-    >  the index of the row of the first cell to delete. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the row of the first cell to delete. Numbering starts at 0.
 
 - `end_column`
 
-    >  (`series` `int`)
-    
-    >  the index of the column of the last cell to delete. optional. the default is the argument used for start_column. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the column of the last cell to delete. optional. the default is the argument used for start_column. Numbering starts at 0.
 
 - `end_row`
 
-    >  (`series` `int`)
-    
-    >  the index of the row of the last cell to delete. optional. the default is the argument used for start_row. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the row of the last cell to delete. optional. the default is the argument used for start_row. Numbering starts at 0.
 
 ### Example
-
 
 ```s
 
@@ -22850,12 +22383,12 @@ if barstate.islast
 
 ```
 
-#face6e, text_color=color.new(color.black, 100))    table.clear(donuttable, 2, 2, 5, 5)
+#face6e, text_color=color.new(color.black, 100)) table.clear(donuttable, 2, 2, 5, 5)
 
 ### See also
 
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
 
 ## table.delete
 
@@ -22869,12 +22402,11 @@ table.delete(table_id) - void
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 ### Example
-
 
 ```s
 
@@ -22892,51 +22424,50 @@ if barstate.isrealtime
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.clear](#fun_table.clear)
+- [table.new](#fun_table.new)
+- [table.clear](#fun_table.clear)
 
 ## table.merge_cells
 
-the function merges a sequence of cells in the table into one cell. the cells are merged in a rectangle shape where the start\_column and start\_row specify the top-left corner, and end\_column and end\_row specify the bottom-right corner.
+the function merges a sequence of cells in the table into one cell. the cells are merged in a rectangle shape where the start_column and start_row specify the top-left corner, and end_column and end_row specify the bottom-right corner.
 
 ### Syntax
 
-table.merge\_cells(table\_id, start\_column, start\_row, end\_column, end\_row) - void
+table.merge_cells(table_id, start_column, start_row, end_column, end_row) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `start_column`
 
-    >  (`series` `int`)
-    
-    >  the index of the column of the first cell to merge. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the column of the first cell to merge. Numbering starts at 0.
 
 - `start_row`
 
-    >  (`series` `int`)
-    
-    >  the index of the row of the first cell to merge. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the row of the first cell to merge. Numbering starts at 0.
 
 - `end_column`
 
-    >  (`series` `int`)
-    
-    >  the index of the column of the last cell to merge. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the column of the last cell to merge. Numbering starts at 0.
 
 - `end_row`
 
-    >  (`series` `int`)
-    
-    >  the index of the row of the last cell to merge. Numbering starts at 0.
+  > (`series` `int`)
+
+  > the index of the row of the last cell to merge. Numbering starts at 0.
 
 ### Example
-
 
 ```s
 
@@ -22966,16 +22497,16 @@ if barstate.islast
 
 this function will merge cells, even if their properties are not yet defined with [table.cell](#fun_table.cell).
 
-the resulting merged cell inherits all of its values from the cell located at \`start\_column\`:\`start\_row\`, except width and height. the width and height of the resulting merged cell are based on the width/height of other cells in the neighboring columns/rows and cannot be set manually.
+the resulting merged cell inherits all of its values from the cell located at \`start_column\`:\`start_row\`, except width and height. the width and height of the resulting merged cell are based on the width/height of other cells in the neighboring columns/rows and cannot be set manually.
 
-To modify the merged cell with any of the \`table.cell\_set\_*\` functions, target the cell at the \`start\_column\`:\`start\_row\` coordinates.
+To modify the merged cell with any of the \`table.cell_set\_\*\` functions, target the cell at the \`start_column\`:\`start_row\` coordinates.
 
 an attempt to merge a cell that has already been merged will result in an error.
 
 ### See also
 
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
 
 ## table.new
 
@@ -22983,60 +22514,59 @@ the function creates a new table.
 
 ### Syntax
 
-table.new(position, columns, rows, bgcolor, frame\_color, frame\_width, border\_color, border\_width) → series table
+table.new(position, columns, rows, bgcolor, frame_color, frame_width, border_color, border_width) → series table
 
 ### Arguments
 
 - `position`
 
-    >  (`series` `string`)
-    
-    >  position of the table. possible values are: [position.top_left](#var_position.top_left), [position.top_center](#var_position.top_center), [position.top_right](#var_position.top_right), [position.middle_left](#var_position.middle_left), [position.middle_center](#var_position.middle_center), [position.middle_right](#var_position.middle_right), [position.bottom_left](#var_position.bottom_left), [position.bottom_center](#var_position.bottom_center), [position.bottom_right](#var_position.bottom_right).
+  > (`series` `string`)
+
+  > position of the table. possible values are: [position.top_left](#var_position.top_left), [position.top_center](#var_position.top_center), [position.top_right](#var_position.top_right), [position.middle_left](#var_position.middle_left), [position.middle_center](#var_position.middle_center), [position.middle_right](#var_position.middle_right), [position.bottom_left](#var_position.bottom_left), [position.bottom_center](#var_position.bottom_center), [position.bottom_right](#var_position.bottom_right).
 
 - `columns`
 
-    >  (`series` `int`)
-    
-    >  the number of columns in the table.
+  > (`series` `int`)
+
+  > the number of columns in the table.
 
 - `rows`
 
-    >  (`series` `int`)
-    
-    >  the number of rows in the table.
+  > (`series` `int`)
+
+  > the number of rows in the table.
 
 - `bgcolor`
 
-    >  (`series` `color`)
-    
-    >  the background color of the table. optional. the default is no color.
+  > (`series` `color`)
+
+  > the background color of the table. optional. the default is no color.
 
 - `frame_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the outer frame of the table. optional. the default is no color.
+  > (`series` `color`)
+
+  > the color of the outer frame of the table. optional. the default is no color.
 
 - `frame_width`
 
-    >  (`series` `int`)
-    
-    >  the width of the outer frame of the table. optional. the default is 0.
+  > (`series` `int`)
+
+  > the width of the outer frame of the table. optional. the default is 0.
 
 - `border_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the borders of the cells (excluding the outer frame). optional. the default is no color.
+  > (`series` `color`)
+
+  > the color of the borders of the cells (excluding the outer frame). optional. the default is no color.
 
 - `border_width`
 
-    >  (`series` `int`)
-    
-    >  the width of the borders of the cells (excluding the outer frame). optional. the default is 0.
+  > (`series` `int`)
+
+  > the width of the borders of the cells (excluding the outer frame). optional. the default is 0.
 
 ### Example
-
 
 ```s
 
@@ -23052,25 +22582,25 @@ if barstate.islast
 
 ### Returns
 
-the iD of a table object that can be passed to other table.*() functions.
+the iD of a table object that can be passed to other table.\*() functions.
 
 ### Remarks
 
-this function creates the table object itself, but the table will not be displayed until its cells are populated. To define a cell and change its contents or attributes, use [table.cell](#fun_table.cell) and other table.cell_*() functions.
+this function creates the table object itself, but the table will not be displayed until its cells are populated. To define a cell and change its contents or attributes, use [table.cell](#fun_table.cell) and other table.cell\_\*() functions.
 
 One [table.new](#fun_table.new) call can only display one table (the last one drawn), but the function itself will be recalculated on each bar it is used on. For performance reasons, it is wise to use [table.new](#fun_table.new) in conjunction with either the [var](#op_var) keyword (so the table object is only created on the first bar) or in an [if](#op_if) [barstate.islast](#var_barstate.islast) block (so the table object is only created on the last bar).
 
 ### See also
 
-* [table.cell](#fun_table.cell)
-* [table.clear](#fun_table.clear)
-* [table.delete](#fun_table.delete)
-* [table.set_bgcolor](#fun_table.set_bgcolor)
-* [table.set\_border\_color](#fun_table.set_border_color)
-* [table.set\_border\_width](#fun_table.set_border_width)
-* [table.set\_frame\_color](#fun_table.set_frame_color)
-* [table.set\_frame\_width](#fun_table.set_frame_width)
-* [table.set_position](#fun_table.set_position)
+- [table.cell](#fun_table.cell)
+- [table.clear](#fun_table.clear)
+- [table.delete](#fun_table.delete)
+- [table.set_bgcolor](#fun_table.set_bgcolor)
+- [table.set_border_color](#fun_table.set_border_color)
+- [table.set_border_width](#fun_table.set_border_width)
+- [table.set_frame_color](#fun_table.set_frame_color)
+- [table.set_frame_width](#fun_table.set_frame_width)
+- [table.set_position](#fun_table.set_position)
 
 ## table.set_bgcolor
 
@@ -23078,164 +22608,164 @@ the function sets the background color of a table.
 
 ### Syntax
 
-table.set\_bgcolor(table\_id, bgcolor) - void
+table.set_bgcolor(table_id, bgcolor) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `bgcolor`
 
-    >  (`series` `color`)
-    
-    >  the background color of the table. optional. the default is no color.
+  > (`series` `color`)
+
+  > the background color of the table. optional. the default is no color.
 
 ### See also
 
-* [table.clear](#fun_table.clear)
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
-* [table.set\_border\_color](#fun_table.set_border_color)
-* [table.set\_border\_width](#fun_table.set_border_width)
-* [table.set\_frame\_color](#fun_table.set_frame_color)
-* [table.set\_frame\_width](#fun_table.set_frame_width)
-* [table.set_position](#fun_table.set_position)
+- [table.clear](#fun_table.clear)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
+- [table.set_border_color](#fun_table.set_border_color)
+- [table.set_border_width](#fun_table.set_border_width)
+- [table.set_frame_color](#fun_table.set_frame_color)
+- [table.set_frame_width](#fun_table.set_frame_width)
+- [table.set_position](#fun_table.set_position)
 
-## table.set\_border\_color
+## table.set_border_color
 
 the function sets the color of the borders (excluding the outer frame) of the table's cells.
 
 ### Syntax
 
-table.set\_border\_color(table\_id, border\_color) - void
+table.set_border_color(table_id, border_color) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `border_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the borders. optional. the default is no color.
+  > (`series` `color`)
+
+  > the color of the borders. optional. the default is no color.
 
 ### See also
 
-* [table.clear](#fun_table.clear)
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
-* [table.set\_frame\_color](#fun_table.set_frame_color)
-* [table.set\_border\_width](#fun_table.set_border_width)
-* [table.set_bgcolor](#fun_table.set_bgcolor)
-* [table.set\_frame\_width](#fun_table.set_frame_width)
-* [table.set_position](#fun_table.set_position)
+- [table.clear](#fun_table.clear)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
+- [table.set_frame_color](#fun_table.set_frame_color)
+- [table.set_border_width](#fun_table.set_border_width)
+- [table.set_bgcolor](#fun_table.set_bgcolor)
+- [table.set_frame_width](#fun_table.set_frame_width)
+- [table.set_position](#fun_table.set_position)
 
-## table.set\_border\_width
+## table.set_border_width
 
 the function sets the width of the borders (excluding the outer frame) of the table's cells.
 
 ### Syntax
 
-table.set\_border\_width(table\_id, border\_width) - void
+table.set_border_width(table_id, border_width) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `border_width`
 
-    >  (`series` `int`)
-    
-    >  the width of the borders. optional. the default is 0.
+  > (`series` `int`)
+
+  > the width of the borders. optional. the default is 0.
 
 ### See also
 
-* [table.clear](#fun_table.clear)
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
-* [table.set\_frame\_color](#fun_table.set_frame_color)
-* [table.set\_frame\_width](#fun_table.set_frame_width)
-* [table.set_bgcolor](#fun_table.set_bgcolor)
-* [table.set\_border\_color](#fun_table.set_border_color)
-* [table.set_position](#fun_table.set_position)
+- [table.clear](#fun_table.clear)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
+- [table.set_frame_color](#fun_table.set_frame_color)
+- [table.set_frame_width](#fun_table.set_frame_width)
+- [table.set_bgcolor](#fun_table.set_bgcolor)
+- [table.set_border_color](#fun_table.set_border_color)
+- [table.set_position](#fun_table.set_position)
 
-## table.set\_frame\_color
+## table.set_frame_color
 
 the function sets the color of the outer frame of a table.
 
 ### Syntax
 
-table.set\_frame\_color(table\_id, frame\_color) - void
+table.set_frame_color(table_id, frame_color) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `frame_color`
 
-    >  (`series` `color`)
-    
-    >  the color of the frame of the table. optional. the default is no color.
+  > (`series` `color`)
+
+  > the color of the frame of the table. optional. the default is no color.
 
 ### See also
 
-* [table.clear](#fun_table.clear)
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
-* [table.set\_border\_color](#fun_table.set_border_color)
-* [table.set\_border\_width](#fun_table.set_border_width)
-* [table.set_bgcolor](#fun_table.set_bgcolor)
-* [table.set\_frame\_width](#fun_table.set_frame_width)
-* [table.set_position](#fun_table.set_position)
+- [table.clear](#fun_table.clear)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
+- [table.set_border_color](#fun_table.set_border_color)
+- [table.set_border_width](#fun_table.set_border_width)
+- [table.set_bgcolor](#fun_table.set_bgcolor)
+- [table.set_frame_width](#fun_table.set_frame_width)
+- [table.set_position](#fun_table.set_position)
 
-## table.set\_frame\_width
+## table.set_frame_width
 
 the function set the width of the outer frame of a table.
 
 ### Syntax
 
-table.set\_frame\_width(table\_id, frame\_width) - void
+table.set_frame_width(table_id, frame_width) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `frame_width`
 
-    >  (`series` `int`)
-    
-    >  the width of the outer frame of the table. optional. the default is 0.
+  > (`series` `int`)
+
+  > the width of the outer frame of the table. optional. the default is 0.
 
 ### See also
 
-* [table.clear](#fun_table.clear)
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
-* [table.set\_frame\_color](#fun_table.set_frame_color)
-* [table.set\_border\_width](#fun_table.set_border_width)
-* [table.set_bgcolor](#fun_table.set_bgcolor)
-* [table.set\_border\_color](#fun_table.set_border_color)
-* [table.set_position](#fun_table.set_position)
+- [table.clear](#fun_table.clear)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
+- [table.set_frame_color](#fun_table.set_frame_color)
+- [table.set_border_width](#fun_table.set_border_width)
+- [table.set_bgcolor](#fun_table.set_bgcolor)
+- [table.set_border_color](#fun_table.set_border_color)
+- [table.set_position](#fun_table.set_position)
 
 ## table.set_position
 
@@ -23243,32 +22773,32 @@ the function sets the position of a table.
 
 ### Syntax
 
-table.set\_position(table\_id, position) - void
+table.set_position(table_id, position) - void
 
 ### Arguments
 
 - `table_id`
 
-    >  (`series` `table`)
-    
-    >  a table object.
+  > (`series` `table`)
+
+  > a table object.
 
 - `position`
 
-    >  (`series` `string`)
-    
-    >  position of the table. possible values are: [position.top_left](#var_position.top_left), [position.top_center](#var_position.top_center), [position.top_right](#var_position.top_right), [position.middle_left](#var_position.middle_left), [position.middle_center](#var_position.middle_center), [position.middle_right](#var_position.middle_right), [position.bottom_left](#var_position.bottom_left), [position.bottom_center](#var_position.bottom_center), [position.bottom_right](#var_position.bottom_right).
+  > (`series` `string`)
+
+  > position of the table. possible values are: [position.top_left](#var_position.top_left), [position.top_center](#var_position.top_center), [position.top_right](#var_position.top_right), [position.middle_left](#var_position.middle_left), [position.middle_center](#var_position.middle_center), [position.middle_right](#var_position.middle_right), [position.bottom_left](#var_position.bottom_left), [position.bottom_center](#var_position.bottom_center), [position.bottom_right](#var_position.bottom_right).
 
 ### See also
 
-* [table.clear](#fun_table.clear)
-* [table.delete](#fun_table.delete)
-* [table.new](#fun_table.new)
-* [table.set_bgcolor](#fun_table.set_bgcolor)
-* [table.set\_border\_color](#fun_table.set_border_color)
-* [table.set\_border\_width](#fun_table.set_border_width)
-* [table.set\_frame\_color](#fun_table.set_frame_color)
-* [table.set\_frame\_width](#fun_table.set_frame_width)
+- [table.clear](#fun_table.clear)
+- [table.delete](#fun_table.delete)
+- [table.new](#fun_table.new)
+- [table.set_bgcolor](#fun_table.set_bgcolor)
+- [table.set_border_color](#fun_table.set_border_color)
+- [table.set_border_width](#fun_table.set_border_width)
+- [table.set_frame_color](#fun_table.set_frame_color)
+- [table.set_frame_width](#fun_table.set_frame_width)
 
 ## ticker.heikinashi
 
@@ -23282,12 +22812,11 @@ ticker.heikinashi(symbol) → simple string
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol ticker identifier.
+  > (`simple` `string`)
+
+  > symbol ticker identifier.
 
 ### Example
-
 
 ```s
 
@@ -23308,13 +22837,13 @@ string value of ticker id, that can be supplied to [request.security](#fun_reque
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [request.security](#fun_request.security)
-* [ticker.renko](#fun_ticker.renko)
-* [ticker.linebreak](#fun_ticker.linebreak)
-* [ticker.kagi](#fun_ticker.kagi)
-* [ticker.pointfigure](#fun_ticker.pointfigure)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [request.security](#fun_request.security)
+- [ticker.renko](#fun_ticker.renko)
+- [ticker.linebreak](#fun_ticker.linebreak)
+- [ticker.kagi](#fun_ticker.kagi)
+- [ticker.pointfigure](#fun_ticker.pointfigure)
 
 ## ticker.inherit
 
@@ -23328,18 +22857,17 @@ ticker.inherit(from_tickerid, symbol) → simple string
 
 - `from_tickerid`
 
-    >  (`simple` `string`)
-    
-    >  the ticker iD to inherit modifiers from.
+  > (`simple` `string`)
+
+  > the ticker iD to inherit modifiers from.
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  the symbol to construct the new ticker iD for.
+  > (`simple` `string`)
+
+  > the symbol to construct the new ticker iD for.
 
 ### Example
-
 
 ```s
 
@@ -23382,18 +22910,17 @@ ticker.kagi(symbol, reversal) → simple string
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol ticker identifier.
+  > (`simple` `string`)
+
+  > symbol ticker identifier.
 
 - `reversal`
 
-    >  (`simple` `int`/`float`)
-    
-    >  Reversal amount (absolute price value).
+  > (`simple` `int`/`float`)
+
+  > Reversal amount (absolute price value).
 
 ### Example
-
 
 ```s
 
@@ -23412,13 +22939,13 @@ string value of ticker id, that can be supplied to [request.security](#fun_reque
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [request.security](#fun_request.security)
-* [ticker.heikinashi](#fun_ticker.heikinashi)
-* [ticker.renko](#fun_ticker.renko)
-* [ticker.linebreak](#fun_ticker.linebreak)
-* [ticker.pointfigure](#fun_ticker.pointfigure)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [request.security](#fun_request.security)
+- [ticker.heikinashi](#fun_ticker.heikinashi)
+- [ticker.renko](#fun_ticker.renko)
+- [ticker.linebreak](#fun_ticker.linebreak)
+- [ticker.pointfigure](#fun_ticker.pointfigure)
 
 ## ticker.linebreak
 
@@ -23426,24 +22953,23 @@ Creates a ticker identifier for requesting line break values.
 
 ### Syntax
 
-ticker.linebreak(symbol, number\_of\_lines) → simple string
+ticker.linebreak(symbol, number_of_lines) → simple string
 
 ### Arguments
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol ticker identifier.
+  > (`simple` `string`)
+
+  > symbol ticker identifier.
 
 - `number\_of\_lines`
 
-    >  (`simple` `int`)
-    
-    >  Number of line.
+  > (`simple` `int`)
+
+  > Number of line.
 
 ### Example
-
 
 ```s
 
@@ -23462,13 +22988,13 @@ string value of ticker id, that can be supplied to [request.security](#fun_reque
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [request.security](#fun_request.security)
-* [ticker.heikinashi](#fun_ticker.heikinashi)
-* [ticker.renko](#fun_ticker.renko)
-* [ticker.kagi](#fun_ticker.kagi)
-* [ticker.pointfigure](#fun_ticker.pointfigure)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [request.security](#fun_request.security)
+- [ticker.heikinashi](#fun_ticker.heikinashi)
+- [ticker.renko](#fun_ticker.renko)
+- [ticker.kagi](#fun_ticker.kagi)
+- [ticker.pointfigure](#fun_ticker.pointfigure)
 
 ## ticker.modify
 
@@ -23482,24 +23008,23 @@ ticker.modify(tickerid, session, adjustment) → simple string
 
 - `tickerid`
 
-    >  (`simple` `string`)
-    
-    >  symbol name with exchange prefix, e.g. 'baTs:MsFT', 'NasDaq:MsFT' or tickerid with session and adjustment from the [ticker.new](#fun_ticker.new) function.
+  > (`simple` `string`)
+
+  > symbol name with exchange prefix, e.g. 'baTs:MsFT', 'NasDaq:MsFT' or tickerid with session and adjustment from the [ticker.new](#fun_ticker.new) function.
 
 - `session`
 
-    >  (`simple` `string`)
-    
-    >  session type. optional argument. possible values: [session.regular](#var_session.regular), [session.extended](#var_session.extended). session type of the current chart is [syminfo.session](#var_syminfo.session). if session is not given, then [syminfo.session](#var_syminfo.session) value is used.
+  > (`simple` `string`)
+
+  > session type. optional argument. possible values: [session.regular](#var_session.regular), [session.extended](#var_session.extended). session type of the current chart is [syminfo.session](#var_syminfo.session). if session is not given, then [syminfo.session](#var_syminfo.session) value is used.
 
 - `adjustment`
 
-    >  (`simple` `string`)
-    
-    >  adjustment type. optional argument. possible values: [adjustment.none](#var_adjustment.none), [adjustment.splits](#var_adjustment.splits), [adjustment.dividends](#var_adjustment.dividends). if adjustment is not given, then default adjustment value is used (can be different depending on particular instrument).
+  > (`simple` `string`)
+
+  > adjustment type. optional argument. possible values: [adjustment.none](#var_adjustment.none), [adjustment.splits](#var_adjustment.splits), [adjustment.dividends](#var_adjustment.dividends). if adjustment is not given, then default adjustment value is used (can be different depending on particular instrument).
 
 ### Example
-
 
 ```s
 
@@ -23521,15 +23046,15 @@ string value of ticker id, that can be supplied to [request.security](#fun_reque
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.session](#var_syminfo.session)
-* [session.extended](#var_session.extended)
-* [session.regular](#var_session.regular)
-* [ticker.heikinashi](#fun_ticker.heikinashi)
-* [adjustment.none](#var_adjustment.none)
-* [adjustment.splits](#var_adjustment.splits)
-* [adjustment.dividends](#var_adjustment.dividends)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.session](#var_syminfo.session)
+- [session.extended](#var_session.extended)
+- [session.regular](#var_session.regular)
+- [ticker.heikinashi](#fun_ticker.heikinashi)
+- [adjustment.none](#var_adjustment.none)
+- [adjustment.splits](#var_adjustment.splits)
+- [adjustment.dividends](#var_adjustment.dividends)
 
 ## ticker.new
 
@@ -23543,30 +23068,29 @@ ticker.new(prefix, ticker, session, adjustment) → simple string
 
 - `prefix`
 
-    >  (`simple` `string`)
-    
-    >  Exchange prefix. For example: 'baTs', 'NYsE', 'NasDaq'. Exchange prefix of main series is [syminfo.prefix](#var_syminfo.prefix).
+  > (`simple` `string`)
+
+  > Exchange prefix. For example: 'baTs', 'NYsE', 'NasDaq'. Exchange prefix of main series is [syminfo.prefix](#var_syminfo.prefix).
 
 - `ticker`
 
-    >  (`simple` `string`)
-    
-    >  Ticker name. For example 'aapL', 'MsFT', 'EuRusD'. Ticker name of the main series is [syminfo.ticker](#var_syminfo.ticker).
+  > (`simple` `string`)
+
+  > Ticker name. For example 'aapL', 'MsFT', 'EuRusD'. Ticker name of the main series is [syminfo.ticker](#var_syminfo.ticker).
 
 - `session`
 
-    >  (`simple` `string`)
-    
-    >  session type. optional argument. possible values: [session.regular](#var_session.regular), [session.extended](#var_session.extended). session type of the current chart is [syminfo.session](#var_syminfo.session). if session is not given, then [syminfo.session](#var_syminfo.session) value is used.
+  > (`simple` `string`)
+
+  > session type. optional argument. possible values: [session.regular](#var_session.regular), [session.extended](#var_session.extended). session type of the current chart is [syminfo.session](#var_syminfo.session). if session is not given, then [syminfo.session](#var_syminfo.session) value is used.
 
 - `adjustment`
 
-    >  (`simple` `string`)
-    
-    >  adjustment type. optional argument. possible values: [adjustment.none](#var_adjustment.none), [adjustment.splits](#var_adjustment.splits), [adjustment.dividends](#var_adjustment.dividends). if adjustment is not given, then default adjustment value is used (can be different depending on particular instrument).
+  > (`simple` `string`)
+
+  > adjustment type. optional argument. possible values: [adjustment.none](#var_adjustment.none), [adjustment.splits](#var_adjustment.splits), [adjustment.dividends](#var_adjustment.dividends). if adjustment is not given, then default adjustment value is used (can be different depending on particular instrument).
 
 ### Example
-
 
 ```s
 
@@ -23590,15 +23114,15 @@ You may use return value of [ticker.new](#fun_ticker.new) function as input argu
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [syminfo.session](#var_syminfo.session)
-* [session.extended](#var_session.extended)
-* [session.regular](#var_session.regular)
-* [ticker.heikinashi](#fun_ticker.heikinashi)
-* [adjustment.none](#var_adjustment.none)
-* [adjustment.splits](#var_adjustment.splits)
-* [adjustment.dividends](#var_adjustment.dividends)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [syminfo.session](#var_syminfo.session)
+- [session.extended](#var_session.extended)
+- [session.regular](#var_session.regular)
+- [ticker.heikinashi](#fun_ticker.heikinashi)
+- [adjustment.none](#var_adjustment.none)
+- [adjustment.splits](#var_adjustment.splits)
+- [adjustment.dividends](#var_adjustment.dividends)
 
 ## ticker.pointfigure
 
@@ -23612,36 +23136,35 @@ ticker.pointfigure(symbol, source, style, param, reversal) → simple string
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol ticker identifier.
+  > (`simple` `string`)
+
+  > symbol ticker identifier.
 
 - `source`
 
-    >  (`simple` `string`)
-    
-    >  the source for calculating point & figure. possible values are: 'hl', 'close'.
+  > (`simple` `string`)
+
+  > the source for calculating point & figure. possible values are: 'hl', 'close'.
 
 - `style`
 
-    >  (`simple` `string`)
-    
-    >  box size assignment Method: 'atr', 'traditional'.
+  > (`simple` `string`)
+
+  > box size assignment Method: 'atr', 'traditional'.
 
 - `param`
 
-    >  (`simple` `int`/`float`)
-    
-    >  atr Length if \`style\` is equal to 'atr', or box size if \`style\` is equal to 'traditional'.
+  > (`simple` `int`/`float`)
+
+  > atr Length if \`style\` is equal to 'atr', or box size if \`style\` is equal to 'traditional'.
 
 - `reversal`
 
-    >  (`simple` `int`)
-    
-    >  Reversal amount.
+  > (`simple` `int`)
+
+  > Reversal amount.
 
 ### Example
-
 
 ```s
 
@@ -23660,13 +23183,13 @@ string value of ticker id, that can be supplied to [request.security](#fun_reque
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [request.security](#fun_request.security)
-* [ticker.heikinashi](#fun_ticker.heikinashi)
-* [ticker.renko](#fun_ticker.renko)
-* [ticker.linebreak](#fun_ticker.linebreak)
-* [ticker.kagi](#fun_ticker.kagi)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [request.security](#fun_request.security)
+- [ticker.heikinashi](#fun_ticker.heikinashi)
+- [ticker.renko](#fun_ticker.renko)
+- [ticker.linebreak](#fun_ticker.linebreak)
+- [ticker.kagi](#fun_ticker.kagi)
 
 ## ticker.renko
 
@@ -23680,36 +23203,35 @@ ticker.renko(symbol, style, param, request_wicks, source) → simple string
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  symbol ticker identifier.
+  > (`simple` `string`)
+
+  > symbol ticker identifier.
 
 - `style`
 
-    >  (`simple` `string`)
-    
-    >  box size assignment Method: 'atr', 'traditional'.
+  > (`simple` `string`)
+
+  > box size assignment Method: 'atr', 'traditional'.
 
 - `param`
 
-    >  (`simple` `int`/`float`)
-    
-    >  atr Length if \`style\` is equal to 'atr', or box size if \`style\` is equal to 'traditional'.
+  > (`simple` `int`/`float`)
+
+  > atr Length if \`style\` is equal to 'atr', or box size if \`style\` is equal to 'traditional'.
 
 - `request_wicks`
 
-    >  (`simple` `bool`)
-    
-    >  specifies if wick values are returned for Renko bricks. When " + addinternallineNottr("op", "true", "true") + ", " + addinternallineNottr("var", "high", "high") + " and " + addinternallineNottr("var", "low", "low") + " values requested from a symbol using the ticker formed by this function will include wick values when they are present. When " + addinternallineNottr("op", "false", "false") + ", " + addinternallineNottr("var", "high", "high") + " and " + addinternallineNottr("var", "low", "low") + " will always be equal to either " + addinternallineNottr("var", "open", "open") + " or " + addinternallineNottr("var", "close", "close") + ". optional. the default is " + addinternallineNottr("op", "false", "false") + ". a detailed explanation of how Renko wicks are calculated can be found in our [Help center](https://www.tradingview.com/support/solutions/43000481040-what-do-renko-wicks-mean/).
+  > (`simple` `bool`)
+
+  > specifies if wick values are returned for Renko bricks. When " + addinternallineNottr("op", "true", "true") + ", " + addinternallineNottr("var", "high", "high") + " and " + addinternallineNottr("var", "low", "low") + " values requested from a symbol using the ticker formed by this function will include wick values when they are present. When " + addinternallineNottr("op", "false", "false") + ", " + addinternallineNottr("var", "high", "high") + " and " + addinternallineNottr("var", "low", "low") + " will always be equal to either " + addinternallineNottr("var", "open", "open") + " or " + addinternallineNottr("var", "close", "close") + ". optional. the default is " + addinternallineNottr("op", "false", "false") + ". a detailed explanation of how Renko wicks are calculated can be found in our [Help center](https://www.tradingview.com/support/solutions/43000481040-what-do-renko-wicks-mean/).
 
 - `source`
 
-    >  (`simple` `string`)
-    
-    >  the source used to calculate bricks. optional. possible values: "Close", "OHLC". the default is "Close".
+  > (`simple` `string`)
+
+  > the source used to calculate bricks. optional. possible values: "Close", "OHLC". the default is "Close".
 
 ### Example
-
 
 ```s
 
@@ -23724,7 +23246,6 @@ plot(renko_close)
 ```
 
 ### Example
-
 
 ```s
 
@@ -23743,13 +23264,13 @@ string value of ticker id, that can be supplied to [request.security](#fun_reque
 
 ### See also
 
-* [syminfo.tickerid](#var_syminfo.tickerid)
-* [syminfo.ticker](#var_syminfo.ticker)
-* [request.security](#fun_request.security)
-* [ticker.heikinashi](#fun_ticker.heikinashi)
-* [ticker.linebreak](#fun_ticker.linebreak)
-* [ticker.kagi](#fun_ticker.kagi)
-* [ticker.pointfigure](#fun_ticker.pointfigure)
+- [syminfo.tickerid](#var_syminfo.tickerid)
+- [syminfo.ticker](#var_syminfo.ticker)
+- [request.security](#fun_request.security)
+- [ticker.heikinashi](#fun_ticker.heikinashi)
+- [ticker.linebreak](#fun_ticker.linebreak)
+- [ticker.kagi](#fun_ticker.kagi)
+- [ticker.pointfigure](#fun_ticker.pointfigure)
 
 ## ticker.standard
 
@@ -23763,12 +23284,11 @@ ticker.standard(symbol) → simple string
 
 - `symbol`
 
-    >  (`simple` `string`)
-    
-    >  a ticker iD to be converted into its standard form. optional. the default is [syminfo.tickerid](#var_syminfo.tickerid).
+  > (`simple` `string`)
+
+  > a ticker iD to be converted into its standard form. optional. the default is [syminfo.tickerid](#var_syminfo.tickerid).
 
 ### Example
-
 
 ```s
 
@@ -23797,7 +23317,7 @@ a string representing the ticker of a standard chart in the "prefix:ticker" form
 
 ### See also
 
-* [request.security](#fun_request.security)
+- [request.security](#fun_request.security)
 
 ## time
 
@@ -23807,20 +23327,17 @@ the time function returns the unix time of the current bar for the specified tim
 
 ### syntax & Overloads
 
-> [time(timeframe) → series int](#fun_time-0)
-> [time(timeframe, session) → series int](#fun_time-1)
-> [time(timeframe, session, timezone) → series int](#fun_time-2)
+> [time(timeframe) → series int](#fun_time-0) > [time(timeframe, session) → series int](#fun_time-1) > [time(timeframe, session, timezone) → series int](#fun_time-2)
 
 ### Arguments
 
 - `timeframe`
 
-    >  (`simple` `string`)
-    
-    >  timeframe. an empty string is interpreted as the current timeframe of the chart.
+  > (`simple` `string`)
+
+  > timeframe. an empty string is interpreted as the current timeframe of the chart.
 
 ### Example
-
 
 ```s
 
@@ -23843,7 +23360,6 @@ You can change that by specifying the days. For example, on a symbol that is tra
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -23857,7 +23373,6 @@ One `session` argument can include several different sessions, separated by comm
 ```
 
 ### Example
-
 
 ```s
 
@@ -23879,7 +23394,7 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### See also
 
-* [time](#var_time)
+- [time](#var_time)
 
 ## time_close
 
@@ -23889,20 +23404,17 @@ Returns the unix time of the current bar's close for the specified timeframe and
 
 ### syntax & Overloads
 
-> [time_close(timeframe) → series int](#fun_time_close-0)
-> [time_close(timeframe, session) → series int](#fun_time_close-1)
-> [time_close(timeframe, session, timezone) → series int](#fun_time_close-2)
+> [time_close(timeframe) → series int](#fun_time_close-0) > [time_close(timeframe, session) → series int](#fun_time_close-1) > [time_close(timeframe, session, timezone) → series int](#fun_time_close-2)
 
 ### Arguments
 
 - `timeframe`
 
-    >  (`simple` `string`)
-    
-    >  Resolution. an empty string is interpreted as the current resolution of the chart.
+  > (`simple` `string`)
+
+  > Resolution. an empty string is interpreted as the current resolution of the chart.
 
 ### Example
-
 
 ```s
 
@@ -23924,7 +23436,7 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### See also
 
-* [time_close](#var_time_close)
+- [time_close](#var_time_close)
 
 ## timeframe.change
 
@@ -23938,12 +23450,11 @@ timeframe.change(timeframe) → series bool
 
 - `timeframe`
 
-    >  (`simple` `string`)
-    
-    >  string formatted according to the [user manual's timeframe string specifications](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications).
+  > (`simple` `string`)
+
+  > string formatted according to the [user manual's timeframe string specifications](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications).
 
 ### Example
-
 
 ```s
 
@@ -23969,19 +23480,17 @@ Converts a number of seconds into a valid timeframe string.
 
 ### syntax & Overloads
 
-> [timeframe.from_seconds(seconds) → simple string](#fun_timeframe.from_seconds-0)
-> [timeframe.from_seconds(seconds) → series string](#fun_timeframe.from_seconds-1)
+> [timeframe.from_seconds(seconds) → simple string](#fun_timeframe.from_seconds-0) > [timeframe.from_seconds(seconds) → series string](#fun_timeframe.from_seconds-1)
 
 ### Arguments
 
 - `seconds`
 
-    >  (`simple` `int`)
-    
-    >  the number of seconds in the timeframe.
+  > (`simple` `int`)
+
+  > the number of seconds in the timeframe.
 
 ### Example
-
 
 ```s
 
@@ -24009,9 +23518,9 @@ all values above 31,622,400 (366 days) return "12M".
 
 ### See also
 
-* [timeframe.in_seconds](#fun_timeframe.in_seconds)
-* [request.security](#var_request.security)
-* [request.security\_lower\_tf](#var_request.security_lower_tf)
+- [timeframe.in_seconds](#fun_timeframe.in_seconds)
+- [request.security](#var_request.security)
+- [request.security_lower_tf](#var_request.security_lower_tf)
 
 ## timeframe.in_seconds
 
@@ -24021,19 +23530,17 @@ Converts a timeframe string into seconds.
 
 ### syntax & Overloads
 
-> [timeframe.in_seconds(timeframe) → simple int](#fun_timeframe.in_seconds-0)
-> [timeframe.in_seconds(timeframe) → series int](#fun_timeframe.in_seconds-1)
+> [timeframe.in_seconds(timeframe) → simple int](#fun_timeframe.in_seconds-0) > [timeframe.in_seconds(timeframe) → series int](#fun_timeframe.in_seconds-1)
 
 ### Arguments
 
 - `timeframe`
 
-    >  (`simple` `string`)
-    
-    >  timeframe string in [timeframe string specifications](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications) format. optional. the default is [timeframe.period](#var_timeframe.period).
+  > (`simple` `string`)
+
+  > timeframe string in [timeframe string specifications](https://www.tradingview.com/pine-script-docs/en/v5/concepts/timeframes.html#timeframe-string-specifications) format. optional. the default is [timeframe.period](#var_timeframe.period).
 
 ### Example
-
 
 ```s
 
@@ -24061,9 +23568,9 @@ When the timeframe is "1M" or more, calculations use 2628003 as the number of se
 
 ### See also
 
-* [input.timeframe](#fun_input.timeframe)
-* [timeframe.period](#var_timeframe.period)
-* [timeframe.from_seconds](#fun_timeframe.from_seconds)
+- [input.timeframe](#fun_input.timeframe)
+- [timeframe.period](#var_timeframe.period)
+- [timeframe.from_seconds](#fun_timeframe.from_seconds)
 
 ## timestamp
 
@@ -24073,22 +23580,17 @@ Function timestamp returns unix time of specified date and time.
 
 ### syntax & Overloads
 
-> [timestamp(datestring) → const int](#fun_timestamp-0)
-> [timestamp(year, month, day, hour, minute, second) → simple int](#fun_timestamp-1)
-> [timestamp(year, month, day, hour, minute, second) → series int](#fun_timestamp-2)
-> [timestamp(timezone, year, month, day, hour, minute, second) → simple int](#fun_timestamp-3)
-> [timestamp(timezone, year, month, day, hour, minute, second) → series int](#fun_timestamp-4)
+> [timestamp(datestring) → const int](#fun_timestamp-0) > [timestamp(year, month, day, hour, minute, second) → simple int](#fun_timestamp-1) > [timestamp(year, month, day, hour, minute, second) → series int](#fun_timestamp-2) > [timestamp(timezone, year, month, day, hour, minute, second) → simple int](#fun_timestamp-3) > [timestamp(timezone, year, month, day, hour, minute, second) → series int](#fun_timestamp-4)
 
 ### Arguments
 
 - `datestring`
 
-    >  (`const` `string`)
-    
-    >  a string containing the date and, optionally, the time and time zone. its format must comply with either the [iETF RFC 2822](https://tools.ietf.org/html/rfc2822#section-3.3) or [isO 8601](https://en.wikipedia.org/wiki/isO_8601) standards ("dd MMM YYYY hh:mm:ss +-hhmm" or "YYYY-MM-ddthh:mm:ss+-hh:mm", so "20 Feb 2020" or "2020-02-20"). if no time is supplied, "00:00" is used. if no time zone is supplied, GMT+0 will be used. Note that this diverges from the usual behavior of the function where it returns time in the exchange's timezone.
+  > (`const` `string`)
+
+  > a string containing the date and, optionally, the time and time zone. its format must comply with either the [iETF RFC 2822](https://tools.ietf.org/html/rfc2822#section-3.3) or [isO 8601](https://en.wikipedia.org/wiki/isO_8601) standards ("dd MMM YYYY hh:mm:ss +-hhmm" or "YYYY-MM-ddthh:mm:ss+-hh:mm", so "20 Feb 2020" or "2020-02-20"). if no time is supplied, "00:00" is used. if no time zone is supplied, GMT+0 will be used. Note that this diverges from the usual behavior of the function where it returns time in the exchange's timezone.
 
 ### Example
-
 
 ```s
 
@@ -24117,7 +23619,7 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### See also
 
-* [time](#fun_time)
+- [time](#fun_time)
 
 ## weekofyear
 
@@ -24125,16 +23627,15 @@ unix time is the number of milliseconds that have elapsed since 00:00:00 uTC, 1 
 
 ### syntax & Overloads
 
-> [weekofyear(time) → series int](#fun_weekofyear-0)
-> [weekofyear(time, timezone) → series int](#fun_weekofyear-1)
+> [weekofyear(time) → series int](#fun_weekofyear-0) > [weekofyear(time, timezone) → series int](#fun_weekofyear-1)
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -24148,15 +23649,15 @@ Note that this function returns the week based on the time of the bar's open. Fo
 
 ### See also
 
-* [weekofyear](#var_weekofyear)
-* [time](#fun_time)
-* [year](#fun_year)
-* [month](#fun_month)
-* [dayofmonth](#fun_dayofmonth)
-* [dayofweek](#fun_dayofweek)
-* [hour](#fun_hour)
-* [minute](#fun_minute)
-* [second](#fun_second)
+- [weekofyear](#var_weekofyear)
+- [time](#fun_time)
+- [year](#fun_year)
+- [month](#fun_month)
+- [dayofmonth](#fun_dayofmonth)
+- [dayofweek](#fun_dayofweek)
+- [hour](#fun_hour)
+- [minute](#fun_minute)
+- [second](#fun_second)
 
 ## year
 
@@ -24164,16 +23665,15 @@ Note that this function returns the week based on the time of the bar's open. Fo
 
 ### syntax & Overloads
 
-> [year(time) → series int](#fun_year-0)
-> [year(time, timezone) → series int](#fun_year-1)
+> [year(time) → series int](#fun_year-0) > [year(time, timezone) → series int](#fun_year-1)
 
 ### Arguments
 
 - `time`
 
-    >  (`series` `int`)
-    
-    >  unix time in milliseconds.
+  > (`series` `int`)
+
+  > unix time in milliseconds.
 
 ### Returns
 
@@ -24187,17 +23687,16 @@ Note that this function returns the year based on the time of the bar's open. Fo
 
 ### See also
 
-* [year](#var_year)
-* [time](#fun_time)
-* [month](#fun_month)
-* [dayofmonth](#fun_dayofmonth)
-* [dayofweek](#fun_dayofweek)
-* [hour](#fun_hour)
-* [minute](#fun_minute)
-* [second](#fun_second)
+- [year](#var_year)
+- [time](#fun_time)
+- [month](#fun_month)
+- [dayofmonth](#fun_dayofmonth)
+- [dayofweek](#fun_dayofweek)
+- [hour](#fun_hour)
+- [minute](#fun_minute)
+- [second](#fun_second)
 
-Constants
----------
+## Constants
 
 ## adjustment.dividends
 
@@ -24209,9 +23708,9 @@ const string
 
 ### See also
 
-* [adjustment.none](#var_adjustment.none)
-* [adjustment.splits](#var_adjustment.splits)
-* [ticker.new](#fun_ticker.new)
+- [adjustment.none](#var_adjustment.none)
+- [adjustment.splits](#var_adjustment.splits)
+- [ticker.new](#fun_ticker.new)
 
 ## adjustment.none
 
@@ -24223,9 +23722,9 @@ const string
 
 ### See also
 
-* [adjustment.splits](#var_adjustment.splits)
-* [adjustment.dividends](#var_adjustment.dividends)
-* [ticker.new](#fun_ticker.new)
+- [adjustment.splits](#var_adjustment.splits)
+- [adjustment.dividends](#var_adjustment.dividends)
+- [ticker.new](#fun_ticker.new)
 
 ## adjustment.splits
 
@@ -24237,9 +23736,9 @@ const string
 
 ### See also
 
-* [adjustment.none](#var_adjustment.none)
-* [adjustment.dividends](#var_adjustment.dividends)
-* [ticker.new](#fun_ticker.new)
+- [adjustment.none](#var_adjustment.none)
+- [adjustment.dividends](#var_adjustment.dividends)
+- [ticker.new](#fun_ticker.new)
 
 ## alert.freq_all
 
@@ -24253,9 +23752,9 @@ const string
 
 ### See also
 
-* [alert](#fun_alert)
+- [alert](#fun_alert)
 
-## alert.freq\_once\_per_bar
+## alert.freq_once_per_bar
 
 a named constant for use with the \`freq\` parameter of the alert() function.
 
@@ -24267,9 +23766,9 @@ const string
 
 ### See also
 
-* [alert](#fun_alert)
+- [alert](#fun_alert)
 
-## alert.freq\_once\_per\_bar\_close
+## alert.freq_once_per_bar_close
 
 a named constant for use with the \`freq\` parameter of the alert() function.
 
@@ -24281,7 +23780,7 @@ const string
 
 ### See also
 
-* [alert](#fun_alert)
+- [alert](#fun_alert)
 
 ## barmerge.gaps_off
 
@@ -24293,8 +23792,8 @@ const barmerge_gaps
 
 ### See also
 
-* [request.security](#fun_request.security)
-* [barmerge.gaps_on](#var_barmerge.gaps_on)
+- [request.security](#fun_request.security)
+- [barmerge.gaps_on](#var_barmerge.gaps_on)
 
 ## barmerge.gaps_on
 
@@ -24306,8 +23805,8 @@ const barmerge_gaps
 
 ### See also
 
-* [request.security](#fun_request.security)
-* [barmerge.gaps_off](#var_barmerge.gaps_off)
+- [request.security](#fun_request.security)
+- [barmerge.gaps_off](#var_barmerge.gaps_off)
 
 ## barmerge.lookahead_off
 
@@ -24319,8 +23818,8 @@ const barmerge_lookahead
 
 ### See also
 
-* [request.security](#fun_request.security)
-* [barmerge.lookahead_on](#var_barmerge.lookahead_on)
+- [request.security](#fun_request.security)
+- [barmerge.lookahead_on](#var_barmerge.lookahead_on)
 
 ## barmerge.lookahead_on
 
@@ -24332,8 +23831,8 @@ const barmerge_lookahead
 
 ### See also
 
-* [request.security](#fun_request.security)
-* [barmerge.lookahead_off](#var_barmerge.lookahead_off)
+- [request.security](#fun_request.security)
+- [barmerge.lookahead_off](#var_barmerge.lookahead_off)
 
 ## color.aqua
 
@@ -24345,22 +23844,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.orange](#var_color.orange)
 
 ## color.black
 
@@ -24372,22 +23871,22 @@ const color
 
 ### See also
 
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.blue
 
@@ -24399,22 +23898,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.fuchsia
 
@@ -24426,22 +23925,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.gray
 
@@ -24453,22 +23952,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.green
 
@@ -24480,22 +23979,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.lime
 
@@ -24507,22 +24006,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.maroon
 
@@ -24534,22 +24033,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.navy
 
@@ -24561,22 +24060,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.olive
 
@@ -24588,22 +24087,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.orange
 
@@ -24615,22 +24114,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
 
 ## color.purple
 
@@ -24642,22 +24141,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.red
 
@@ -24669,22 +24168,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.silver
 
@@ -24696,22 +24195,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.teal
 
@@ -24723,22 +24222,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.white
 
@@ -24750,22 +24249,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.yellow](#var_color.yellow)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.yellow](#var_color.yellow)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## color.yellow
 
@@ -24777,22 +24276,22 @@ const color
 
 ### See also
 
-* [color.black](#var_color.black)
-* [color.silver](#var_color.silver)
-* [color.gray](#var_color.gray)
-* [color.white](#var_color.white)
-* [color.maroon](#var_color.maroon)
-* [color.red](#var_color.red)
-* [color.purple](#var_color.purple)
-* [color.fuchsia](#var_color.fuchsia)
-* [color.green](#var_color.green)
-* [color.lime](#var_color.lime)
-* [color.olive](#var_color.olive)
-* [color.navy](#var_color.navy)
-* [color.blue](#var_color.blue)
-* [color.teal](#var_color.teal)
-* [color.aqua](#var_color.aqua)
-* [color.orange](#var_color.orange)
+- [color.black](#var_color.black)
+- [color.silver](#var_color.silver)
+- [color.gray](#var_color.gray)
+- [color.white](#var_color.white)
+- [color.maroon](#var_color.maroon)
+- [color.red](#var_color.red)
+- [color.purple](#var_color.purple)
+- [color.fuchsia](#var_color.fuchsia)
+- [color.green](#var_color.green)
+- [color.lime](#var_color.lime)
+- [color.olive](#var_color.olive)
+- [color.navy](#var_color.navy)
+- [color.blue](#var_color.blue)
+- [color.teal](#var_color.teal)
+- [color.aqua](#var_color.aqua)
+- [color.orange](#var_color.orange)
 
 ## currency.auD
 
@@ -24804,7 +24303,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.bTC
 
@@ -24816,7 +24315,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.CaD
 
@@ -24828,7 +24327,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.CHF
 
@@ -24840,7 +24339,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.Eth
 
@@ -24852,7 +24351,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.EuR
 
@@ -24864,7 +24363,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.Gbp
 
@@ -24876,7 +24375,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.HKD
 
@@ -24888,7 +24387,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.iNR
 
@@ -24900,7 +24399,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.JpY
 
@@ -24912,7 +24411,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.KRW
 
@@ -24924,7 +24423,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.MYR
 
@@ -24936,7 +24435,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.NOK
 
@@ -24948,7 +24447,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.NONE
 
@@ -24960,7 +24459,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.NZD
 
@@ -24972,7 +24471,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.Rub
 
@@ -24984,7 +24483,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.sEK
 
@@ -24996,7 +24495,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.sGD
 
@@ -25008,7 +24507,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.trY
 
@@ -25020,7 +24519,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.usD
 
@@ -25032,7 +24531,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.usdt
 
@@ -25044,7 +24543,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## currency.ZaR
 
@@ -25056,7 +24555,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## dayofweek.friday
 
@@ -25068,12 +24567,12 @@ const int
 
 ### See also
 
-* [dayofweek.sunday](#var_dayofweek.sunday)
-* [dayofweek.monday](#var_dayofweek.monday)
-* [dayofweek.tuesday](#var_dayofweek.tuesday)
-* [dayofweek.wednesday](#var_dayofweek.wednesday)
-* [dayofweek.thursday](#var_dayofweek.thursday)
-* [dayofweek.saturday](#var_dayofweek.saturday)
+- [dayofweek.sunday](#var_dayofweek.sunday)
+- [dayofweek.monday](#var_dayofweek.monday)
+- [dayofweek.tuesday](#var_dayofweek.tuesday)
+- [dayofweek.wednesday](#var_dayofweek.wednesday)
+- [dayofweek.thursday](#var_dayofweek.thursday)
+- [dayofweek.saturday](#var_dayofweek.saturday)
 
 ## dayofweek.monday
 
@@ -25085,12 +24584,12 @@ const int
 
 ### See also
 
-* [dayofweek.sunday](#var_dayofweek.sunday)
-* [dayofweek.tuesday](#var_dayofweek.tuesday)
-* [dayofweek.wednesday](#var_dayofweek.wednesday)
-* [dayofweek.thursday](#var_dayofweek.thursday)
-* [dayofweek.friday](#var_dayofweek.friday)
-* [dayofweek.saturday](#var_dayofweek.saturday)
+- [dayofweek.sunday](#var_dayofweek.sunday)
+- [dayofweek.tuesday](#var_dayofweek.tuesday)
+- [dayofweek.wednesday](#var_dayofweek.wednesday)
+- [dayofweek.thursday](#var_dayofweek.thursday)
+- [dayofweek.friday](#var_dayofweek.friday)
+- [dayofweek.saturday](#var_dayofweek.saturday)
 
 ## dayofweek.saturday
 
@@ -25102,12 +24601,12 @@ const int
 
 ### See also
 
-* [dayofweek.sunday](#var_dayofweek.sunday)
-* [dayofweek.monday](#var_dayofweek.monday)
-* [dayofweek.tuesday](#var_dayofweek.tuesday)
-* [dayofweek.wednesday](#var_dayofweek.wednesday)
-* [dayofweek.thursday](#var_dayofweek.thursday)
-* [dayofweek.friday](#var_dayofweek.friday)
+- [dayofweek.sunday](#var_dayofweek.sunday)
+- [dayofweek.monday](#var_dayofweek.monday)
+- [dayofweek.tuesday](#var_dayofweek.tuesday)
+- [dayofweek.wednesday](#var_dayofweek.wednesday)
+- [dayofweek.thursday](#var_dayofweek.thursday)
+- [dayofweek.friday](#var_dayofweek.friday)
 
 ## dayofweek.sunday
 
@@ -25119,12 +24618,12 @@ const int
 
 ### See also
 
-* [dayofweek.monday](#var_dayofweek.monday)
-* [dayofweek.tuesday](#var_dayofweek.tuesday)
-* [dayofweek.wednesday](#var_dayofweek.wednesday)
-* [dayofweek.thursday](#var_dayofweek.thursday)
-* [dayofweek.friday](#var_dayofweek.friday)
-* [dayofweek.saturday](#var_dayofweek.saturday)
+- [dayofweek.monday](#var_dayofweek.monday)
+- [dayofweek.tuesday](#var_dayofweek.tuesday)
+- [dayofweek.wednesday](#var_dayofweek.wednesday)
+- [dayofweek.thursday](#var_dayofweek.thursday)
+- [dayofweek.friday](#var_dayofweek.friday)
+- [dayofweek.saturday](#var_dayofweek.saturday)
 
 ## dayofweek.thursday
 
@@ -25136,12 +24635,12 @@ const int
 
 ### See also
 
-* [dayofweek.sunday](#var_dayofweek.sunday)
-* [dayofweek.monday](#var_dayofweek.monday)
-* [dayofweek.tuesday](#var_dayofweek.tuesday)
-* [dayofweek.wednesday](#var_dayofweek.wednesday)
-* [dayofweek.friday](#var_dayofweek.friday)
-* [dayofweek.saturday](#var_dayofweek.saturday)
+- [dayofweek.sunday](#var_dayofweek.sunday)
+- [dayofweek.monday](#var_dayofweek.monday)
+- [dayofweek.tuesday](#var_dayofweek.tuesday)
+- [dayofweek.wednesday](#var_dayofweek.wednesday)
+- [dayofweek.friday](#var_dayofweek.friday)
+- [dayofweek.saturday](#var_dayofweek.saturday)
 
 ## dayofweek.tuesday
 
@@ -25153,12 +24652,12 @@ const int
 
 ### See also
 
-* [dayofweek.sunday](#var_dayofweek.sunday)
-* [dayofweek.monday](#var_dayofweek.monday)
-* [dayofweek.wednesday](#var_dayofweek.wednesday)
-* [dayofweek.thursday](#var_dayofweek.thursday)
-* [dayofweek.friday](#var_dayofweek.friday)
-* [dayofweek.saturday](#var_dayofweek.saturday)
+- [dayofweek.sunday](#var_dayofweek.sunday)
+- [dayofweek.monday](#var_dayofweek.monday)
+- [dayofweek.wednesday](#var_dayofweek.wednesday)
+- [dayofweek.thursday](#var_dayofweek.thursday)
+- [dayofweek.friday](#var_dayofweek.friday)
+- [dayofweek.saturday](#var_dayofweek.saturday)
 
 ## dayofweek.wednesday
 
@@ -25170,12 +24669,12 @@ const int
 
 ### See also
 
-* [dayofweek.sunday](#var_dayofweek.sunday)
-* [dayofweek.monday](#var_dayofweek.monday)
-* [dayofweek.tuesday](#var_dayofweek.tuesday)
-* [dayofweek.thursday](#var_dayofweek.thursday)
-* [dayofweek.friday](#var_dayofweek.friday)
-* [dayofweek.saturday](#var_dayofweek.saturday)
+- [dayofweek.sunday](#var_dayofweek.sunday)
+- [dayofweek.monday](#var_dayofweek.monday)
+- [dayofweek.tuesday](#var_dayofweek.tuesday)
+- [dayofweek.thursday](#var_dayofweek.thursday)
+- [dayofweek.friday](#var_dayofweek.friday)
+- [dayofweek.saturday](#var_dayofweek.saturday)
 
 ## display.all
 
@@ -25183,16 +24682,16 @@ a named constant for use with the \`display\` parameter of \`plot*()\` and \`inp
 
 ### Type
 
-const plot\_simple\_display
+const plot_simple_display
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [plotbar](#fun_plotbar)
-* [plotcandle](#fun_plotcandle)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [plotbar](#fun_plotbar)
+- [plotcandle](#fun_plotcandle)
 
 ## display.data_window
 
@@ -25204,12 +24703,12 @@ const plot_display
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [plotbar](#fun_plotbar)
-* [plotcandle](#fun_plotcandle)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [plotbar](#fun_plotbar)
+- [plotcandle](#fun_plotcandle)
 
 ## display.none
 
@@ -25217,20 +24716,20 @@ a named constant for use with the \`display\` parameter of \`plot*()\` and \`inp
 
 ### Type
 
-const plot\_simple\_display
+const plot_simple_display
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [plotbar](#fun_plotbar)
-* [plotcandle](#fun_plotcandle)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [plotbar](#fun_plotbar)
+- [plotcandle](#fun_plotcandle)
 
 ## display.pane
 
-a named constant for use with the \`display\` parameter of \`plot*()\` functions. Displays plotted values in the chart pane used by the script.
+a named constant for use with the \`display\` parameter of \`plot\*()\` functions. Displays plotted values in the chart pane used by the script.
 
 ### Type
 
@@ -25238,16 +24737,16 @@ const plot_display
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [plotbar](#fun_plotbar)
-* [plotcandle](#fun_plotcandle)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [plotbar](#fun_plotbar)
+- [plotcandle](#fun_plotcandle)
 
 ## display.price_scale
 
-a named constant for use with the \`display\` parameter of \`plot*()\` functions. Displays the plot's label and value on the price scale if the chart's settings allow it.
+a named constant for use with the \`display\` parameter of \`plot\*()\` functions. Displays the plot's label and value on the price scale if the chart's settings allow it.
 
 ### Type
 
@@ -25255,12 +24754,12 @@ const plot_display
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [plotbar](#fun_plotbar)
-* [plotcandle](#fun_plotcandle)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [plotbar](#fun_plotbar)
+- [plotcandle](#fun_plotcandle)
 
 ## display.status_line
 
@@ -25272,12 +24771,12 @@ const plot_display
 
 ### See also
 
-* [plot](#fun_plot)
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [plotarrow](#fun_plotarrow)
-* [plotbar](#fun_plotbar)
-* [plotcandle](#fun_plotcandle)
+- [plot](#fun_plot)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [plotarrow](#fun_plotarrow)
+- [plotbar](#fun_plotbar)
+- [plotcandle](#fun_plotcandle)
 
 ## dividends.future_amount
 
@@ -25287,7 +24786,7 @@ Returns the payment amount of the upcoming dividend in the currency of the curre
 
 series float
 
-## dividends.future\_ex\_date
+## dividends.future_ex_date
 
 Returns the Ex-dividend date (Ex-date) of the current instrument's next dividend payment, or [na](#var_na) if this data isn't available. Ex-dividend date signifies when investors are no longer entitled to a payout from the most recent dividend. Only those who purchased shares before this day are entitled to the dividend payment.
 
@@ -25295,7 +24794,7 @@ Returns the Ex-dividend date (Ex-date) of the current instrument's next dividend
 
 series float
 
-## dividends.future\_pay\_date
+## dividends.future_pay_date
 
 Returns the payment date (pay date) of the current instrument's next dividend payment, or [na](#var_na) if this data isn't available. payment date signifies the day when eligible investors will receive the dividend payment.
 
@@ -25313,7 +24812,7 @@ const string
 
 ### See also
 
-* [request.dividends](#fun_request.dividends)
+- [request.dividends](#fun_request.dividends)
 
 ## dividends.net
 
@@ -25325,7 +24824,7 @@ const string
 
 ### See also
 
-* [request.dividends](#fun_request.dividends)
+- [request.dividends](#fun_request.dividends)
 
 ## earnings.actual
 
@@ -25337,7 +24836,7 @@ const string
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
+- [request.earnings](#fun_request.earnings)
 
 ## earnings.estimate
 
@@ -25349,7 +24848,7 @@ const string
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
+- [request.earnings](#fun_request.earnings)
 
 ## earnings.standardized
 
@@ -25361,7 +24860,7 @@ const string
 
 ### See also
 
-* [request.earnings](#fun_request.earnings)
+- [request.earnings](#fun_request.earnings)
 
 ## extend.both
 
@@ -25373,11 +24872,11 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_extend](#fun_line.set_extend)
-* [extend.none](#var_extend.none)
-* [extend.left](#var_extend.left)
-* [extend.right](#var_extend.right)
+- [line.new](#fun_line.new)
+- [line.set_extend](#fun_line.set_extend)
+- [extend.none](#var_extend.none)
+- [extend.left](#var_extend.left)
+- [extend.right](#var_extend.right)
 
 ## extend.left
 
@@ -25389,11 +24888,11 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_extend](#fun_line.set_extend)
-* [extend.none](#var_extend.none)
-* [extend.right](#var_extend.right)
-* [extend.both](#var_extend.both)
+- [line.new](#fun_line.new)
+- [line.set_extend](#fun_line.set_extend)
+- [extend.none](#var_extend.none)
+- [extend.right](#var_extend.right)
+- [extend.both](#var_extend.both)
 
 ## extend.none
 
@@ -25405,11 +24904,11 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_extend](#fun_line.set_extend)
-* [extend.left](#var_extend.left)
-* [extend.right](#var_extend.right)
-* [extend.both](#var_extend.both)
+- [line.new](#fun_line.new)
+- [line.set_extend](#fun_line.set_extend)
+- [extend.left](#var_extend.left)
+- [extend.right](#var_extend.right)
+- [extend.both](#var_extend.both)
 
 ## extend.right
 
@@ -25421,15 +24920,15 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_extend](#fun_line.set_extend)
-* [extend.none](#var_extend.none)
-* [extend.left](#var_extend.left)
-* [extend.both](#var_extend.both)
+- [line.new](#fun_line.new)
+- [line.set_extend](#fun_line.set_extend)
+- [extend.none](#var_extend.none)
+- [extend.left](#var_extend.left)
+- [extend.both](#var_extend.both)
 
 ## font.family_default
 
-Default text font for [box.new](#fun_box.new), [box.set\_text\_font_family](#fun_box.set_text_font_family), [label.new](#fun_label.new), [label.set\_text\_font_family](#fun_label.set_text_font_family), [table.cell](#fun_table.cell) and [table.cell\_set\_text\_font\_family](#fun_table.cell_set_text_font_family) functions.
+Default text font for [box.new](#fun_box.new), [box.set_text_font_family](#fun_box.set_text_font_family), [label.new](#fun_label.new), [label.set_text_font_family](#fun_label.set_text_font_family), [table.cell](#fun_table.cell) and [table.cell_set_text_font_family](#fun_table.cell_set_text_font_family) functions.
 
 ### Type
 
@@ -25437,17 +24936,17 @@ const string
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.set\_text\_font_family](#fun_box.set_text_font_family)
-* [label.new](#fun_label.new)
-* [label.set\_text\_font_family](#fun_label.set_text_font_family)
-* [table.cell](#fun_table.cell)
-* [table.cell\_set\_text\_font\_family](#fun_table.cell_set_text_font_family)
-* [font.family_monospace](#var_font.family_monospace)
+- [box.new](#fun_box.new)
+- [box.set_text_font_family](#fun_box.set_text_font_family)
+- [label.new](#fun_label.new)
+- [label.set_text_font_family](#fun_label.set_text_font_family)
+- [table.cell](#fun_table.cell)
+- [table.cell_set_text_font_family](#fun_table.cell_set_text_font_family)
+- [font.family_monospace](#var_font.family_monospace)
 
 ## font.family_monospace
 
-Monospace text font for [box.new](#fun_box.new), [box.set\_text\_font_family](#fun_box.set_text_font_family), [label.new](#fun_label.new), [label.set\_text\_font_family](#fun_label.set_text_font_family), [table.cell](#fun_table.cell) and [table.cell\_set\_text\_font\_family](#fun_table.cell_set_text_font_family) functions.
+Monospace text font for [box.new](#fun_box.new), [box.set_text_font_family](#fun_box.set_text_font_family), [label.new](#fun_label.new), [label.set_text_font_family](#fun_label.set_text_font_family), [table.cell](#fun_table.cell) and [table.cell_set_text_font_family](#fun_table.cell_set_text_font_family) functions.
 
 ### Type
 
@@ -25455,13 +24954,13 @@ const string
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.set\_text\_font_family](#fun_box.set_text_font_family)
-* [label.new](#fun_label.new)
-* [label.set\_text\_font_family](#fun_label.set_text_font_family)
-* [table.cell](#fun_table.cell)
-* [table.cell\_set\_text\_font\_family](#fun_table.cell_set_text_font_family)
-* [font.family_default](#var_font.family_default)
+- [box.new](#fun_box.new)
+- [box.set_text_font_family](#fun_box.set_text_font_family)
+- [label.new](#fun_label.new)
+- [label.set_text_font_family](#fun_label.set_text_font_family)
+- [table.cell](#fun_table.cell)
+- [table.cell_set_text_font_family](#fun_table.cell_set_text_font_family)
+- [font.family_default](#var_font.family_default)
 
 ## format.inherit
 
@@ -25473,10 +24972,10 @@ const string
 
 ### See also
 
-* [indicator](#fun_indicator)
-* [format.price](#var_format.price)
-* [format.volume](#var_format.volume)
-* [format.percent](#var_format.percent)
+- [indicator](#fun_indicator)
+- [format.price](#var_format.price)
+- [format.volume](#var_format.volume)
+- [format.percent](#var_format.percent)
 
 ## format.mintick
 
@@ -25488,10 +24987,10 @@ const string
 
 ### See also
 
-* [indicator](#fun_indicator)
-* [format.inherit](#var_format.inherit)
-* [format.price](#var_format.price)
-* [format.volume](#var_format.volume)
+- [indicator](#fun_indicator)
+- [format.inherit](#var_format.inherit)
+- [format.price](#var_format.price)
+- [format.volume](#var_format.volume)
 
 ## format.percent
 
@@ -25507,10 +25006,10 @@ the default precision is 2, regardless of the precision of the chart itself. thi
 
 ### See also
 
-* [indicator](#fun_indicator)
-* [format.inherit](#var_format.inherit)
-* [format.price](#var_format.price)
-* [format.volume](#var_format.volume)
+- [indicator](#fun_indicator)
+- [format.inherit](#var_format.inherit)
+- [format.price](#var_format.price)
+- [format.volume](#var_format.volume)
 
 ## format.price
 
@@ -25526,10 +25025,10 @@ if format is format.price, default precision value is set. You can use the preci
 
 ### See also
 
-* [indicator](#fun_indicator)
-* [format.inherit](#var_format.inherit)
-* [format.volume](#var_format.volume)
-* [format.percent](#var_format.percent)
+- [indicator](#fun_indicator)
+- [format.inherit](#var_format.inherit)
+- [format.volume](#var_format.volume)
+- [format.percent](#var_format.percent)
 
 ## format.volume
 
@@ -25541,10 +25040,10 @@ const string
 
 ### See also
 
-* [indicator](#fun_indicator)
-* [format.inherit](#var_format.inherit)
-* [format.price](#var_format.price)
-* [format.percent](#var_format.percent)
+- [indicator](#fun_indicator)
+- [format.inherit](#var_format.inherit)
+- [format.price](#var_format.price)
+- [format.percent](#var_format.percent)
 
 ## hline.style_dashed
 
@@ -25556,8 +25055,8 @@ const hline_style
 
 ### See also
 
-* [hline.style_solid](#var_hline.style_solid)
-* [hline.style_dotted](#var_hline.style_dotted)
+- [hline.style_solid](#var_hline.style_solid)
+- [hline.style_dotted](#var_hline.style_dotted)
 
 ## hline.style_dotted
 
@@ -25569,8 +25068,8 @@ const hline_style
 
 ### See also
 
-* [hline.style_solid](#var_hline.style_solid)
-* [hline.style_dashed](#var_hline.style_dashed)
+- [hline.style_solid](#var_hline.style_solid)
+- [hline.style_dashed](#var_hline.style_dashed)
 
 ## hline.style_solid
 
@@ -25582,8 +25081,8 @@ const hline_style
 
 ### See also
 
-* [hline.style_dotted](#var_hline.style_dotted)
-* [hline.style_dashed](#var_hline.style_dashed)
+- [hline.style_dotted](#var_hline.style_dotted)
+- [hline.style_dashed](#var_hline.style_dashed)
 
 ## label.style_arrowdown
 
@@ -25595,28 +25094,28 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_arrowup
 
@@ -25628,28 +25127,28 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_circle
 
@@ -25661,28 +25160,28 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_cross
 
@@ -25694,28 +25193,28 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_diamond
 
@@ -25727,28 +25226,28 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
 
 ## label.style_flag
 
@@ -25760,63 +25259,30 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
-## label.style\_label\_center
-
-label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
-
-### Type
-
-const string
-
-### See also
-
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
-
-## label.style\_label\_down
+## label.style_label_center
 
 label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
 
@@ -25826,63 +25292,30 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
-## label.style\_label\_left
-
-label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
-
-### Type
-
-const string
-
-### See also
-
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
-
-## label.style\_label\_lower_left
+## label.style_label_down
 
 label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
 
@@ -25892,63 +25325,30 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
-## label.style\_label\_lower_right
-
-label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
-
-### Type
-
-const string
-
-### See also
-
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
-
-## label.style\_label\_right
+## label.style_label_left
 
 label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
 
@@ -25958,63 +25358,30 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
-## label.style\_label\_up
-
-label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
-
-### Type
-
-const string
-
-### See also
-
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
-
-## label.style\_label\_upper_left
+## label.style_label_lower_left
 
 label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
 
@@ -26024,30 +25391,30 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
-## label.style\_label\_upper_right
+## label.style_label_lower_right
 
 label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
 
@@ -26057,28 +25424,160 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
+
+## label.style_label_right
+
+label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
+
+### Type
+
+const string
+
+### See also
+
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
+
+## label.style_label_up
+
+label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
+
+### Type
+
+const string
+
+### See also
+
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
+
+## label.style_label_upper_left
+
+label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
+
+### Type
+
+const string
+
+### See also
+
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
+
+## label.style_label_upper_right
+
+label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
+
+### Type
+
+const string
+
+### See also
+
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_none
 
@@ -26090,24 +25589,24 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_square
 
@@ -26119,30 +25618,30 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_diamond](#var_label.style_diamond)
 
-## label.style\_text\_outline
+## label.style_text_outline
 
 label style for [label.new](#fun_label.new) and [label.set_style](#fun_label.set_style) functions.
 
@@ -26152,29 +25651,29 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_triangledown
 
@@ -26186,28 +25685,28 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_triangleup
 
@@ -26219,28 +25718,28 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_xcross](#var_label.style_xcross)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_lower_left](#var_label.style_label_lower_left)
-* [label.style\_label\_lower_right](#var_label.style_label_lower_right)
-* [label.style\_label\_upper_left](#var_label.style_label_upper_left)
-* [label.style\_label\_upper_right](#var_label.style_label_upper_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_xcross](#var_label.style_xcross)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_lower_left](#var_label.style_label_lower_left)
+- [label.style_label_lower_right](#var_label.style_label_lower_right)
+- [label.style_label_upper_left](#var_label.style_label_upper_left)
+- [label.style_label_upper_right](#var_label.style_label_upper_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
 ## label.style_xcross
 
@@ -26252,26 +25751,26 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [label.set_textalign](#fun_label.set_textalign)
-* [label.style_none](#var_label.style_none)
-* [label.style_cross](#var_label.style_cross)
-* [label.style_triangleup](#var_label.style_triangleup)
-* [label.style_triangledown](#var_label.style_triangledown)
-* [label.style_flag](#var_label.style_flag)
-* [label.style_circle](#var_label.style_circle)
-* [label.style_arrowup](#var_label.style_arrowup)
-* [label.style_arrowdown](#var_label.style_arrowdown)
-* [label.style\_label\_up](#var_label.style_label_up)
-* [label.style\_label\_down](#var_label.style_label_down)
-* [label.style\_label\_left](#var_label.style_label_left)
-* [label.style\_label\_right](#var_label.style_label_right)
-* [label.style\_label\_center](#var_label.style_label_center)
-* [label.style_square](#var_label.style_square)
-* [label.style_diamond](#var_label.style_diamond)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [label.set_textalign](#fun_label.set_textalign)
+- [label.style_none](#var_label.style_none)
+- [label.style_cross](#var_label.style_cross)
+- [label.style_triangleup](#var_label.style_triangleup)
+- [label.style_triangledown](#var_label.style_triangledown)
+- [label.style_flag](#var_label.style_flag)
+- [label.style_circle](#var_label.style_circle)
+- [label.style_arrowup](#var_label.style_arrowup)
+- [label.style_arrowdown](#var_label.style_arrowdown)
+- [label.style_label_up](#var_label.style_label_up)
+- [label.style_label_down](#var_label.style_label_down)
+- [label.style_label_left](#var_label.style_label_left)
+- [label.style_label_right](#var_label.style_label_right)
+- [label.style_label_center](#var_label.style_label_center)
+- [label.style_square](#var_label.style_square)
+- [label.style_diamond](#var_label.style_diamond)
 
-## line.style\_arrow\_both
+## line.style_arrow_both
 
 line style for [line.new](#fun_line.new) and [line.set_style](#fun_line.set_style) functions. solid line with arrows on both points.
 
@@ -26281,15 +25780,15 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_style](#fun_line.set_style)
-* [line.style_solid](#var_line.style_solid)
-* [line.style_dotted](#var_line.style_dotted)
-* [line.style_dashed](#var_line.style_dashed)
-* [line.style\_arrow\_left](#var_line.style_arrow_left)
-* [line.style\_arrow\_right](#var_line.style_arrow_right)
+- [line.new](#fun_line.new)
+- [line.set_style](#fun_line.set_style)
+- [line.style_solid](#var_line.style_solid)
+- [line.style_dotted](#var_line.style_dotted)
+- [line.style_dashed](#var_line.style_dashed)
+- [line.style_arrow_left](#var_line.style_arrow_left)
+- [line.style_arrow_right](#var_line.style_arrow_right)
 
-## line.style\_arrow\_left
+## line.style_arrow_left
 
 line style for [line.new](#fun_line.new) and [line.set_style](#fun_line.set_style) functions. solid line with arrow on the first point.
 
@@ -26299,15 +25798,15 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_style](#fun_line.set_style)
-* [line.style_solid](#var_line.style_solid)
-* [line.style_dotted](#var_line.style_dotted)
-* [line.style_dashed](#var_line.style_dashed)
-* [line.style\_arrow\_right](#var_line.style_arrow_right)
-* [line.style\_arrow\_both](#var_line.style_arrow_both)
+- [line.new](#fun_line.new)
+- [line.set_style](#fun_line.set_style)
+- [line.style_solid](#var_line.style_solid)
+- [line.style_dotted](#var_line.style_dotted)
+- [line.style_dashed](#var_line.style_dashed)
+- [line.style_arrow_right](#var_line.style_arrow_right)
+- [line.style_arrow_both](#var_line.style_arrow_both)
 
-## line.style\_arrow\_right
+## line.style_arrow_right
 
 line style for [line.new](#fun_line.new) and [line.set_style](#fun_line.set_style) functions. solid line with arrow on the second point.
 
@@ -26317,13 +25816,13 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_style](#fun_line.set_style)
-* [line.style_solid](#var_line.style_solid)
-* [line.style_dotted](#var_line.style_dotted)
-* [line.style_dashed](#var_line.style_dashed)
-* [line.style\_arrow\_left](#var_line.style_arrow_left)
-* [line.style\_arrow\_both](#var_line.style_arrow_both)
+- [line.new](#fun_line.new)
+- [line.set_style](#fun_line.set_style)
+- [line.style_solid](#var_line.style_solid)
+- [line.style_dotted](#var_line.style_dotted)
+- [line.style_dashed](#var_line.style_dashed)
+- [line.style_arrow_left](#var_line.style_arrow_left)
+- [line.style_arrow_both](#var_line.style_arrow_both)
 
 ## line.style_dashed
 
@@ -26335,13 +25834,13 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_style](#fun_line.set_style)
-* [line.style_solid](#var_line.style_solid)
-* [line.style_dotted](#var_line.style_dotted)
-* [line.style\_arrow\_left](#var_line.style_arrow_left)
-* [line.style\_arrow\_right](#var_line.style_arrow_right)
-* [line.style\_arrow\_both](#var_line.style_arrow_both)
+- [line.new](#fun_line.new)
+- [line.set_style](#fun_line.set_style)
+- [line.style_solid](#var_line.style_solid)
+- [line.style_dotted](#var_line.style_dotted)
+- [line.style_arrow_left](#var_line.style_arrow_left)
+- [line.style_arrow_right](#var_line.style_arrow_right)
+- [line.style_arrow_both](#var_line.style_arrow_both)
 
 ## line.style_dotted
 
@@ -26353,13 +25852,13 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_style](#fun_line.set_style)
-* [line.style_solid](#var_line.style_solid)
-* [line.style_dashed](#var_line.style_dashed)
-* [line.style\_arrow\_left](#var_line.style_arrow_left)
-* [line.style\_arrow\_right](#var_line.style_arrow_right)
-* [line.style\_arrow\_both](#var_line.style_arrow_both)
+- [line.new](#fun_line.new)
+- [line.set_style](#fun_line.set_style)
+- [line.style_solid](#var_line.style_solid)
+- [line.style_dashed](#var_line.style_dashed)
+- [line.style_arrow_left](#var_line.style_arrow_left)
+- [line.style_arrow_right](#var_line.style_arrow_right)
+- [line.style_arrow_both](#var_line.style_arrow_both)
 
 ## line.style_solid
 
@@ -26371,13 +25870,13 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [line.set_style](#fun_line.set_style)
-* [line.style_dotted](#var_line.style_dotted)
-* [line.style_dashed](#var_line.style_dashed)
-* [line.style\_arrow\_left](#var_line.style_arrow_left)
-* [line.style\_arrow\_right](#var_line.style_arrow_right)
-* [line.style\_arrow\_both](#var_line.style_arrow_both)
+- [line.new](#fun_line.new)
+- [line.set_style](#fun_line.set_style)
+- [line.style_dotted](#var_line.style_dotted)
+- [line.style_dashed](#var_line.style_dashed)
+- [line.style_arrow_left](#var_line.style_arrow_left)
+- [line.style_arrow_right](#var_line.style_arrow_right)
+- [line.style_arrow_both](#var_line.style_arrow_both)
 
 ## location.abovebar
 
@@ -26389,12 +25888,12 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [location.belowbar](#var_location.belowbar)
-* [location.top](#var_location.top)
-* [location.bottom](#var_location.bottom)
-* [location.absolute](#var_location.absolute)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [location.belowbar](#var_location.belowbar)
+- [location.top](#var_location.top)
+- [location.bottom](#var_location.bottom)
+- [location.absolute](#var_location.absolute)
 
 ## location.absolute
 
@@ -26406,12 +25905,12 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [location.abovebar](#var_location.abovebar)
-* [location.belowbar](#var_location.belowbar)
-* [location.top](#var_location.top)
-* [location.bottom](#var_location.bottom)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [location.abovebar](#var_location.abovebar)
+- [location.belowbar](#var_location.belowbar)
+- [location.top](#var_location.top)
+- [location.bottom](#var_location.bottom)
 
 ## location.belowbar
 
@@ -26423,12 +25922,12 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [location.abovebar](#var_location.abovebar)
-* [location.top](#var_location.top)
-* [location.bottom](#var_location.bottom)
-* [location.absolute](#var_location.absolute)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [location.abovebar](#var_location.abovebar)
+- [location.top](#var_location.top)
+- [location.bottom](#var_location.bottom)
+- [location.absolute](#var_location.absolute)
 
 ## location.bottom
 
@@ -26440,12 +25939,12 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [location.abovebar](#var_location.abovebar)
-* [location.belowbar](#var_location.belowbar)
-* [location.top](#var_location.top)
-* [location.absolute](#var_location.absolute)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [location.abovebar](#var_location.abovebar)
+- [location.belowbar](#var_location.belowbar)
+- [location.top](#var_location.top)
+- [location.absolute](#var_location.absolute)
 
 ## location.top
 
@@ -26457,16 +25956,16 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [location.abovebar](#var_location.abovebar)
-* [location.belowbar](#var_location.belowbar)
-* [location.bottom](#var_location.bottom)
-* [location.absolute](#var_location.absolute)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [location.abovebar](#var_location.abovebar)
+- [location.belowbar](#var_location.belowbar)
+- [location.bottom](#var_location.bottom)
+- [location.absolute](#var_location.absolute)
 
 ## math.e
 
-is a named constant for [Euler's number](https://en.wikipedia.org/wiki/E_(mathematical_constant)). it is equal to 2.7182818284590452.
+is a named constant for [Euler's number](<https://en.wikipedia.org/wiki/E_(mathematical_constant)>). it is equal to 2.7182818284590452.
 
 ### Type
 
@@ -26474,9 +25973,9 @@ const float
 
 ### See also
 
-* [math.phi](#var_math.phi)
-* [math.pi](#var_math.pi)
-* [math.rphi](#var_math.rphi)
+- [math.phi](#var_math.phi)
+- [math.pi](#var_math.pi)
+- [math.rphi](#var_math.rphi)
 
 ## math.phi
 
@@ -26488,9 +25987,9 @@ const float
 
 ### See also
 
-* [math.e](#var_math.e)
-* [math.pi](#var_math.pi)
-* [math.rphi](#var_math.rphi)
+- [math.e](#var_math.e)
+- [math.pi](#var_math.pi)
+- [math.rphi](#var_math.rphi)
 
 ## math.pi
 
@@ -26502,9 +26001,9 @@ const float
 
 ### See also
 
-* [math.e](#var_math.e)
-* [math.phi](#var_math.phi)
-* [math.rphi](#var_math.rphi)
+- [math.e](#var_math.e)
+- [math.phi](#var_math.phi)
+- [math.rphi](#var_math.rphi)
 
 ## math.rphi
 
@@ -26516,9 +26015,9 @@ const float
 
 ### See also
 
-* [math.e](#var_math.e)
-* [math.pi](#var_math.pi)
-* [math.phi](#var_math.phi)
+- [math.e](#var_math.e)
+- [math.pi](#var_math.pi)
+- [math.phi](#var_math.phi)
 
 ## order.ascending
 
@@ -26530,8 +26029,8 @@ const sort_order
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.sort](#fun_array.sort)
 
 ## order.descending
 
@@ -26543,8 +26042,8 @@ const sort_order
 
 ### See also
 
-* [array.new_float](#fun_array.new_float)
-* [array.sort](#fun_array.sort)
+- [array.new_float](#fun_array.new_float)
+- [array.sort](#fun_array.sort)
 
 ## plot.style_area
 
@@ -26556,17 +26055,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_areabr
 
@@ -26578,17 +26077,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_circles
 
@@ -26600,17 +26099,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
 
 ## plot.style_columns
 
@@ -26622,17 +26121,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_cross
 
@@ -26644,17 +26143,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_histogram
 
@@ -26666,17 +26165,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_line
 
@@ -26688,17 +26187,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_linebr
 
@@ -26710,17 +26209,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_stepline
 
@@ -26732,19 +26231,19 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
-## plot.style\_stepline\_diamond
+## plot.style_stepline_diamond
 
 a named constant for the 'step line With Diamonds' style, to be used as an argument for the \`style\` parameter in the [plot](#fun_plot) function. similar to [plot.style_stepline](#var_plot.style_stepline), except the data changes are also marked with the Diamond shapes.
 
@@ -26754,16 +26253,16 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_steplinebr](#var_plot.style_steplinebr)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
-* [plot.style_circles](#var_plot.style_circles)
+- [plot](#fun_plot)
+- [plot.style_steplinebr](#var_plot.style_steplinebr)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
+- [plot.style_circles](#var_plot.style_circles)
 
 ## plot.style_steplinebr
 
@@ -26775,17 +26274,17 @@ const plot_style
 
 ### See also
 
-* [plot](#fun_plot)
-* [plot.style_circles](#var_plot.style_circles)
-* [plot.style_line](#var_plot.style_line)
-* [plot.style_linebr](#var_plot.style_linebr)
-* [plot.style_stepline](#var_plot.style_stepline)
-* [plot.style\_stepline\_diamond](#var_plot.style_stepline_diamond)
-* [plot.style_histogram](#var_plot.style_histogram)
-* [plot.style_cross](#var_plot.style_cross)
-* [plot.style_area](#var_plot.style_area)
-* [plot.style_areabr](#var_plot.style_areabr)
-* [plot.style_columns](#var_plot.style_columns)
+- [plot](#fun_plot)
+- [plot.style_circles](#var_plot.style_circles)
+- [plot.style_line](#var_plot.style_line)
+- [plot.style_linebr](#var_plot.style_linebr)
+- [plot.style_stepline](#var_plot.style_stepline)
+- [plot.style_stepline_diamond](#var_plot.style_stepline_diamond)
+- [plot.style_histogram](#var_plot.style_histogram)
+- [plot.style_cross](#var_plot.style_cross)
+- [plot.style_area](#var_plot.style_area)
+- [plot.style_areabr](#var_plot.style_areabr)
+- [plot.style_columns](#var_plot.style_columns)
 
 ## position.bottom_center
 
@@ -26799,16 +26298,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_center](#var_position.top_center)
-* [position.top_right](#var_position.top_right)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_center](#var_position.middle_center)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_left](#var_position.bottom_left)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_center](#var_position.top_center)
+- [position.top_right](#var_position.top_right)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_center](#var_position.middle_center)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_left](#var_position.bottom_left)
 
 ## position.bottom_left
 
@@ -26822,16 +26321,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_center](#var_position.top_center)
-* [position.top_right](#var_position.top_right)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_center](#var_position.middle_center)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_center](#var_position.top_center)
+- [position.top_right](#var_position.top_right)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_center](#var_position.middle_center)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## position.bottom_right
 
@@ -26845,17 +26344,17 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_center](#var_position.top_center)
-* [position.top_right](#var_position.top_right)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_center](#var_position.middle_center)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_left](#var_position.bottom_left)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_center](#var_position.top_center)
+- [position.top_right](#var_position.top_right)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_center](#var_position.middle_center)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_left](#var_position.bottom_left)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## position.middle_center
 
@@ -26869,16 +26368,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_center](#var_position.top_center)
-* [position.top_right](#var_position.top_right)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_left](#var_position.bottom_left)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_center](#var_position.top_center)
+- [position.top_right](#var_position.top_right)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_left](#var_position.bottom_left)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## position.middle_left
 
@@ -26892,16 +26391,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_center](#var_position.top_center)
-* [position.top_right](#var_position.top_right)
-* [position.middle_center](#var_position.middle_center)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_left](#var_position.bottom_left)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_center](#var_position.top_center)
+- [position.top_right](#var_position.top_right)
+- [position.middle_center](#var_position.middle_center)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_left](#var_position.bottom_left)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## position.middle_right
 
@@ -26915,16 +26414,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_center](#var_position.top_center)
-* [position.top_right](#var_position.top_right)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_center](#var_position.middle_center)
-* [position.bottom_left](#var_position.bottom_left)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_center](#var_position.top_center)
+- [position.top_right](#var_position.top_right)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_center](#var_position.middle_center)
+- [position.bottom_left](#var_position.bottom_left)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## position.top_center
 
@@ -26938,16 +26437,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_right](#var_position.top_right)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_center](#var_position.middle_center)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_left](#var_position.bottom_left)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_right](#var_position.top_right)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_center](#var_position.middle_center)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_left](#var_position.bottom_left)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## position.top_left
 
@@ -26961,16 +26460,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_center](#var_position.top_center)
-* [position.top_right](#var_position.top_right)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_center](#var_position.middle_center)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_left](#var_position.bottom_left)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_center](#var_position.top_center)
+- [position.top_right](#var_position.top_right)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_center](#var_position.middle_center)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_left](#var_position.bottom_left)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## position.top_right
 
@@ -26984,16 +26483,16 @@ const string
 
 ### See also
 
-* [table.new](#fun_table.new)
-* [table.cell](#fun_table.cell)
-* [table.set_position](#fun_table.set_position)
-* [position.top_left](#var_position.top_left)
-* [position.top_center](#var_position.top_center)
-* [position.middle_left](#var_position.middle_left)
-* [position.middle_center](#var_position.middle_center)
-* [position.middle_right](#var_position.middle_right)
-* [position.bottom_left](#var_position.bottom_left)
-* [position.bottom_center](#var_position.bottom_center)
+- [table.new](#fun_table.new)
+- [table.cell](#fun_table.cell)
+- [table.set_position](#fun_table.set_position)
+- [position.top_left](#var_position.top_left)
+- [position.top_center](#var_position.top_center)
+- [position.middle_left](#var_position.middle_left)
+- [position.middle_center](#var_position.middle_center)
+- [position.middle_right](#var_position.middle_right)
+- [position.bottom_left](#var_position.bottom_left)
+- [position.bottom_center](#var_position.bottom_center)
 
 ## scale.left
 
@@ -27005,7 +26504,7 @@ const scale_type
 
 ### See also
 
-* [indicator](#fun_indicator)
+- [indicator](#fun_indicator)
 
 ## scale.none
 
@@ -27017,7 +26516,7 @@ const scale_type
 
 ### See also
 
-* [indicator](#fun_indicator)
+- [indicator](#fun_indicator)
 
 ## scale.right
 
@@ -27029,7 +26528,7 @@ const scale_type
 
 ### See also
 
-* [indicator](#fun_indicator)
+- [indicator](#fun_indicator)
 
 ## session.extended
 
@@ -27041,8 +26540,8 @@ const string
 
 ### See also
 
-* [session.regular](#var_session.regular)
-* [syminfo.session](#var_syminfo.session)
+- [session.regular](#var_session.regular)
+- [syminfo.session](#var_syminfo.session)
 
 ## session.regular
 
@@ -27054,8 +26553,8 @@ const string
 
 ### See also
 
-* [session.extended](#var_session.extended)
-* [syminfo.session](#var_syminfo.session)
+- [session.extended](#var_session.extended)
+- [syminfo.session](#var_syminfo.session)
 
 ## shape.arrowdown
 
@@ -27067,7 +26566,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.arrowup
 
@@ -27079,7 +26578,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.circle
 
@@ -27091,7 +26590,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.cross
 
@@ -27103,7 +26602,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.diamond
 
@@ -27115,7 +26614,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.flag
 
@@ -27127,7 +26626,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.labeldown
 
@@ -27139,7 +26638,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.labelup
 
@@ -27151,7 +26650,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.square
 
@@ -27163,7 +26662,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.triangledown
 
@@ -27175,7 +26674,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.triangleup
 
@@ -27187,7 +26686,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## shape.xcross
 
@@ -27199,7 +26698,7 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
+- [plotshape](#fun_plotshape)
 
 ## size.auto
 
@@ -27211,14 +26710,14 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [label.set_size](#fun_label.set_size)
-* [size.tiny](#var_size.tiny)
-* [size.small](#var_size.small)
-* [size.normal](#var_size.normal)
-* [size.large](#var_size.large)
-* [size.huge](#var_size.huge)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [label.set_size](#fun_label.set_size)
+- [size.tiny](#var_size.tiny)
+- [size.small](#var_size.small)
+- [size.normal](#var_size.normal)
+- [size.large](#var_size.large)
+- [size.huge](#var_size.huge)
 
 ## size.huge
 
@@ -27230,14 +26729,14 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [label.set_size](#fun_label.set_size)
-* [size.auto](#var_size.auto)
-* [size.tiny](#var_size.tiny)
-* [size.small](#var_size.small)
-* [size.normal](#var_size.normal)
-* [size.large](#var_size.large)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [label.set_size](#fun_label.set_size)
+- [size.auto](#var_size.auto)
+- [size.tiny](#var_size.tiny)
+- [size.small](#var_size.small)
+- [size.normal](#var_size.normal)
+- [size.large](#var_size.large)
 
 ## size.large
 
@@ -27249,14 +26748,14 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [label.set_size](#fun_label.set_size)
-* [size.auto](#var_size.auto)
-* [size.tiny](#var_size.tiny)
-* [size.small](#var_size.small)
-* [size.normal](#var_size.normal)
-* [size.huge](#var_size.huge)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [label.set_size](#fun_label.set_size)
+- [size.auto](#var_size.auto)
+- [size.tiny](#var_size.tiny)
+- [size.small](#var_size.small)
+- [size.normal](#var_size.normal)
+- [size.huge](#var_size.huge)
 
 ## size.normal
 
@@ -27268,14 +26767,14 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [label.set_size](#fun_label.set_size)
-* [size.auto](#var_size.auto)
-* [size.tiny](#var_size.tiny)
-* [size.small](#var_size.small)
-* [size.large](#var_size.large)
-* [size.huge](#var_size.huge)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [label.set_size](#fun_label.set_size)
+- [size.auto](#var_size.auto)
+- [size.tiny](#var_size.tiny)
+- [size.small](#var_size.small)
+- [size.large](#var_size.large)
+- [size.huge](#var_size.huge)
 
 ## size.small
 
@@ -27287,14 +26786,14 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [label.set_size](#fun_label.set_size)
-* [size.auto](#var_size.auto)
-* [size.tiny](#var_size.tiny)
-* [size.normal](#var_size.normal)
-* [size.large](#var_size.large)
-* [size.huge](#var_size.huge)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [label.set_size](#fun_label.set_size)
+- [size.auto](#var_size.auto)
+- [size.tiny](#var_size.tiny)
+- [size.normal](#var_size.normal)
+- [size.large](#var_size.large)
+- [size.huge](#var_size.huge)
 
 ## size.tiny
 
@@ -27306,14 +26805,14 @@ const string
 
 ### See also
 
-* [plotshape](#fun_plotshape)
-* [plotchar](#fun_plotchar)
-* [label.set_size](#fun_label.set_size)
-* [size.auto](#var_size.auto)
-* [size.small](#var_size.small)
-* [size.normal](#var_size.normal)
-* [size.large](#var_size.large)
-* [size.huge](#var_size.huge)
+- [plotshape](#fun_plotshape)
+- [plotchar](#fun_plotchar)
+- [label.set_size](#fun_label.set_size)
+- [size.auto](#var_size.auto)
+- [size.small](#var_size.small)
+- [size.normal](#var_size.normal)
+- [size.large](#var_size.large)
+- [size.huge](#var_size.huge)
 
 ## splits.denominator
 
@@ -27325,7 +26824,7 @@ const string
 
 ### See also
 
-* [request.splits](#fun_request.splits)
+- [request.splits](#fun_request.splits)
 
 ## splits.numerator
 
@@ -27337,18 +26836,17 @@ const string
 
 ### See also
 
-* [request.splits](#fun_request.splits)
+- [request.splits](#fun_request.splits)
 
 ## strategy.cash
 
-this is one of the arguments that can be supplied to the \`default\_qty\_type\` parameter in the [strategy](#fun_strategy) declaration statement. it is only relevant when no value is used for the 'qty' parameter in [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) function calls. it specifies that an amount of cash in the \`strategy.account_currency\` will be used to enter trades.
+this is one of the arguments that can be supplied to the \`default_qty_type\` parameter in the [strategy](#fun_strategy) declaration statement. it is only relevant when no value is used for the 'qty' parameter in [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) function calls. it specifies that an amount of cash in the \`strategy.account_currency\` will be used to enter trades.
 
 ### Type
 
 const string
 
 ### Example
-
 
 ```s
 
@@ -27367,9 +26865,9 @@ if bar_index == 2
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
-## strategy.commission.cash\_per\_contract
+## strategy.commission.cash_per_contract
 
 Commission type for an order. Money displayed in the account currency per contract.
 
@@ -27379,9 +26877,9 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
-## strategy.commission.cash\_per\_order
+## strategy.commission.cash_per_order
 
 Commission type for an order. Money displayed in the account currency per order.
 
@@ -27391,7 +26889,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## strategy.commission.percent
 
@@ -27403,7 +26901,7 @@ const string
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## strategy.direction.all
 
@@ -27415,7 +26913,7 @@ const string
 
 ### See also
 
-* [strategy.risk.allow\_entry\_in](#fun_strategy.risk.allow_entry_in)
+- [strategy.risk.allow_entry_in](#fun_strategy.risk.allow_entry_in)
 
 ## strategy.direction.long
 
@@ -27427,7 +26925,7 @@ const string
 
 ### See also
 
-* [strategy.risk.allow\_entry\_in](#fun_strategy.risk.allow_entry_in)
+- [strategy.risk.allow_entry_in](#fun_strategy.risk.allow_entry_in)
 
 ## strategy.direction.short
 
@@ -27439,18 +26937,17 @@ const string
 
 ### See also
 
-* [strategy.risk.allow\_entry\_in](#fun_strategy.risk.allow_entry_in)
+- [strategy.risk.allow_entry_in](#fun_strategy.risk.allow_entry_in)
 
 ## strategy.fixed
 
-this is one of the arguments that can be supplied to the \`default\_qty\_type\` parameter in the [strategy](#fun_strategy) declaration statement. it is only relevant when no value is used for the 'qty' parameter in [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) function calls. it specifies that a number of contracts/shares/lots will be used to enter trades.
+this is one of the arguments that can be supplied to the \`default_qty_type\` parameter in the [strategy](#fun_strategy) declaration statement. it is only relevant when no value is used for the 'qty' parameter in [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) function calls. it specifies that a number of contracts/shares/lots will be used to enter trades.
 
 ### Type
 
 const string
 
 ### Example
-
 
 ```s
 
@@ -27469,7 +26966,7 @@ if bar_index == 2
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## strategy.oca.cancel
 
@@ -27481,9 +26978,9 @@ const string
 
 ### See also
 
-* [strategy.entry](#fun_strategy.entry)
-* [strategy.exit](#fun_strategy.exit)
-* [strategy.order](#fun_strategy.order)
+- [strategy.entry](#fun_strategy.entry)
+- [strategy.exit](#fun_strategy.exit)
+- [strategy.order](#fun_strategy.order)
 
 ## strategy.oca.none
 
@@ -27495,9 +26992,9 @@ const string
 
 ### See also
 
-* [strategy.entry](#fun_strategy.entry)
-* [strategy.exit](#fun_strategy.exit)
-* [strategy.order](#fun_strategy.order)
+- [strategy.entry](#fun_strategy.entry)
+- [strategy.exit](#fun_strategy.exit)
+- [strategy.order](#fun_strategy.order)
 
 ## strategy.oca.reduce
 
@@ -27509,20 +27006,19 @@ const string
 
 ### See also
 
-* [strategy.entry](#fun_strategy.entry)
-* [strategy.exit](#fun_strategy.exit)
-* [strategy.order](#fun_strategy.order)
+- [strategy.entry](#fun_strategy.entry)
+- [strategy.exit](#fun_strategy.exit)
+- [strategy.order](#fun_strategy.order)
 
-## strategy.percent\_of\_equity
+## strategy.percent_of_equity
 
-this is one of the arguments that can be supplied to the \`default\_qty\_type\` parameter in the [strategy](#fun_strategy) declaration statement. it is only relevant when no value is used for the 'qty' parameter in [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) function calls. it specifies that a percentage (0-100) of equity will be used to enter trades.
+this is one of the arguments that can be supplied to the \`default_qty_type\` parameter in the [strategy](#fun_strategy) declaration statement. it is only relevant when no value is used for the 'qty' parameter in [strategy.entry](#fun_strategy.entry) or [strategy.order](#fun_strategy.order) function calls. it specifies that a percentage (0-100) of equity will be used to enter trades.
 
 ### Type
 
 const string
 
 ### Example
-
 
 ```s
 
@@ -27547,11 +27043,11 @@ if bar_index == 6
 
 ### See also
 
-* [strategy](#fun_strategy)
+- [strategy](#fun_strategy)
 
 ## text.align_bottom
 
-Vertical text alignment for [box.new](#fun_box.new), [box.set\_text\_valign](#fun_box.set_text_valign), [table.cell](#fun_table.cell) and [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign) functions.
+Vertical text alignment for [box.new](#fun_box.new), [box.set_text_valign](#fun_box.set_text_valign), [table.cell](#fun_table.cell) and [table.cell_set_text_valign](#fun_table.cell_set_text_valign) functions.
 
 ### Type
 
@@ -27559,15 +27055,15 @@ const string
 
 ### See also
 
-* [table.cell](#fun_table.cell)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [text.align_center](#var_text.align_center)
-* [text.align_left](#var_text.align_left)
-* [text.align_right](#var_text.align_right)
+- [table.cell](#fun_table.cell)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [text.align_center](#var_text.align_center)
+- [text.align_left](#var_text.align_left)
+- [text.align_right](#var_text.align_right)
 
 ## text.align_center
 
-Text alignment for [box.new](#fun_box.new), [box.set\_text\_halign](#fun_box.set_text_halign), [box.set\_text\_valign](#fun_box.set_text_valign), [label.new](#fun_label.new) and [label.set_textalign](#fun_label.set_textalign) functions.
+Text alignment for [box.new](#fun_box.new), [box.set_text_halign](#fun_box.set_text_halign), [box.set_text_valign](#fun_box.set_text_valign), [label.new](#fun_label.new) and [label.set_textalign](#fun_label.set_textalign) functions.
 
 ### Type
 
@@ -27575,14 +27071,14 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [text.align_left](#var_text.align_left)
-* [text.align_right](#var_text.align_right)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [text.align_left](#var_text.align_left)
+- [text.align_right](#var_text.align_right)
 
 ## text.align_left
 
-Horizontal text alignment for [box.new](#fun_box.new), [box.set\_text\_halign](#fun_box.set_text_halign), [label.new](#fun_label.new) and [label.set_textalign](#fun_label.set_textalign) functions.
+Horizontal text alignment for [box.new](#fun_box.new), [box.set_text_halign](#fun_box.set_text_halign), [label.new](#fun_label.new) and [label.set_textalign](#fun_label.set_textalign) functions.
 
 ### Type
 
@@ -27590,14 +27086,14 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [text.align_center](#var_text.align_center)
-* [text.align_right](#var_text.align_right)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [text.align_center](#var_text.align_center)
+- [text.align_right](#var_text.align_right)
 
 ## text.align_right
 
-Horizontal text alignment for [box.new](#fun_box.new), [box.set\_text\_halign](#fun_box.set_text_halign), [label.new](#fun_label.new) and [label.set_textalign](#fun_label.set_textalign) functions.
+Horizontal text alignment for [box.new](#fun_box.new), [box.set_text_halign](#fun_box.set_text_halign), [label.new](#fun_label.new) and [label.set_textalign](#fun_label.set_textalign) functions.
 
 ### Type
 
@@ -27605,14 +27101,14 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_style](#fun_label.set_style)
-* [text.align_center](#var_text.align_center)
-* [text.align_left](#var_text.align_left)
+- [label.new](#fun_label.new)
+- [label.set_style](#fun_label.set_style)
+- [text.align_center](#var_text.align_center)
+- [text.align_left](#var_text.align_left)
 
 ## text.align_top
 
-Vertical text alignment for [box.new](#fun_box.new), [box.set\_text\_valign](#fun_box.set_text_valign), [table.cell](#fun_table.cell) and [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign) functions.
+Vertical text alignment for [box.new](#fun_box.new), [box.set_text_valign](#fun_box.set_text_valign), [table.cell](#fun_table.cell) and [table.cell_set_text_valign](#fun_table.cell_set_text_valign) functions.
 
 ### Type
 
@@ -27620,15 +27116,15 @@ const string
 
 ### See also
 
-* [table.cell](#fun_table.cell)
-* [table.cell\_set\_text_valign](#fun_table.cell_set_text_valign)
-* [text.align_center](#var_text.align_center)
-* [text.align_left](#var_text.align_left)
-* [text.align_right](#var_text.align_right)
+- [table.cell](#fun_table.cell)
+- [table.cell_set_text_valign](#fun_table.cell_set_text_valign)
+- [text.align_center](#var_text.align_center)
+- [text.align_left](#var_text.align_left)
+- [text.align_right](#var_text.align_right)
 
 ## text.wrap_auto
 
-automatic wrapping mode for [box.new](#fun_box.new) and [box.set\_text\_wrap](#fun_box.set_text_wrap) functions.
+automatic wrapping mode for [box.new](#fun_box.new) and [box.set_text_wrap](#fun_box.set_text_wrap) functions.
 
 ### Type
 
@@ -27636,13 +27132,13 @@ const string
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.set_text](#fun_box.set_text)
-* [box.set\_text\_wrap](#fun_box.set_text_wrap)
+- [box.new](#fun_box.new)
+- [box.set_text](#fun_box.set_text)
+- [box.set_text_wrap](#fun_box.set_text_wrap)
 
 ## text.wrap_none
 
-Disabled wrapping mode for [box.new](#fun_box.new) and [box.set\_text\_wrap](#fun_box.set_text_wrap) functions.
+Disabled wrapping mode for [box.new](#fun_box.new) and [box.set_text_wrap](#fun_box.set_text_wrap) functions.
 
 ### Type
 
@@ -27650,9 +27146,9 @@ const string
 
 ### See also
 
-* [box.new](#fun_box.new)
-* [box.set_text](#fun_box.set_text)
-* [box.set\_text\_wrap](#fun_box.set_text_wrap)
+- [box.new](#fun_box.new)
+- [box.set_text](#fun_box.set_text)
+- [box.set_text_wrap](#fun_box.set_text_wrap)
 
 ## xloc.bar_index
 
@@ -27664,11 +27160,11 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [label.new](#fun_label.new)
-* [line.set_xloc](#fun_line.set_xloc)
-* [label.set_xloc](#fun_label.set_xloc)
-* [xloc.bar_time](#var_xloc.bar_time)
+- [line.new](#fun_line.new)
+- [label.new](#fun_label.new)
+- [line.set_xloc](#fun_line.set_xloc)
+- [label.set_xloc](#fun_label.set_xloc)
+- [xloc.bar_time](#var_xloc.bar_time)
 
 ## xloc.bar_time
 
@@ -27680,11 +27176,11 @@ const string
 
 ### See also
 
-* [line.new](#fun_line.new)
-* [label.new](#fun_label.new)
-* [line.set_xloc](#fun_line.set_xloc)
-* [label.set_xloc](#fun_label.set_xloc)
-* [xloc.bar_index](#var_xloc.bar_index)
+- [line.new](#fun_line.new)
+- [label.new](#fun_label.new)
+- [line.set_xloc](#fun_line.set_xloc)
+- [label.set_xloc](#fun_label.set_xloc)
+- [xloc.bar_index](#var_xloc.bar_index)
 
 ## yloc.abovebar
 
@@ -27696,10 +27192,10 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_yloc](#fun_label.set_yloc)
-* [yloc.price](#var_yloc.price)
-* [yloc.belowbar](#var_yloc.belowbar)
+- [label.new](#fun_label.new)
+- [label.set_yloc](#fun_label.set_yloc)
+- [yloc.price](#var_yloc.price)
+- [yloc.belowbar](#var_yloc.belowbar)
 
 ## yloc.belowbar
 
@@ -27711,10 +27207,10 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_yloc](#fun_label.set_yloc)
-* [yloc.price](#var_yloc.price)
-* [yloc.abovebar](#var_yloc.abovebar)
+- [label.new](#fun_label.new)
+- [label.set_yloc](#fun_label.set_yloc)
+- [yloc.price](#var_yloc.price)
+- [yloc.abovebar](#var_yloc.abovebar)
 
 ## yloc.price
 
@@ -27726,14 +27222,12 @@ const string
 
 ### See also
 
-* [label.new](#fun_label.new)
-* [label.set_yloc](#fun_label.set_yloc)
-* [yloc.abovebar](#var_yloc.abovebar)
-* [yloc.belowbar](#var_yloc.belowbar)
+- [label.new](#fun_label.new)
+- [label.set_yloc](#fun_label.set_yloc)
+- [yloc.abovebar](#var_yloc.abovebar)
+- [yloc.belowbar](#var_yloc.belowbar)
 
-
-Keywords
---------
+## Keywords
 
 ## # and
 
@@ -27754,7 +27248,6 @@ boolean value, or series of boolean values.
 used in libraries to prefix the declaration of functions or user-defined type definitions that will be available from other scripts importing the library.
 
 ### Example
-
 
 ```s
 
@@ -27788,16 +27281,16 @@ the @description, @function, @param, @type, @field, and @returns compiler annota
 
 ### See also
 
--   [library
-    ](https://pinerefsmall.tiiny.site//#fun_library)
--   [import
-    ](https://pinerefsmall.tiiny.site//#op_import)
--   [simple
-    ](https://pinerefsmall.tiiny.site//#op_simple)
--   [series
-    ](https://pinerefsmall.tiiny.site//#op_series)
--   [type
-    ](https://pinerefsmall.tiiny.site//#op_type)
+- [library
+  ](https://pinerefsmall.tiiny.site//#fun_library)
+- [import
+  ](https://pinerefsmall.tiiny.site//#op_import)
+- [simple
+  ](https://pinerefsmall.tiiny.site//#op_simple)
+- [series
+  ](https://pinerefsmall.tiiny.site//#op_series)
+- [type
+  ](https://pinerefsmall.tiiny.site//#op_type)
 
 ## # false
 
@@ -27809,8 +27302,8 @@ see the user Manual for [comparison operators](https://www.tradingview.com/pine-
 
 ### See also
 
--   [bool
-    ](https://pinerefsmall.tiiny.site//#op_bool)
+- [bool
+  ](https://pinerefsmall.tiiny.site//#op_bool)
 
 ## # for
 
@@ -27844,7 +27337,6 @@ return_expression
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -27864,10 +27356,10 @@ plot(qtyOfHigherCloses(14))
 
 ### See also
 
--   [for...in
-    ](https://pinerefsmall.tiiny.site//#op_for...in)
--   [while
-    ](https://pinerefsmall.tiiny.site//#op_while)
+- [for...in
+  ](https://pinerefsmall.tiiny.site//#op_for...in)
+- [while
+  ](https://pinerefsmall.tiiny.site//#op_while)
 
 ## # for...in
 
@@ -27906,7 +27398,6 @@ Here, we use the single-argument form of `for...in` to determine on each bar how
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -27927,7 +27418,6 @@ plot(sum)
 #op_for...in) to set the values of our `ispos` array to `true` when their corresponding value in our `valuesarray` array is positive:
 
 ### Example
-
 
 ```s
 
@@ -27950,22 +27440,23 @@ Here, we use the two-argument form of for...in to set the values of our `ispos` 
 
 ### See also
 
--   [for
-    ](https://pinerefsmall.tiiny.site//#op_for)
--   [while
-    ](https://pinerefsmall.tiiny.site//#op_while)
--   [array.sum
-    ](https://pinerefsmall.tiiny.site//#fun_array.sum)
--   [array.min
-    ](https://pinerefsmall.tiiny.site//#fun_array.min)
--   [array.max
-    ](https://pinerefsmall.tiiny.site//#fun_array.max)
+- [for
+  ](https://pinerefsmall.tiiny.site//#op_for)
+- [while
+  ](https://pinerefsmall.tiiny.site//#op_while)
+- [array.sum
+  ](https://pinerefsmall.tiiny.site//#fun_array.sum)
+- [array.min
+  ](https://pinerefsmall.tiiny.site//#fun_array.min)
+- [array.max
+  ](https://pinerefsmall.tiiny.site//#fun_array.max)
 
 ## # if
 
 if statement defines what block of statements must be executed when conditions of the expression are satisfied.
 
 To have access to and use the if statement, one should specify the version >= 2 of pine scriptA(r) language in the very first line of code, for example:
+
 ```
 
 //@version=5
@@ -27999,38 +27490,38 @@ import {username}/{libraryName}/{libraryVersion} as {alias}
 
 - `username`
 
-    >  (`literal` `string`)
-    
-    >  user name of the library's author.
+  > (`literal` `string`)
+
+  > user name of the library's author.
 
 - `libraryName`
 
-    >  (`literal` `string`)
-    
-    >  Name of the imported library, which corresponds to the `title` argument used by the author in his library script.
+  > (`literal` `string`)
+
+  > Name of the imported library, which corresponds to the `title` argument used by the author in his library script.
 
 - `libraryVersion`
 
-    >  (`literal` `int`)
-    
-    >  Version number of the imported library.
+  > (`literal` `int`)
+
+  > Version number of the imported library.
 
 - `alias`
 
-    >  (`literal` `string`)
-    
-    >  Namespace used to refer to the library's functions. optional. the default is the libraryName string.
+  > (`literal` `string`)
+
+  > Namespace used to refer to the library's functions. optional. the default is the libraryName string.
 
 ### Remarks
 
-using an alias that replaces a built-in namespace such as math.* or strategy.* is allowed, but if the library contains function names that shadow pine scriptA(r)'s built-in functions, the built-ins will become unavailable. the same version of a library can only be imported once. aliases must be distinct for each imported library. When calling library functions, casting their arguments to types other than their declared type is not allowed.
+using an alias that replaces a built-in namespace such as math._ or strategy._ is allowed, but if the library contains function names that shadow pine scriptA(r)'s built-in functions, the built-ins will become unavailable. the same version of a library can only be imported once. aliases must be distinct for each imported library. When calling library functions, casting their arguments to types other than their declared type is not allowed.
 
 ### See also
 
--   [library
-    ](https://pinerefsmall.tiiny.site//#fun_library)
--   [export
-    ](https://pinerefsmall.tiiny.site//#op_export)
+- [library
+  ](https://pinerefsmall.tiiny.site//#fun_library)
+- [export
+  ](https://pinerefsmall.tiiny.site//#op_export)
 
 ## # method
 
@@ -28044,7 +27535,6 @@ the first parameter of a method declaration must be explicitly typified.
 > [export] method <functionName>(<paramType> <paramName> [= <defaultValue>], ...) =>
 <functionblock>
 ```
-
 
 //@version=5
 the 4th version of pine scriptA(r) Language allows you to use aEURoeelse ifaEUR syntax.
@@ -28074,7 +27564,6 @@ condition aEUR" if the condition is true, the logic from the block 'then' (var_d
 if the condition is false, the logic from the block 'else' (var_decl_else0, var_decl_else1, etc.) is used.
 return_expression_then, return_expression_else aEUR" the last expression from the block then or from the block else will return the final value of the statement. if declaration of the variable is in the end, its value will be the result.
 the type of returning value of the if statement depends on return_expression_then and return_expression_else type (their types must match: it is not possible to return an integer value from then, while you have a string value in else block).
-
 
 ### Example
 
@@ -28110,10 +27599,10 @@ Only one of the `local_block` instances or the `default_local_block` can be exec
 
 ### See also
 
--   [if
-    ](https://pinerefsmall.tiiny.site//#op_if)
--   [?:
-    ](https://pinerefsmall.tiiny.site//#op_?:)
+- [if
+  ](https://pinerefsmall.tiiny.site//#op_if)
+- [?:
+  ](https://pinerefsmall.tiiny.site//#op_?:)
 
 ## # true
 
@@ -28125,8 +27614,8 @@ see the user Manual for [comparison operators](https://www.tradingview.com/pine-
 
 ### See also
 
--   [bool
-    ](https://pinerefsmall.tiiny.site//#op_bool)
+- [bool
+  ](https://pinerefsmall.tiiny.site//#op_bool)
 
 ## # type
 
@@ -28149,7 +27638,6 @@ For more information see the user Manual's sections on [defining udts](https://w
 libraries can export udts. see the[libraries](https://www.tradingview.com/pine-script-docs/en/v5/concepts/libraries.html#user-defined-types-and-objects) page of our user Manual to learn more.
 
 ### Example
-
 
 ```s
 
@@ -28180,12 +27668,11 @@ var variable_name = expression
 
 where:
 
-**variable_name** - any name of the useraEUR(tm)s variable thataEUR(tm)s allowed in pine scriptA(r) (can contain capital and lowercase Latin characters, numbers, and underscores (_), but canaEUR(tm)t start with a number).
+**variable_name** - any name of the useraEUR(tm)s variable thataEUR(tm)s allowed in pine scriptA(r) (can contain capital and lowercase Latin characters, numbers, and underscores (\_), but canaEUR(tm)t start with a number).
 
 **expression** - any arithmetic expression, just as with defining a regular variable. the expression will be calculated and assigned to a variable once.
 
 ### Example
-
 
 ```s
 
@@ -28228,7 +27715,6 @@ where:
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -28247,7 +27733,6 @@ if statements can include each other:
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -28264,7 +27749,7 @@ plot(x)
 
 ```
 
-#op_+=) operation applied to both the `index` and `ticks` fields results in different real-time values because `ticks` increases on every chart update, while `index` only does so once per bar. Note how the `currbar` object does not use the [varip](https://pinerefsmall.tiiny.site//#op_varip) keyword. the `ticks` field of the object can increment on every tick, but the reference itself is defined once and then stays unchanged. if we were to declare `currbar` using [varip](https://pinerefsmall.tiiny.site//#op_varip), the behavior of `index` would remain unchanged because while the reference to the type instance would persist between chart updates, the `index` field of the object would not.
+#op\_+=) operation applied to both the `index` and `ticks` fields results in different real-time values because `ticks` increases on every chart update, while `index` only does so once per bar. Note how the `currbar` object does not use the [varip](https://pinerefsmall.tiiny.site//#op_varip) keyword. the `ticks` field of the object can increment on every tick, but the reference itself is defined once and then stays unchanged. if we were to declare `currbar` using [varip](https://pinerefsmall.tiiny.site//#op_varip), the behavior of `index` would remain unchanged because while the reference to the type instance would persist between chart updates, the `index` field of the object would not.
 
 ### Remarks
 
@@ -28302,7 +27787,6 @@ where:
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -28321,15 +27805,13 @@ plot(y)
 
 the local code block after the initial `while` line must be indented with four spaces or a tab. For the `while` loop to terminate, the boolean expression following `while` must eventually become false, or a `break` must be executed.
 
-Types
------
+## Types
 
 ## # array
 
 Keyword used to explicitly declare the "array" type of a variable or a parameter. array objects (or iDs) can be created with the [array.new<type>](https://pinerefsmall.tiiny.site//#fun_array.new%3Ctype%3E), [array.from](https://pinerefsmall.tiiny.site//#fun_array.from) function.
 
 ### Example
-
 
 ```s
 
@@ -28357,9 +27839,8 @@ plot(prices.avg())
 
 ```
 
-
-
 ## not
+
 Logical negation (NOT). applicable to boolean expressions.
 
 ### Syntax
@@ -28370,8 +27851,8 @@ not expr1
 
 boolean value, or series of boolean values.
 
-
 ## or
+
 Logical OR. applicable to boolean expressions.
 
 ### Syntax
@@ -28382,11 +27863,12 @@ expr1 or expr2
 
 boolean value, or series of boolean values.
 
-
 ## switch
+
 the switch operator transfers control to one of the several statements, depending on the values of a condition and expressions.
 
 ### Syntax
+
 ```g4
 > [variable_declaration = ] switch expression
 value1 => local_block
@@ -28429,27 +27911,26 @@ array objects are always of "series" form.
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [line
-    ](https://pinerefsmall.tiiny.site//#op_line)
--   [label
-    ](https://pinerefsmall.tiiny.site//#op_label)
--   [table
-    ](https://pinerefsmall.tiiny.site//#op_table)
--   [box
-    ](https://pinerefsmall.tiiny.site//#op_box)
--   [array.new<type>
-    ](https://pinerefsmall.tiiny.site//#fun_array.new%3Ctype%3E)
--   [array.from
-    ](https://pinerefsmall.tiiny.site//#fun_array.from)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [line
+  ](https://pinerefsmall.tiiny.site//#op_line)
+- [label
+  ](https://pinerefsmall.tiiny.site//#op_label)
+- [table
+  ](https://pinerefsmall.tiiny.site//#op_table)
+- [box
+  ](https://pinerefsmall.tiiny.site//#op_box)
+- [array.new<type>
+  ](https://pinerefsmall.tiiny.site//#fun_array.new%3Ctype%3E)
+- [array.from
+  ](https://pinerefsmall.tiiny.site//#fun_array.from)
 
 ## # bool
 
 Keyword used to explicitly declare the "bool" (boolean) type of a variable or a parameter. "bool" variables can have values [true](https://pinerefsmall.tiiny.site//#op_true), [false](https://pinerefsmall.tiiny.site//#op_false) or [na](https://pinerefsmall.tiiny.site//#var_na).
 
 ### Example
-
 
 ```s
 
@@ -28472,29 +27953,28 @@ Explicitly mentioning the type in a variable declaration is optional, except whe
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [varip
-    ](https://pinerefsmall.tiiny.site//#op_varip)
--   [int
-    ](https://pinerefsmall.tiiny.site//#op_int)
--   [float
-    ](https://pinerefsmall.tiiny.site//#op_float)
--   [color
-    ](https://pinerefsmall.tiiny.site//#op_color)
--   [string
-    ](https://pinerefsmall.tiiny.site//#op_string)
--   [true
-    ](https://pinerefsmall.tiiny.site//#op_true)
--   [false
-    ](https://pinerefsmall.tiiny.site//#op_false)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [varip
+  ](https://pinerefsmall.tiiny.site//#op_varip)
+- [int
+  ](https://pinerefsmall.tiiny.site//#op_int)
+- [float
+  ](https://pinerefsmall.tiiny.site//#op_float)
+- [color
+  ](https://pinerefsmall.tiiny.site//#op_color)
+- [string
+  ](https://pinerefsmall.tiiny.site//#op_string)
+- [true
+  ](https://pinerefsmall.tiiny.site//#op_true)
+- [false
+  ](https://pinerefsmall.tiiny.site//#op_false)
 
 ## # box
 
 Keyword used to explicitly declare the "box" type of a variable or a parameter. box objects (or iDs) can be created with the [box.new](https://pinerefsmall.tiiny.site//#fun_box.new) function.
 
 ### Example
-
 
 ```s
 
@@ -28548,16 +28028,16 @@ box objects are always of "series" form.
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [line
-    ](https://pinerefsmall.tiiny.site//#op_line)
--   [label
-    ](https://pinerefsmall.tiiny.site//#op_label)
--   [table
-    ](https://pinerefsmall.tiiny.site//#op_table)
--   [box.new
-    ](https://pinerefsmall.tiiny.site//#fun_box.new)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [line
+  ](https://pinerefsmall.tiiny.site//#op_line)
+- [label
+  ](https://pinerefsmall.tiiny.site//#op_label)
+- [table
+  ](https://pinerefsmall.tiiny.site//#op_table)
+- [box.new
+  ](https://pinerefsmall.tiiny.site//#fun_box.new)
 
 ## # chart.point
 
@@ -28573,15 +28053,14 @@ price (series float) the y-coordinate of the point.
 
 ### See also
 
--   [polyline
-    ](https://pinerefsmall.tiiny.site//#op_polyline)
+- [polyline
+  ](https://pinerefsmall.tiiny.site//#op_polyline)
 
 ## # color
 
 Keyword used to explicitly declare the "color" type of a variable or a parameter.
 
 ### Example
-
 
 ```s
 
@@ -28607,7 +28086,7 @@ the variable 'c' keeps the closing price of the tenth "green" bar in the series.
 
 ```
 
-#FF000080  // Red color (FF0000) with 50% transparency (80 which is half of FF).if barstate.islastconfirmedhistory    label.new(bar_index, high, text = "label", color = labelcolor, textcolor = textcolor)// When declaring variables with color literals, built-in constants(color.green) or functions (color.new(), color.rgb()), the "color" keyword for the type can be omitted.c = color.rgb(0,255,0,0)plot(close, color = c)
+#FF000080 // Red color (FF0000) with 50% transparency (80 which is half of FF).if barstate.islastconfirmedhistory label.new(bar_index, high, text = "label", color = labelcolor, textcolor = textcolor)// When declaring variables with color literals, built-in constants(color.green) or functions (color.new(), color.rgb()), the "color" keyword for the type can be omitted.c = color.rgb(0,255,0,0)plot(close, color = c)
 
 ### Remarks
 
@@ -28617,27 +28096,26 @@ Explicitly mentioning the type in a variable declaration is optional, except whe
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [varip
-    ](https://pinerefsmall.tiiny.site//#op_varip)
--   [int
-    ](https://pinerefsmall.tiiny.site//#op_int)
--   [float
-    ](https://pinerefsmall.tiiny.site//#op_float)
--   [string
-    ](https://pinerefsmall.tiiny.site//#op_string)
--   [color.rgb
-    ](https://pinerefsmall.tiiny.site//#fun_color.rgb)
--   [color.new
-    ](https://pinerefsmall.tiiny.site//#fun_color.new)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [varip
+  ](https://pinerefsmall.tiiny.site//#op_varip)
+- [int
+  ](https://pinerefsmall.tiiny.site//#op_int)
+- [float
+  ](https://pinerefsmall.tiiny.site//#op_float)
+- [string
+  ](https://pinerefsmall.tiiny.site//#op_string)
+- [color.rgb
+  ](https://pinerefsmall.tiiny.site//#fun_color.rgb)
+- [color.new
+  ](https://pinerefsmall.tiiny.site//#fun_color.new)
 
 ## # float
 
 Keyword used to explicitly declare the "float" (floating point) type of a variable or a parameter.
 
 ### Example
-
 
 ```s
 
@@ -28658,25 +28136,24 @@ Explicitly mentioning the type in a variable declaration is optional, except whe
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [varip
-    ](https://pinerefsmall.tiiny.site//#op_varip)
--   [int
-    ](https://pinerefsmall.tiiny.site//#op_int)
--   [bool
-    ](https://pinerefsmall.tiiny.site//#op_bool)
--   [color
-    ](https://pinerefsmall.tiiny.site//#op_color)
--   [string
-    ](https://pinerefsmall.tiiny.site//#op_string)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [varip
+  ](https://pinerefsmall.tiiny.site//#op_varip)
+- [int
+  ](https://pinerefsmall.tiiny.site//#op_int)
+- [bool
+  ](https://pinerefsmall.tiiny.site//#op_bool)
+- [color
+  ](https://pinerefsmall.tiiny.site//#op_color)
+- [string
+  ](https://pinerefsmall.tiiny.site//#op_string)
 
 ## # int
 
 Keyword used to explicitly declare the "int" (integer) type of a variable or a parameter.
 
 ### Example
-
 
 ```s
 
@@ -28705,25 +28182,24 @@ Explicitly mentioning the type in a variable declaration is optional, except whe
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [varip
-    ](https://pinerefsmall.tiiny.site//#op_varip)
--   [float
-    ](https://pinerefsmall.tiiny.site//#op_float)
--   [bool
-    ](https://pinerefsmall.tiiny.site//#op_bool)
--   [color
-    ](https://pinerefsmall.tiiny.site//#op_color)
--   [string
-    ](https://pinerefsmall.tiiny.site//#op_string)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [varip
+  ](https://pinerefsmall.tiiny.site//#op_varip)
+- [float
+  ](https://pinerefsmall.tiiny.site//#op_float)
+- [bool
+  ](https://pinerefsmall.tiiny.site//#op_bool)
+- [color
+  ](https://pinerefsmall.tiiny.site//#op_color)
+- [string
+  ](https://pinerefsmall.tiiny.site//#op_string)
 
 ## # label
 
 Keyword used to explicitly declare the "label" type of a variable or a parameter. label objects (or iDs) can be created with the [label.new](https://pinerefsmall.tiiny.site//#fun_label.new) function.
 
 ### Example
-
 
 ```s
 
@@ -28748,21 +28224,20 @@ label objects are always of "series" form.
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [line
-    ](https://pinerefsmall.tiiny.site//#op_line)
--   [box
-    ](https://pinerefsmall.tiiny.site//#op_box)
--   [label.new
-    ](https://pinerefsmall.tiiny.site//#fun_label.new)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [line
+  ](https://pinerefsmall.tiiny.site//#op_line)
+- [box
+  ](https://pinerefsmall.tiiny.site//#op_box)
+- [label.new
+  ](https://pinerefsmall.tiiny.site//#fun_label.new)
 
 ## # line
 
 Keyword used to explicitly declare the "line" type of a variable or a parameter. line objects (or iDs) can be created with the [line.new](https://pinerefsmall.tiiny.site//#fun_line.new) function.
 
 ### Example
-
 
 ```s
 
@@ -28781,21 +28256,20 @@ line objects are always of "series" form.
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [label
-    ](https://pinerefsmall.tiiny.site//#op_label)
--   [box
-    ](https://pinerefsmall.tiiny.site//#op_box)
--   [line.new
-    ](https://pinerefsmall.tiiny.site//#fun_line.new)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [label
+  ](https://pinerefsmall.tiiny.site//#op_label)
+- [box
+  ](https://pinerefsmall.tiiny.site//#op_box)
+- [line.new
+  ](https://pinerefsmall.tiiny.site//#fun_line.new)
 
 ## # linefill
 
 Keyword used to explicitly declare the "linefill" type of a variable or a parameter. linefill objects (or iDs) can be created with the [linefill.new](https://pinerefsmall.tiiny.site//#fun_linefill.new) function.
 
 ### Example
-
 
 ```s
 
@@ -28814,25 +28288,24 @@ linefill objects are always of "series" form.
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [line
-    ](https://pinerefsmall.tiiny.site//#op_line)
--   [label
-    ](https://pinerefsmall.tiiny.site//#op_label)
--   [table
-    ](https://pinerefsmall.tiiny.site//#op_table)
--   [box
-    ](https://pinerefsmall.tiiny.site//#op_box)
--   [linefill.new
-    ](https://pinerefsmall.tiiny.site//#fun_linefill.new)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [line
+  ](https://pinerefsmall.tiiny.site//#op_line)
+- [label
+  ](https://pinerefsmall.tiiny.site//#op_label)
+- [table
+  ](https://pinerefsmall.tiiny.site//#op_table)
+- [box
+  ](https://pinerefsmall.tiiny.site//#op_box)
+- [linefill.new
+  ](https://pinerefsmall.tiiny.site//#fun_linefill.new)
 
 ## # map
 
 Keyword used to explicitly declare the "map" type of a variable or a parameter. map objects (or iDs) can be created with the [map.new<type,type>](https://pinerefsmall.tiiny.site//#fun_map.new%3Ctype,type%3E) function.
 
 ### Example
-
 
 ```s
 
@@ -28854,15 +28327,15 @@ map objects are always of [series](https://www.tradingview.com/pine-script-docs/
 ### See also
 
 > [map.new<type,type>
-](https://pinerefsmall.tiiny.site//
-#fun_map.new%3Ctype,type%3E)
+>
+> > ](https://pinerefsmall.tiiny.site//
+> > #fun_map.new%3Ctype,type%3E)
 
 ## # matrix
 
 Keyword used to explicitly declare the "matrix" type of a variable or a parameter. Matrix objects (or iDs) can be created with the [matrix.new<type>](https://pinerefsmall.tiiny.site//#fun_matrix.new%3Ctype%3E) function.
 
 ### Example
-
 
 ```s
 
@@ -28887,12 +28360,12 @@ Matrix objects are always of "series" form.
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [matrix.new<type>
-    ](https://pinerefsmall.tiiny.site//#fun_matrix.new%3Ctype%3E)
--   [array
-    ](https://pinerefsmall.tiiny.site//#op_array)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [matrix.new<type>
+  ](https://pinerefsmall.tiiny.site//#fun_matrix.new%3Ctype%3E)
+- [array
+  ](https://pinerefsmall.tiiny.site//#op_array)
 
 ## # polyline
 
@@ -28900,8 +28373,8 @@ Keyword to explicitly declare the type of a variable or parameter as `polyline`.
 
 ### See also
 
--   [chart.point
-    ](https://pinerefsmall.tiiny.site//#op_chart.point)
+- [chart.point
+  ](https://pinerefsmall.tiiny.site//#op_chart.point)
 
 ## # series
 
@@ -28914,7 +28387,6 @@ export <functionName>([[series] <type>] <arg1>[ = <default_value>])
 ```
 
 ### Example
-
 
 ```s
 
@@ -28939,7 +28411,6 @@ export <functionName>([[simple] <type>] <arg1>[ = <default_value>])
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -28956,7 +28427,6 @@ plot(i)
 Keyword used to explicitly declare the "string" type of a variable or a parameter.
 
 ### Example
-
 
 ```s
 
@@ -28978,27 +28448,26 @@ Explicitly mentioning the type in a variable declaration is optional, except whe
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [varip
-    ](https://pinerefsmall.tiiny.site//#op_varip)
--   [int
-    ](https://pinerefsmall.tiiny.site//#op_int)
--   [float
-    ](https://pinerefsmall.tiiny.site//#op_float)
--   [bool
-    ](https://pinerefsmall.tiiny.site//#op_bool)
--   [str.tostring
-    ](https://pinerefsmall.tiiny.site//#fun_str.tostring)
--   [str.format
-    ](https://pinerefsmall.tiiny.site//#fun_str.format)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [varip
+  ](https://pinerefsmall.tiiny.site//#op_varip)
+- [int
+  ](https://pinerefsmall.tiiny.site//#op_int)
+- [float
+  ](https://pinerefsmall.tiiny.site//#op_float)
+- [bool
+  ](https://pinerefsmall.tiiny.site//#op_bool)
+- [str.tostring
+  ](https://pinerefsmall.tiiny.site//#fun_str.tostring)
+- [str.format
+  ](https://pinerefsmall.tiiny.site//#fun_str.format)
 
 ## # table
 
 Keyword used to explicitly declare the "table" type of a variable or a parameter. table objects (or iDs) can be created with the [table.new](https://pinerefsmall.tiiny.site//#fun_table.new) function.
 
 ### Example
-
 
 ```s
 
@@ -29019,19 +28488,18 @@ table objects are always of "series" form.
 
 ### See also
 
--   [var
-    ](https://pinerefsmall.tiiny.site//#op_var)
--   [line
-    ](https://pinerefsmall.tiiny.site//#op_line)
--   [label
-    ](https://pinerefsmall.tiiny.site//#op_label)
--   [box
-    ](https://pinerefsmall.tiiny.site//#op_box)
--   [table.new
-    ](https://pinerefsmall.tiiny.site//#fun_table.new)
+- [var
+  ](https://pinerefsmall.tiiny.site//#op_var)
+- [line
+  ](https://pinerefsmall.tiiny.site//#op_line)
+- [label
+  ](https://pinerefsmall.tiiny.site//#op_label)
+- [box
+  ](https://pinerefsmall.tiiny.site//#op_box)
+- [table.new
+  ](https://pinerefsmall.tiiny.site//#fun_table.new)
 
-Operators
----------
+## Operators
 
 ## # -
 
@@ -29067,7 +28535,6 @@ expr1 -= expr2
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -29100,7 +28567,6 @@ Reassignment operator. it is used to assign a new value to a previously declared
 ```
 
 ### Example
-
 
 ```s
 
@@ -29140,7 +28606,6 @@ expr1 ? expr2 : expr3
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -29173,8 +28638,8 @@ You may use arithmetic operators with numbers as well as with series variables. 
 
 ### See also
 
--   [na
-    ](https://pinerefsmall.tiiny.site//#var_na)
+- [na
+  ](https://pinerefsmall.tiiny.site//#var_na)
 
 ## # []
 
@@ -29187,7 +28652,6 @@ expr1[expr2]
 ```
 
 ### Example
-
 
 ```s
 
@@ -29205,10 +28669,10 @@ a series of values.
 
 ### See also
 
--   [math.floor
-    ](https://pinerefsmall.tiiny.site//#fun_math.floor)
+- [math.floor
+  ](https://pinerefsmall.tiiny.site//#fun_math.floor)
 
-## # *
+## # \*
 
 Multiplication. applicable to numerical expressions.
 
@@ -29222,7 +28686,7 @@ expr1 * expr2
 
 integer or float value, or series of values.
 
-## # *=
+## # \*=
 
 Multiplication assignment. applicable to numerical expressions.
 
@@ -29233,7 +28697,6 @@ expr1 *= expr2
 ```
 
 ### Example
-
 
 ```s
 
@@ -29281,7 +28744,6 @@ expr1 /= expr2
 
 ### Example
 
-
 ```s
 
 //@version=5
@@ -29315,7 +28777,7 @@ integer or float value, or series of values.
 
 in pine scriptA(r), when the integer remainder is calculated, the quotient is truncated, i.e. rounded towards the lowest absolute value. the resulting value will have the same sign as the dividend.
 
-Example: -1 % 9 = -1 - 9 * truncate(-1/9) = -1 - 9 * truncate(-0.111) = -1 - 9 * 0 = -1.
+Example: -1 % 9 = -1 - 9 _ truncate(-1/9) = -1 - 9 _ truncate(-0.111) = -1 - 9 \* 0 = -1.
 
 ## # %=
 
@@ -29328,7 +28790,6 @@ expr1 %= expr2
 ```
 
 ### Example
-
 
 ```s
 
@@ -29385,7 +28846,6 @@ expr1 += expr2
 ```
 
 ### Example
-
 
 ```s
 
@@ -29470,7 +28930,6 @@ a <local_block> is zero or more pine scriptA(r) statements.
 the <function_result> is a variable, an expression, or a tuple.
 
 ### Example
-
 
 ```s
 
