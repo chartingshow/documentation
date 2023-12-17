@@ -12,7 +12,7 @@ Blocks browser-based crypto mining, cryptojacking, banking and crypto malware an
 
 - [Brave Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/brave-browser-instructions.md)
 
-> *More help guides will be added.*
+> _More help guides will be added._
 
 If you discover a false positive or need to add a new block, then feel free to raise an [Issue](https://github.com/chartingshow/crypto-firewall/issues/new/choose) or a [Pull request](https://github.com/chartingshow/crypto-firewall/pulls) to **add/remove** them to the lists.
 
