@@ -1,3 +1,3 @@
 ## Trading Glossary
 
-..
+TO DO IN THE PROCESS OF WRITING THIS ...
