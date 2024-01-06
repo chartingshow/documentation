@@ -6,62 +6,12 @@ labels: 'enhancement 👍, enhancement :+1:, Code Update 🔔, In-progress, Prio
 
 ## Enhancement idea
 
-- [ ] e.g. Add this to firewall or virus definitions
+- [ ] e.g. Add Feature: Super Cool New Trading Algorithm.
 
 ## Description
 
 n/a
 
 ## Links
-
-n/a
-
-## IOC
-
-### I2P websites
-
-n/a
-
-### IPFS websites
-
-n/a
-
-### Tor2web websites
-
-n/a
-
-### TOR websites
-
-n/a
-
-### URL's
-
-n/a
-
-### Folders
-
-n/a
-
-### Sub-Domains
-
-n/a
-
-### Domains
-
-n/a
-
-### IP's
-
-n/a
-
-### Emails
-
-n/a
-
-### Wallet addresses
-
-n/a
-
-### Mining pool addresses
 
 n/a
