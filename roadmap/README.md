@@ -51,14 +51,14 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
-            <td>Trend Analysis 1</td>
-            <td>Trading Algorithm</td>
+            <td>Trend Analysis Model 1</td>
+            <td>Trading Algorithm and Library</td>
             <td>Trend analysis combining volatility and pivot points algorithm. This algorithm is an external module which can be used to power other modules and algorithms.</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
-            <td>Trend Analysis 2</td>
-            <td>Trading Algorithm</td>
+            <td>Trend Analysis Model 2</td>
+            <td>Trading Algorithm and Library</td>
             <td>Trend analysis combining volatility and average true range (ATR) algorithm. This algorithm is an external module which can be used to power other modules and algorithms.</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
