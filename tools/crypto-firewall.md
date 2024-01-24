@@ -13,8 +13,7 @@ Blocks browser-based crypto mining, cryptojacking, banking and crypto malware an
 - [Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/hosts-instructions.md)
 
 - [uBlock Origin Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)
-- 
-> _More help guides will be added._
+- > _More help guides will be added._
 
 If you discover a false positive or need to add a new block, then feel free to raise an [Issue](https://github.com/chartingshow/crypto-firewall/issues/new/choose) or a [Pull request](https://github.com/chartingshow/crypto-firewall/pulls) to **add/remove** them to the lists.
 
