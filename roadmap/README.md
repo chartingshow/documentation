@@ -105,6 +105,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Bull/Bear Strength</td>
+            <td>Trading Algorithm</td>
+            <td>This algorithm measures the speed and magnitude of an assets recent price changes by comparing the buying strength on days when prices go up to its selling strength on days when prices go down. The result of this comparison to price action can give traders an idea of how the asset may perform and how strong or weak the buying/selling action is happening. This can also help to indicate possible trend reversals or a corrective pullback in price action. The algorithm works out the short, medium and long-term outlooks for the Bull/Bear Strength. For short-term analysis the algorithm alerts the trader to warning signals and for medium to long-term confirmed buying and selling signals are generated.</td>
+            <td><img src="[https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png](https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/in-development.png)" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
