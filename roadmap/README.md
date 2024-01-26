@@ -111,6 +111,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Polynomial Mean Spread</td>
+            <td>Trading Algorithm</td>
+            <td>Combines regression and outlier detection methods. It's lower and upper range define a prescribed probability quantile in the normal standard deviation distribution and aims to capture more than 95% of the current price action predicted interval.</td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
