@@ -119,7 +119,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
         <tr>
             <td>Current Timeframe (CTF) Trend Support and Resistance Areas</td>
             <td>Trading Algorithm</td>
-            <td>This algorithm combines Trend Analysis Models 1 and 2 together to form support and resistance areas on the current timeframe (CTF). Traders can use these areas can be used to find potential "<strong>bounce</strong>" and "<strong>reversal</strong>" price pivots.</td>
+            <td>This algorithm combines Trend Analysis Models 1 and 2 together to form support and resistance areas on the current timeframe (CTF). Traders can use these areas to find potential "<strong>bounce</strong>" and "<strong>reversal</strong>" price pivots.</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
