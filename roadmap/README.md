@@ -18,7 +18,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td>AI Forecast</td>
             <td>Trading Algorithm and ML Library</td>
             <td>This algorithm was added to predicted the "<strong>near-term</strong>" price action by default.
-                Users can adjust the settings to expand the forcast length and the machine learning modelling time.
+                Users can adjust the settings to expand the forcast length, colour, add a label and the machine learning modelling time.
                 The results are displayed in the data window and there is a setting to hide it from the chart.</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
