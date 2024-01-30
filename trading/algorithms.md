@@ -117,12 +117,6 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
-            <td>Large Numbers</td>
-            <td>Core Algorithm</td>
-            <td>Seeing <code>458698828817</code> instead of this <code>458.67 B</code> makes it harder on the eyes to work things out. To keep charts future proof, e.g. Bitcoin going over <code>100000</code> or even <code>1000000</code> prices will be written as <code>100 K</code> and <code>1 M</code> etc.</td>
-            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
-        </tr>
-        <tr>
             <td>Ichimoku Cloud Median Area</td>
             <td>Algorithm</td>
             <td>This algorithm was dropped due to giving poor results and traders are advised to use the Trend Analysis Models 1 and 2 instead giving superior results.</td>
@@ -150,6 +144,30 @@ Below shows all the current trading algorithms development stages and let's user
             <td>Long-Term Timeframes</td>
             <td>Core Algorithm</td>
             <td>Currently supports the following timeframes: <code>M1, M3, M5, M15, M30, M45, H1, H2, H3, H4, H6, H8, H12, D1, W1, M1, M3, M6</code> and <code>M12</code>. Automatically sets a <code>D1</code> timeframe on timeframes lower than <code>D1</code>. For timeframes <code>D1, W1, M1, M3</code> and <code>M6</code> a higher timeframe is selected, e.g. <code>W1</code> becomes <code>M1</code> etc. For M12 timeframe this is set to <code>M12 / Y1</code>. Currently not setup to process <strong>seconds</strong> or <strong>ranges</strong>. Also <strong>ticker</strong> timeframes are excluded from this algorithms calculations.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
+            <td>Tick Formatter</td>
+            <td>Core Trading Algorithm</td>
+            <td>Produce a string format usable to restrict precision to ticks.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
+            <td>Truncate</td>
+            <td>Core Trading Algorithm</td>
+            <td>Truncate (cut) excess decimal places.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
+            <td>Format Large Numbers</td>
+            <td>Core Trading Algorithm</td>
+            <td>Seeing <code>458698828817</code> instead of this <code>458.67 B</code> makes it harder on the eyes to work things out. To keep charts future proof, e.g. Bitcoin going over <code>100000</code> or even <code>1000000</code> prices will be written as <code>100 K</code> and <code>1 M</code> etc.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
+            <td>Milliseconds Timestamp</td>
+            <td>Core Trading Algorithm</td>
+            <td>Find milliseconds for the current timeframe (CTF).</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
