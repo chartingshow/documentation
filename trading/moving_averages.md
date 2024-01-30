@@ -17,6 +17,7 @@ The Charting Show support the following moving averages in our custom trading al
 | EHMA         | Exponential Hull Moving Average                              |
 | ELF          | Ehlers Laguerre Filter                                       |
 | EMA          | Exponential Moving Average                                   |
+
 ETMA Exponential Triangular Moving Average
 EVWMA | Elastic Volume Weighted Moving Average
 FAMA | Following Adaptive Moving Average
