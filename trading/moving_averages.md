@@ -2,21 +2,22 @@
 
 The Charting Show support the following moving averages in our custom trading algorithms:
 
-Abbreviation | Full Name
----|---
-ALMA | Arnaud Legoux Moving Average
-AMA | Adjusted Moving Average
-CMA | Corrective Moving Average
-COVWEMA | Coefficient of Variation Weighted Exponential Moving Average
-COVWMA | Coefficient of Variation Weighted Moving Average
-DEMA | Double Exponential Moving Average
-EALF | Ehlers Adaptive Laguerre filter
-EDMA | MZ Exponentially Deviating Moving Average
-EDSMA | Ehlers Deviation Scaled Moving Average
-EFRAMA | Ehlrs Modified Fractal Adaptive Moving Average
-EHMA | Exponential Hull Moving Average
-ELF | Ehlers Laguerre Filter
-EMA | Exponential Moving Average
+| Abbreviation | Full Name                                                    |
+| ------------ | ------------------------------------------------------------ |
+| ALMA         | Arnaud Legoux Moving Average                                 |
+| AMA          | Adjusted Moving Average                                      |
+| CMA          | Corrective Moving Average                                    |
+| COVWEMA      | Coefficient of Variation Weighted Exponential Moving Average |
+| COVWMA       | Coefficient of Variation Weighted Moving Average             |
+| DEMA         | Double Exponential Moving Average                            |
+| EALF         | Ehlers Adaptive Laguerre filter                              |
+| EDMA         | MZ Exponentially Deviating Moving Average                    |
+| EDSMA        | Ehlers Deviation Scaled Moving Average                       |
+| EFRAMA       | Ehlrs Modified Fractal Adaptive Moving Average               |
+| EHMA         | Exponential Hull Moving Average                              |
+| ELF          | Ehlers Laguerre Filter                                       |
+| EMA          | Exponential Moving Average                                   |
+
 ETMA Exponential Triangular Moving Average
 EVWMA | Elastic Volume Weighted Moving Average
 FAMA | Following Adaptive Moving Average
@@ -51,5 +52,4 @@ WWMA | Welles Wilder Moving Average
 ZEMA | Zero-Lag Exponential Moving Average
 ZSMA | Zero-Lag Simple Moving Average
 
-(*) - To provide traders with the most options, we intend to continue adding new moving averages.
-
+(\*) - To provide traders with the most options, we intend to continue adding new moving averages.
