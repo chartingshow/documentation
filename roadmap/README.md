@@ -99,12 +99,6 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
-            <td>Large Numbers</td>
-            <td>Core Trading Algorithm</td>
-            <td>Seeing <code>458698828817</code> instead of this <code>458.67 B</code> makes it harder on the eyes to work things out. To keep charts future proof, e.g. Bitcoin going over <code>100000</code> or even <code>1000000</code> prices will be written as <code>100 K</code> and <code>1 M</code> etc.</td>
-            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
-        </tr>
-        <tr>
             <td>Bull/Bear Strength</td>
             <td>Trading Algorithm</td>
             <td>This algorithm measures the speed and magnitude of an assets recent price changes by comparing the buying strength on days when prices go up to its selling strength on days when prices go down. The result of this comparison to price action can give traders an idea of how the asset may perform and how strong or weak the buying/selling action is happening. This can also help to indicate possible trend reversals or a corrective pullback in price action. The algorithm works out the short, medium and long-term outlooks for the Bull/Bear Strength. For short-term analysis the algorithm alerts the trader to warning signals and for medium to long-term confirmed buying and selling signals are generated.</td>
@@ -138,6 +132,30 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td>Long-Term Timeframes</td>
             <td>Core Trading Algorithm</td>
             <td>Currently supports the following timeframes: <code>M1, M3, M5, M15, M30, M45, H1, H2, H3, H4, H6, H8, H12, D1, W1, M1, M3, M6</code> and <code>M12</code>. Automatically sets a <code>D1</code> timeframe on timeframes lower than <code>D1</code>. For timeframes <code>D1, W1, M1, M3</code> and <code>M6</code> a higher timeframe is selected, e.g. <code>W1</code> becomes <code>M1</code> etc. For M12 timeframe this is set to <code>M12 / Y1</code>. Currently not setup to process <strong>seconds</strong> or <strong>ranges</strong>. Also <strong>ticker</strong> timeframes are excluded from this algorithms calculations.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
+            <td>Tick Formatter</td>
+            <td>Core Trading Algorithm</td>
+            <td>Produce a string format usable to restrict precision to ticks.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
+            <td>Truncate</td>
+            <td>Core Trading Algorithm</td>
+            <td>Truncate (cut) excess decimal places.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
+            <td>Format Large Numbers</td>
+            <td>Core Trading Algorithm</td>
+            <td>Seeing <code>458698828817</code> instead of this <code>458.67 B</code> makes it harder on the eyes to work things out. To keep charts future proof, e.g. Bitcoin going over <code>100000</code> or even <code>1000000</code> prices will be written as <code>100 K</code> and <code>1 M</code> etc.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
+            <td>Milliseconds Timestamp</td>
+            <td>Core Trading Algorithm</td>
+            <td>Find milliseconds for the current timeframe (CTF).</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
