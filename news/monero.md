@@ -12,7 +12,7 @@ The prosecutor described the additional investigation as a significant demonstra
 
 Kivimäki's defense naturally disagrees. The content of the KRP's report has been strongly disputed. According to the defense, it has not been possible to find out the movements of the money as claimed by the police. Kivimäki has generally denied all criminal charges.
 
-What exactly did KRP find out and how? MTV Uutiset got acquainted with the additional investigation report prepared by KRP.
+What exactly did KRP find out and how? The Charting Show team got acquainted with the additional investigation report prepared by KRP.
 
 ## Old gimmick
 
