@@ -159,6 +159,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Big Move Gauge</td>
+            <td>Trading Algorithm</td>
+            <td><p>The big move gauge algorithm uses the daily calculations of volatility and time-weighted average prices (TWAP) calculated by taking price measurements at 1 minute intervals from the Bitcoin vs the US Dollar price. The <code>fast</code> setting uses a 24-hour H1 timeframe setting and the <code>slow</code> setting uses a rolling 7-day H4 timeframe setting.</p><p>The <code>fast</code> setting shows all the smaller individual moves and traders can look at each move to tell if the bulls or bears are in-control of the price action at that exact period. Traders can also use the <code>fast</code> setting to confirm U-Shape and V-Shape pattern moves. Traders can also use the <code>fast</code> setting to confirm lower-timeframe breakouts. The <code>fast</code> module uses the Trend Analysis Model 2 algorithm with a setting of <code>10.0</code> which is quicker than Trend Analysis Model 1 default setting.</p><p>The <code>slow</code> setting shows all the longer trend moves and traders can use this to confirm breakouts and when the momentum for the trend is over. Traders can also use the <code>slow</code> setting to confirm higher-timeframe breakouts. The <code>slow</code> module uses the Trend Analysis Model 1 algorithm with the default settings.</p></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
