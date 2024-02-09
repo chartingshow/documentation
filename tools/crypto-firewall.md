@@ -16,6 +16,17 @@ Blocks browser-based crypto mining, cryptojacking, banking and crypto malware an
 
 > _More help guides will be added._
 
+<h3>Recommended versions</h3>
+
+The firewall is known to reduce performance slightly and this is why we have several different versions. Here's a suggested guide based on cpu processors:
+
+- Intel i3 - use `full` version and is bad performance then try `lite` version.
+- Intel i5 - use `full` version and is bad performance then try `lite` version.
+- Intel i7 - use `mega` version and is bad performance then try `full` version.
+- Intel i9 - use `beta` or `mega` version and is bad performance then try `full` version.
+
+<h3>Issues and Suggestions</h3>
+
 If you discover a false positive or need to add a new block, then feel free to raise an [Issue](https://github.com/chartingshow/crypto-firewall/issues/new/choose) or a [Pull request](https://github.com/chartingshow/crypto-firewall/pulls) to **add/remove** them to the lists.
 
 **Disclaimer:** New websites are being created all the time to steal cryptocurrencies from users, this is a cat and mouse game and these filter lists are not intended to be a complete solution! User discretion is advised, care and diligence of cyber security to avoid scams are recommended.
