@@ -18,12 +18,12 @@ Blocks browser-based crypto mining, cryptojacking, banking and crypto malware an
 
 <h3>Recommended versions</h3>
 
-The firewall is known to reduce performance slightly and this is why we have several different versions. Here's a suggested guide based on cpu processors:
+The firewall is known to reduce performance slightly and this is why we have several **different** versions. Here's a suggested guide based on cpu processors:
 
-- Intel i3 - use `full` version and is bad performance then try `lite` version.
-- Intel i5 - use `full` version and is bad performance then try `lite` version.
-- Intel i7 - use `mega` version and is bad performance then try `full` version.
-- Intel i9 - use `beta` or `mega` version and is bad performance then try `full` version.
+- Intel i3 - use `full` version (if you experience bad performance then try `lite` version instead).
+- Intel i5 - use `full` version (if you experience bad performance then try `lite` version instead).
+- Intel i7 - use `mega` version (if you experience bad performance then try `full` version instead).
+- Intel i9 - use `beta` or `mega` (if you experience bad performance then try `full` version instead).
 
 <h3>Issues and Suggestions</h3>
 
