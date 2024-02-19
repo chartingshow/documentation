@@ -177,6 +177,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Dominance Algorithm</td>
+            <td>Algorithm</td>
+            <td><p>The dominance algorithm is used to measure the relative market strength of Bitcoin vs the Altcoins in the overall cryptocurrency market. This metric is used by crypto traders to understand market trends, spot possible trading opportunities and gauge the performance of altcoins relative to Bitcoin.</p><p>The dominance algorithm is made up of several parts, the first part works out who controls the dominance in the cryptocurrency market, this will either be "Bitcoin" or the "Altcoins".</p><p>The second part compares the daily changes between Bitcoin and the Crypto Market algorithm, which outputs a percentage score.</p><p>The next part checks to see if Bitcoin is making gains or losses and then checks to see if the Altcoins are making gains or losses. If both are making gains the strength is increasing, if one is making a gain and the other one is making a loss strength is going sideways and if both are making a loss then the strength is decreasing.</p><p>The last part works out the strength and classifies the percentage score into four results, these are: "Weak", "Medium", "Strong" and "Extreme" (listed in strength order).</p><p>A consolidation trading period would likely see a "Weak" strength. While "Bitcoin" having a "Strong" strength would drag the cryptocurrencies, in an up trend this would force the Altcoins to have a green day and in a down trend would result in the Altcoins seeing a red day! Another example would be "Altcoins" and "Weak" the trader would expect to see the Altcoins making small gains! While "Altcoins" and "Extreme" the trader would expect to see the Altcoins making large gains! An "Altcoin Season" the trader would expect to see either "Altcoins" and "Strong" / "Altcoins" and "Extreme".</p><p>Therefore, changes in the dominance algorithm can help traders make decisions about how to position themselves in the cryptocurrency market.</p></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
