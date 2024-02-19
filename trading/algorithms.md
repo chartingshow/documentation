@@ -183,6 +183,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Crypto Market Sentiment</td>
+            <td>Algorithm</td>
+            <td><p>The Crypto Market Sentiment algorithm reflects the collective mood of investors overall regarding the cryptocurrency sector as a whole.</p><p>The mood of the market is affected by crowd psychology and can impact a coin or tokens outlook by the market's direction.</p><p>It involves analysing the collective mood of market participants, revealed through buying and selling activity, identifying bullish or bearish sentiment and navigating market volatility.</p><p>In general, rising prices imply optimism about the market, while declining prices suggest the opposite.</p><p>The Crypto Market Sentiment algorithm is split into three result sections, these deal with the short-term, medium-term and long-term sentiment of the cryptocurrency market as a whole.</p><p>The short-term looks at the 'Intraday' trading period, which is also referred to as 'Day Trading'.</p><p>The medium-term looks at the 'Swing' trading period, a style of trading that attempts to capture the medium-term gains in a cryptoasset (or any financial instrument) over a period of a few days to several weeks.</p><p>The long-term looks at the 'Position' trading period, a common trading strategy where an individual holds a position in a cryptoasset for a long period of time, typically over a number of months or years. In the context of cryptocurrencies, bull and bear markets relate to both the overall state of the market as well as specific markets. Given the daily changes and ongoing volatility of the market, these phrases are used to characterise longer periods of mostly positive or downward movement.</p></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
