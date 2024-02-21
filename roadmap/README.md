@@ -77,7 +77,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
         <tr>
             <td>High-Low</td>
             <td>Trading Algorithm</td>
-            <td>The algorithm finds the pivot highs and pivot lows then calculates the higher highs and lower lows. If price breaks the resistance levels it's an up trend and if price breaks the support level it's a down trend.</td>
+            <td><p>The High-Low algorithm finds pivot (swing) highs and pivot (swing) lows and then calculates the higher highs (HH), lower lows (LL), higher lows (HL) and lower highs (LH) swing points.</p><p>The pivot points are calculated using a default setting of 3. A higher setting results in less swing points and a lower setting results in more swing points. The pivot points are more significant and noteworthy the longer the trend. This means if the trader selects a higher setting, the trend could be longer and therefore prove to be more notable.</p><p>The High-Low algorithm is used to determine and anticipate potential price changes and reversals. It also calculates support and resistance trendlines in real-time by analysing the HH, HL, LL and LH swing points. Generally up trends are made up of higher highs (HH) and higher lows (HL), while down trends are made up of lower lows (LL) and lower highs (LH).</p></td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
