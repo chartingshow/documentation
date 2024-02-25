@@ -189,6 +189,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Liquidations</td>
+            <td>Algorithm</td>
+            <td><p>Crypto liquidations refer to the process of forcibly closing a trader's positions in the cryptocurrency market when their margin account cannot meet the required maintenance level. This occurs to cover margin calls and prevent further losses. Automated procedures like auto-liquidation algorithms are used by brokers to manage these liquidations in real-time.</p><p>The liquidation process typically involves stages such as pre-liquidation, automatic partial liquidation, liquidity support programs, insurance funds and auto-deleveraging to manage risks associated with margin trading. These processes aim to prevent excessive losses and maintain market stability in the face of high volatility in crypto-assets.</p><p>Many websites have crypto liquidation API's where the data is delayed for 1-4 hours (depending upon the exchange). The Liquidations Algorithm displays the liquidations in "real-time" with zero delay meaning it's a <code>leading</code> and not a <code>lagging</code> gauge. Which helps traders to better understand the dynamics of the overall crypto market and the cryptocurrency token they are trading.</p></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
