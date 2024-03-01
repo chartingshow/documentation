@@ -195,6 +195,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Daily Change Percentage</td>
+            <td>Algorithm</td>
+            <td>The daily percentage change algorithm uses the closing price and calculates the percentage change in a cryptoassets value over a single day of trading. This calculation does not consider circulating supply or other factors that can be easily computed. It's used to frequently analyse fluctuations in cryptocurrency prices or market indexes over time. It helps track price changes in various financial instruments and is crucial for understanding the market dynamics. The calculations are fundamental in assessing the performance and volatility of a digital currency and other assets.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
