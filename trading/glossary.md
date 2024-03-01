@@ -107,8 +107,7 @@ Trend lines are a fundamental tool in trading, aiding both beginners and seasone
 
 - **Confirmed:** Drawn with a `solid` line.
 - **Unconfirmed:** Drawn with a `dotted` or `dashed` line.
-- 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/trendlines.png" alt="trend lines"></p>
+- <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/trendlines.png" alt="trend lines"></p>
 
 ### Trading Strategies with Trend Lines
 
