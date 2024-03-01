@@ -183,6 +183,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Daily Change Percentage</td>
+            <td>Trading Algorithm</td>
+            <td>The daily percentage change algorithm uses the closing price and calculates the percentage change in a cryptoassets value over a single day of trading. This calculation does not consider circulating supply or other factors that can be easily computed. It's used to frequently analyse fluctuations in cryptocurrency prices or market indexes over time. It helps track price changes in various financial instruments and is crucial for understanding the market dynamics. The calculations are fundamental in assessing the performance and volatility of a digital currency and other assets.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
