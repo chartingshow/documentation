@@ -189,6 +189,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Scheduled Maintenance</td>
+            <td>Core Module</td>
+            <td>Scheduled maintenance is any repair and service work performed within a set timeframe. It details when given maintenance tasks are performed and by who. Scheduled maintenance may occur at repeating intervals or in response to a work request.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
