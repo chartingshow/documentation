@@ -201,6 +201,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Divergence From Mean</td>
+            <td>Algorithm</td>
+            <td><p>This algorithm was dropped due to producing conflicting results for traders. For example, during a healthy up trend, price action will often be quite far away from the medium-term mean. The algorithm signalled a "high risk" trade when far away from the medium-term mean and suggested to traders to wait for a "low risk" trade instead.</p><p>However, even during a "pullback" period in an up trend the algorithm still signalled this as a "high risk" trade due to the large distance between price action and the medium-term mean.</p><p>This resulted in many trading opportunities being missed by traders; due to these conflicting results and so this algorithm has been removed.</p></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
