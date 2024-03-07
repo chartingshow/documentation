@@ -10,12 +10,12 @@ Near-Term, Short-term, Medium-term and Long-term trading refer to different inve
 
 The following table shows each of the time periods and which timeframe they are displayed and hidden:
 
-Time Period | Timeframes Displayed | Timeframes Hidden
----|---|---
-Near-Term | S1-59, M1-59, H1-H12 | D1, W1, M1-12
-Short-Term | S1-59, M1-59, H1-H23, D1 | W1, M1-12
-Medium-Term | x | x
-Long-Term | S1-59, M1-59, H1-H23, D1-6, W1-W3, M1-12 | Not Hidden
+| Time Period | Timeframes Displayed                     | Timeframes Hidden |
+| ----------- | ---------------------------------------- | ----------------- |
+| Near-Term   | S1-59, M1-59, H1-H12                     | D1, W1, M1-12     |
+| Short-Term  | S1-59, M1-59, H1-H23, D1                 | W1, M1-12         |
+| Medium-Term | x                                        | x                 |
+| Long-Term   | S1-59, M1-59, H1-H23, D1-6, W1-W3, M1-12 | Not Hidden        |
 
 Key:
 
