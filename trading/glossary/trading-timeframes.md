@@ -12,8 +12,8 @@ The following table shows each of the time periods and which timeframe they are 
 
 | Time Period | Timeframes Displayed                     | Timeframes Hidden |
 | ----------- | ---------------------------------------- | ----------------- |
-| Near-Term   | S1-59, M1-59, H1-H12                     | D1, W1, M1-12     |
-| Short-Term  | S1-59, M1-59, H1-H23, D1                 | W1, M1-12         |
+| Near-Term   | S1-59, M1-59, H1-H12                     | D1-6, W1-3, M1-12 |
+| Short-Term  | S1-59, M1-59, H1-H23, D1                 | W1-3, M1-12       |
 | Medium-Term | x                                        | x                 |
 | Long-Term   | S1-59, M1-59, H1-H23, D1-6, W1-W3, M1-12 | Not Hidden        |
 
