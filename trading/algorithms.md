@@ -147,6 +147,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Time Periods</td>
+            <td>Core Algorithm</td>
+            <td>Works out the current timeframe period and places it into one of the following groups: <code>Ticks</code>, <code>Seconds</code>, <code>Minutes</code>, <code>Hours</code>, <code>Days</code>, <code>Weeks</code> or <code>Months</code>. Traders should be aware that it currently ignores: <code>Ranges</code>.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>Tick Formatter</td>
             <td>Core Trading Algorithm</td>
             <td>Produce a string format usable to restrict precision to ticks.</td>
