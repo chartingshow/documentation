@@ -1,3 +1,5 @@
+[🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
+
 # Trading Glossary
 
 ## Trendlines
@@ -37,3 +39,5 @@ Trend lines are a fundamental tool in trading, aiding both beginners and seasone
 - **Disadvantages:** Subjective nature; different traders may draw different trend lines for the same chart.
 
 In conclusion, mastering the art of drawing and interpreting trend lines can significantly enhance trading decisions by providing insights into market sentiment, potential shifts in trends and areas of support/resistance.
+
+[🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
