@@ -6,6 +6,25 @@
 
 Near-Term, Short-term, Medium-term and Long-term trading refer to different investment horizons that investors can choose based on their goals and preferences. Here is a summary of the pros and cons of each trading type:
 
+### Time Periods
+
+The following table shows each of the time periods and which timeframe they are displayed and hidden:
+
+| Time Period | Timeframes Displayed                     | Timeframes Hidden |
+| ----------- | ---------------------------------------- | ----------------- |
+| Near-Term   | S1-59, M1-59, H1-H12                     | D1, W1, M1-12     |
+| Short-Term  | S1-59, M1-59, H1-H23, D1                 | W1, M1-12         |
+| Medium-Term | x                                        | x                 |
+| Long-Term   | S1-59, M1-59, H1-H23, D1-6, W1-W3, M1-12 | Not Hidden        |
+
+Key:
+
+- `S` = Seconds
+- `M` = Minutes
+- `D` = Day
+- `W` = Week
+- `M` = Month
+
 ### Near-Term Trading (H1)
 
 - **Timeframe**: M30 - H1
