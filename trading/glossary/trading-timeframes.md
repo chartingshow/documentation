@@ -1,3 +1,5 @@
+[🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
+
 # Trading Glossary
 
 ## Trading Timeframes
@@ -67,3 +69,5 @@ Near-Term, Short-term, Medium-term and Long-term trading refer to different inve
   - Can have a significant negative impact if timed poorly.
 
 Choosing the right trading type depends on factors like risk tolerance, investment goalsand market analysis. Short-term trading offers quick profits but requires constant attention, while long-term trading focuses on steady growth over an extended period. Medium-term trading strikes a balance between risk and returns, making it suitable for many individuals.
+
+[🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)

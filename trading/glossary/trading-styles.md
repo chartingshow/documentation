@@ -1,3 +1,5 @@
+[🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
+
 # Trading Glossary
 
 ## Trading Styles
@@ -15,3 +17,5 @@ There are five main styles of trading:
 | Position trading       | Trades in position trading are held for a few days to several years.                                                                                                          |
 
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/trading-styles.png" alt="Trading Styles"></p>
+
+[🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
