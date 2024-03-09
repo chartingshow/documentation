@@ -105,7 +105,7 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
         </tr>
         <tr>
-            <td>Polynomial Mean Spread</td>
+            <td>Polynomial</td>
             <td>Trading Algorithm</td>
             <td>Combines regression and outlier detection methods. It's lower and upper range define a prescribed probability quantile in the normal standard deviation distribution and aims to capture more than 95% of the current price action predicted interval.</td>
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
@@ -199,6 +199,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td>Core Module</td>
             <td>Scheduled maintenance is any repair and service work performed within a set timeframe. It details when given maintenance tasks are performed and by who. Scheduled maintenance may occur at repeating intervals or in response to a work request.</td>
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
+            <td>Z-Score</td>
+            <td>Trading Algorithm</td>
+            <td>A Z-score is a statistical measurement that describes a value's relationship to the mean of a group of values, measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point's score is identical to the mean score. Positive Z-scores indicate values above the mean, while negative scores indicate values below the mean.</td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
         </tr>
         <tr>
             <td>&nbsp;</td>
