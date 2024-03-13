@@ -225,6 +225,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/in-development.jpg" alt="in development"></td>
         </tr>
         <tr>
+            <td>Daily Sentiment Index</td>
+            <td>Algorithm</td>
+            <td><p>First it calculates the daily and intraday sentiment if it's bullish or bearish using blockchain api data. This results is four possible outcomes: Up Trend, Up Trend (pullback), Down Trend and Down Trend (pullback).</p><p>Note: The api data is displayed at the 'End of the Day' meaning it's not in real-time and shows the previous days data, this means there is a large delay!</p><p><strong>Due to this algorithm being a lagging indicator and giving a large delay (between 1-2 days). It has been deprecated and replaced by a new and improved algorithm system giving a zero delay and acting as a leading indicator. Traders are advised to use the <code>Medium-Term Sentiment</code> and <code>Medium-Term Polynomial</code> algorithms instead.</strong></p></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
