@@ -231,6 +231,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
         </tr>
         <tr>
+            <td>Market Cycle</td>
+            <td>Algorithm</td>
+            <td><p>Market cycles, refer to trends or patterns that emerge during different markets or business environments. These cycles include four phases: <code>accumulation</code>, <code>mark-up</code>, <code>distribution</code> and <code>downturn</code>. The <code>accumulation</code> phase occurs after the market has bottomed, the <code>mark-up</code> phase is when the market stabilizes and moves higher in price, the <code>distribution</code> phase sees sellers dominating as the stock reaches its peak and the <code>downturn</code> phase is when the stock price tumbles down. The algorithm worked this out using blockchain api data instead of price action data analyzing whale and retail trader blockchain wallet data.</p><p>Note: The api data is displayed at the 'End of the Day' meaning it's not in real-time and shows the previous days data, this means there is a large delay!</p><p><strong>Due to this algorithm being a lagging indicator and giving a large delay (between 1-2 days). It has been deprecated and replaced by a new and improved algorithm system giving a zero delay and acting as a leading indicator. Traders are advised to use the <code>Long-Term Sentiment</code> and <code>Long-Term Z-Score</code> algorithms instead.</strong></p></td></td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
