@@ -117,6 +117,18 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Bull/Bear Strength</td>
+            <td>Algorithm</td>
+            <td>This algorithm measures the speed and magnitude of an assets recent price changes by comparing the buying strength on days when prices go up to its selling strength on days when prices go down. The result of this comparison to price action can give traders an idea of how the asset may perform and how strong or weak the buying/selling action is happening. This can also help to indicate possible trend reversals or a corrective pullback in price action. The algorithm works out the short, medium and long-term outlooks for the Bull/Bear Strength. For short-term analysis the algorithm alerts the trader to warning signals and for medium to long-term confirmed buying and selling signals are generated.</td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/in-development.jpg" alt="in development"></td>
+        </tr>
+        <tr>
+            <td>Polynomial</td>
+            <td>Algorithm</td>
+            <td><p>A Vandermonde matrix is a matrix in linear algebra with terms of a geometric progression in each row, typically defined as an matrix with entries being the jth power of the number for all zero-based indices. The determinant of a square Vandermonde matrix is called a Vandermonde determinant or Vandermonde polynomial, which is non-zero only if all entries are distinct, making the matrix invertible. This matrix is crucial in polynomial interpolation, where it helps find a unique solution to the interpolation problem by mapping coefficients to values of polynomials through matrix multiplication. The Vandermonde determinant also plays a significant role in various fields like statistics, representation theory, and error correction codes.</p><p>The Vandermonde polynomial, named after Alexandre-Theophile Vandermonde, is an alternating polynomial defined by the product of the differences between pairs of variables. It is a fundamental polynomial in algebra and serves as the determinant of the Vandermonde matrix. The Vandermonde polynomial is essential in generating alternating polynomials and plays a role in defining discriminants and invariant sets of points. It has applications beyond algebra, including in polynomial least squares fitting and Lagrange interpolating polynomials.</p><p>The algorithm combines the Vandermonde matrix, polynomial, regression and outlier detection methods. It's lower and upper range define a prescribed probability quantile in the normal standard deviation distribution and aims to capture more than 95% of the current price action predicted interval.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/in-development.jpg" alt="in development"></td>
+        </tr>
+        <tr>
             <td>Ichimoku Cloud Median Area</td>
             <td>Algorithm</td>
             <td>This algorithm was dropped due to giving poor results and traders are advised to use the Trend Analysis Models 1 and 2 instead giving superior results.</td>
