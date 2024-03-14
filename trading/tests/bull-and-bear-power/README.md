@@ -11,14 +11,14 @@ The Bull Bear Power (BBP) algorithm, otherwise known as the Elder-Ray Index, est
 
 > Python 3.6 or later
 
-## How to Use 
+## How to Use
 
 ```python
 # import the package
 from Bull_and_Bear_Power import makeBBP # this function returns a pandas series with the indicator values and the raw dataset
 
-df =  pd.read_csv("dataframe.csv")  
-bbp,sl = makeBBP(df,10) # (df,period) 
+df =  pd.read_csv("dataframe.csv")
+bbp,sl = makeBBP(df,10) # (df,period)
 print(bbp)
 ```
 
