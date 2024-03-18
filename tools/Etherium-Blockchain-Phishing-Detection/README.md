@@ -1,8 +1,9 @@
 # Etherium Blockchain phishing detection using KNN algorithm
 
+<h3 align="center">Ether Phishing Classifier</h3>
+
 <p align="center">
   <img src="https://github.com/chartingshow/documentation/blob/master/assets/images/etherium-blockchain-phishing-detection/header.png" width="450" />
-  <h2 align="center">Ether Phishing Classifier</h2>
 </p>
 
 ## Description
