@@ -15,15 +15,14 @@ The major blochains have been implicated in problems related to cyberattacks, sc
 
 Allows you to retrain the algorithm in real time by changing the hyperparameters and then see the impact on the ranking performance.
 
-
 <img src="https://user-images.githubusercontent.com/34092193/219829211-a05ba0ce-51fe-4afb-9b54-4e2955df92c8.gif" width="600" height="338"/>
 
 New samples can be used to be classified by the previously trained model.
 
-
 <img src="https://user-images.githubusercontent.com/34092193/219829207-8f49d404-e06d-4deb-ab71-86f7fb9fad90.gif" width="600" height="338"/>
 
 ## Download
+
 This app can be downloaded from drive:
 
 https://drive.google.com/file/d/1Gm_UUo8ijopbgOrRNGiTIbtPXzdn0_Or/view?usp=share_link
@@ -36,10 +35,11 @@ https://drive.google.com/file/d/1Gm_UUo8ijopbgOrRNGiTIbtPXzdn0_Or/view?usp=share
 - The file weight is 230mb due to the compression of the required data science libraries.
 
 ## Libs used:
-* scikit-learn==1.2.1
-* numpy==1.24.2
-* requests==2.28.2
-* matplotlib==3.7.0
-* pandas==1.5.3 
-* seaborn==0.12.2
-* PyQt5==5.15.4
+
+- scikit-learn==1.2.1
+- numpy==1.24.2
+- requests==2.28.2
+- matplotlib==3.7.0
+- pandas==1.5.3
+- seaborn==0.12.2
+- PyQt5==5.15.4
