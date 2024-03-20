@@ -16,7 +16,7 @@ This tool extract's spot orders from a Telegram channel that provides crypto sig
 
 <p align="center><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/telegram-signal-scrapper/2.png" alt="telegram scraper">
 
-## libraries required - Python 3.7 or later
+## Libraries required - Python 3.7 or later
 
 To run the bot, you need the following Python libraries:
 
