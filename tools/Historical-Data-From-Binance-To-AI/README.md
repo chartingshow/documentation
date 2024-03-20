@@ -20,6 +20,7 @@ First, clone this repository to your local machine using the git clone command i
 
 bash
 Copy code
+
 ```python
 git clone https://github.com/chartingshow/documentation.git
 ```
@@ -30,6 +31,7 @@ Make sure you have **Python 3.7 or later** installed on your system. Then, insta
 
 bash
 Copy code
+
 ```python
 pip install numpy pandas scikit-learn ta binance
 ```
