@@ -36,7 +36,7 @@ Flash arbitrage trade bot using .NET and Uniswap-like AMMs.
 
 A package for demo trading backtest & forward testing.
 
-ROTrader[8pz / ROTrader](https://github.com/8pz/ROTrader)
+[8pz / ROTrader](https://github.com/8pz/ROTrader)
 
 Fully automated trading bot that executes options trades from Discord analyst alerts.
 
@@ -144,7 +144,7 @@ Crypto-Trade-bot.
 
 This Python script, allows you to mantain a portfolio of binance coins, using the Threshold Rebalancing Strategy.
 
-[banhao / CoinBasePro-Trading-Bot](banhao / CoinBasePro-Trading-Bot)
+[banhao / CoinBasePro-Trading-Bot](https://github.com/banhao/CoinBasePro-Trading-Bot)
 
 CoinBasePro Trading Bot can trade cryptocurrencies automatically by using CoinBasePro API.
 
@@ -298,6 +298,8 @@ An Easy trader automation.
 
 [alimogh / crypto_arbitrage](https://github.com/alimogh/crypto_arbitrage)
 
+Arbitrage between Binance, Exmo, HitBTC, Poloniex and Yobit (API is slow and buggy).
+
 [dangeross / ptfeeder-strategies](https://github.com/dangeross/ptfeeder-strategies)
 
 PT Feeder Strategies.
@@ -322,7 +324,7 @@ Bittrex Bot.
 
 Bittrex Bot.
 
-[alexdean08 / Fruit-Tree-Crypto-Trading(https://github.com/alexdean08/Fruit-Tree-Crypto-Trading)
+[alexdean08 / Fruit-Tree-Crypto-Trading](https://github.com/alexdean08/Fruit-Tree-Crypto-Trading)
 
 Fruit Tree Crypto Trading is an open-source "build-your-own" auto-trader for cryptocurrency.
 
@@ -350,6 +352,6 @@ Autotrader, a platform for buying and selling vehicles, does offer an API (Appli
 
 Auto trading system for cryptocurrency.
 
-[buksbunny / bybit-autotrade-bot](buksbunny / bybit-autotrade-bot)
+[buksbunny / bybit-autotrade-bot](https://github.com/buksbunny/bybit-autotrade-bot)
 
 ByBit Bot.
