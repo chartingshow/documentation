@@ -1,6 +1,6 @@
 ## Trading Bots
 
-Disclaimer: These bots have not been checked and contain third-party code. Therefore you should be cautious that they may contain malware or a wallet drainer etc. #DYOR
+> Disclaimer: These bots have not been checked and contain third-party code. Therefore you should be cautious that they may contain malware or a wallet drainer etc. **#DYOR**
 
 ### List of Trading Bots on Github
 
