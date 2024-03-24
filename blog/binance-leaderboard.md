@@ -14,9 +14,9 @@ It is important to note, however, that past performance is no guarantee of futur
 
 To be listed on the Binance Leaderboard, a trader must meet certain strict performance criteria.
 
-First and foremost, he needs to **manage risk rigorously** and minimize potential losses. This means respecting stop-loss levels and not risking more than 1-2% of your capital on a single trade.
+First and foremost, they needs to **manage risk rigorously** and minimize potential losses. This means respecting stop-loss levels and not risking more than 1-2% of your capital on a single trade.
 
-Secondly, a trader must maintain a **high level of performance consistency**. It must be able to generate earnings consistently over an extended period. This is rather than having one-off peaks in performance followed by major losses.
+Secondly, a trader must maintain a **high level of performance consistency**. They must be able to generate earnings consistently over an extended period. This is rather than having one-off peaks in performance followed by major losses.
 
 Finally, a trader must have a low level of **maxdrawdown**. In other words, a maximum cumulative loss in relation to the initial capital. This shows that the trader has an effective risk management strategy and can avoid major losses.
 
