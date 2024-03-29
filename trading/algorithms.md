@@ -165,6 +165,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Timeframe Label</td>
+            <td>Core Algorithm</td>
+            <td>This is added to the core code and allows the timeframe to be displayed in the data window for various other algorithms. The various supported timeframes include: <code>seconds</code>, <code>minutes</code>, <code>hours</code>, <code>days</code>, <code>weeks</code> and <code>months</code>.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>Tick Formatter</td>
             <td>Core Algorithm</td>
             <td>Produce a string format usable to restrict precision to ticks.</td>
