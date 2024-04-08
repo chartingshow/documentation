@@ -240,7 +240,7 @@ Below shows all the current trading algorithms development stages and let's user
             <td>Z-Score</td>
             <td>Algorithm</td>
             <td>A Z-score is a statistical measurement that describes a value's relationship to the mean of a group of values, measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point's score is identical to the mean score. Positive Z-scores indicate values above the mean, while negative scores indicate values below the mean.</td>
-            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/in-development.jpg" alt="in development"></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
             <td>Daily Sentiment Index</td>
