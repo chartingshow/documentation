@@ -213,6 +213,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/in-development.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Alerts Module</td>
+            <td>Core Module</td>
+            <td>Adds an alerts module to message the trader when one of the trading signals from any of the trading algorithms trigger a various trading condition! The trader can also select the frequency of the alerts in the options settings.</td>
+            <td><img src="https://github.com/chartingshow/Documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
