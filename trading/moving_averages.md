@@ -25,6 +25,7 @@ The Charting Show support the following moving averages in our custom trading al
 | FRAMA        | Fractal Adaptive Moving Average                              |
 | GMA          | Geometric Moving Average                                     |
 | GMMA         | Geometric Mean Moving Average                                |
+| HCF          | Hybrid Convolution Filter                                    |
 | HKAMA        | Hilbert based Kaufmans Adaptive Moving Average               |
 | HMA          | Hull Moving Average                                          |
 | IDWMA        | Inverse Distance Weighted Moving Average                     |
