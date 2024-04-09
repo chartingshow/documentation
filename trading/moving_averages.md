@@ -10,6 +10,7 @@ The Charting Show support the following moving averages in our custom trading al
 | COVWEMA      | Coefficient of Variation Weighted Exponential Moving Average |
 | COVWMA       | Coefficient of Variation Weighted Moving Average             |
 | DEMA         | Double Exponential Moving Average                            |
+| DWMA         | Distance Weighted Moving Average                             |
 | EALF         | Ehlers Adaptive Laguerre filter                              |
 | EDMA         | MZ Exponentially Deviating Moving Average                    |
 | EDSMA        | Ehlers Deviation Scaled Moving Average                       |
@@ -20,11 +21,13 @@ The Charting Show support the following moving averages in our custom trading al
 | ETMA         | Exponential Triangular Moving Average                        |
 | EVWMA        | Elastic Volume Weighted Moving Average                       |
 | FAMA         | Following Adaptive Moving Average                            |
+| FLMSA        | ??                                                           |
 | FRAMA        | Fractal Adaptive Moving Average                              |
 | GMA          | Geometric Moving Average                                     |
 | GMMA         | Geometric Mean Moving Average                                |
 | HKAMA        | Hilbert based Kaufmans Adaptive Moving Average               |
 | HMA          | Hull Moving Average                                          |
+| IDWMA        | Inverse Distance Weighted Moving Average                     |
 | JMA          | Jurik Moving Average                                         |
 | KAMA         | Kaufmans Adaptive Moving Average                             |
 | KIJUN        | Kijun v2                                                     |
