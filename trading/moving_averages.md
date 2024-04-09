@@ -44,9 +44,10 @@ The Charting Show support the following moving averages in our custom trading al
 | SMMA         | Smoothed Moving Average                                      |
 | STMA         | Simple Triangular Moving Average                             |
 | SWMA         | Sine-Weighted Moving Average                                 |
+| T3           | Tillson T3                                                   |
 | TEMA         | Triple Exponential Moving Average                            |
 | THMA         | Triple Hull Moving Average                                   |
-| T3           | Tillson T3                                                   |
+| TWAP         | Time-Weighted Average Price                                  |
 | VAMA         | Volatility Adjusted Moving Average                           |
 | VIDYA        | Variable Index Dynamic Average                               |
 | VWAP         | Volume Weighted Average Price                                |
