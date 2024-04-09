@@ -34,6 +34,7 @@ The Charting Show support the following moving averages in our custom trading al
 | LSMA         | Least Squares Moving Average                                 |
 | MAMA         | MESA Adaptive Moving Average                                 |
 | MF           | Modular Filter                                               |
+| PEMA         | Pentuple Exponential Moving Average                          |
 | PLI          | Percentile Linear Interpolation                              |
 | PNR          | Percentile Nearest Rank                                      |
 | REMA         | Range EMA                                                    |
