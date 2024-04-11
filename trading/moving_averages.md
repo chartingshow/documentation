@@ -11,6 +11,7 @@ The Charting Show support the following moving averages in our custom trading al
 | CMA          | Corrective Moving Average                                                       |
 | COVWEMA      | Coefficient of Variation Weighted Exponential Moving Average                    |
 | COVWMA       | Coefficient of Variation Weighted Moving Average                                |
+| DAF          | Dynamically Adjustable Filter                                                   |
 | DEMA         | Double Exponential Moving Average                                               |
 | DWMA         | Distance Weighted Moving Average                                                |
 | EALF         | Ehlers Adaptive Laguerre filter                                                 |
