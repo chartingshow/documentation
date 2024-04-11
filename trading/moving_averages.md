@@ -4,7 +4,7 @@ The Charting Show support the following moving averages in our custom trading al
 
 | Abbreviation | Full Name                                                    |
 | ------------ | ------------------------------------------------------------ |
-| A2RMA        | Adaptive Autonomous Recursive Moving Average                 |
+| A2RMA        | Adaptive Autonomous Recursive Moving Average (trend finder - works but big lag) |
 | ALMA         | Arnaud Legoux Moving Average                                 |
 | AMA          | Adjusted Moving Average                                      |
 | ARMA         | Autonomous Recursive Moving Average (use A2RMA instead)      |
