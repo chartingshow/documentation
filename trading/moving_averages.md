@@ -42,7 +42,7 @@ The Charting Show support the following moving averages in our custom trading al
 | PLI          | Percentile Linear Interpolation                                                 |
 | PNR          | Percentile Nearest Rank                                                         |
 | REMA         | Range EMA                                                                       |
-| RMA          | RSI Moving average                                                              |
+| RMA          | RSI Moving Average                                                              |
 | SMA          | Simple Moving Average                                                           |
 | SMMA         | Smoothed Moving Average                                                         |
 | STMA         | Simple Triangular Moving Average                                                |
