@@ -4,8 +4,10 @@ The Charting Show support the following moving averages in our custom trading al
 
 | Abbreviation | Full Name                                                    |
 | ------------ | ------------------------------------------------------------ |
+| A2RMA        | Adaptive Autonomous Recursive Moving Average                 |
 | ALMA         | Arnaud Legoux Moving Average                                 |
 | AMA          | Adjusted Moving Average                                      |
+| ARMA         | Autonomous Recursive Moving Average (use A2RMA instead)      |
 | CMA          | Corrective Moving Average                                    |
 | COVWEMA      | Coefficient of Variation Weighted Exponential Moving Average |
 | COVWMA       | Coefficient of Variation Weighted Moving Average             |
