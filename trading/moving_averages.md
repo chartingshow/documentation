@@ -21,7 +21,7 @@ The Charting Show support the following moving averages in our custom trading al
 | ETMA         | Exponential Triangular Moving Average                        |
 | EVWMA        | Elastic Volume Weighted Moving Average                       |
 | FAMA         | Following Adaptive Moving Average                            |
-| FLMSA        | ??                                                           |
+| FLSMA        | Fisher Least Squares Moving Average                          |
 | FRAMA        | Fractal Adaptive Moving Average                              |
 | GMA          | Geometric Moving Average                                     |
 | GMMA         | Geometric Mean Moving Average                                |
