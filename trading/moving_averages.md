@@ -57,8 +57,9 @@ The Charting Show support the following moving averages in our custom trading al
 | VWAP         | Volume Weighted Average Price                                                   |
 | VWMA         | Volume Weighted Moving Average                                                  |
 | WMA          | Weighted Moving Average                                                         |
+| WRMA         | Well Rounded Moving Average                                                     |
 | WWMA         | Welles Wilder Moving Average                                                    |
 | ZEMA         | Zero-Lag Exponential Moving Average                                             |
 | ZSMA         | Zero-Lag Simple Moving Average                                                  |
 
-(\*) - To provide traders with the most options, we intend to continue adding new moving averages.
+(\*) - To provide traders with the most options, we intend to continue adding new moving averages over time.
