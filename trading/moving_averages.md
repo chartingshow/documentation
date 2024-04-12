@@ -41,6 +41,7 @@ The Charting Show support the following moving averages in our custom trading al
 | PEMA         | Pentuple Exponential Moving Average                                             |
 | PLI          | Percentile Linear Interpolation                                                 |
 | PNR          | Percentile Nearest Rank                                                         |
+| RAF          | Retention-Acceleration Filter                                                   |
 | REMA         | Range EMA                                                                       |
 | RMA          | RSI Moving Average                                                              |
 | SMA          | Simple Moving Average                                                           |
