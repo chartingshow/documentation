@@ -261,6 +261,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Nadaraya-Watson (Kernel Regression) Bands</td>
+            <td>Algorithm</td>
+            <td><p>The statistical techniques for regression function estimation that were created by G. S. Watson and E. A. Nadaraya in the 1960s are the foundation of the Nadaraya-Watson Envelope algorithm. The Nadaraya-Watson Envelope method and other trading tools were developed as a result of the kernel regression ideas they established, despite the fact that their work was not expressly focused on developing trading algorithms.</p><p>Traders and programmers have developed trading algorithms that use historical price data to assess market patterns, spot possible reversals, and offer insights into price movements over time by using statistical techniques like kernel regression. The Nadaraya-Watson Envelope algorithm, which provides a non-repainting envelope based on Kernel Smoothing to outline market extremes and support technical analysis in trading strategies, has grown to be a useful tool for traders looking for precise and trustworthy insights into market trends and price dynamics.</p><p>By employing a kernel regression technique to smooth price data, the Nadaraya-Watson Envelope algorithm is a dynamic volatility algorithm that adjusts to shifting market conditions. To give limits for excessive price swings, it computes upper and lower bounds using the Average True Range (ATR) and certain variables.</p><p>By examining the link between price and envelopes, this technique is intended to assist traders in locating possible reversal zones and verifying the trend's direction.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
