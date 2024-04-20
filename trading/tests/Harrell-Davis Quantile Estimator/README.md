@@ -2,9 +2,9 @@
 
 The repository contains auxiliary data for the paper "Trimmed Harrell-Davis quantile estimator based on the highest density interval of the given width":
 
-* The source code of the paper: `thdqe.Rmd`, `preamble.tex`, `before_body.tex`, `references.bib`, `*.R`
-* Calculated data for Simulation 2: `efficiency.csv`
-* The reference implementation of the suggested estimator: `thdqe.R`
+- The source code of the paper: `thdqe.Rmd`, `preamble.tex`, `before_body.tex`, `references.bib`, `*.R`
+- Calculated data for Simulation 2: `efficiency.csv`
+- The reference implementation of the suggested estimator: `thdqe.R`
 
 The paper was published by Taylor & Francis in Communications in Statistics — Simulation and Computation on 17 March 2022, available online: https://www.tandfonline.com/10.1080/03610918.2022.2050396
 
