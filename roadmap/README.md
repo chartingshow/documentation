@@ -45,6 +45,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Fast and Slow Bands</td>
+            <td>Trading Algorithm</td>
+            <td><p>The Fast and Slow Bands algorithm is momentum based to determine price trends and sideways consolidation periods.</p><p>This is a trend following algorithm that uses a fast band to capture near-term and short-term price swings and a slow band to capture pullback areas and reversal signals for short-term and medium-term price action.</p><p>The Fast and Slow Bands algorithm is connected to the "Moving Average and Custom Filter" algorithm, where traders can setup many different conditions to tailor better price action signals.</p><p>This algorithm is not intended to replace the Trend Analysis Model 1 and 2 algorithms. But instead to work side by side and extend the visual trend results by filling in the gaps left by Trend Analysis Models to better help traders determine the stages of the trend. For example, highlighting pullback areas, confirming reversals, failed low/high swing points, range support and resistances and many more useful features.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>Average Price</td>
             <td>Trading Algorithm</td>
             <td>This algorithm calculates the average price by adding the open and close prices of the current bar and divides them by two. It displays the result in the data window, cleaned to assets corresponding number of decimal places. Allows traders to add an average price trendline option via the settings.</td>
