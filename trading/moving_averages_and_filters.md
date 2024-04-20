@@ -1,6 +1,6 @@
-## Moving Averages
+## Moving Averages and Custom Filters
 
-The Charting Show support the following moving averages in our custom trading algorithms:
+The Charting Show support the following moving averages and custom filters in our custom trading algorithms:
 
 | Abbreviation | Full Name                                                                       |
 | ------------ | ------------------------------------------------------------------------------- |
@@ -63,4 +63,4 @@ The Charting Show support the following moving averages in our custom trading al
 | ZEMA         | Zero-Lag Exponential Moving Average                                             |
 | ZSMA         | Zero-Lag Simple Moving Average                                                  |
 
-(\*) - To provide traders with the most options, we intend to continue adding new moving averages over time.
+(\*) - To provide traders with the most options, we intend to continue adding new moving averages and custom filters over time.
