@@ -47,19 +47,25 @@ Below shows all the current trading algorithms development stages and let's user
         <tr>
             <td>20MA Fixed Median Area</td>
             <td>Algorithm</td>
-            <td>This algorithm was dropped due to removing the 20MA and 30MA "fixed" median areas algorithms and going to be replaced by a variable median area algorithm with a default set at 20MA.</td>
+            <td><p>This algorithm was dropped due to removing the 20MA and 30MA "fixed" median areas algorithms and going to be replaced by a variable median area algorithm with a default set at 20MA.</p><p><strong>This algorithm was replaced with the "Variable Median Area" algorithm, the reason was to move away from a "fixed" setting and move to an "adjustable" setting allowing traders more scope and options.</strong></p></td>
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
         </tr>
         <tr>
             <td>30MA Fixed Median Area</td>
             <td>Algorithm</td>
-            <td>This algorithm was dropped due to removing the 20MA and 30MA "fixed" median areas algorithms and going to be replaced by a variable median area algorithm with a default set at 20MA.</td>
+            <td><p>This algorithm was dropped due to removing the 20MA and 30MA "fixed" median areas algorithms and going to be replaced by a variable median area algorithm with a default set at 20MA.</p><p><strong>This algorithm was replaced with the "Variable Median Area" algorithm, the reason was to move away from a "fixed" setting and move to an "adjustable" setting allowing traders more scope and options.</strong></p></td>
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
         </tr>
         <tr>
             <td>Variable Median Area</td>
             <td>Algorithm</td>
-            <td>This algorithm was added to allow users to adjust and fine tune the median area. Users can set different moving average values in the settings menu, the default value will be: 20MA.</td>
+            <td><p>This algorithm was added to allow users to adjust and fine tune the median area. Users can set different moving average values in the settings menu, the default value will be: 20MA.</p><p><strong>This algorithm was replaced with the "Fast and Slow Bands" algorithm. The "Variable Median Area" algorithm closely matching the Fast Band settings. This new algorithm connects to many new moving average and filters modules, giving traders more scope and options.</strong></p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
+        </tr>
+        <tr>
+            <td>Fast and Slow Bands</td>
+            <td>Algorithm</td>
+            <td><p>=== TO DO ===</strong></p></td>
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
