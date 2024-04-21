@@ -40,11 +40,14 @@ The Charting Show support the following moving averages and custom filters in ou
 | KIJUN          | Kijun v2                                                                        |
 | LSMA           | Least Squares Moving Average                                                    |
 | MAMA           | MESA Adaptive Moving Average                                                    |
+| MCGINLEY       | McGinley Dynamic                                                                |
+| MEDIAN         | Median                                                                          |
 | MF             | Modular Filter                                                                  |
 | PEMA           | Pentuple Exponential Moving Average                                             |
 | PLI            | Percentile Linear Interpolation                                                 |
 | PNR            | Percentile Nearest Rank                                                         |
 | QQE            | Qualitative Quantitative Estimation (uses two formula equations)                |
+| QUADRATIC MEAN | Quadratic Mean                                                                  |
 | RAF            | Retention-Acceleration Filter                                                   |
 | REMA           | Range EMA                                                                       |
 | RMA            | RSI Moving Average                                                              |
