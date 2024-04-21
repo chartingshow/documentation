@@ -43,6 +43,8 @@ The Charting Show support the following moving averages and custom filters in ou
 | MCGINLEY       | McGinley Dynamic                                                                |
 | MEDIAN         | Median                                                                          |
 | MF             | Modular Filter                                                                  |
+| MIDHINGE       | Midhinge                                                                        |
+| MIDRANGE       | Mid-range                                                                       |
 | PEMA           | Pentuple Exponential Moving Average                                             |
 | PLI            | Percentile Linear Interpolation                                                 |
 | PNR            | Percentile Nearest Rank                                                         |
