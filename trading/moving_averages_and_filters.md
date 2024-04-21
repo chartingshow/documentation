@@ -29,6 +29,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | FRAMA        | Fractal Adaptive Moving Average                                                 |
 | GMA          | Geometric Moving Average                                                        |
 | GMMA         | Geometric Mean Moving Average                                                   |
+| HARMONIC MEAN | Harmonic Mean                                                                  |
 | HCF          | Hybrid Convolution Filter                                                       |
 | HKAMA        | Hilbert based Kaufmans Adaptive Moving Average                                  |
 | HMA          | Hull Moving Average                                                             |
