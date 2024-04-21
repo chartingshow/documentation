@@ -29,7 +29,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | FRAMA          | Fractal Adaptive Moving Average                                                 |
 | GMA            | Geometric Moving Average                                                        |
 | GMMA           | Geometric Mean Moving Average                                                   |
-| GEOMETRIC MEAN | Geometric mean                                                                  |
+| GEOMETRIC MEAN | Geometric Mean                                                                  |
 | HARMONIC MEAN  | Harmonic Mean                                                                   |
 | HCF            | Hybrid Convolution Filter                                                       |
 | HKAMA          | Hilbert based Kaufmans Adaptive Moving Average                                  |
@@ -59,6 +59,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | TEMA           | Triple Exponential Moving Average                                               |
 | THMA           | Triple Hull Moving Average                                                      |
 | TIF            | Trend Impulse Filter                                                            |
+| TRIMEAN        | Trimean                                                                         |
 | TWAP           | Time-Weighted Average Price                                                     |
 | VAMA           | Volatility Adjusted Moving Average                                              |
 | VIDYA          | Variable Index Dynamic Average                                                  |
