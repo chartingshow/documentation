@@ -8,6 +8,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | ALMA         | Arnaud Legoux Moving Average                                                    |
 | AMA          | Adjusted Moving Average                                                         |
 | ARMA         | Autonomous Recursive Moving Average (use A2RMA instead)                         |
+| CENTROID     | Centroid (contains a moving extension function to allow a dynamic result)       |
 | CMA          | Corrective Moving Average                                                       |
 | COVWEMA      | Coefficient of Variation Weighted Exponential Moving Average                    |
 | COVWMA       | Coefficient of Variation Weighted Moving Average                                |
