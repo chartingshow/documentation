@@ -41,6 +41,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | PEMA         | Pentuple Exponential Moving Average                                             |
 | PLI          | Percentile Linear Interpolation                                                 |
 | PNR          | Percentile Nearest Rank                                                         |
+| QQE          | Qualitative Quantitative Estimation (uses two formula equations)                |
 | RAF          | Retention-Acceleration Filter                                                   |
 | REMA         | Range EMA                                                                       |
 | RMA          | RSI Moving Average                                                              |
