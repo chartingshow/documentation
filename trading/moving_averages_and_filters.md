@@ -59,6 +59,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | TEMA           | Triple Exponential Moving Average                                               |
 | THMA           | Triple Hull Moving Average                                                      |
 | TIF            | Trend Impulse Filter                                                            |
+| TMA            | Triangular Moving Average                                                       |
 | TRIMEAN        | Trimean                                                                         |
 | TWAP           | Time-Weighted Average Price                                                     |
 | VAMA           | Volatility Adjusted Moving Average                                              |
