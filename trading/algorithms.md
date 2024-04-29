@@ -273,6 +273,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Semaphore Signal Level (SSL)</td>
+            <td>Algorithm</td>
+            <td><p>The Semaphore Signal Level (SSL) algorithm combines moving averages to provide you with a clear visual signal of near-term price movement dynamic. It's designed to show you all the price action pivot swing points. The algorithm has been modified to connect to the Moving Average and Custom Filter algorithm, to give traders the most amount of options and customizations.</p><p>This algorithm creates an envelope curve that tracks the market price by applying two moving averages, one to the price high and the other to the price low. Trading on the flip technique-where price goes from above the two moving averages to below them and vice versa-is the rationale behind this strategy.</p><p>The algorithm indicates that the direction of price movement is changing or likely to shift (from long to short or from short to long) when the two moving averages meet.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
