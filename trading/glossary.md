@@ -10,3 +10,4 @@ By utilizing these glossaries, traders can enhance their understanding of variou
 - [Trading Styles](https://github.com/chartingshow/documentation/blob/master/trading/glossary/trading-styles.md)
 - [Trading Timeframes](https://github.com/chartingshow/documentation/blob/master/trading/glossary/trading-timeframes.md)
 - [Trendlines](https://github.com/chartingshow/documentation/blob/master/trading/glossary/trendlines.md)
+- [U-Shape, V-Shape and Rounded Top and Bottom Patterns](https://github.com/chartingshow/documentation/blob/master/trading/glossary/u-and-v-shape-and-rounded-top-and-bottom.md)
