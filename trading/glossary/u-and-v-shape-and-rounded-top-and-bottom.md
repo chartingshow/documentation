@@ -15,11 +15,27 @@
 
 ### U-Shape Tops Patterns
 
-=== TO DO ===
+Also known as Bearish U-Shape / Inverted U-Shape pattern.
+
+**Example 1:** Confirmed Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/Bearish%20U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
 
 ### U-Shape Bottoms Patterns
 
-=== TO DO ===
+Also known as Bullish U-Shape pattern.
+
+**Example 1:** Confirmed Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
+
+**Example 2:** Unconfirmed Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%202.jpg" alt="U-Shape"></p>
+
+**Example 3:** Failed/Invalid Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%203.jpg" alt="U-Shape"></p>
 
 ## V-Shape Patterns
 
