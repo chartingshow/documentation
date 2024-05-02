@@ -74,4 +74,28 @@ V-Shape patterns are harder to trade, because V-tops and V-bottoms chart pattern
 
 === TO DO ===
 
+## Recovery Patterns
+
+Here are the most common economic recovery shapes and what they mean.
+
+### V-Shaped Recovery
+
+=== TO DO ===
+
+### U-Shaped Recovery
+
+=== TO DO ===
+
+### W-Shaped Recovery
+
+=== TO DO ===
+
+### Swoosh-Shaped Recovery
+
+=== TO DO ===
+
+### L-shaped Recovery
+
+=== TO DO ===
+
 [🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
