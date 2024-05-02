@@ -15,11 +15,27 @@
 
 ### U-Shape Tops Patterns
 
-=== TO DO ===
+Also known as Bearish U-Shape / Inverted U-Shape pattern.
+
+**Example 1:** Confirmed Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/Bearish%20U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
 
 ### U-Shape Bottoms Patterns
 
-=== TO DO ===
+Also known as Bullish U-Shape pattern.
+
+**Example 1:** Confirmed Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
+
+**Example 2:** Unconfirmed Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%202.jpg" alt="U-Shape"></p>
+
+**Example 3:** Failed/Invalid Bearish U-Shape pattern
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%203.jpg" alt="U-Shape"></p>
 
 ## V-Shape Patterns
 
@@ -55,6 +71,30 @@ V-Shape patterns are harder to trade, because V-tops and V-bottoms chart pattern
 === TO DO ===
 
 ### Rounded Bottoms Patterns
+
+=== TO DO ===
+
+## Recovery Patterns
+
+Here are the most common economic recovery shapes and what they mean.
+
+### V-Shaped Recovery
+
+=== TO DO ===
+
+### U-Shaped Recovery
+
+=== TO DO ===
+
+### W-Shaped Recovery
+
+=== TO DO ===
+
+### Swoosh-Shaped Recovery
+
+=== TO DO ===
+
+### L-shaped Recovery
 
 === TO DO ===
 
