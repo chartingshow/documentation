@@ -80,22 +80,34 @@ Here are the most common economic recovery shapes and what they mean.
 
 ### V-Shaped Recovery
 
-=== TO DO ===
+A V-shaped recovery means that the economy bounces back quickly to its baseline before the crisis, with no hiccups along the way. Growth continues at the same rate as before. This is one of the most optimistic recovery patterns because it implies that the downturn did not cause any lasting damage to the economy.
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/v-shape.jpg" alt="V-Shape"></p>
 
 ### U-Shaped Recovery
 
-=== TO DO ===
+Under this scenario, the economic damage lasts for a longer period of time before eventually reaching the baseline level of growth again. The economy bounces back, but the damage at the bottom lingers for a while.
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/u-shape.jpg" alt="U-Shape"></p>
 
 ### W-Shaped Recovery
 
-=== TO DO ===
+In a W-shaped recession, also called a double dip, the economy moves beyond a recession into a period of recovery before falling back down again into another recession. The initial recovery is sometimes known as a bear market rally.
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/w-shape.jpg" alt="W-Shape"></p>
 
 ### Swoosh-Shaped Recovery
 
-=== TO DO ===
+A recovery scenario resembling the Nike “swoosh” logo is characterized by a steep drop and a gradual recovery, meaning that it takes much longer to return to pre-crisis growth levels than it took to fall into recession.
+
+A variant of this is a square root-shaped recession where growth recovers but then plateaus before reaching pre-crisis levels.
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/swoosh-shape.jpg" alt="Swoosh-Shape"></p>
 
 ### L-shaped Recovery
 
-=== TO DO ===
+An L-shaped recovery is the most pessimistic scenario. In this shape, the economy recovers to a certain degree from a steep drop, but growth never reaches pre-crisis levels for years, if at all. A period of economic stagnation follows.
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/l-shape.jpg" alt="L-Shape"></p>
 
 [🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
