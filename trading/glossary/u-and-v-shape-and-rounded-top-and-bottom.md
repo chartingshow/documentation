@@ -56,9 +56,31 @@ V-Shape patterns are harder to trade, because V-tops and V-bottoms chart pattern
 
 ### V-Shape Tops Patterns
 
+Trading V-Tops is not an easy proposition. Draw a trendline along the bottoms as price rises in the first part of the V. When price pierces the trendline, then check for any fundamental news that would account for a reversal.
+
+Action | Description
+---|---
+Uptrend | Look for price to make a straight-line run upward with few or no pauses, often fitting inside a channel (two parallel trendlines).
+Reversal | Price at the top of the inverted V will form a quick reversal, usually on heavy volume.
+Trendline | After the reversal, price pierces an up-sloping trendline drawn along the price lows, confirming the trend change.
+Downtrend | Price trends down, usually at the mirror angle of the uptrend. If price climbed by 45 degrees, price will tumble following a 45 degree trend. The price trend tends to be a straight-line run with few or no pauses, often fitting inside a channel.
+
+**Example 1:** x
+
 === TO DO ===
 
 ### V-Shape Bottoms Patterns
+
+Trading a V-Bottoms are difficult because calling the turn at the bottom of the V is tough to do correctly. You can use a down trendline (drawn along the descending price tops leading to the V bottom) pierce as the buy signal but it's best to wait for price to confirm the tend change. You can also check the mirror angle. Often price will rise in an angle similar to the descent. If that appears to be the case, then buy.
+
+Action | Description
+---|---
+Downtrend | Look for price to make a straight-line run downward with few or no pauses, often fitting inside a channel.
+Reversal | Price at the bottom of the V will form a one-day reversal, island reversal, or tail, usually on heavy volume, perhaps gapping upward.
+Trendline | After the reversal, price pierces a down-sloping trendline drawn along the price tops, confirming the trend change.
+Uptrend | Price trends up, usually at the mirror angle of the downtrend. If price dropped by 30 degrees, price will rise following a similar angle. The price trend tends to be a straight-line run with few or no pauses, often fitting inside a channel.
+
+**Example 1:** x
 
 === TO DO ===
 
