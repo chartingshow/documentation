@@ -65,9 +65,13 @@ Trading V-Tops is not an easy proposition. Draw a trendline along the bottoms as
 | Trendline | After the reversal, price pierces an up-sloping trendline drawn along the price lows, confirming the trend change.                                                                                                                                   |
 | Downtrend | Price trends down, usually at the mirror angle of the uptrend. If price climbed by 45 degrees, price will tumble following a 45 degree trend. The price trend tends to be a straight-line run with few or no pauses, often fitting inside a channel. |
 
-**Example 1:** x
+**Example 1:** V-Shape Top
 
-=== TO DO ===
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/V-Shape%20Top.jpg" alt="V-Shape"></p>
+
+Above: Price action does a breakout from the rising channel pattern to the upside. Then comes back down just as quickly as it went up to form a "retest" move followed by a "fakeout" move! Then the bears to do a full reversal and breakout of the rising channel pattern to the downside.
+
+> Note: The V-Shape Top pattern is quite rare, whereas the V-Shape Bottom pattern is slightly more popular.
 
 ### V-Shape Bottoms Patterns
 
@@ -84,7 +88,7 @@ Trading a V-Bottoms are difficult because calling the turn at the bottom of the 
 
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/V-Shape%20Bottom.jpg" alt="V-Shape"></p>
 
-Above: Price action does a breakout of the wedge pattern to the downside. Then comes back up just as quickly as it went down to form a "fakeout" move! Now expecting the bulls to do a full reversal and breakout of the wedge pattern to the upside.
+Above: Price action does a breakout from the wedge pattern to the downside. Then comes back up just as quickly as it went down to form a "fakeout" move! Now expecting the bulls to do a full reversal and breakout of the wedge pattern to the upside.
 
 ## Rounded Top and Bottom Patterns
 
