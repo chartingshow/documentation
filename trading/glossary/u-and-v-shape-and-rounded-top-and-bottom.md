@@ -98,7 +98,7 @@ In a W-shaped recession, also called a double dip, the economy moves beyond a re
 
 ### Swoosh-Shaped Recovery
 
-A recovery scenario resembling the Nike “swoosh” logo is characterized by a steep drop and a gradual recovery, meaning that it takes much longer to return to pre-crisis growth levels than it took to fall into recession.
+A recovery scenario resembling the Nike "swoosh" logo is characterized by a steep drop and a gradual recovery, meaning that it takes much longer to return to pre-crisis growth levels than it took to fall into recession.
 
 A variant of this is a square root-shaped recession where growth recovers but then plateaus before reaching pre-crisis levels.
 
