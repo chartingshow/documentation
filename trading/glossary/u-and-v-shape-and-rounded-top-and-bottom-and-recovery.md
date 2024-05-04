@@ -108,7 +108,11 @@ The rounded top pattern appears as an inverted 'U' shape and is often referred t
 
 **Example 1:** Rounded Top
 
-=== TO DO ===
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/rounded%20top.jpg" alt="Rounded Top"></p>
+
+Above: Rounded Top Pattern: Shaped like an inverted 'U', price action goes back down the same speed as it went up. Unlike an inverted U-Shape pattern there is not a range in the middle and unlike an inverted V-Shape pattern the shape is more rounded than an inverted 'V'. The pattern is made up of two phases the first phase is an up leg move followed by the second phase which is a down leg move. The blue line shows the up leg move support, where price action breaks through to confirm the top.
+
+Note: Traders can place a stoploss on the blue line support and price action will then trigger the stoploss, this will protect traders from any sharp moves downwards and lock in their profits. Before price action reaches the blue up leg move support, there will be many trading algorithms suggesting a "change in sentiment" from bullish to bearish (or sideways).
 
 ### Rounded Bottoms Patterns
 
@@ -128,7 +132,7 @@ The rounded bottom pattern appears as a clear 'U' formation on the price chart a
 
 Above: Rounded Bottom Pattern: Shaped like a 'U', price action goes back up the same speed as it went down. Unlike a U-Shape pattern there is not a range in the middle and unlike a V-Shape pattern the shape is more rounded than a 'V'. The pattern is made up of two phases the first phase is a down leg move followed by the second phase which is an up leg move. The blue line shows the down leg move resistance area, where price action breaks through to confirm the bottom.
 
-Note: Traders can either place an aggressive buy trade on a lower timeframe looking for a failed low (FL) after the lower low (LL), or they can place a buy trade when price action has broken the blue down leg move resistance area. Before price action reaches the blue down leg move resistance area, there will be many trading algorithms suggesting a "change in sentiment" from bearish to bullish.
+Note: Traders can either place an aggressive buy trade on a lower timeframe looking for a failed low (FL) after the lower low (LL), or they can place a buy trade when price action has broken the blue down leg move resistance area. Before price action reaches the blue down leg move resistance area, there will be many trading algorithms suggesting a "change in sentiment" from bearish to bullish (or sideways).
 
 ## Recovery Patterns
 
