@@ -92,13 +92,17 @@ Above: Price action does a breakout from the wedge pattern to the downside. Then
 
 ## Rounded Top and Bottom Patterns
 
-=== TO DO ===
+The rounded top and rounded bottom are reversal patterns designed to catch the end of a trend and signal a potential reversal point on a price chart.
 
 ### Rounded Tops Patterns
+
+The rounded top pattern appears as an inverted 'U' shape and is often referred to as an "inverse saucer". It signals the end of an uptrend and the possible start of a downtrend. This means that the rounded top can indicate an opportunity to go short.
 
 === TO DO ===
 
 ### Rounded Bottoms Patterns
+
+The rounded bottom pattern appears as a clear 'U' formation on the price chart and is also referred to as a "saucer". It signals the end of a downtrend and the possible start of an uptrend. This means that the rounded bottom can indicate an opportunity to go long.
 
 === TO DO ===
 
