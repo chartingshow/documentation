@@ -1,6 +1,6 @@
 [🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
 
-# U-Shape, V-Shape, Rounded Top and Bottom and Recovery Patterns
+# U-Shape, V-Shape, Rounded Top, Rounded Bottom and Recoevery Patterns
 
 ## U-Shape Patterns
 
