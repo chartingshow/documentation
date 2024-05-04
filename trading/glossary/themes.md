@@ -6,11 +6,11 @@
 
 === TO DO ===
 
-## Themes: Candlestick Colouring
+## Themes: Candlesticks
 
 === TO DO ===
 
-## Themes: Background Colouring
+## Themes: Background
 
 === TO DO ===
 
@@ -19,6 +19,10 @@
 === TO DO ===
 
 ## Themes: Algorithms
+
+=== TO DO ===
+
+## Thmese: Highlight Weekends
 
 === TO DO ===
 
