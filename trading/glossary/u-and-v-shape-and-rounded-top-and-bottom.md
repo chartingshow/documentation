@@ -98,11 +98,31 @@ The rounded top and rounded bottom are reversal patterns designed to catch the e
 
 The rounded top pattern appears as an inverted 'U' shape and is often referred to as an "inverse saucer". It signals the end of an uptrend and the possible start of a downtrend. This means that the rounded top can indicate an opportunity to go short.
 
+| Action | Description |
+| --------- | -------------------------------------------------------------------------------------- |
+| Reliability | Price trends downward to the pattern 63% of the time (that is, 63% act as continuation patterns). |
+| Price trend  | Upward leading to the chart pattern. |
+| Even ends | The rims of the inverted bowl bottom near the same price, but 58% of the time the end is slightly higher than the start. |
+| Rounded turn | Prices form a gentle curve, a half moon shape. |
+| Breakout | A close above the highest high signals an upward breakout. Downward breakouts are a close below the lower of the two rims (the lowest low in the pattern). |
+
+**Example 1:** Rounded Top
+
 === TO DO ===
 
 ### Rounded Bottoms Patterns
 
 The rounded bottom pattern appears as a clear 'U' formation on the price chart and is also referred to as a "saucer". It signals the end of a downtrend and the possible start of an uptrend. This means that the rounded bottom can indicate an opportunity to go long.
+
+| Action    | Description  |
+| --------- | ---------------------------------------------------------------------------------------------------------------- |
+| Reliability   | Price trends upward to the pattern 67% of the time (that is, 67% act as continuation patterns).             |
+| Price trend  | Look for a rounded bowl shape, usually over many months and usually after an upward price trend.                                              |
+| Shape | After the reversal, price pierces an up-sloping trendline drawn along the price lows, confirming the trend change.                                |
+| Bump | Price may shoot up midway through the turn, near the bottom, but price usually retraces most (not all) of the way back to where it started. There is usually a bump just after the lowest low point near the bottom. |
+| Confirmation | The close above the left peak because price on the right might not pause at a minor high and continue higher. |
+
+**Example 1:** Rounded Bottom
 
 === TO DO ===
 
