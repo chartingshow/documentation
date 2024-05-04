@@ -128,7 +128,7 @@ The rounded bottom pattern appears as a clear 'U' formation on the price chart a
 
 Above: Rounded Bottom Pattern: Shaped like a 'U', price action goes back up the same speed as it went down. Unlike a U-Shape pattern there is not a range in the middle and unlike a V-Shape pattern the shape is more rounded than a 'V'. The pattern is made up of two phases the first phase is a down leg move followed by the second phase which is an up leg move. The blue line shows the down leg move resistance area, where price action breaks through to confirm the bottom.
 
-Note: Traders can either place an aggressive buy trade on a lower timeframe looking for a failed low (FL) after the lower low (LL), or they can place a buy trade when price action has broken the blue down leg move resistance area. Before price action reaches the blue down leg move resistance area, there will be many trading algorithms suggesting a "change in sentiment" from bearish to bullish. 
+Note: Traders can either place an aggressive buy trade on a lower timeframe looking for a failed low (FL) after the lower low (LL), or they can place a buy trade when price action has broken the blue down leg move resistance area. Before price action reaches the blue down leg move resistance area, there will be many trading algorithms suggesting a "change in sentiment" from bearish to bullish.
 
 ## Recovery Patterns
 
