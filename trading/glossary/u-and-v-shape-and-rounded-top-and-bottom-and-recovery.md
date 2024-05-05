@@ -108,7 +108,7 @@ The rounded top pattern appears as an inverted 'U' shape and is often referred t
 
 **Example 1:** Rounded Top
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossaryrounded-patterns/rounded-patterns/rounded%20top.jpg" alt="Rounded Top"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/rounded-patterns/rounded%20top.jpg" alt="Rounded Top"></p>
 
 Above: Rounded Top Pattern: Shaped like an inverted 'U', price action goes back down the same speed as it went up. Unlike an inverted U-Shape pattern there is not a range in the middle and unlike an inverted V-Shape pattern the shape is more rounded than an inverted 'V'. The pattern is made up of two phases the first phase is an up leg move followed by the second phase which is a down leg move. The blue line shows the up leg move support, where price action breaks through to confirm the top.
 
