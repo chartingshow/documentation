@@ -40,7 +40,31 @@ Keep in mind there is always an option for traders to turn of the candlestick th
 
 ## Themes: Background
 
-=== TO DO ===
+There are many themes changing the background colour on the trading chart. The trader can choose any of these themes in the settings menu. These themes change the background colour based on the trading algorithms assigned to it, to generate trading signals.
+
+To keep everything consistent throughout all the themes, there are two main displays generated.
+
+### Two-Tier System
+
+🟩 = bullish (green)
+
+🟥 = bearish (red)
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-background-1.jpg" alt="colour background trading charts"></p>
+
+### Three-Tier System
+
+🟩 = bullish (green)
+
+🟥 = bearish (red)
+
+🟨 = sideways (yellow)
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-background-2.jpg" alt="colour background trading charts"></p>
+
+### No Background Theme
+
+Keep in mind there is always an option for traders to turn of the background colour on the trading chart. This is useful to help keep the trading chart clean with less trading signals.
 
 ## Themes: Data Window
 
