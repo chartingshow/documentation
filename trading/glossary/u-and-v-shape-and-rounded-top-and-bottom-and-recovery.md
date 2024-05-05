@@ -19,7 +19,7 @@ Also known as Bearish U-Shape / Inverted U-Shape pattern.
 
 **Example 1:** Confirmed Bearish U-Shape pattern
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/Bearish%20U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/v-and-u-shape-patterns/Bearish%20U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
 
 ### U-Shape Bottoms Patterns
 
@@ -27,15 +27,15 @@ Also known as Bullish U-Shape pattern.
 
 **Example 1:** Confirmed Bearish U-Shape pattern
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/v-and-u-shape-patterns/U-Shape%20Pattern%201.jpg" alt="U-Shape"></p>
 
 **Example 2:** Unconfirmed Bearish U-Shape pattern
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%202.jpg" alt="U-Shape"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/v-and-u-shape-patterns/U-Shape%20Pattern%202.jpg" alt="U-Shape"></p>
 
 **Example 3:** Failed/Invalid Bearish U-Shape pattern
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/U-Shape%20Pattern%203.jpg" alt="U-Shape"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/v-and-u-shape-patterns/U-Shape%20Pattern%203.jpg" alt="U-Shape"></p>
 
 ## V-Shape Patterns
 
@@ -67,7 +67,7 @@ Trading V-Tops is not an easy proposition. Draw a trendline along the bottoms as
 
 **Example 1:** V-Shape Top
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/V-Shape%20Top.jpg" alt="V-Shape"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/v-and-u-shape-patterns/V-Shape%20Top.jpg" alt="V-Shape"></p>
 
 Above: Price action does a breakout from the rising channel pattern to the upside. Then comes back down just as quickly as it went up to form a "retest" move followed by a "fakeout" move! Then the bears to do a full reversal and breakout of the rising channel pattern to the downside.
 
@@ -86,7 +86,7 @@ Trading a V-Bottoms are difficult because calling the turn at the bottom of the 
 
 **Example 1:** V-Shape Bottom
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/V-Shape%20Bottom.jpg" alt="V-Shape"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/v-and-u-shape-patterns/V-Shape%20Bottom.jpg" alt="V-Shape"></p>
 
 Above: Price action does a breakout from the wedge pattern to the downside. Then comes back up just as quickly as it went down to form a "fakeout" move! Now expecting the bulls to do a full reversal and breakout of the wedge pattern to the upside.
 
@@ -108,7 +108,7 @@ The rounded top pattern appears as an inverted 'U' shape and is often referred t
 
 **Example 1:** Rounded Top
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/rounded%20top.jpg" alt="Rounded Top"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossaryrounded-patterns/rounded-patterns/rounded%20top.jpg" alt="Rounded Top"></p>
 
 Above: Rounded Top Pattern: Shaped like an inverted 'U', price action goes back down the same speed as it went up. Unlike an inverted U-Shape pattern there is not a range in the middle and unlike an inverted V-Shape pattern the shape is more rounded than an inverted 'V'. The pattern is made up of two phases the first phase is an up leg move followed by the second phase which is a down leg move. The blue line shows the up leg move support, where price action breaks through to confirm the top.
 
@@ -128,7 +128,7 @@ The rounded bottom pattern appears as a clear 'U' formation on the price chart a
 
 **Example 1:** Rounded Bottom
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/rounded%20bottom.jpg" alt="Rounded Bottom"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/rounded-patterns/rounded%20bottom.jpg" alt="Rounded Bottom"></p>
 
 Above: Rounded Bottom Pattern: Shaped like a 'U', price action goes back up the same speed as it went down. Unlike a U-Shape pattern there is not a range in the middle and unlike a V-Shape pattern the shape is more rounded than a 'V'. The pattern is made up of two phases the first phase is a down leg move followed by the second phase which is an up leg move. The blue line shows the down leg move resistance area, where price action breaks through to confirm the bottom.
 
