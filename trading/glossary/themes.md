@@ -66,6 +66,10 @@ To keep everything consistent throughout all the themes, there are two main disp
 
 Keep in mind there is always an option for traders to turn of the background colour on the trading chart. This is useful to help keep the trading chart clean with less trading signals.
 
+## Themes: Warning Signals
+
+=== TO DO ===
+
 ## Themes: Data Window
 
 === TO DO ===
