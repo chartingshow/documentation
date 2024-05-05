@@ -80,6 +80,18 @@ Keep in mind there is always an option for traders to turn of the background col
 
 ## Themes: Highlight Weekends
 
-=== TO DO ===
+There is an option in the settings menu for traders to highlight the weekend days of Saturday and Sunday. These days are highlighted yellow, with Sunday a slightly darker yellow. This feature works on all theme modes.
+
+### Light Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-weekend-1.jpg" alt="Highlight weekends trading days"></p>
+
+Above: The white background are the week days and the weekend days have a yellow background, with Sunday being slightly darker.
+
+### Dark Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-weekend-2.jpg" alt="Highlight weekends trading days"></p>
+
+Above: The black background are the week days and the weekend days have a dark yellow background, with Sunday being slightly darker.
 
 [🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
