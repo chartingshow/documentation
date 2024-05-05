@@ -12,7 +12,31 @@ We also plan to introduce even more themes such as `high contrast`, `tritanopia`
 
 ## Themes: Candlesticks
 
-=== TO DO ===
+There are many themes changing the colour of the candlesticks on the chart. The trader can choose any of these themes in the settings menu. These themes change the candlestick colour based on the trading algorithms assigned to it, to generate trading signals.
+
+To keep everything consistent throughout all the themes, there are two main displays generated.
+
+### Two-Tier System
+
+🟩 = bullish (green)
+
+🟥 = bearish (red)
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-candlesticks-1.jpg" alt="colour candlesticks"></p>
+
+### Three-Tier System
+
+🟩 = bullish (green)
+
+🟥 = bearish (red)
+
+⬜ = sideways (gray)
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-candlesticks-2.jpg" alt="colour candlesticks"></p>
+
+### No Candlestick Theme
+
+Keep in mind there is always an option for traders to turn of the candlestick themes are using the normal colours. This is useful to view each individual move and see which direction each candlestick has moved or moving towards.
 
 ## Themes: Background
 
