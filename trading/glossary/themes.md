@@ -22,7 +22,7 @@ To keep everything consistent throughout all the themes, there are two main disp
 
 🟥 = bearish (red)
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-candlesticks-1.jpg" alt="colour candlesticks"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-candlesticks-1.jpg" alt="colour candlesticks"></p>
 
 ### Three-Tier System
 
@@ -30,9 +30,9 @@ To keep everything consistent throughout all the themes, there are two main disp
 
 🟥 = bearish (red)
 
-⬜ = sideways (gray)
+⬜ = sideways (gray)themes/
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-candlesticks-2.jpg" alt="colour candlesticks"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-candlesticks-2.jpg" alt="colour candlesticks"></p>
 
 ### No Candlestick Theme
 
@@ -50,7 +50,7 @@ To keep everything consistent throughout all the themes, there are two main disp
 
 🟥 = bearish (red)
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-background-1.jpg" alt="colour background trading charts"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-background-1.jpg" alt="colour background trading charts"></p>
 
 ### Three-Tier System
 
@@ -60,7 +60,7 @@ To keep everything consistent throughout all the themes, there are two main disp
 
 🟨 = sideways (yellow)
 
-<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes-background-2.jpg" alt="colour background trading charts"></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-background-2.jpg" alt="colour background trading charts"></p>
 
 ### No Background Theme
 
