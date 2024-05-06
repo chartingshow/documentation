@@ -82,7 +82,15 @@ Using other themes options and trading algorithms, traders can generate more in-
 
 ## Themes: Data Window
 
-=== TO DO ===
+Traders can change the data window theme in the settings menu, this helps to improve the data window appearance during different lighting conditions.
+
+### Light Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/theme-data-window-1.jpg" alt="Trading data window"></p>
+
+### Dark Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/theme-data-window-2.jpg" alt="Trading data window"></p>
 
 ## Themes: Algorithms
 
