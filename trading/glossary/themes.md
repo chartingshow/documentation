@@ -68,7 +68,17 @@ Keep in mind there is always an option for traders to turn of the background col
 
 ## Themes: Warning Signals
 
-=== TO DO ===
+Traders can turn on various trading warning signals in the settings menu based on many trading algorithms to highlight buy and sell signals. This feature works on all theme modes.
+
+Using other themes options and trading algorithms, traders can generate more in-depth trading warning signals. For example, the below examples show reversal and pullback buy and sell signals (using a combination of methods).
+
+### Light Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-trading-signals-1.jpg" alt="Trading warning signals"></p>
+
+### Dark Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-trading-signals-2.jpg" alt="Trading warning signals"></p>
 
 ## Themes: Data Window
 
