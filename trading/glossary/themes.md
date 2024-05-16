@@ -94,7 +94,19 @@ Traders can change the data window theme in the settings menu, this helps to imp
 
 ## Themes: Algorithms
 
-=== TO DO ===
+All the trading algorithms have an option in their independent settings menu to adjust their themes. The trading algorithms that are merged into complex trading algorithm systems control all their merged trading algorithms in a single interface menu. Helping to prevent traders from needing to adjust the options in every merged trading algorithms one by one.
+
+### Light Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/theme-algorithm-1.jpg" alt="Separate trading algorithm"></p>
+
+Above: Shows a separate trading algorithm with a light theme.
+
+### Dark Mode
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/theme-algorithm-2.jpg" alt="Separate trading algorithm"></p>
+
+Above: Shows a separate trading algorithm with a dark theme.
 
 ## Themes: Highlight Weekends
 
