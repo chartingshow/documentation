@@ -1,5 +1,10 @@
 [🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
 
+# Table of Contents 📑
+
+- [Trading Glossary](#trading-glossary)
+  - [Trendlines](#trendlines)
+
 # Trading Glossary
 
 ## Trendlines
