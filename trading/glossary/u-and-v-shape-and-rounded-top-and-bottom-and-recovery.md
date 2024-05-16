@@ -1,5 +1,14 @@
 [🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
 
+# Table of Contents 📑
+
+- [U-Shape, V-Shape, Rounded Top, Rounded Bottom and Recoevery Patterns](#u-shape-v-shape-rounded-top-rounded-bottom-and-recoevery-patterns)
+  - [U-Shape Patterns](#u-shape-patterns)
+  - [V-Shape Patterns](#v-shape-patterns)
+  - [Difference between U-Shape and V-Shape Patterns](#difference-between-u-shape-and-v-shape-patterns)
+  - [Rounded Top and Bottom Patterns](#rounded-top-and-bottom-patterns)
+  - [Recovery Patterns](#recovery-patterns)
+
 # U-Shape, V-Shape, Rounded Top, Rounded Bottom and Recoevery Patterns
 
 ## U-Shape Patterns
