@@ -261,7 +261,7 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
         </tr>
         <tr>
-            <td>Alerts Module</td>
+            <td>Alerts</td>
             <td>Core Algorithm</td>
             <td>Adds an alerts module to message the trader when one of the trading signals from any of the trading algorithms trigger a various trading condition! The trader can also select the frequency of the alerts in the options settings.</td>
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
@@ -276,6 +276,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td>Semaphore Signal Level (SSL)</td>
             <td>Algorithm</td>
             <td><p>The Semaphore Signal Level (SSL) algorithm combines moving averages to provide you with a clear visual signal of near-term price movement dynamic. It's designed to show you all the price action pivot swing points. The algorithm has been modified to connect to the Moving Average and Custom Filter algorithm, to give traders the most amount of options and customizations.</p><p>This algorithm creates an envelope curve that tracks the market price by applying two moving averages, one to the price high and the other to the price low. Trading on the flip technique-where price goes from above the two moving averages to below them and vice versa-is the rationale behind this strategy.</p><p>The algorithm indicates that the direction of price movement is changing or likely to shift (from long to short or from short to long) when the two moving averages meet.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
+            <td>Themes</td>
+            <td>Core Algorithm</td>
+            <td><p>The themes module has various sections allowing traders to adjust the themes for: candlesticks, trading chart background, trading warning signals, the data window, trading algorithms and highlight weekend sessions. More themes and sections will be added over time!</p><p>The themes module provides various themes used in trading and charting software, such as:</p><h3>Light Theme</h3><p>A theme with a light background colour, typically white or off-white, and dark text colours. This theme is suitable for use in well-lit environments.</p><h3>Dark Theme</h3><p>A theme with a dark background colour, typically black or dark grey, and light text colours. This theme is suitable for use in low-light environments and can reduce eye strain.</p><h3>Coloured Theme</h3><p>A theme that incorporates various colours, often based on a specific colour scheme or palette. These themes can be customized to match branding or personal preferences.</p><h3>High Contrast Theme</h3><p>A theme designed to provide maximum contrast between the background and foreground elements, making it easier to read and distinguish different components. This theme is often used for accessibility purposes.</p><p>The glossary provides a concise explanation of each theme, helping users understand the different visual styles available in charting and trading applications.</p></td>
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
