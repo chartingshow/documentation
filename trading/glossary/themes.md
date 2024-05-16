@@ -1,5 +1,16 @@
 [🔙 Back](https://github.com/chartingshow/documentation/blob/master/trading/glossary.md)
 
+# Table of Contents 📑
+
+- [Trading Glossary](#trading-glossary)
+  - [Themes](#themes)
+  - [Themes: Candlesticks](#themes-candlesticks)
+  - [Themes: Background](#themes-background)
+  - [Themes: Warning Signals](#themes-warning-signals)
+  - [Themes: Data Window](#themes-data-window)
+  - [Themes: Algorithms](#themes-algorithms)
+  - [Themes: Highlight Weekends](#themes-highlight-weekends)
+  
 # Trading Glossary
 
 ## Themes
