@@ -10,7 +10,7 @@
   - [Themes: Data Window](#themes-data-window)
   - [Themes: Algorithms](#themes-algorithms)
   - [Themes: Highlight Weekends](#themes-highlight-weekends)
-  
+
 # Trading Glossary
 
 ## Themes
