@@ -40,7 +40,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | KIJUN          | Kijun v2                                                                        |
 | LSMA           | Least Squares Moving Average                                                    |
 | MAMA           | MESA Adaptive Moving Average                                                    |
-| MCGINLEY       | McGinley Dynamic                                                                |
+| MCGINLEY       | [McGinley Dynamic](https://github.com/chartingshow/documentation/blob/master/trading/resources/mcginley-dynamic-moving-average.md) |
 | MEDIAN         | Median                                                                          |
 | MF             | Modular Filter                                                                  |
 | MIDHINGE       | Midhinge                                                                        |
