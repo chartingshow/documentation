@@ -153,6 +153,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Timeframe Symbol</td>
+            <td>Core Trading Algorithm</td>
+            <td>This is added to the core code and allows the timeframe to be displayed in the data window for various other algorithms. The various supported timeframes include: <code>S (for seconds)</code>, <code>M (for minutes)</code>, <code>H (for hours)</code>, <code>D (for days)</code>, <code>W (for weeks)</code> and <code>W (months divided into 4 weeks)</code>. Some examples: <code>M15</code> is 15 minutes, <code>W4</code> is 1 month.</td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>Tick Formatter</td>
             <td>Core Trading Algorithm</td>
             <td>Produce a string format usable to restrict precision to ticks.</td>
