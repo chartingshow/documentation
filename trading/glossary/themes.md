@@ -85,11 +85,29 @@ Using other themes options and trading algorithms, traders can generate more in-
 
 ### Light Mode
 
+🟩 = buy signal (green)
+
+🟥 = sell signal (red)
+
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-trading-signals-1.jpg" alt="Trading warning signals"></p>
 
 ### Dark Mode
 
+🟩 = buy signal (green)
+
+🟥 = sell signal (red)
+
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/themes-trading-signals-2.jpg" alt="Trading warning signals"></p>
+
+### Pullback Area
+
+🟪 = Inside Pullback Area
+
+🟩 = Pullback Buy Trigger
+
+🟥 = Pullback Sell Trigger
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/themes/pullback-themes-1.jpg" alt="Trading warning signals"></p>
 
 ## Themes: Data Window
 
