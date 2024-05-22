@@ -81,7 +81,7 @@ Keep in mind there is always an option for traders to turn of the background col
 
 Traders can turn on various trading warning signals in the settings menu based on many trading algorithms to highlight buy and sell signals. This feature works on all theme modes.
 
-Using other themes options and trading algorithms, traders can generate more in-depth trading warning signals. For example, the below examples show reversal and pullback buy and sell signals (using a combination of methods).
+Using other themes options and trading algorithms, traders can generate more in-depth trading warning signals. For example, the below examples show reversal and/or pullback buy and sell signals (using a combination of methods).
 
 ### Light Mode
 
