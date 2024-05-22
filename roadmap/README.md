@@ -249,6 +249,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Stablecoin Flows</td>
+            <td>Trading Algorithm</td>
+            <td><p>The algorithm looks at the movements of Stablecoins and calculates the net money flow.</p><p><code>Inflows</code> are defined when Stablecoins deposited into the exchange wallets are more than Stablecoin withdrawal from the exchange wallets, this is a <strong>bearish</strong> trading signal.</p><p><code>Outflows</code>` are defined when Stablecoins withdrawn from the exchange wallets are more than Stablecoin deposited into the exchange wallets, this is a <strong>bullish</strong> trading signal.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
