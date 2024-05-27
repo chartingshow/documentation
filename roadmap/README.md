@@ -159,12 +159,6 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
-            <td>Tick Formatter</td>
-            <td>Core Trading Algorithm</td>
-            <td>Produce a string format usable to restrict precision to ticks.</td>
-            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
-        </tr>
-        <tr>
             <td>Truncate</td>
             <td>Core Trading Algorithm</td>
             <td>Truncate (cut) excess decimal places.</td>
@@ -252,6 +246,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td>Stablecoin Flows</td>
             <td>Trading Algorithm</td>
             <td><p>The algorithm looks at the movements of Stablecoins and calculates the net money flow.</p><p><code>Inflows</code> are defined when Stablecoins deposited into the exchange wallets are more than Stablecoin withdrawal from the exchange wallets, this is a <strong>bearish</strong> trading signal.</p><p><code>Outflows</code>` are defined when Stablecoins withdrawn from the exchange wallets are more than Stablecoin deposited into the exchange wallets, this is a <strong>bullish</strong> trading signal.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
+            <td>String-Manipulation</td>
+            <td>Core Module</td>
+            <td><p>This module provides string manipulation features to the core algorithm code. The following list of features are provided:</p><ul><li>Returns the leftmost characters in the string.</li><li>Returns the rightmost characters in the string.</li><li>Returns the substring of the string from a range position with two specified points inclusively.</li><li>Returns the substring of the string to the left of a specified separating character.</li><li>Returns the substring of the string to the right of a specified separating character.</li><li>Returns the position of the first occurrence of a specified separating character in the string, where the first character position is <code>0</code>. Returns <code>-1</code> if the character is not found.</li><li>Replaces a character at a specified position in the string with a defined character or string.</li><li>Returns a formatted string with a rounded value to the symbol's tick precision.</li><li>Removes a particular substring from the end of another string.</li></ul><p><strong>Note for developers:</strong> Using too many string operations will negatively impact the performance of a trading algorithm. If at all possible, restrict the calculation of string manipulation routines in your code to the first or final candlestick bar of the dataset to reduce their influence. This can be accomplished by enclosing code blocks or by utilising the <code>var</code> keyword when declaring variables that hold the outcome of your text manipulations.</p></td>
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
