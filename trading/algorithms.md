@@ -183,6 +183,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>Time Change</td>
+            <td>Core Algorithm</td>
+            <td>Compares the current source value to its value length bars ago and returns the difference.</td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>Truncate</td>
             <td>Core Algorithm</td>
             <td>Truncate (cut) excess decimal places.</td>
