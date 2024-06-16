@@ -159,6 +159,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Time Change</td>
+            <td>Core Trading Algorithm</td>
+            <td>Compares the current source value to its value length bars ago and returns the difference.</td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>Truncate</td>
             <td>Core Trading Algorithm</td>
             <td>Truncate (cut) excess decimal places.</td>
