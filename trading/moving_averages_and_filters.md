@@ -68,6 +68,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | VIDYA          | Variable Index Dynamic Average                                                                                                     |
 | VWAP           | Volume Weighted Average Price                                                                                                      |
 | VWMA           | Volume Weighted Moving Average                                                                                                     |
+| WILD           | Wilder Moving Average                                                                                                              |
 | WMA            | Weighted Moving Average                                                                                                            |
 | WRMA           | Well Rounded Moving Average                                                                                                        |
 | WWMA           | Welles Wilder Moving Average                                                                                                       |
