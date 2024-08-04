@@ -38,6 +38,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | JMA            | Jurik Moving Average                                                                                                               |
 | KAMA           | Kaufmans Adaptive Moving Average                                                                                                   |
 | KIJUN          | Kijun v2                                                                                                                           |
+| LF             | Laguerre Filter                                                                                                                    |
 | LSMA           | Least Squares Moving Average                                                                                                       |
 | MAMA           | MESA Adaptive Moving Average                                                                                                       |
 | MCGINLEY       | [McGinley Dynamic](https://github.com/chartingshow/documentation/blob/master/trading/resources/mcginley-dynamic-moving-average.md) |
