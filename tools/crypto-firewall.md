@@ -14,6 +14,14 @@ Blocks browser-based crypto mining, cryptojacking, banking and crypto malware an
 
 - [uBlock Origin Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)
 
+Operating System Guides:
+
+- [Linux Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/linux-hosts-instructions.md)
+
+- [MacOS Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/mac-hosts-instructions.md)
+
+- [Windows Hosts File Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md)
+
 > _More help guides will be added._
 
 <h3>Recommended versions</h3>
