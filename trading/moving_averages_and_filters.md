@@ -55,6 +55,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | REMA           | Range EMA                                                                                                                          |
 | RMA            | RSI Moving Average                                                                                                                 |
 | RMS            | Root Mean Square                                                                                                                   |
+| SIGNAL         | Signal Moving Average                                                                                                              |
 | SMA            | Simple Moving Average                                                                                                              |
 | SMMA           | Smoothed Moving Average                                                                                                            |
 | STMA           | Simple Triangular Moving Average                                                                                                   |
