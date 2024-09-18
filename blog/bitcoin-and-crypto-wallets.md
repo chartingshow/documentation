@@ -1,4 +1,4 @@
-## Crypto Wallets Reviews and Comparisons
+## Bitcoin and Crypto Wallets Reviews and Comparisons
 
 Crypto Wallets are worth it if the crypto exchange or investment platform doesn't offer in-built storage. Crypto wallets were created to protect your private key and crypto assets against security breaches. While most wallets give you complete custody of your assets, not all exchanges and investment platforms do.
 
