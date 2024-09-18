@@ -1,10 +1,10 @@
-## Bitcoin Wallets Reviews and Comparisons
+## Crypto Wallets Reviews and Comparisons
 
-Bitcoin wallets are worth it if the crypto exchange or investment platform doesn't offer in-built storage. Crypto wallets were created to protect your private key and crypto assets against security breaches. While most wallets give you complete custody of your assets, not all exchanges and investment platforms do.
+Crypto Wallets are worth it if the crypto exchange or investment platform doesn't offer in-built storage. Crypto wallets were created to protect your private key and crypto assets against security breaches. While most wallets give you complete custody of your assets, not all exchanges and investment platforms do.
 
-Here are some of these top crypto wallets, including the best bitcoin wallets for mobile, desktop, and beginners.
+Here are some of these top crypto wallets, including the best Crypto Wallets for mobile, desktop, and beginners.
 
-### Bitcoin Wallets results
+### Crypto Wallets results
 
 - **Exodus**: Best Overall
 - **BitBox02**: Best for Bitcoin-Only Storage
@@ -19,7 +19,7 @@ Here are some of these top crypto wallets, including the best bitcoin wallets fo
 
 [Exodus](https://www.exodus.com/) is a top bitcoin multichain web3 wallet for desktop and mobile. Exodus' account features include live charts and portfolio data, 24/7 customer support, a built-in exchange, and trading between thousands of digital assets, including NFTs.
 
-Exodus' hot wallet offers commission-free cryptocurrencies like Bitcoin, Solana and other trading opportunities with fiat money like USD, EUR, and GBP. You can manage your assets using Exodus and Trezor, another popular bitcoin wallet. You don't need to use multiple wallets, but some users might prefer having them as an additional security measure.
+Exodus' hot wallet offers commission-free cryptocurrencies like Bitcoin, Solana and other trading opportunities with fiat money like USD, EUR, and GBP. You can manage your assets using Exodus and Trezor, another popular Crypto Wallet. You don't need to use multiple wallets, but some users might prefer having them as an additional security measure.
 
 Exodus and Trezor's partnership caters to those who prefer hardware security since you can securely manage your assets offline while simultaneously using the Exodus platform.
 
@@ -45,11 +45,25 @@ Electrum is a great option for desktop traders as it is compatible with Mac, Win
 
 **Cons**: Electrum doesn't offer traditional phone customer support. However, the company provides helpful information in its documentation and FAQ sections, plus a Reddit support page and an inquiry page on bitcointalk.org. Another thing to note is that while Electrum supports other wallets, but only for bitcoin transactions. This may be a downside for those interested in exploring other cryptocurrencies.
 
+### Sparrow Wallet
+
+[Sparrow](https://sparrowwallet.com/) is a Bitcoin wallet that's ideal for people who value financial independence. Sparrow's focus is on security, privacy, and usability. Sparrow doesn't hide information. Rather, it tries to provide as much detail about your transactions as possible and UTXOs as possible, but in a manageable and user-friendly manner. Sparrow supports all features that you would expect from a modern Bitcoin-wallet. Full support for single-sig and multisig wallets using common script types. There are many connection options available: Public servers, Bitcoin Core, and private Electrum servers. Standards-based, including full PSBT support. All common hardware wallets are supported in USB and air-gapped formats. Complete coin and fee control, with extensive coin selection. All transactions, inputs, and outputs are labeled. Multi-platform and lightweight. Built in Tor, Payjoin support with Testnet, Regtest, and Signet support. Sparrow is unique in that it includes a fully featured transaction editor.
+
+**Pros**:
+
+- Moving on from Electrum. The Sparrow UI and UX is so much better and cleaner. I've setup my Coldcard with it and all transactions show up.
+- Superb features + functionality, providing users with a very high degree of transparency and optionality.
+
+**Cons**:
+
+- Wish it scanned more derivation paths automatically.
+- The option to have a built-in node would be a welcome addition.
+
 ### BlueWallet
 
 **Best for**: Mobile
 
-[BlueWallet](https://bluewallet.io/) is a robust, mobile Bitcoin wallet with a user-friendly interface and straightforward integrations with the Lightning Network. Using open-source code, It is accessible to virtually anyone.
+[BlueWallet](https://bluewallet.io/) is a robust, mobile Crypto Wallet with a user-friendly interface and straightforward integrations with the Lightning Network. Using open-source code, It is accessible to virtually anyone.
 
 Beginner and advanced bitcoin traders can use BlueWallet's simplified batch storing, sending, and receiving features. BlueWallet is a self-custodial wallet that provides private keys to individual investors in addition to multi-signature security measures. You can even set up a decoy pin.
 
@@ -179,28 +193,28 @@ The Trezor Safe 5 integrates with the Trezor ecosystem, including desktop and mo
 - The larger size and screen, while beneficial for visibility, make the Keystone 3 Pro bulkier compared to more compact hardware wallets, potentially affecting its portability.
 - The advanced security features and reliance on multiple integrations might pose a steep learning curve for new users unfamiliar with hardware wallets and their setup processes.
 
-## What is a Bitcoin Wallet?
+## What is a Crypto Wallet?
 
-A bitcoin wallet is essentially a digital wallet for storing, sending, and receiving bitcoin and other cryptocurrencies. The assets in your crypto wallet are securely stored with a unique private key, similar to a password, to ensure that no one else can access the wallet.
+A Crypto Wallet is essentially a digital wallet for storing, sending, and receiving bitcoin and other cryptocurrencies. The assets in your crypto wallet are securely stored with a unique private key, similar to a password, to ensure that no one else can access the wallet.
 
-Bitcoin wallets are worth it if the crypto exchange or investment platform doesn't offer in-built storage. Crypto wallets were created to protect your private key and crypto assets against security breaches. While most wallets give you complete custody of your assets, not all exchanges and investment platforms do.
+Crypto Wallets are worth it if the crypto exchange or investment platform doesn't offer in-built storage. Crypto wallets were created to protect your private key and crypto assets against security breaches. While most wallets give you complete custody of your assets, not all exchanges and investment platforms do.
 
-## Types of Bitcoin Wallets
+## Types of Crypto Wallets
 
 There are two main types of crypto wallets for traders to store Bitcoin, Ethereum, and other digital assets securely.
 
 - **Hot wallets**: A software wallet that provides easy access and accessible transactions by being connected to the internet. But this convenience has a price. Since hot wallets are connected to the internet, they are generally considered less secure due to online vulnerability.
 - **Cold wallets**: A hardware wallet that stores private keys offline for enhanced security. Since cold wallets aren't connected to the internet, they are not susceptible to internet hackers or spyware. However, cold wallets are not as easily accessible. In many cases, there is only one key to access the wallet and no way to recover it if lost.
 
-## How to Choose the Best Bitcoin Wallet
+## How to Choose the Best Crypto Wallet
 
 Some of the best investment apps also offer cryptocurrency trading and market access to the crypto market. Many of the best cryptocurrency exchanges offer an internal crypto wallet to store your digital assets, including bitcoin. But if your platform doesn't provide secure storage, or you prefer to keep your crypto separate, you can open an external wallet.
 
-To secure your cryptocurrencies with a bitcoin wallet, you must create an account with your desired platform first. Most non-custodial wallets (wallets that you hold complete custody over) offer downloadable software that you can use to secure your private key and crypto assets.
+To secure your cryptocurrencies with a Crypto Wallet, you must create an account with your desired platform first. Most non-custodial wallets (wallets that you hold complete custody over) offer downloadable software that you can use to secure your private key and crypto assets.
 
 However, if you're using a hardware wallet, you'll likely need a USB cable to connect to your platform's external storage chip. Once you've created your account, connected the necessary devices or downloaded any required software, you can transfer over any existing crypto assets.
 
-## Best Practices for Bitcoin Wallet Security
+## Best Practices for Crypto Wallet Security
 
 - **Use strong passwords**: Create strong and unique passwords for your wallet and enable two-factor authentication for increased security.
 - **Keep updated software**: Regularly update your wallet software to protect against potential security hacks, malware, and phishing attacks.
