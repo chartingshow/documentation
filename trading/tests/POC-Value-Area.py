@@ -1,6 +1,6 @@
 //@version=5
 // POC Value Area
-// Updated by ChartingShow to version 5 and correct all the coding errors.
+// Updated by ChartingShow to version 5 and corrected all the coding errors.
 // https://www.tradingview.com/script/dkGe7rmo-Chart-Champions-Part-2-CCV-IBs-POCs/
 //
 // This indicator is a Market Profiling tool used to analyse the Point of Control 
