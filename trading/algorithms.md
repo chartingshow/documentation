@@ -327,6 +327,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/deprecated.jpg" alt="Deprecated"></td>
         </tr>
         <tr>
+            <td>Bull-Bear Power (BBP)</td>
+            <td>Algorithm</td>
+            <td><p>The Bull-Bear Power (BBP) algorithm, otherwise known as the Elder-Ray Index, estimates the relationship between the strength of bulls (buyers) and bears (sellers) on an instrument. When the algorithm's value is nonzero, it supposedly suggests that either bulls or bears have more power in the market. The greater the distance is from zero, the greater the apparent dominance of bulls or bears. Positive values indicate higher bull power and negative values indicate higher bear power.</p><p>The logic is simple: the market situation is constantly changing as bears turn into bulls and vice versa. The indicators help to track this conversion and trade on it.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
