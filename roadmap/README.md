@@ -291,6 +291,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Daily Open</td>
+            <td>Trading Algorithm</td>
+            <td><p>The daily open in a trading chart refers to the price at which a security begins trading when the market opens for a new trading day. It is a crucial data point in daily charts, representing the starting price for that day's trading session.</p><p>The daily open is significant for several reasons:</p><ol><li>It provides a reference point for intraday price movements.</li><li>It can indicate market sentiment at the start of trading.</li><li>It is often used in various trading strategies and technical analysis techniques.</li></ol><p>For Crypto traders, it's important to note that the concept of a daily open can vary depending on time zones, as the Crypto market operates 24 hours a day. In the Crypto market, the daily open is often considered to be at UTC time, which marks the beginning of a new trading day for many traders.</p><p>Understanding the daily open is essential for traders who use daily charts to analyze market trends, identify potential trading opportunities, and make informed decisions about their trades.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
