@@ -141,6 +141,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Manual Timeframes</td>
+            <td>Core Trading Algorithm</td>
+            <td><p>The purpose is to convert and map human-readable string representations of a timeframe (e.g., "<code>1 minute</code>", "<code>1 day</code>") into its corresponding code-compatible format.</p><p>This allows other trading modules to create a dropdown menu or inputs for the user to select a timeframe manually in a readable format.</p><h3>Key Points</h3><ul><li><strong>Flexibility:</strong> Supports many timeframes, from minutes to years.</li><li><strong>Error Handling:</strong> If an invalid string is passed (e.g., "<code>-10 minutes</code>"), the code returns <code>na</code>.</li><li><strong>Use Case:</strong> It simplifies working with user-defined or dynamically selected timeframes when writing extra code.</li></ul></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>Time Periods</td>
             <td>Core Trading Algorithm</td>
             <td>Works out the current timeframe period and places it into one of the following groups: <code>Ticks</code>, <code>Seconds</code>, <code>Minutes</code>, <code>Hours</code>, <code>Days</code>, <code>Weeks</code> or <code>Months</code>. Traders should be aware that it currently ignores: <code>Ranges</code>.</td>
