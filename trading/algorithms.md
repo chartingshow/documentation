@@ -99,6 +99,12 @@ Below shows all the current trading algorithms development stages and let's user
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
         </tr>
         <tr>
+            <td>LTF + HTF Trend Analysis <code>auto</code> and <code>manual</code> timeframe settings</td>
+            <td>Algorithm</td>
+            <td>Allows the trader an option to override the auto timeframe setting for lower and higher timeframes on the chart's current timeframe. For example, if the chart's current timeframe is <code>H2</code>, the auto feature will select <code>H1</code> as the lower timeframe. However, the trader can now override this and set the lower timeframe setting to <code>M30</code> if desired.</td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-algorithms/enabled-by-default.jpg" alt="Enabled by default"></td>
+        </tr>
+        <tr>
             <td>High-Low</td>
             <td>Algorithm</td>
             <td><p>The High-Low algorithm finds pivot (swing) highs and pivot (swing) lows and then calculates the higher highs (HH), lower lows (LL), higher lows (HL) and lower highs (LH) swing points.</p><p>The pivot points are calculated using a default setting of 3. A higher setting results in less swing points and a lower setting results in more swing points. The pivot points are more significant and noteworthy the longer the trend. This means if the trader selects a higher setting, the trend could be longer and therefore prove to be more notable.</p><p>The High-Low algorithm is used to determine and anticipate potential price changes and reversals. It also calculates support and resistance trendlines in real-time by analysing the HH, HL, LL and LH swing points. Generally up trends are made up of higher highs (HH) and higher lows (HL), while down trends are made up of lower lows (LL) and lower highs (LH).</p></td>
