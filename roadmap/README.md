@@ -309,6 +309,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Rename the <code>slow</code> and <code>fast</code> bands to <code>median</code> and <code>pullback</code> areas</td>
+            <td>Trading Algorithm</td>
+            <td><p>Traders have reported saying it's a bit confusing the naming of the <code>slow</code> and <code>fast</code> bands trading algorithms.</p><p>Renaming the following will make more sense:</p><ul><li>The <code>fast band</code> will be changed into <code>median area</code>.</li><li>The <code>slow band</code> will be changed into <code>pullback area</code>.</li></ul></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
