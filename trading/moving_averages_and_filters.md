@@ -13,8 +13,9 @@ The Charting Show support the following moving averages and custom filters in ou
 | COVWEMA        | Coefficient of Variation Weighted Exponential Moving Average                                                                       |
 | COVWMA         | Coefficient of Variation Weighted Moving Average                                                                                   |
 | DAF            | Dynamically Adjustable Filter                                                                                                      |
+| Day EMA        | Daily Exponential Moving Average                                                                                                   |
+| Day SMA        | Daily Simple Moving Average                                                                                                        |
 | DEMA           | Double Exponential Moving Average                                                                                                  |
-| DMA            | Daily Moving Average                                                                                                               |
 | DWMA           | Distance Weighted Moving Average                                                                                                   |
 | EALF           | Ehlers Adaptive Laguerre filter                                                                                                    |
 | EDMA           | MZ Exponentially Deviating Moving Average                                                                                          |
