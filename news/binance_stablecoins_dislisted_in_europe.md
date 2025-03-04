@@ -1,6 +1,5 @@
 ## Binance to delist non-MiCA compliant stablecoins in Europe on March 31, 2025
 Binance, the world's largest cryptocurrency exchange, has announced it will delist all non-MiCA compliant stablecoin trading pairs for users in the European Economic Area (EEA) on March 31, 2025, at 23:59 UTC. This move is in response to the European Union's Markets in Crypto-Assets (MiCA) regulations, which impose stricter reserve requirements on stablecoin issuers.
-
 The stablecoins affected by this delisting include:
 
 1. Tether (USDT)
