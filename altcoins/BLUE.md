@@ -159,6 +159,7 @@ Yes, Bluefin has received significant funding from various venture capital firms
 1. In June 2024, Bluefin secured a total of $17 million in funding since its inception in 2020. This included an undisclosed investment from Flow Traders.
 
 2. The company raised funds from major hedge funds and investors, including:
+
    - Polychain
    - Brevan Howard Digital
    - Susquehanna International Group (SIG)
