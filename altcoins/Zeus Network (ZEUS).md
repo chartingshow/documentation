@@ -13,6 +13,7 @@ Zeus Network is a decentralized platform designed to enable seamless cross-chain
 ### ZEUS Token
 
 The ZEUS token is the native utility token of the Zeus Network. It has several use cases:
+
 - **Governance**: Token holders can vote on network proposals.
 - **Transaction Fees**: Used to pay for network operations.
 - **Access to Features**: Required for premium functionalities within the ecosystem.
@@ -29,21 +30,27 @@ By bridging Bitcoin and Solana, Zeus Network aims to unlock new possibilities in
 Zeus Network stands out from other cross-chain solutions in several key ways:
 
 ### Bridgeless Architecture
+
 Zeus Network utilizes a unique bridgeless architecture, which enhances security and efficiency compared to traditional cross-chain bridges. This approach significantly reduces the risk of hacks and exploits that have plagued other cross-chain solutions, with over $2.6 billion lost to bridge hacks in 2022 alone.
 
 ### Native Bitcoin-Solana Integration
+
 Unlike many cross-chain platforms that focus on EVM-compatible chains, Zeus Network specializes in creating a native communication layer between Bitcoin and Solana. This allows for seamless interactions between these two major blockchain ecosystems without relying on wrapped tokens or intermediary bridges.
 
 ### Advanced Security Measures
+
 Zeus Network incorporates advanced cryptographic techniques such as Taproot and Schnorr signatures for Bitcoin transactions and Ed25519 signature algorithm for Solana. The platform also implements a threshold signature mechanism, which enhances security while maintaining efficiency.
 
 ### Scalability and Speed
+
 By leveraging the Solana Virtual Machine (SVM), Zeus Network achieves high-speed processing capabilities, addressing one of the main limitations of blockchain technology. This allows for fast and cost-effective transactions across chains.
 
 ### Unique Consensus Mechanism
+
 Zeus Network employs a distinctive consensus model where validators focus on verification work without participating in on-chain transactions. This, combined with off-chain signature aggregation, improves broadcast efficiency without compromising security.
 
 ### Ecosystem Integration
+
 Zeus Network is designed to attract developers from the Solana ecosystem, which is known for its speed and low transaction costs. This integration potential could lead to a more robust and diverse range of decentralized applications (dApps) and DeFi services.
 
 By combining these features, Zeus Network offers a more secure, efficient, and versatile cross-chain solution compared to many existing alternatives, particularly for interactions between Bitcoin and Solana ecosystems.
@@ -53,24 +60,31 @@ By combining these features, Zeus Network offers a more secure, efficient, and v
 Zeus Network employs several robust security measures to ensure the safety of cross-chain transactions between Bitcoin and Solana:
 
 ### Multi-Party Computation (MPC)
+
 Zeus Network uses a sophisticated MPC approach for managing private keys. When users deposit Bitcoin, it's sent to a Taproot address, and six Zeus nodes divide and mix up the private key using MPC. This ensures that no single entity has complete control over the deposited funds, significantly reducing the risk of theft or loss.
 
 ### Distributed Custody Model
+
 The network utilizes a distributed custody model where Bitcoin is held in Taproot addresses controlled by multiple Zeus nodes. This decentralized approach eliminates single points of failure and enhances overall security.
 
 ### Guardian System
+
 Zeus Network employs a network of Guardians who validate and sign transactions across both chains. These Guardians stake $ZEUS tokens, aligning their interests with the network's security. They participate in transaction validation and network governance, adding an extra layer of security to the cross-chain process.
 
 ### Fraud Proofs and Slashing
+
 The system implements fraud proofs and a slashing program to detect and penalize unauthorized transactions. This economic security model encourages nodes to provide evidence of fraud, with rewards given for identifying malicious activities.
 
 ### Challenge Period
+
 Zeus Network incorporates a "challenge period" after each operation, allowing for the identification and addressing of any discrepancies or fraudulent activities. This multi-layered approach ensures safe and efficient value transfer between Bitcoin and Solana.
 
 ### Threshold Signature System
+
 Transactions are validated using a threshold signature system, which maintains security while ensuring efficient processing of cross-chain operations.
 
 ### Proof-of-Stake Mechanism
+
 To maintain consensus and security, Zeus Network employs a proof-of-stake mechanism. Verifiers stake SOL tokens or liquid staking derivatives of SOL (LD-SOL) to participate in transaction validation.
 
 By combining these advanced security features, Zeus Network creates a robust and trustless environment for cross-chain transactions between Bitcoin and Solana, significantly mitigating the risks associated with traditional bridge solutions.
@@ -102,31 +116,40 @@ These use cases are designed to create a robust ecosystem that facilitates seaml
 Zeus Network's tokenomics play a critical role in ensuring the long-term viability of the $ZEUS token and the broader ecosystem. Here are the key aspects that contribute to its sustainability:
 
 ### 1. Strategic Allocation
+
 The total supply of $ZEUS is capped at 1 billion tokens, with a carefully planned distribution model:
+
 - **Ecosystem and Community Growth (45%)**: A significant portion is dedicated to fostering adoption and incentivizing long-term participation in the network.
 - **Foundation Reserve (20%)**: Ensures resources for future development and unforeseen needs.
 - **Team (15%) and Advisors (5%)**: Allocations are vested over time, preventing abrupt sell-offs and aligning contributors' incentives with the project's success.
 - **Early Backers (10%) and Launchpad Sale (5%)**: These allocations are also subject to vesting schedules, ensuring gradual release into circulation.
 
 ### 2. Vesting and Lock-Up Periods
+
 The use of cliffs and vesting schedules prevents sudden token dumps, reducing market volatility. This approach promotes stability by aligning token release with network growth milestones.
 
 ### 3. Utility-Driven Demand
+
 The $ZEUS token has multiple utilities that drive demand:
+
 - **Governance**: Token holders participate in decision-making, ensuring community-driven development.
 - **Transaction Fees**: Used for network operations, creating consistent demand as the ecosystem grows.
 - **Staking Rewards**: Encourages users to lock up tokens, reducing circulating supply while securing the network.
 
 ### 4. Ecosystem Growth
+
 By allocating a large percentage of tokens to community and ecosystem development, Zeus Network ensures long-term engagement. This allocation supports initiatives like liquidity provision, developer grants, and user incentives, fueling sustained adoption.
 
 ### 5. Scarcity and Predictability
+
 The fixed supply of 1 billion tokens creates predictable scarcity, which is fundamental to maintaining long-term value. As demand for cross-chain applications grows, this scarcity could enhance the token's value proposition.
 
 ### 6. Incentive Alignment
+
 Economic incentives such as staking rewards and fee-sharing mechanisms align the interests of participants (e.g., node operators and users) with the network's security and growth. This fosters a robust and engaged community.
 
 ### 7. Decentralized Governance
+
 Community-driven governance ensures that decisions about future upgrades or resource allocation are made transparently, promoting trust and long-term commitment among stakeholders.
 
 By combining these elements, Zeus Network's tokenomics create a sustainable framework that balances growth, utility, security, and scarcity—key factors for ensuring the $ZEUS token's long-term viability.
