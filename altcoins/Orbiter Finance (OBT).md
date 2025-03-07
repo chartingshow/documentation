@@ -41,15 +41,18 @@ The platform's Gas Fee Prepaid model not only meets the demand for fast transact
 Orbiter Finance's transaction fee structure is generally competitive compared to other cross-chain bridges, particularly for Layer 2 (L2) transfers. Here's how it compares:
 
 ### **Fee Efficiency**
+
 - **Lower Gas Consumption:** Orbiter Finance uses ZK-rollups and a streamlined transfer mechanism that minimizes gas usage. For example, ETH bridging on Orbiter consumes approximately 21,000 gas, compared to 120,000–450,000 gas on competing bridges like Stargate or others.
 - **Withholding Fees:** While Orbiter charges withholding fees to cover gas costs, these fees sometimes exceed the actual gas expenses, contributing significantly to its revenue. For instance, users may pay up to 0.0015 ETH per transaction even when the actual cost is lower.
 
 ### **Cost Comparisons**
+
 - **L2 Transfers:** Orbiter is particularly cost-effective for L2-to-L2 transfers due to its optimized infrastructure. Competing solutions often charge higher fees for similar transactions.
 - **L1 Transfers:** For transfers involving Layer 1 (L1) networks, Orbiter's fees may not always be the lowest. In some cases, withholding fees and transaction fees combined can make its cost higher than competitors like Stargate.
 - **Small Transactions:** Orbiter is well-suited for small cross-chain transactions because of its low base costs. However, for larger transactions, the percentage-based fee structure can become less competitive.
 
 ### **Competitor Comparison**
+
 - Traditional bridges like Stargate rely heavily on transaction fee revenue but often charge higher gas fees due to more complex smart contract interactions.
 - Some bridges offer "zero-fee" promotions or subsidize costs for specific chains (e.g., Arbitrum Nova), but these are often temporary and may not provide consistent savings.
 
@@ -106,10 +109,12 @@ These features position OBT as a central component of the Orbiter Finance ecosys
 Yes, Orbiter Finance has received significant funding and support from various venture capital firms and investors:
 
 1. Seed Round (March 2022):
+
    - Raised $3.2 million at a $40 million valuation
    - Notable investors included Tiger Global, Matrixport Ventures, StarkWare, Mirana Ventures, Lemniscap, Amber Group, Mask Network, Loopring, and others
 
 2. Series A Round (March 2023):
+
    - Raised an undisclosed amount at a $200 million valuation
    - Led by OKX Ventures, with participation from Mask Network, Hash Global, Skyland Ventures, Zonff Partners, Bas1s Ventures, and Redpoint China Ventures
 
