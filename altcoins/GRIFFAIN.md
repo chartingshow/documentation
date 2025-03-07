@@ -5,8 +5,8 @@ Griffain (GRIFFAIN) is a cryptocurrency platform that integrates artificial inte
 ### Key Features of Griffain
 
 - **AI Agents**: Griffain focuses on two types of AI agents:
-  - *Personal Agents*: Fully customizable and user-controlled for specific tasks.
-  - *Special Agents*: Pre-designed for specialized functions like trading, meme creation, or social media management.
+  - _Personal Agents_: Fully customizable and user-controlled for specific tasks.
+  - _Special Agents_: Pre-designed for specialized functions like trading, meme creation, or social media management.
 - **Decentralized Finance (DeFi)**: The platform combines DeFi functionalities such as token trading and liquidity provision with AI-driven automation, enabling efficient and scalable solutions.
 - **Customization**: Users can fine-tune AI agents to meet specific needs, making it a versatile tool for various applications like portfolio management, data analysis, and content generation.
 - **Griffin ID**: A decentralized identity solution (DID) for both human users and AI agents, ensuring privacy-focused authentication.
@@ -43,30 +43,37 @@ While Griffain has shown significant growth and potential, it's worth noting tha
 Griffain's AI agents are designed for a wide range of use cases, leveraging blockchain automation and artificial intelligence to simplify and optimize various tasks. Below are the main use cases:
 
 ### 1. Wallet Management and Transactions
+
 - Creating and managing cryptocurrency wallets.
 - Automating token transfers, including SOL and other tokens, on the Solana blockchain.
 
 ### 2. Automated Trading
+
 - Agents like **Agent Sniper** specialize in rapid token acquisition during launches.
 - **Agent Flipper** handles buying and selling cycles for automated trading strategies.
 
 ### 3. NFT Operations
+
 - Minting and managing NFTs using natural language commands.
 - Specialized agents like **Agent GM** assist in creating NFTs, generating metadata, and minting them through integrations with platforms like Metaplex.
 
 ### 4. Real-Time Blockchain Monitoring
+
 - Fetching token prices.
 - Monitoring wallet activity and blockchain data in real-time to execute predefined actions dynamically.
 
 ### 5. Specialized Use Cases
+
 - **Agent Baxus** focuses on whiskey-related transactions, such as identifying and purchasing whiskey NFTs or tokens.
 - Other specialized agents can be developed for unique tasks, such as event-based webhooks or integration with external systems like social media.
 
 ### 6. DeFi Automation
+
 - Automating yield farming and other decentralized finance operations.
 - Coordinating complex DeFi strategies across multiple protocols.
 
 ### 7. On-Chain Shopping and Commerce
+
 - Facilitating purchases directly on blockchain platforms, including NFT marketplaces or token-backed goods.
 
 Griffain's AI agents provide flexibility by allowing users to customize personal agents or deploy pre-built specialized agents for specific tasks, making blockchain technology more accessible and efficient.
@@ -105,20 +112,20 @@ These limitations suggest that while Griffain offers significant customization p
 
 Griffain offers several unique features compared to Fetch.AI (FET) and The Graph (GRT), emphasizing different priorities and functionalities within the AI and blockchain ecosystems. Here's a comparison of their distinctive aspects:
 
-| **Feature**                  | **Griffain**                                                                 | **Fetch.AI**                                                                                     | **The Graph**                                                                                   |
-|------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| **Blockchain Platform**      | Built on Solana, leveraging high throughput and low transaction costs.  | Operates on its own Fetch Smart Ledger with a combination of DLT and DAG for scalability. | Built on Ethereum, focusing on indexing and querying blockchain data efficiently.           |
-| **AI Agent Focus**           | Offers customizable *Personal Agents* and pre-designed *Special Agents* for on-chain tasks like trading or content creation. | Features Autonomous Economic Agents (AEAs) that learn and operate independently for tasks like supply chain optimization and smart cities. | Does not focus on AI agents but provides decentralized indexing for blockchain data.         |
-| **Primary Use Case**         | Automating DeFi operations, token trading, and social media management.    | Broad applications including logistics, energy grids, DeFi, and smart cities.            | Indexing blockchain data to enable efficient querying for dApps.                            |
-| **Customization**            | High level of customization for AI agents to suit specific user needs.     | AEAs improve through learning but are less customizable by individual users.                | Customization is irrelevant as it focuses on data indexing rather than AI agents.              |
-| **Ecosystem Strength**       | Primarily tied to Solana's ecosystem.                                       | Independent ecosystem with its own ledger and infrastructure.                               | Strongly integrated into Ethereum's ecosystem and widely used by dApps.                     |
-| **Token Utility**            | GRIFFAIN token powers the ecosystem, incentivizes engagement, and supports DeFi activities. | FET token is used for transactions, staking, governance, and rewarding node operators.   | GRT token is used to pay for queries and incentivize indexers, curators, and delegators.     |
+| **Feature**             | **Griffain**                                                                                                                 | **Fetch.AI**                                                                                                                               | **The Graph**                                                                            |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Blockchain Platform** | Built on Solana, leveraging high throughput and low transaction costs.                                                       | Operates on its own Fetch Smart Ledger with a combination of DLT and DAG for scalability.                                                  | Built on Ethereum, focusing on indexing and querying blockchain data efficiently.        |
+| **AI Agent Focus**      | Offers customizable _Personal Agents_ and pre-designed _Special Agents_ for on-chain tasks like trading or content creation. | Features Autonomous Economic Agents (AEAs) that learn and operate independently for tasks like supply chain optimization and smart cities. | Does not focus on AI agents but provides decentralized indexing for blockchain data.     |
+| **Primary Use Case**    | Automating DeFi operations, token trading, and social media management.                                                      | Broad applications including logistics, energy grids, DeFi, and smart cities.                                                              | Indexing blockchain data to enable efficient querying for dApps.                         |
+| **Customization**       | High level of customization for AI agents to suit specific user needs.                                                       | AEAs improve through learning but are less customizable by individual users.                                                               | Customization is irrelevant as it focuses on data indexing rather than AI agents.        |
+| **Ecosystem Strength**  | Primarily tied to Solana's ecosystem.                                                                                        | Independent ecosystem with its own ledger and infrastructure.                                                                              | Strongly integrated into Ethereum's ecosystem and widely used by dApps.                  |
+| **Token Utility**       | GRIFFAIN token powers the ecosystem, incentivizes engagement, and supports DeFi activities.                                  | FET token is used for transactions, staking, governance, and rewarding node operators.                                                     | GRT token is used to pay for queries and incentivize indexers, curators, and delegators. |
 
 ### Unique Strengths of Griffain
 
 - **Focus on On-Chain Automation:** Unlike Fetch.AI or The Graph, Griffain specializes in creating intelligent agents explicitly designed for executing tasks directly on the blockchain.
 - **Solana Integration:** Its reliance on Solana provides faster transactions at lower costs compared to Ethereum-based The Graph or Fetch.AI's independent ledger.
-- **Dual Agent System:** The combination of *Personal* and *Special Agents* allows Griffain to cater to both general-purpose tasks and niche applications.
+- **Dual Agent System:** The combination of _Personal_ and _Special Agents_ allows Griffain to cater to both general-purpose tasks and niche applications.
 
 ### Summary
 
