@@ -49,11 +49,7 @@ Here is a concise explanation of the differences between the listed statistical 
 ### 7. Weighted Arithmetic Mean
 
 - **Definition**: A variation of the arithmetic mean where each data point is assigned a weight based on its importance or frequency.
-- **Formula**:
-  $$
-  \text{Weighted Mean} = \frac{\sum_{i=1}^n w_i x_i}{\sum_{i=1}^n w_i}
-  $$
-  where $$w_i$$ are the weights and $$x_i$$ are the data points.
+- **Formula**: $$\text{Weighted Mean} = \frac{\sum_{i=1}^n w_i x_i}{\sum_{i=1}^n w_i}$$ where $$w_i$$ are the weights and $$x_i$$ are the data points.
 - **Use Case**: Useful when some data points contribute more significantly than others (e.g., grades in courses with different credit hours).
 
 ### 8. Trimmed Mean
@@ -74,11 +70,7 @@ Here is a concise explanation of the differences between the listed statistical 
 ### 11. Generalized Mean (Power Mean)
 
 - **Definition**: A family of means that includes arithmetic, geometric, and harmonic means as special cases.
-- **Formula**:
-  $$
-  M_p = \left(\frac{1}{n} \sum_{i=1}^n x_i^p \right)^{1/p}
-  $$
-  where $$p$$ is a parameter that determines the type of mean:
+- **Formula**: $$M_p = \left(\frac{1}{n} \sum_{i=1}^n x_i^p \right)^{1/p}$$ where $$p$$ is a parameter that determines the type of mean:
   - $$p = 1$$: Arithmetic mean
   - $$p = 0$$: Geometric mean
   - $$p = -1$$: Harmonic mean
@@ -92,10 +84,7 @@ Here is a concise explanation of the differences between the listed statistical 
 ### 13. Contraharmonic Mean
 
 - **Definition**: A weighted mean that emphasizes larger values.
-- **Formula**:
-  $$
-  \text{Contraharmonic Mean} = \frac{\sum_{i=1}^n x_i^2}{\sum_{i=1}^n x_i}
-  $$
+- **Formula**: $$\text{Contraharmonic Mean} = \frac{\sum_{i=1}^n x_i^2}{\sum_{i=1}^n x_i}$$
 - **Use Case**: Common in image processing and signal analysis.
 
 These measures differ in their calculation methods, sensitivity to outliers, and application contexts.
