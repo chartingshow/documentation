@@ -90,18 +90,18 @@ While Mode offers competitive cost-effectiveness, it's important to note that tr
 
 Here's a comparison of **Mode** and **Arbitrum** in table format:
 
-| **Feature**                  | **Mode**                                                                                     | **Arbitrum**                                                                                 |
-|-------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| **Launch Date**              | January 2024                                                                                | 2021                                                                                        |
-| **Rollup Technique**         | Optimistic Rollups (uses Optimism stack, EVM-equivalent)                                     | Optimistic Rollups (uses Arbitrum Virtual Machine, EVM-compatible but not EVM-equivalent)   |
-| **Fee Structure**            | Sequencer fee-sharing mechanism allows developers to earn a portion of transaction fees.    | No fee-sharing mechanism for developers.                                                   |
-| **Developer Incentives**     | Developer-targeted airdrops and access to Optimism's RPG funding program.                   | No specific developer-focused incentives or airdrops.                                       |
-| **Native Token**             | MODE token (used for governance, staking, and incentives).                                  | ARB token (used for governance).                                                           |
-| **Transaction Processing**   | Posts state hashes more frequently to Ethereum (via Optimism stack).                        | Executes multiple transactions before posting a state hash to Ethereum.                    |
-| **Data Availability**        | Likely publishes all transaction data on Ethereum (via Optimism stack).                     | Publishes all transaction data on Ethereum for full transparency.                          |
-| **Ecosystem Focus**          | General-purpose Layer 2 solution with strong developer and user incentives.                 | Two networks: Arbitrum One (general DeFi) and Arbitrum Nova (gaming and social applications).|
-| **Native Yield**             | Plans to introduce native yield for assets on the network.                                  | No mention of native yield functionality.                                                  |
-| **Maturity**                 | Newer entrant in the Layer 2 space, still building its ecosystem and user base.             | Established platform with a large ecosystem and significant adoption.                      |
+| **Feature**                | **Mode**                                                                                 | **Arbitrum**                                                                                  |
+| -------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Launch Date**            | January 2024                                                                             | 2021                                                                                          |
+| **Rollup Technique**       | Optimistic Rollups (uses Optimism stack, EVM-equivalent)                                 | Optimistic Rollups (uses Arbitrum Virtual Machine, EVM-compatible but not EVM-equivalent)     |
+| **Fee Structure**          | Sequencer fee-sharing mechanism allows developers to earn a portion of transaction fees. | No fee-sharing mechanism for developers.                                                      |
+| **Developer Incentives**   | Developer-targeted airdrops and access to Optimism's RPG funding program.                | No specific developer-focused incentives or airdrops.                                         |
+| **Native Token**           | MODE token (used for governance, staking, and incentives).                               | ARB token (used for governance).                                                              |
+| **Transaction Processing** | Posts state hashes more frequently to Ethereum (via Optimism stack).                     | Executes multiple transactions before posting a state hash to Ethereum.                       |
+| **Data Availability**      | Likely publishes all transaction data on Ethereum (via Optimism stack).                  | Publishes all transaction data on Ethereum for full transparency.                             |
+| **Ecosystem Focus**        | General-purpose Layer 2 solution with strong developer and user incentives.              | Two networks: Arbitrum One (general DeFi) and Arbitrum Nova (gaming and social applications). |
+| **Native Yield**           | Plans to introduce native yield for assets on the network.                               | No mention of native yield functionality.                                                     |
+| **Maturity**               | Newer entrant in the Layer 2 space, still building its ecosystem and user base.          | Established platform with a large ecosystem and significant adoption.                         |
 
 This table highlights the similarities and differences between Mode and Arbitrum, showing how Mode focuses on developer incentives and fee-sharing while Arbitrum benefits from its maturity and broader ecosystem.
 
