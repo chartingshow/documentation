@@ -5,7 +5,6 @@ Shadow (SHADOW) is a cryptocurrency associated with the Shadow Exchange ecosyste
 Key details about SHADOW include:
 
 - **Market Performance**: The token has experienced significant price fluctuations, with an all-time high of $215.63 on February 21, 2025, and an all-time low of $6.27 on January 28, 2025. As of now, it trades at approximately $96.26, reflecting a 55.3% drop from its peak but a substantial increase from its lowest point.
-  
 - **Market Cap and Supply**: SHADOW's market capitalization is $21,620,054, with a circulating supply of 224,165 tokens and a total supply of 3,243,154 tokens. The maximum supply is capped at 10 million tokens.
 
 - **Trading Volume**: The token has a daily trading volume of around $29.89 million, indicating active market participation.
