@@ -3,6 +3,7 @@
 Alchemist AI (ALCH) is a no-code development platform that allows users to create software applications, games, and tools using natural language instructions. It integrates artificial intelligence (AI) and blockchain technology to simplify app development for users of all experience levels. The platform includes features such as image generation, third-party API support, and a sandboxed testing environment, making it versatile for creators and developers.
 
 ### Key Features of Alchemist AI:
+
 - **No-Code Development**: Users can create apps by describing their requirements in plain language, eliminating the need for coding expertise.
 - **Blockchain Integration**: Applications can be monetized through the platform's marketplace using its native cryptocurrency, ALCH.
 - **Marketplace (Arcane Forge)**: Developers can sell or share their applications, while users can purchase or tip creators using ALCH tokens.
@@ -105,23 +106,28 @@ These features make Alchemist AI a powerful tool for beginners looking to create
 To start using Alchemist AI to create your own applications, follow these steps:
 
 1. **Access the Platform**:
+
    - Visit the Alchemist AI website or platform and enter the "Laboratory" section, where app creation begins.
 
 2. **Describe Your App Idea**:
+
    - Use natural language to describe the application you want to build. For example:
      - "Create a habit tracker with a calendar view and daily reminders."
      - "Build a quiz app with leaderboards".
    - The platform's AI will parse your input, extract intent, and generate the necessary code and design.
 
 3. **Customize Features**:
+
    - After the initial app is generated, you can customize it further by adding features or adjusting functionalities. For example:
      - Use prompts like "Make my app pink" to modify the design.
      - Add APIs or advanced features using the "Custom Feature" option.
 
 4. **Test Your App**:
+
    - Preview and test your application in the secure sandbox environment provided by Alchemist AI. This allows you to interact with your app and make refinements as needed.
 
 5. **Deploy or Monetize**:
+
    - Once satisfied, deploy your app for use on web or mobile platforms.
    - Optionally, list your app on Alchemist AI's marketplace (Arcane Forge) to sell or monetize it using ALCH tokens.
 
@@ -173,12 +179,14 @@ Based on the available information, the Alchemist AI team holds a portion of the
 1. The team holds 3% of the total ALCH tokens.
 
 2. These team tokens are subject to a vesting schedule:
+
    - 0.1% of the tokens will be released every week over the next 6 months.
    - This gradual release is designed to minimize market impact.
 
 3. The team has stated that they will only sell tokens when necessary and will lock the remaining tokens for a long time to ensure stable project development.
 
 4. Additionally, the overall token distribution includes:
+
    - 50% allocated for AI project incubation
    - 10% for community governance
    - 20% for strategic reserves
