@@ -822,12 +822,12 @@ AI trading bots generally outperform human traders in terms of profitability due
 
 ## **Profitability Comparison**
 
-| **Factor**      | **AI Trading Bots**                                   | **Human Traders**                                    |
-| --------------- | ----------------------------------------------------- | ---------------------------------------------------- |
+| **Factor**      | **AI Trading Bots**                             | **Human Traders**                                 |
+| --------------- | ----------------------------------------------- | ------------------------------------------------- |
 | Speed           | Executes trades in milliseconds.                | Slower decision-making due to manual processes.   |
 | Profitability   | Up to 72% higher success rates in live markets. | Highly variable; depends on skill and experience. |
-| Emotional Bias  | None; trades based purely on logic and data.       | Prone to fear, greed, and overconfidence.         |
-| Adaptability    | Limited to programmed rules and training data.     | Flexible; can adjust strategies on the fly.       |
+| Emotional Bias  | None; trades based purely on logic and data.    | Prone to fear, greed, and overconfidence.         |
+| Adaptability    | Limited to programmed rules and training data.  | Flexible; can adjust strategies on the fly.       |
 | Risk Management | Automated tools like stop-loss orders.          | Relies on judgment; prone to errors under stress. |
 
 ---
