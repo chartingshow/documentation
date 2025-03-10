@@ -315,6 +315,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Volatility Algorithm</td>
+            <td>Trading Algorithm</td>
+            <td><p>It's a comprehensive volatility algorithm, combining various algorithms and custom volatility strength calculations. It allows users to configure parameters and historical comparison periods. The volatility algorithm can output volatility strength as a color-coded step line and includes alerts for extreme volatility, trend direction changes and abnormal volatility levels. The data can be sent to the data window module to display the real-time current volatility strength.</p><h3>Key Features</h3><ul><li><strong>Customizable Parameters:</strong> Users can adjust parameters and historical comparison periods.</li><li><strong>Volatility Strength:</strong> Categorized into four easy to understand levels.</li><li><strong>Visualizations:</strong> Color-coded step line for volatility strength.</li><li><strong>Alerts:</strong> Notifications for significant market changes.</li><li><strong>Data Window:</strong> Displays volatility strength with customizable appearance from the themes module.</li></ul><h3>Applications</h3><ul><li><strong>Identify Accumulation Zones:</strong> Detects periods of <code>low volatility</code>, which often coincide with accumulation phases and can be used in conjunction with other algorithms and market analysis techniques to confirm these zones.</li><li><strong>Volatility Breakouts:</strong> Identify periods of <code>extreme</code> or <code>abnormal volatility</code> for breakout trades.</li><li><strong>Risk Management:</strong> Adjusts position sizing based on volatility levels.</li></ul><p>The Volatility Algorithm provides traders with a versatile tool to analyse market volatility, enhancing decision-making efficiency.</p></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
