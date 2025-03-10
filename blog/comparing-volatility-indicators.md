@@ -2,33 +2,37 @@
 
 Here is a comparative table rating and reviewing the indicators mentioned, based on their strengths, weaknesses, and use cases for measuring volatility:
 
-| **Indicator**        | **Strengths**                                                                                   | **Weaknesses**                                                                                     | **Best Use Case**                                          | **Rating (1-5)** |
-|-----------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------------|
-| **Bollinger Bands**   | - Highly responsive to volatility changes- Widely used and understood- Good for mean reversion strategies | - Assumes normal price distribution, which may not always hold true- Can give false signals in trending markets | Identifying overbought/oversold levels and breakout opportunities | **4.5**          |
-| **Keltner Channels**  | - Smoother than Bollinger Bands due to ATR-based width- Better suited for trend-following strategies- Provides clear directional momentum | - Lags in reacting to sudden volatility changes- Generates false signals in choppy markets- Less effective in ranging conditions | Identifying trends and breakouts in trending markets       | **4.0**          |
-| **Donchian Channels** | - Simple and effective for breakout strategies- Highlights price extremes over a period   | - Not responsive to short-term volatility changes- Limited use in mean-reverting markets      | Breakout trading and trend-following                      | **3.8**          |
-| **STARC Bands**       | - Combines ATR with SMA for better volatility measurement- Useful for identifying high-probability trades | - Less popular and less tested compared to Bollinger Bands or Keltner Channels- Can be complex to interpret | High-probability trade setups and risk management         | **4.0**          |
-| **Standard Error Bands** | - Focuses on deviation from the trend, making it unique- Good for analyzing trend strength and potential reversals | - Less widely used, so fewer resources available for learning- Can be overly sensitive to small price changes | Identifying trend reversals and deviations from the trend  | **3.7**          |
+| **Indicator**            | **Strengths**                                                                                                                             | **Weaknesses**                                                                                                                   | **Best Use Case**                                                 | **Rating (1-5)** |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------- |
+| **Bollinger Bands**      | - Highly responsive to volatility changes- Widely used and understood- Good for mean reversion strategies                                 | - Assumes normal price distribution, which may not always hold true- Can give false signals in trending markets                  | Identifying overbought/oversold levels and breakout opportunities | **4.5**          |
+| **Keltner Channels**     | - Smoother than Bollinger Bands due to ATR-based width- Better suited for trend-following strategies- Provides clear directional momentum | - Lags in reacting to sudden volatility changes- Generates false signals in choppy markets- Less effective in ranging conditions | Identifying trends and breakouts in trending markets              | **4.0**          |
+| **Donchian Channels**    | - Simple and effective for breakout strategies- Highlights price extremes over a period                                                   | - Not responsive to short-term volatility changes- Limited use in mean-reverting markets                                         | Breakout trading and trend-following                              | **3.8**          |
+| **STARC Bands**          | - Combines ATR with SMA for better volatility measurement- Useful for identifying high-probability trades                                 | - Less popular and less tested compared to Bollinger Bands or Keltner Channels- Can be complex to interpret                      | High-probability trade setups and risk management                 | **4.0**          |
+| **Standard Error Bands** | - Focuses on deviation from the trend, making it unique- Good for analyzing trend strength and potential reversals                        | - Less widely used, so fewer resources available for learning- Can be overly sensitive to small price changes                    | Identifying trend reversals and deviations from the trend         | **3.7**          |
 
 ### Reviews
 
-1. **Bollinger Bands**: 
+1. **Bollinger Bands**:
+
    - Widely regarded as one of the best tools for measuring volatility due to its responsiveness and popularity among traders. Works well in ranging markets but struggles in strong trends.
    - Rating: **4.5**
 
-2. **Keltner Channels**: 
+2. **Keltner Channels**:
+
    - Smoother than Bollinger Bands due to ATR-based width, making it better suited for trend-following strategies. However, it lags during sudden volatility spikes.
    - Rating: **4.0**
 
-3. **Donchian Channels**: 
+3. **Donchian Channels**:
+
    - Simple yet effective for breakout strategies. However, it lacks responsiveness to short-term volatility changes.
    - Rating: **3.8**
 
-4. **STARC Bands**: 
+4. **STARC Bands**:
+
    - Combines ATR with SMA effectively, making it useful for identifying high-probability trades. However, it's less popular and can be harder to interpret.
    - Rating: **4.0**
 
-5. **Standard Error Bands**: 
+5. **Standard Error Bands**:
    - Unique focus on deviation from the trend makes it useful for analyzing reversals but can be overly sensitive to small price changes.
    - Rating: **3.7**
 
