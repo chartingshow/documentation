@@ -6,6 +6,7 @@ By utilizing these glossaries, traders can enhance their understanding of variou
 
 ## Table of Contents 📑
 
+- [Bulls and Bears](https://github.com/chartingshow/documentation/blob/master/trading/glossary/bulls-and-bears.md)
 - [Themes](https://github.com/chartingshow/documentation/blob/master/trading/glossary/themes.md)
 - [Trading Styles](https://github.com/chartingshow/documentation/blob/master/trading/glossary/trading-styles.md)
 - [Trading Timeframes](https://github.com/chartingshow/documentation/blob/master/trading/glossary/trading-timeframes.md)
