@@ -5,25 +5,25 @@ This pattern suggests that buyers are attempting to push prices higher, even tho
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/candlestick-patterns/inverted%20hammer%20candlestick.jpg" alt="inverted hammer candlestick" /></p>
 
 - [Candlestick Pattern: Inverted Hammer](#candlestick-pattern--inverted-hammer)
-  * [The Inverted Hammer Candlestick: A Potential Bearish Signal](#the-inverted-hammer-candlestick--a-potential-bearish-signal)
-    + [What is an Inverted Hammer?](#what-is-an-inverted-hammer-)
-    + [Structure and Formation](#structure-and-formation)
-    + [The Inverted Hammer Near Resistance](#the-inverted-hammer-near-resistance)
-    + [Why It Can Be a Bearish Signal](#why-it-can-be-a-bearish-signal)
-    + [Trading Considerations](#trading-considerations)
-    + [Conclusion](#conclusion)
-  * [How can I identify an inverted hammer candlestick near a resistance trendline?](#how-can-i-identify-an-inverted-hammer-candlestick-near-a-resistance-trendline-)
-  * [How can I confirm if an inverted hammer is part of a larger bullish trend?](#how-can-i-confirm-if-an-inverted-hammer-is-part-of-a-larger-bullish-trend-)
-    + [1. Ensure It Appears in a Downtrend](#1-ensure-it-appears-in-a-downtrend)
-    + [2. Analyze the Structure of the Candle](#2-analyze-the-structure-of-the-candle)
-    + [3. Confirm with Subsequent Candles](#3-confirm-with-subsequent-candles)
-    + [4. Check Volume Levels](#4-check-volume-levels)
-    + [5. Use Additional Technical Indicators](#5-use-additional-technical-indicators)
-    + [6. Consider Candle Color](#6-consider-candle-color)
-    + [7. Evaluate Broader Market Context](#7-evaluate-broader-market-context)
-  * [What confirmation signals should I look for after an inverted hammer appears?](#what-confirmation-signals-should-i-look-for-after-an-inverted-hammer-appears-)
-  * [What are the most reliable indicators to use alongside an inverted hammer?](#what-are-the-most-reliable-indicators-to-use-alongside-an-inverted-hammer-)
-  * [What are the key differences between an inverted hammer and a hammer candlestick?](#what-are-the-key-differences-between-an-inverted-hammer-and-a-hammer-candlestick-)
+  - [The Inverted Hammer Candlestick: A Potential Bearish Signal](#the-inverted-hammer-candlestick--a-potential-bearish-signal)
+    - [What is an Inverted Hammer?](#what-is-an-inverted-hammer-)
+    - [Structure and Formation](#structure-and-formation)
+    - [The Inverted Hammer Near Resistance](#the-inverted-hammer-near-resistance)
+    - [Why It Can Be a Bearish Signal](#why-it-can-be-a-bearish-signal)
+    - [Trading Considerations](#trading-considerations)
+    - [Conclusion](#conclusion)
+  - [How can I identify an inverted hammer candlestick near a resistance trendline?](#how-can-i-identify-an-inverted-hammer-candlestick-near-a-resistance-trendline-)
+  - [How can I confirm if an inverted hammer is part of a larger bullish trend?](#how-can-i-confirm-if-an-inverted-hammer-is-part-of-a-larger-bullish-trend-)
+    - [1. Ensure It Appears in a Downtrend](#1-ensure-it-appears-in-a-downtrend)
+    - [2. Analyze the Structure of the Candle](#2-analyze-the-structure-of-the-candle)
+    - [3. Confirm with Subsequent Candles](#3-confirm-with-subsequent-candles)
+    - [4. Check Volume Levels](#4-check-volume-levels)
+    - [5. Use Additional Technical Indicators](#5-use-additional-technical-indicators)
+    - [6. Consider Candle Color](#6-consider-candle-color)
+    - [7. Evaluate Broader Market Context](#7-evaluate-broader-market-context)
+  - [What confirmation signals should I look for after an inverted hammer appears?](#what-confirmation-signals-should-i-look-for-after-an-inverted-hammer-appears-)
+  - [What are the most reliable indicators to use alongside an inverted hammer?](#what-are-the-most-reliable-indicators-to-use-alongside-an-inverted-hammer-)
+  - [What are the key differences between an inverted hammer and a hammer candlestick?](#what-are-the-key-differences-between-an-inverted-hammer-and-a-hammer-candlestick-)
 
 ## The Inverted Hammer Candlestick: A Potential Bearish Signal
 
@@ -90,6 +90,7 @@ To identify an inverted hammer candlestick near a resistance trendline, follow t
 1. Locate the resistance trendline on your chart. This is a line connecting previous price highs that the asset has struggled to break above.
 
 2. Look for a candlestick with the following characteristics near the resistance line:
+
    - A small body at the lower end of the candle
    - A long upper wick that is at least twice the size of the body
    - Little to no lower wick
@@ -99,6 +100,7 @@ To identify an inverted hammer candlestick near a resistance trendline, follow t
 4. Choose appropriate timeframes for analysis. Daily and hourly charts are popular for identifying this pattern due to their balance of signals and reliability.
 
 5. Use additional indicators to strengthen your identification:
+
    - Volume: Look for increased trading volume, which can indicate stronger buyer interest.
    - Oscillators: Check if indicators like RSI or Stochastic show oversold conditions.
 
@@ -114,7 +116,7 @@ To confirm if an inverted hammer candlestick is part of a larger bullish trend, 
 
 ### 1. Ensure It Appears in a Downtrend
 
-   - The inverted hammer is only significant when it forms after a sustained downtrend. Its presence signals that selling pressure may be weakening, and buyers are starting to step in.
+- The inverted hammer is only significant when it forms after a sustained downtrend. Its presence signals that selling pressure may be weakening, and buyers are starting to step in.
 
 ### 2. Analyze the Structure of the Candle
 
@@ -201,19 +203,23 @@ Remember, it's crucial to use multiple indicators and consider the broader marke
 
 The key differences between an inverted hammer and a hammer candlestick are:
 
-1. Appearance: 
+1. Appearance:
+
    - Hammer: Has a small body at the top and a long lower shadow.
    - Inverted Hammer: Has a small body at the bottom and a long upper shadow.
 
 2. Position in trend:
+
    - Hammer: Appears at the bottom of a downtrend.
    - Inverted Hammer: Also appears at the bottom of a downtrend.
 
 3. Structure:
+
    - Hammer: Long lower wick, short or no upper wick.
    - Inverted Hammer: Long upper wick, little to no lower wick.
 
 4. Market dynamics:
+
    - Hammer: Indicates sellers pushed prices down, but buyers ultimately took control.
    - Inverted Hammer: Shows buyers tried to push prices up but were only partially successful.
 
