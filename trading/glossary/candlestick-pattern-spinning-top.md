@@ -5,28 +5,28 @@ The Spinning Top is a Japanese candlestick pattern characterized by a small real
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/candlestick-patterns/candlestick-spinning-top.jpg" alt="spinning top"/></p>
 
 - [Candlestick Pattern: Spinning Top](#candlestick-pattern--spinning-top)
-    + [Key Characteristics](#key-characteristics)
-    + [Formation and Meaning](#formation-and-meaning)
-    + [Interpretation](#interpretation)
-    + [Trading Considerations](#trading-considerations)
+  - [Key Characteristics](#key-characteristics)
+  - [Formation and Meaning](#formation-and-meaning)
+  - [Interpretation](#interpretation)
+  - [Trading Considerations](#trading-considerations)
   * [How reliable is a Spinning Top pattern on its own?](#how-reliable-is-a-spinning-top-pattern-on-its-own-)
   * [What are the main differences between a Spinning Top and a Doji?](#what-are-the-main-differences-between-a-spinning-top-and-a-doji-)
-    + [Summary](#summary)
+    - [Summary](#summary)
   * [Can a Spinning Top indicate a trend reversal?](#can-a-spinning-top-indicate-a-trend-reversal-)
   * [How can I combine a Spinning Top with other technical indicators?](#how-can-i-combine-a-spinning-top-with-other-technical-indicators-)
-    + [Moving Averages](#moving-averages)
-    + [Oscillators](#oscillators)
+    - [Moving Averages](#moving-averages)
+    - [Oscillators](#oscillators)
       - [RSI (Relative Strength Index)](#rsi--relative-strength-index-)
       - [MACD (Moving Average Convergence Divergence)](#macd--moving-average-convergence-divergence-)
-    + [Volume Analysis](#volume-analysis)
-    + [Support and Resistance Levels](#support-and-resistance-levels)
-    + [Bollinger Bands](#bollinger-bands)
-    + [Multiple Timeframes](#multiple-timeframes)
+    - [Volume Analysis](#volume-analysis)
+    - [Support and Resistance Levels](#support-and-resistance-levels)
+    - [Bollinger Bands](#bollinger-bands)
+    - [Multiple Timeframes](#multiple-timeframes)
   * [How does volume analysis enhance the interpretation of a Spinning Top?](#how-does-volume-analysis-enhance-the-interpretation-of-a-spinning-top-)
-    + [1. High Volume](#1-high-volume)
-    + [2. Low Volume](#2-low-volume)
-    + [3. Volume as Confirmation](#3-volume-as-confirmation)
-    + [Practical Applications](#practical-applications)
+    - [1. High Volume](#1-high-volume)
+    - [2. Low Volume](#2-low-volume)
+    - [3. Volume as Confirmation](#3-volume-as-confirmation)
+    - [Practical Applications](#practical-applications)
 
 ### Key Characteristics
 
@@ -64,7 +64,6 @@ Remember that while Spinning Tops are common, they are not very reliable on thei
 The Spinning Top candlestick pattern is not highly reliable on its own as a trading signal due to its neutral nature and lack of directional bias. Here are the key points regarding its reliability:
 
 - **Market Indecision**: The Spinning Top reflects indecision between buyers and sellers, making it inherently ambiguous and unsuitable for predicting clear price movements without additional context or confirmation.
-  
 - **Confirmation Required**: Traders are advised to use this pattern in conjunction with other technical indicators or wait for the next candlestick to confirm a potential trend reversal or continuation.
 
 - **Statistical Performance**: Research shows that Spinning Tops have a moderate success rate. For example, they exhibit a 55.9% bullish success rate in some studies, but they rank relatively low in overall performance compared to other candlestick patterns.
@@ -77,13 +76,13 @@ In conclusion, while the Spinning Top can provide insights into market indecisio
 
 The primary differences between a Spinning Top and a Doji candlestick pattern lie in their structure and the degree of market indecision they represent. Here's a detailed comparison:
 
-| **Aspect**               | **Spinning Top**                                                                 | **Doji**                                                                 |
-|--------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| **Body Size**            | Small real body, but larger than a Doji's.                                       | Almost no real body; open and close prices are nearly identical.   |
-| **Shadows (Wicks)**      | Long upper and lower shadows, indicating significant price movement during the session. | Shadows can be short or long, depending on the type of Doji.       |
-| **Market Indecision**    | Shows indecision but with slight momentum from buyers or sellers.                | Reflects complete market hesitation with no clear momentum.        |
-| **Signal Strength**      | Indicates weak momentum in the current trend, often requiring confirmation.      | Stronger signal of indecision, often seen before potential reversals. |
-| **Trend Implications**   | Suggests hesitation but not necessarily a reversal; could lead to continuation or reversal based on context. | Often associated with potential trend reversals or consolidation. |
+| **Aspect**             | **Spinning Top**                                                                                             | **Doji**                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| **Body Size**          | Small real body, but larger than a Doji's.                                                                   | Almost no real body; open and close prices are nearly identical.      |
+| **Shadows (Wicks)**    | Long upper and lower shadows, indicating significant price movement during the session.                      | Shadows can be short or long, depending on the type of Doji.          |
+| **Market Indecision**  | Shows indecision but with slight momentum from buyers or sellers.                                            | Reflects complete market hesitation with no clear momentum.           |
+| **Signal Strength**    | Indicates weak momentum in the current trend, often requiring confirmation.                                  | Stronger signal of indecision, often seen before potential reversals. |
+| **Trend Implications** | Suggests hesitation but not necessarily a reversal; could lead to continuation or reversal based on context. | Often associated with potential trend reversals or consolidation.     |
 
 ### Summary
 
