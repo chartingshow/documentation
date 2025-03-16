@@ -7,6 +7,8 @@ By utilizing these glossaries, traders can enhance their understanding of variou
 ## Table of Contents 📑
 
 - [Bulls and Bears](https://github.com/chartingshow/documentation/blob/master/trading/glossary/bulls-and-bears.md)
+- [Candlestick Pattern: Inverted Hammer](https://github.com/chartingshow/documentation/blob/master/trading/glossary/candlestick-pattern-inverted-hammer.md)
+- [Candlestick Pattern: Spinning Top](https://github.com/chartingshow/documentation/blob/master/trading/glossary/candlestick-pattern-spinning-top.md)
 - [Themes](https://github.com/chartingshow/documentation/blob/master/trading/glossary/themes.md)
 - [Trading Styles](https://github.com/chartingshow/documentation/blob/master/trading/glossary/trading-styles.md)
 - [Trading Timeframes](https://github.com/chartingshow/documentation/blob/master/trading/glossary/trading-timeframes.md)
