@@ -3,25 +3,25 @@
 <p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-glossary/candlestick-patterns/doji%20candlestick.jpg" alt="doji candlesticks" /></p>
 
 - [Candlestick Patterns: Doji](#candlestick-patterns--doji)
-    + [Types of Doji Candlesticks](#types-of-doji-candlesticks)
-    + [Interpretation and Trading](#interpretation-and-trading)
-    + [Trading Tips](#trading-tips)
+  - [Types of Doji Candlesticks](#types-of-doji-candlesticks)
+  - [Interpretation and Trading](#interpretation-and-trading)
+  - [Trading Tips](#trading-tips)
   * [How do Doji candlesticks indicate market indecision?](#how-do-doji-candlesticks-indicate-market-indecision-)
-    + [Key Characteristics of Doji Candlesticks](#key-characteristics-of-doji-candlesticks)
-    + [Types of Doji Candlesticks](#types-of-doji-candlesticks-1)
-    + [Market Implications](#market-implications)
+    - [Key Characteristics of Doji Candlesticks](#key-characteristics-of-doji-candlesticks)
+    - [Types of Doji Candlesticks](#types-of-doji-candlesticks-1)
+    - [Market Implications](#market-implications)
   * [How does trading volume affect the interpretation of Doji candlesticks?](#how-does-trading-volume-affect-the-interpretation-of-doji-candlesticks-)
-    + [Confirmation of Significance](#confirmation-of-significance)
-    + [Strength of the Signal](#strength-of-the-signal)
-    + [Potential for Breakouts](#potential-for-breakouts)
-    + [Trend Strength Assessment](#trend-strength-assessment)
-    + [Confirmation of Reversal Signals](#confirmation-of-reversal-signals)
-    + [Volume Divergence](#volume-divergence)
+    - [Confirmation of Significance](#confirmation-of-significance)
+    - [Strength of the Signal](#strength-of-the-signal)
+    - [Potential for Breakouts](#potential-for-breakouts)
+    - [Trend Strength Assessment](#trend-strength-assessment)
+    - [Confirmation of Reversal Signals](#confirmation-of-reversal-signals)
+    - [Volume Divergence](#volume-divergence)
   * [Big vs Small Doji Candlesticks](#big-vs-small-doji-candlesticks)
-    + [Big Doji Candlesticks](#big-doji-candlesticks)
-    + [Small Doji Candlesticks](#small-doji-candlesticks)
-    + [Comparison](#comparison)
-    + [Volume Considerations](#volume-considerations)
+    - [Big Doji Candlesticks](#big-doji-candlesticks)
+    - [Small Doji Candlesticks](#small-doji-candlesticks)
+    - [Comparison](#comparison)
+    - [Volume Considerations](#volume-considerations)
   * [Why is it important to identify indecision?](#why-is-it-important-to-identify-indecision-)
 
 The Doji candlestick pattern is a key element in technical analysis, representing market indecision. It occurs when the opening and closing prices of a security are virtually the same or very close, resulting in a candlestick that resembles a cross, plus sign, or inverted cross. This pattern reflects a balance between buying and selling pressure during the trading session.
@@ -142,13 +142,13 @@ Small doji candlesticks have shorter shadows and a small body, resembling a plus
 
 ### Comparison
 
-| Aspect | Big Doji | Small Doji |
-|--------|----------|------------|
-| Volatility | Higher | Lower |
-| Signal Strength | Stronger | Weaker |
-| Reversal Potential | Higher | Lower |
-| Trading Volume | Often higher | Often lower |
-| Trend Implication | More likely to indicate reversal | More likely to indicate continuation |
+| Aspect             | Big Doji                         | Small Doji                           |
+| ------------------ | -------------------------------- | ------------------------------------ |
+| Volatility         | Higher                           | Lower                                |
+| Signal Strength    | Stronger                         | Weaker                               |
+| Reversal Potential | Higher                           | Lower                                |
+| Trading Volume     | Often higher                     | Often lower                          |
+| Trend Implication  | More likely to indicate reversal | More likely to indicate continuation |
 
 It's important to note that the interpretation of doji candlesticks, regardless of size, should always be done in context with the overall trend, support and resistance levels, and other technical indicators for more reliable trading decisions.
 
