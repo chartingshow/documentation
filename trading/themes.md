@@ -2,18 +2,18 @@
 
 ### Description
 
-The content below provides information about the theme module used to style trading charts. It includes a list of predefined color themes, each with its corresponding color name and hexadecimal (hex) color code. These themes are designed to enhance the visual appearance and usability of the trading charts by applying consistent and aesthetically pleasing color schemes. 
+The content below provides information about the theme module used to style trading charts. It includes a list of predefined color themes, each with its corresponding color name and hexadecimal (hex) color code. These themes are designed to enhance the visual appearance and usability of the trading charts by applying consistent and aesthetically pleasing color schemes.
 
 ### Theme Details
 
 | Theme  | Color Name | Hex     |
 | ------ | ---------- | ------- |
 | Yellow | Early Dawn | #FFF9E5 |
-| Pink   | Serenade       | #FFF1E5    |
-| Blue    | Selago        | #F1F7FD     |
-| Grey    | Alto       | #DBDBDB    |
-| White    | White       | #FFFFFF     |
-| Black | Cod Gray | #0F0F0F |
+| Pink   | Serenade   | #FFF1E5 |
+| Blue   | Selago     | #F1F7FD |
+| Grey   | Alto       | #DBDBDB |
+| White  | White      | #FFFFFF |
+| Black  | Cod Gray   | #0F0F0F |
 
 This table serves as a reference for developers and designers to implement the specified color themes effectively within the trading chart interface.
 
