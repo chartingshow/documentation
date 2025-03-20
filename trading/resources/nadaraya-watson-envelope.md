@@ -5,6 +5,7 @@ The Nadaraya-Watson Envelope is a dynamic technical analysis tool that uses kern
 ### Core Components
 
 **Calculation Process:**
+
 1. **Data Collection:** Uses closing prices over 100-300 bars for baseline analysis
 2. **Kernel Smoothing:** Applies weighted averages using a kernel function, prioritizing recent data points
 3. **Volatility Measurement:** Calculates standard deviation around the smoothed trend line
@@ -22,11 +23,13 @@ lower = nwe - (atr * multiplier)
 ### Key Applications
 
 **Trend Analysis:**
+
 - **Uptrends:** Price tends to stay above the lower envelope
 - **Downtrends:** Price remains below the upper envelope
 - **Ranging Markets:** Bands act as reversal boundaries
 
 **Signal Generation:**
+
 - Breakouts outside bands indicate potential trend acceleration
 - Price reverting to central kernel line suggests mean reversion
 - Divergences with oscillators like RSI create confluence signals
@@ -183,11 +186,13 @@ The Nadaraya-Watson Envelope and Bollinger Bands are both technical analysis too
 ### Calculation Method
 
 **Nadaraya-Watson Envelope:**
+
 - Uses kernel regression techniques for smoothing price data
 - Employs a logarithmic scale for more nuanced market behavior capture
 - Utilizes Average True Range (ATR) for volatility scaling
 
 **Bollinger Bands:**
+
 - Based on simple moving averages (typically 20-period SMA)
 - Uses standard deviation to create upper and lower bands
 - Linear scale calculation
@@ -195,50 +200,60 @@ The Nadaraya-Watson Envelope and Bollinger Bands are both technical analysis too
 ### Adaptability
 
 **Nadaraya-Watson Envelope:**
+
 - More adaptive to changing market conditions due to its non-parametric approach
 - Better at filtering out market noise
 
 **Bollinger Bands:**
+
 - Less adaptive, with fixed parameters (unless manually adjusted)
 - More sensitive to sudden market changes
 
 ### Signal Generation
 
 **Nadaraya-Watson Envelope:**
+
 - Identified trend reversals more effectively than Simple Moving Averages in 70% of examined trades
 - Provides a more refined perspective of market dynamics
 
 **Bollinger Bands:**
+
 - Effective for identifying overbought and oversold conditions
 - Can produce false signals, especially in sideways markets
 
 ### Lag and Responsiveness
 
 **Nadaraya-Watson Envelope:**
+
 - Tends to lag significantly during rapid market shifts
 - May over-smooth data, potentially missing short-term opportunities
 
 **Bollinger Bands:**
+
 - More responsive to sudden price changes
 - Can provide earlier signals in volatile markets
 
 ### Reliability
 
 **Nadaraya-Watson Envelope:**
+
 - Non-repainting, maintaining historical signal integrity
 - More reliable for long-term trend analysis
 
 **Bollinger Bands:**
+
 - Can be more effective in ranging or sideways markets
 - Prone to whipsaws in volatile conditions
 
 ### Complexity
 
 **Nadaraya-Watson Envelope:**
+
 - More complex calculation, requiring a deeper understanding of statistical concepts
 - Often integrated with machine learning algorithms for enhanced performance
 
 **Bollinger Bands:**
+
 - Simpler to understand and implement
 - Widely available in most trading platforms
 
@@ -251,11 +266,13 @@ The Nadaraya-Watson Envelope and Polynomial Regression Bands are both advanced t
 ### Calculation Method
 
 **Nadaraya-Watson Envelope:**
+
 - Uses kernel regression techniques with a Rational Quadratic Kernel for smoothing price data
 - Employs a logarithmic scale for more nuanced market behavior capture
 - Utilizes Average True Range (ATR) for volatility scaling
 
 **Polynomial Regression Bands:**
+
 - Fits an n-degree polynomial regression line to recent price data
 - Creates bands using standard deviation multiples around the regression line
 - Allows for adjustable polynomial degrees (typically 1st to 6th degree)
@@ -263,39 +280,47 @@ The Nadaraya-Watson Envelope and Polynomial Regression Bands are both advanced t
 ### Adaptability
 
 **Nadaraya-Watson Envelope:**
+
 - More adaptive to changing market conditions due to its non-parametric approach
 - Reacts more quickly to changes in data compared to simple moving averages
 
 **Polynomial Regression Bands:**
+
 - Adapts to complex price patterns through higher-degree polynomials
 - Automatically adjusts to reflect changes in volatility
 
 ### Signal Generation
 
 **Nadaraya-Watson Envelope:**
+
 - Provides refined perspective on market dynamics
 - Effective at filtering out market noise
 
 **Polynomial Regression Bands:**
+
 - Identifies potential support and resistance levels
 - Useful for spotting trend reversals and divergences
 
 ### Customization
 
 **Nadaraya-Watson Envelope:**
+
 - Allows for parameter optimization, including bandwidth and kernel function
 
 **Polynomial Regression Bands:**
+
 - Offers flexibility in choosing polynomial degree and standard deviation multiples
 - Includes a shift parameter for exploring past or future price movements
 
 ### Complexity
 
 **Nadaraya-Watson Envelope:**
+
 - More complex calculation, requiring deeper understanding of statistical concepts
 - Often integrated with machine learning algorithms for enhanced performance
 
 **Polynomial Regression Bands:**
+
 - Complexity increases with higher polynomial degrees
 - May require more computational power for real-time analysis of higher-degree polynomials
 
@@ -307,28 +332,30 @@ The Rational Quadratic Kernel Nadaraya-Watson Envelope, Bollinger Bands, and Pol
 
 ### Comparison Table
 
-| Feature | Rational Quadratic Kernel Nadaraya-Watson Envelope | Bollinger Bands | Polynomial Bands |
-|---------|---------------------------------------------------|-----------------|-------------------|
-| Calculation Method | Kernel regression with Rational Quadratic Kernel | Simple moving average with standard deviation | Polynomial regression |
-| Adaptability | Highly adaptive to changing market conditions | Less adaptive, fixed parameters | Adaptive, depends on polynomial degree |
-| Noise Reduction | Excellent at filtering market noise | Moderate noise reduction | Depends on polynomial degree |
-| Lag | May lag significantly during rapid market shifts | More responsive to sudden price changes | Varies based on polynomial degree |
-| Customization | Allows for parameter optimization | Limited customization | Flexible in choosing polynomial degree |
-| Complexity | More complex, requires understanding of statistical concepts | Simple to understand and implement | Complexity increases with higher degrees |
-| Signal Generation | Refined perspective on market dynamics | Effective for overbought/oversold conditions | Useful for trend reversals and divergences |
-| Non-Repainting | Non-repainting, maintains historical signal integrity | Can be repainting depending on implementation | Typically non-repainting |
+| Feature            | Rational Quadratic Kernel Nadaraya-Watson Envelope           | Bollinger Bands                               | Polynomial Bands                           |
+| ------------------ | ------------------------------------------------------------ | --------------------------------------------- | ------------------------------------------ |
+| Calculation Method | Kernel regression with Rational Quadratic Kernel             | Simple moving average with standard deviation | Polynomial regression                      |
+| Adaptability       | Highly adaptive to changing market conditions                | Less adaptive, fixed parameters               | Adaptive, depends on polynomial degree     |
+| Noise Reduction    | Excellent at filtering market noise                          | Moderate noise reduction                      | Depends on polynomial degree               |
+| Lag                | May lag significantly during rapid market shifts             | More responsive to sudden price changes       | Varies based on polynomial degree          |
+| Customization      | Allows for parameter optimization                            | Limited customization                         | Flexible in choosing polynomial degree     |
+| Complexity         | More complex, requires understanding of statistical concepts | Simple to understand and implement            | Complexity increases with higher degrees   |
+| Signal Generation  | Refined perspective on market dynamics                       | Effective for overbought/oversold conditions  | Useful for trend reversals and divergences |
+| Non-Repainting     | Non-repainting, maintains historical signal integrity        | Can be repainting depending on implementation | Typically non-repainting                   |
 
 ### Reviews and Advantages/Disadvantages
 
 #### Rational Quadratic Kernel Nadaraya-Watson Envelope
 
 **Advantages:**
+
 - Highly adaptive to changing market conditions
 - Excellent at filtering out market noise
 - Non-repainting, maintaining historical signal integrity
 - Provides a refined perspective of market dynamics
 
 **Disadvantages:**
+
 - May lag significantly during rapid market shifts
 - More complex calculation, requiring a deeper understanding of statistical concepts
 - Can over-smooth data, potentially missing short-term opportunities
@@ -336,12 +363,14 @@ The Rational Quadratic Kernel Nadaraya-Watson Envelope, Bollinger Bands, and Pol
 #### Bollinger Bands
 
 **Advantages:**
+
 - Simple to understand and implement
 - Widely available in most trading platforms
 - Effective for identifying overbought and oversold conditions
 - More responsive to sudden price changes
 
 **Disadvantages:**
+
 - Less adaptive, with fixed parameters (unless manually adjusted)
 - Can produce false signals, especially in sideways markets
 - Prone to whipsaws in volatile conditions
@@ -349,12 +378,14 @@ The Rational Quadratic Kernel Nadaraya-Watson Envelope, Bollinger Bands, and Pol
 #### Polynomial Bands
 
 **Advantages:**
+
 - Adapts to complex price patterns through higher-degree polynomials
 - Offers flexibility in choosing polynomial degree
 - Useful for spotting trend reversals and divergences
 - Includes a shift parameter for exploring past or future price movements
 
 **Disadvantages:**
+
 - Complexity increases with higher polynomial degrees
 - May require more computational power for real-time analysis of higher-degree polynomials
 - Risk of overfitting with higher-degree polynomials
