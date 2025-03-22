@@ -57,6 +57,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | REMA           | Range EMA                                                                                                                          |
 | RMA            | RSI Moving Average                                                                                                                 |
 | RMS            | Root Mean Square                                                                                                                   |
+| ROLLING VWAP   | Rolling Volume-Weighted Average Price                                                                                              |
 | SIGNAL         | Signal Moving Average                                                                                                              |
 | SMA            | Simple Moving Average                                                                                                              |
 | SMMA           | Smoothed Moving Average                                                                                                            |
@@ -71,7 +72,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | TWAP           | Time-Weighted Average Price                                                                                                        |
 | VAMA           | Volatility Adjusted Moving Average                                                                                                 |
 | VIDYA          | Variable Index Dynamic Average                                                                                                     |
-| VWAP           | Volume Weighted Average Price                                                                                                      |
+| VWAP           | Volume-Weighted Average Price                                                                                                      |
 | VWMA           | Volume Weighted Moving Average                                                                                                     |
 | WILD           | Wilder Moving Average                                                                                                              |
 | WMA            | Weighted Moving Average                                                                                                            |
