@@ -1,5 +1,7 @@
 ## Navigating Divergences: When to Draw the Line in RSI Analysis?
 
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-resources/rsi-divergences/RSI%20divergences%200.jpg" alt="RSI Divergence" /></p>
+
 - [Navigating Divergences: When to Draw the Line in RSI Analysis?](#navigating-divergences--when-to-draw-the-line-in-rsi-analysis-)
 - [How can I use RSI divergence to improve my trading strategy?](#how-can-i-use-rsi-divergence-to-improve-my-trading-strategy-)
   - [Identifying and Confirming Divergences](#identifying-and-confirming-divergences)
@@ -12,7 +14,9 @@
 - [What are the common pitfalls when combining RSI divergence with volume analysis?](#what-are-the-common-pitfalls-when-combining-rsi-divergence-with-volume-analysis-)
 - [How does RSI divergence compare to other technical indicators in terms of accuracy?](#how-does-rsi-divergence-compare-to-other-technical-indicators-in-terms-of-accuracy-)
 
-<p align="center"><img src="#" alt="RSI Divergence" /></p>
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-resources/rsi-divergences/RSI%20divergences%201.jpg" alt="RSI Divergence" /></p>
+
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/trading-resources/rsi-divergences/RSI%20divergences%202.jpg" alt="RSI Divergence" /></p>
 
 When dealing with a divergence that starts at a Higher High (HH) on the RSI, and the subsequent price action forms a Higher Low (HL), Lower High (LH), Lower Low (LL), Lower High (LH), and another Lower Low (LL), the correct approach is to stop drawing divergences at the first Lower Low (LL) where the price has made a reversal.
 
