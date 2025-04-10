@@ -55,7 +55,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | QUADRATIC MEAN | Quadratic Mean                                                                                                                     |
 | RAF            | Retention-Acceleration Filter                                                                                                      |
 | REMA           | Range EMA                                                                                                                          |
-| RMA            | RSI Moving Average                                                                                                                 |
+| RMA            | Robust (RSI) Moving Average                                                                                                        |
 | RMS            | Root Mean Square                                                                                                                   |
 | ROLLING VWAP   | Rolling Volume-Weighted Average Price                                                                                              |
 | SIGNAL         | Signal Moving Average                                                                                                              |
