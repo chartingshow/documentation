@@ -28,7 +28,7 @@ The report outlines ten core investment themes expected to drive market views in
 
 ### Recommendations
 
-The report suggests maintaining exposure to US equities while diversifying and using options to limit tail risks. It also recommends considering long positions in Bunds and compression of rate spreads between core Europe and Central and Eastern Europe.
+Our annual report suggests maintaining exposure to US equities while diversifying and using options to limit tail risks. It also recommends considering long positions in Bunds and compression of rate spreads between core Europe and Central and Eastern Europe.
 
 ## Cryptocurrency Market Reaction
 
@@ -42,12 +42,12 @@ Several key implications for the crypto market:
 ### Institutional Adoption and ETF Influence
 
 - Wall Street has **$1.5B+ in Bitcoin and Ethereum ETFs**, signaling institutional confidence despite volatility concerns.
-- The bank's first-ever mention of digital assets in its annual report highlights crypto's growing mainstream acceptance, though it remains cautious about regulatory and cybersecurity risks.
+- Our annual report highlights crypto's growing mainstream acceptance, though it remains cautious about regulatory and cybersecurity risks.
 
 ### Dollar Strength and Crypto as a Hedge
 
 - A stronger USD (forecasted by Charting Show) could pressure crypto prices short-term but may increase Bitcoin's appeal as an **inflation hedge** in emerging markets.
-- The bank acknowledges Bitcoin's role in diversification, particularly in unstable monetary environments.
+- We acknowledge Bitcoin's role in diversification, particularly in unstable monetary environments.
 
 ### Strategic Takeaways for Crypto Traders
 
