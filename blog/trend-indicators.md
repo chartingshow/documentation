@@ -379,7 +379,7 @@ Here's an in-depth analysis of why combining **Moving Averages + MACD + Aroon** 
 
 **Role:** Measures trend "freshness" and dominance using:
 
-- **Aroon Up/Down:** Tracks time since recent highs/lows (0-100 scale)[Original Answer].
+- **Aroon Up/Down:** Tracks time since recent highs/lows (0-100 scale).
 - **Threshold rules:**
   - Aroon Up >70 + Down EMA10 > EMA20 > EMA50 > EMA200.
 
@@ -388,7 +388,7 @@ Here's an in-depth analysis of why combining **Moving Averages + MACD + Aroon** 
    - Histogram expanding upward.
 3. **Aroon Validation:**
    - Aroon Up >70 (strong upward momentum).
-   - Aroon Down 25 to filter weak trends[Original Answer].
+   - Aroon Down 25 to filter weak trends.
 
 This multi-indicator approach creates a **self-correcting system** where each component validates the others, mimicking institutional-grade strategies that layer:
 
@@ -406,7 +406,7 @@ Based on the latest backtesting results from 2024-2025 data:
 
 2. **Ichimoku Cloud**
 
-   - **Win Rate Potential**: 70-80% when filtered with ADX >25[Original Answer]
+   - **Win Rate Potential**: 70-80% when filtered with ADX >25
    - **Edge**: Multiple confirmation points (cloud position, Chikou span, conversion lines)
    - **Example**: Price above cloud + Tenkan/Kijun bullish crossover + ADX >25
 
@@ -439,13 +439,13 @@ Based on the provided search results and analysis:
 
 1. **Standard Trend Indicators**
 
-   - **Supertrend**: ~60-70% win rate when combined with MA filters (requires optimization)[Original Answer]
-   - **Ichimoku Cloud**: 70-80% win rate _only_ when filtered with ADX >25[Original Answer]
-   - **Dual MA Systems**: 39% win rate in quantified studies[Original Answer]
+   - **Supertrend**: ~60-70% win rate when combined with MA filters (requires optimization)
+   - **Ichimoku Cloud**: 70-80% win rate _only_ when filtered with ADX >25
+   - **Dual MA Systems**: 39% win rate in quantified studies
 
 2. **High-Claim Systems**
    - **"99% Win Rate" Indicators**: Proven false in real testing (46% win rate observed)
-   - **RSI-Based Strategies**: 71-91% win rates _only_ when combined with strict filters (e.g., 2-6 period RSI on select stocks)[Original Answer]
+   - **RSI-Based Strategies**: 71-91% win rates _only_ when combined with strict filters (e.g., 2-6 period RSI on select stocks)
    - **Bollinger/RSI Combos**: 80% win rate in limited tests
 
 ### Critical Analysis
