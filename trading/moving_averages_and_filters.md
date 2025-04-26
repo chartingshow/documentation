@@ -36,7 +36,7 @@ The Charting Show support the following moving averages and custom filters in ou
 | HCF            | Hybrid Convolution Filter                                                                                                          |
 | HKAMA          | Hilbert based Kaufmans Adaptive Moving Average                                                                                     |
 | HMA            | Hull Moving Average                                                                                                                |
-| HWMA           | yperbolic Weighted Moving Average                                                                                                  |
+| HWMA           | Hyperbolic Weighted Moving Average                                                                                                 |
 | IDWMA          | Inverse Distance Weighted Moving Average                                                                                           |
 | JMA            | Jurik Moving Average                                                                                                               |
 | KAMA           | Kaufmans Adaptive Moving Average                                                                                                   |
