@@ -435,7 +435,7 @@ Based on the provided search results and analysis:
 - **Scope**: Specifically designed for trend reversals using machine learning and historical pattern recognition
 - **Key Advantage**: Self-learning algorithm adapts to market volatility and adjusts stop-loss/profit targets dynamically
 
-### Comparison to Other Indicators]
+### Comparison to Other Indicators
 
 1. **Standard Trend Indicators**
 
