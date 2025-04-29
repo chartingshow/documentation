@@ -32,7 +32,7 @@ Key:
 
 ### Near-Term Trading (H1)
 
-- **Timeframe**: M30 - H1
+- **Timeframe**: M15 - H1
 - **Definition**: The phrase is commonly used to depict the time frame during which a change or event is anticipated to happen.
 - **Pros**:
 
