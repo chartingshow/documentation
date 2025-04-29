@@ -30,9 +30,9 @@ Key:
 - `W` = Week
 - `M` = Month
 
-### Near-Term Trading (H1)
+### Near-Term Trading (H1 - H2)
 
-- **Timeframe**: M15 - H1
+- **Timeframes**: M15, M30, M45, H1, H2 and H3
 - **Definition**: The phrase is commonly used to depict the time frame during which a change or event is anticipated to happen.
 - **Pros**:
 
@@ -46,9 +46,9 @@ Key:
   - High transaction costs.
   - Can be stressful due to market fluctuations.
 
-### Short-Term Trading (H4)
+### Short-Term Trading (H4 - H12)
 
-- **Timeframe**: H1 - H4
+- **Timeframe**: H4, H6, H8 and H12
 - **Definition**: Intraday trading lasting from a few minutes to several days.
 - **Pros**:
 
@@ -64,7 +64,7 @@ Key:
 
 ### Medium-Term Trading (D1)
 
-- **Timeframe**: H4 - D1
+- **Timeframe**: D1
 - **Definition**: Trading over weeks to months.
 - **Pros**:
 
@@ -79,7 +79,7 @@ Key:
 
 ### Long-Term Trading (W1)
 
-- **Timeframe**: D1 - W1
+- **Timeframe**: W1
 - **Definition**: Trading over one year or more.
 - **Pros**:
 
