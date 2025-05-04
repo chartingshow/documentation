@@ -1,31 +1,31 @@
 # AI Tools for Image Creation
 
 - [AI Tools for Image Creation](#ai-tools-for-image-creation)
-  * [AI Tools for Image Creation: Reviews, Ratings & Summary](#ai-tools-for-image-creation--reviews--ratings---summary)
-    + [OpenAI's DALL-E 3](#openai-s-dall-e-3)
-    + [Midjourney](#midjourney)
-    + [Adobe Firefly](#adobe-firefly)
-    + [Freepik's Mystic & Getimg.ai's Photorealism V2](#freepik-s-mystic---getimgai-s-photorealism-v2)
-    + [Summary Comparison Table](#summary-comparison-table)
-    + [Key Takeaways](#key-takeaways)
-  * [Which AI Image Generators Are Free and Which Are Paid?](#which-ai-image-generators-are-free-and-which-are-paid-)
-    + [OpenAI's DALL-E 3](#openai-s-dall-e-3-1)
-    + [Midjourney](#midjourney-1)
-    + [Adobe Firefly](#adobe-firefly-1)
-    + [Freepik's Mystic](#freepik-s-mystic)
-    + [Getimg.ai Photorealism V2](#getimgai-photorealism-v2)
-    + [Summary Table: Free vs Paid Access](#summary-table--free-vs-paid-access)
-    + [Key Notes](#key-notes)
-  * [Best Free Tiers for AI Image Generators](#best-free-tiers-for-ai-image-generators)
-    + [1. **Leonardo AI**](#1---leonardo-ai--)
-    + [2. **Google Imagen 3**](#2---google-imagen-3--)
-    + [3. **Canva AI Image Generator**](#3---canva-ai-image-generator--)
-    + [4. **Ideogram**](#4---ideogram--)
-    + [5. **DreamStudio (Stable Diffusion)**](#5---dreamstudio--stable-diffusion---)
-    + [6. **Flux AI**](#6---flux-ai--)
-    + [7. **NightCafe**](#7---nightcafe--)
-    + [Comparison Table: Best Free Tiers](#comparison-table--best-free-tiers)
-    + [Expert Takeaway](#expert-takeaway)
+  - [AI Tools for Image Creation: Reviews, Ratings & Summary](#ai-tools-for-image-creation--reviews--ratings---summary)
+    - [OpenAI's DALL-E 3](#openai-s-dall-e-3)
+    - [Midjourney](#midjourney)
+    - [Adobe Firefly](#adobe-firefly)
+    - [Freepik's Mystic & Getimg.ai's Photorealism V2](#freepik-s-mystic---getimgai-s-photorealism-v2)
+    - [Summary Comparison Table](#summary-comparison-table)
+    - [Key Takeaways](#key-takeaways)
+  - [Which AI Image Generators Are Free and Which Are Paid?](#which-ai-image-generators-are-free-and-which-are-paid-)
+    - [OpenAI's DALL-E 3](#openai-s-dall-e-3-1)
+    - [Midjourney](#midjourney-1)
+    - [Adobe Firefly](#adobe-firefly-1)
+    - [Freepik's Mystic](#freepik-s-mystic)
+    - [Getimg.ai Photorealism V2](#getimgai-photorealism-v2)
+    - [Summary Table: Free vs Paid Access](#summary-table--free-vs-paid-access)
+    - [Key Notes](#key-notes)
+  - [Best Free Tiers for AI Image Generators](#best-free-tiers-for-ai-image-generators)
+    - [1. **Leonardo AI**](#1---leonardo-ai--)
+    - [2. **Google Imagen 3**](#2---google-imagen-3--)
+    - [3. **Canva AI Image Generator**](#3---canva-ai-image-generator--)
+    - [4. **Ideogram**](#4---ideogram--)
+    - [5. **DreamStudio (Stable Diffusion)**](#5---dreamstudio--stable-diffusion---)
+    - [6. **Flux AI**](#6---flux-ai--)
+    - [7. **NightCafe**](#7---nightcafe--)
+    - [Comparison Table: Best Free Tiers](#comparison-table--best-free-tiers)
+    - [Expert Takeaway](#expert-takeaway)
 
 ## AI Tools for Image Creation: Reviews, Ratings & Summary
 
@@ -41,7 +41,6 @@ AI image generators have rapidly evolved, offering artists, designers and creato
 - **User Rating**: 4.7/5
 
 > "DALL-E 3 by OpenAI is CNET's 2024 Editor's choice for the best AI image generator. It can handle long, complex queries, giving you many editing and customization options."
-
 
 ### Midjourney
 
@@ -68,13 +67,13 @@ AI image generators have rapidly evolved, offering artists, designers and creato
 
 ### Summary Comparison Table
 
-| Tool Name                  | Best For                        | Key Strengths                 | Main Weakness        | User Rating | Free Access                  |
-|----------------------------|---------------------------------|-------------------------------|----------------------|-------------|------------------------------|
-| DALL-E 3 (OpenAI)          | Photorealism & Customization    | Complex prompt handling, editing, safety | Sometimes slow, can look artificial | 4.7/5      | Via ChatGPT Plus (limited free) |
-| Midjourney                 | Artistic, Detailed Renderings   | Artistic quality, prompt adherence | Longer loading times | 4.6/5      | Limited (subscription)        |
-| Adobe Firefly              | Copyright-Safe, Commercial Use  | Copyright-safe, style control | Some features paid   | 4.5/5      | 100 monthly credits           |
-| Freepik Mystic             | Hyperrealistic People/Objects   | Lifelike images, customization | Signup required      | 4.3/5      | 20 free credits               |
-| Getimg.ai Photorealism V2  | Hyperrealistic People/Objects   | Lifelike images, customization | Credits required     | 4.3/5      | Credits-based                 |
+| Tool Name                 | Best For                       | Key Strengths                            | Main Weakness                       | User Rating | Free Access                     |
+| ------------------------- | ------------------------------ | ---------------------------------------- | ----------------------------------- | ----------- | ------------------------------- |
+| DALL-E 3 (OpenAI)         | Photorealism & Customization   | Complex prompt handling, editing, safety | Sometimes slow, can look artificial | 4.7/5       | Via ChatGPT Plus (limited free) |
+| Midjourney                | Artistic, Detailed Renderings  | Artistic quality, prompt adherence       | Longer loading times                | 4.6/5       | Limited (subscription)          |
+| Adobe Firefly             | Copyright-Safe, Commercial Use | Copyright-safe, style control            | Some features paid                  | 4.5/5       | 100 monthly credits             |
+| Freepik Mystic            | Hyperrealistic People/Objects  | Lifelike images, customization           | Signup required                     | 4.3/5       | 20 free credits                 |
+| Getimg.ai Photorealism V2 | Hyperrealistic People/Objects  | Lifelike images, customization           | Credits required                    | 4.3/5       | Credits-based                   |
 
 ### Key Takeaways
 
@@ -104,7 +103,7 @@ Here is a clear breakdown of the pricing and free access availability for the AI
 ### Adobe Firefly
 
 - **Pricing**: Free to use after creating an Adobe account, but with limited generative credits.
-- **Paid Plans**: 
+- **Paid Plans**:
   - Firefly Standard: $9.99/month for 2,000 generative credits
   - Firefly Pro: $29.99/month for 7,000 credits
   - Firefly Premium: $199.99/month for 50,000 credits
@@ -123,13 +122,13 @@ Here is a clear breakdown of the pricing and free access availability for the AI
 
 ### Summary Table: Free vs Paid Access
 
-| Tool Name                  | Free Access Available?          | Paid Plans / Pricing Summary                   |
-|----------------------------|--------------------------------|------------------------------------------------|
-| **DALL-E 3 (OpenAI)**      | Limited free tier (25 images/month via API) | $20/month ChatGPT Plus subscription; pay-per-image API pricing |
-| **Midjourney**             | Yes, limited free tier          | $8/month for more usage; pay-per-image API pricing |
-| **Adobe Firefly**          | Yes, free with Adobe account    | $9.99-$199.99/month subscription tiers based on credits |
-| **Freepik Mystic**         | No full free tier; initial free credits | €89/year premium license; pay-as-you-go image credits |
-| **Getimg.ai Photorealism V2** | Limited free credits initially | Credit-based pricing; pay as you go |
+| Tool Name                     | Free Access Available?                      | Paid Plans / Pricing Summary                                   |
+| ----------------------------- | ------------------------------------------- | -------------------------------------------------------------- |
+| **DALL-E 3 (OpenAI)**         | Limited free tier (25 images/month via API) | $20/month ChatGPT Plus subscription; pay-per-image API pricing |
+| **Midjourney**                | Yes, limited free tier                      | $8/month for more usage; pay-per-image API pricing             |
+| **Adobe Firefly**             | Yes, free with Adobe account                | $9.99-$199.99/month subscription tiers based on credits        |
+| **Freepik Mystic**            | No full free tier; initial free credits     | €89/year premium license; pay-as-you-go image credits          |
+| **Getimg.ai Photorealism V2** | Limited free credits initially              | Credit-based pricing; pay as you go                            |
 
 ### Key Notes
 
@@ -195,15 +194,15 @@ Several AI image generators offer robust free tiers, making them accessible for 
 
 ### Comparison Table: Best Free Tiers
 
-| AI Image Generator | Free Tier Details                | Key Features                        | Main Limitation              |
-|--------------------|----------------------------------|-------------------------------------|------------------------------|
-| Leonardo AI        | Ample free credits               | Detailed images, prompt tools       | No free editing tools        |
-| Google Imagen 3    | Fully free                       | Realistic, fast, detailed images    | None notable                 |
-| Canva              | 50 free generations              | 4 images/prompt, design integration | Limited to 50 images         |
-| Ideogram           | 10 credits/week                  | Artistic styles, color palettes     | Limited weekly credits       |
-| DreamStudio        | 100 credits (up to 500 images)   | Customization, prompt adherence     | Signup process               |
-| Flux AI            | 5 daily credits                  | Open-source, advanced editing       | Technical setup for local    |
-| NightCafe          | Free trial + earn credits        | Multiple models, community features | Earning credits is slow      |
+| AI Image Generator | Free Tier Details              | Key Features                        | Main Limitation           |
+| ------------------ | ------------------------------ | ----------------------------------- | ------------------------- |
+| Leonardo AI        | Ample free credits             | Detailed images, prompt tools       | No free editing tools     |
+| Google Imagen 3    | Fully free                     | Realistic, fast, detailed images    | None notable              |
+| Canva              | 50 free generations            | 4 images/prompt, design integration | Limited to 50 images      |
+| Ideogram           | 10 credits/week                | Artistic styles, color palettes     | Limited weekly credits    |
+| DreamStudio        | 100 credits (up to 500 images) | Customization, prompt adherence     | Signup process            |
+| Flux AI            | 5 daily credits                | Open-source, advanced editing       | Technical setup for local |
+| NightCafe          | Free trial + earn credits      | Multiple models, community features | Earning credits is slow   |
 
 ### Expert Takeaway
 
