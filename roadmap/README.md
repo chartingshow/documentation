@@ -321,6 +321,12 @@ The Roadmap is a schedule of events and milestones that forecasts and communicat
             <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
         </tr>
         <tr>
+            <td>Asset Names</td>
+            <td>Trading Module</td>
+            <td><p>The "Asset Names Module" is designed to extract, validate and format asset ticker information for trading charts. Its primary function is to convert raw ticker IDs into user-friendly names, descriptions and sector metadata, while also managing symbol info visibility for special tickers (such as indices or crypto market aggregates). The module leverages regex validation and mapping logic for various asset classes, including cryptocurrencies, ETFs, indices and blockchain metrics. Its robust mapping functions ensure consistent, readable outputs, making it valuable for dashboards, strategies and custom indicators that require clean, contextual asset labelling. Overall, the module is thoughtfully structured, highly practical and enhances the quality of chart-based presentations and analytics.</p><h3>Key Features</h3><ul><li>Converts raw ticker IDs into descriptive asset names for charts.</li><li>Returns asset description and sector metadata for richer context.</li><li>Controls symbol info visibility for special tickers and indices.</li><li>Validates ticker formats using regex and handles errors gracefully.</li></ul></td>
+            <td><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/roadmap/launched.png" alt="status"></td>
+        </tr>
+        <tr>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
