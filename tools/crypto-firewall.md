@@ -65,6 +65,13 @@ For system-wide protection, consider modifying your device's hosts file:
     <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
 </ul>
 
+### Perimeter blocking 🔓
+
+You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
+
+- ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
+- ![Pi-hole](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png) **[Pi-hole Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)** - Provides a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+
 ## Basic usage 🔥
 
 For a thorough explanation on how to add the to your adblocker, open one of the help guides found in this folder:
