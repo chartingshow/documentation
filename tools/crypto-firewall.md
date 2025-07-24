@@ -49,9 +49,11 @@ Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/
 
 - ![AdGuard Browser Extension](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **[AdGuard Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adguard-instructions.md)** - Comprehensive ad and tracker blocking solution.
 
+- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **Adblock Browser** - Available for Android and iOS devices with built-in ad blocking.
+
 - ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)** - a DNS-based host blocker for Android.
 
-- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **Adblock Browser** - Available for Android and iOS devices with built-in ad blocking.
+- ![Blokada](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/blokada.png) **[Blokada Android Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-android-instructions.md)** and **[Blokada iOS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/blokada-ios-instructions.md)** - Block ads and trackers in apps and games, comes with a fast and private DNS and VPN.
 
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
