@@ -65,7 +65,7 @@ For system-wide protection, consider modifying your device's hosts file:
     <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
 </ul>
 
-### Perimeter blocking 🔓
+### Perimeter Blocking 🔓
 
 You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
 
