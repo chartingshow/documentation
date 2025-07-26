@@ -39,21 +39,23 @@ Brave Browser offers built-in ad and tracker blocking, making it an excellent ch
 
 Explore additional secure browsers like [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Opera](https://www.opera.com/) and [Carbon Browser](https://carbon.website/), each offering unique features such as ad-blocking, privacy enhancements and cryptocurrency support.
 
+- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **[AdBlock Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-browser-instructions.md)** - Is a fast, secure, and ad-free web browser developed by the Adblock Plus team.
+
 - ![Opera Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/opera.png) **Opera Browser** - Includes ad blocking by default since Opera 50.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/chrome.png" alt="crypto" width="16" height="16" /> **Chrome Browser** - Includes [Manifest V3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3) by default limiting adblocker rules to only 30,000. Is the most popular browser used on the internet.
 
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/vivaldi.png" alt="Vivaldi" width="16" height="16" /> **[Vivaldi Browser Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/vivaldi-browser-instructions.md)** - Browse with desktop-style tabs, block ads and trackers, and sync data between devices safely.
+
 ### Ad Blockers ☀️
 
-You can use these blocklists with popular adblockers like uBlock Origin, AdAway, Blokada, NextDNS and others to block malicious crypto-related domains and trackers.
+You can use these blocklists with popular adblockers like uBlock Origin, AdAway, Blokada, AdBlock Plus and others to block malicious crypto-related domains and trackers.
 
 - ![AdAway](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adaway.png) **[AdAway Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adaway-instructions.md)** - Is a free and open-source ad-blocking application for the Android mobile operating system.
 
-- ![AdBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock.png) **AdBlock** - Active by default, blocks ads and trackers.
+- ![AdBlock](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock.png) **[AdBlock Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-instructions.md)** - Is a user-supported browser extension that lets you surf the web ad-free.
 
-- ![AdBlock Browser](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-browser.png) **AdBlock Browser** - Available for Android and iOS devices with built-in ad blocking.
-
-- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **AdBlock Plus** - Popular ad-blocking extension for various browsers.
+- ![AdBlock Plus](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adblock-plus.png) **[AdBlock Plus Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adblock-plus-instructions.md)** - Popular ad-blocking extension for various browsers.
 
 - ![AdGuard](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/adguard.png) **[AdGuard Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/adguard-instructions.md)** - Comprehensive ad and tracker blocking solution.
 
@@ -61,11 +63,23 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 
 - ![DNS66](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dns66.png) **[DNS66 Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dns66-instructions.md)** - Is a DNS-based host blocker for Android.
 
-- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/nextdns.png" alt="NextDNS" width="24" height="24" /> **NextDNS** - Protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids - on all devices and on all networks.
-
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin (Manifest V2) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-instructions.md)** - Efficient, wide-spectrum content blocker.
 
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
+
+### Perimeter Blocking 🔓
+
+You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
+
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/nextdns-logo.png" alt="NextDNS" width="16" height="16" /> **[NextDNS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/nextdns-instructions.md)** - Protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids - on all devices and on all networks.
+- ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
+- ![Pi-hole](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png) **[Pi-hole Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)** - Provides a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+
+### Crypto Annoyances (Optional Step) 🚀
+
+This filter list blocks cryptocurrency-related annoyances and unwanted content by removing URL tracking parameters (like `utm_`) and cookie banners, hiding promoted social media posts, eliminating TradingView popups / notifications / telemetry, stripping compliance banners from exchanges (Binance, Coinbase, etc.) and cleaning up crypto sites (CoinGecko, CoinMarketCap) by removing ads, banners and promotional feeds-resulting in a streamlined browsing experience free of distractions and tracking.
+
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bitcoin.png" alt="crypto" width="18" height="18" /> **[Block Crypto Annoyances Filter List](https://raw.githubusercontent.com/chartingshow/crypto-firewall/refs/heads/master/src/blacklists/block-crypto-annoyances.txt)** - Increase productivity by removing cryptocurrency-related annoyances and unwanted content.
 
 ### Operating System Blocking 🌟
 
@@ -77,12 +91,14 @@ For system-wide protection, consider modifying your device's hosts file:
     <li><p><img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/microsoft.png" alt="Windows" width="16" height="16" /> <a href="https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/windows-hosts-instructions.md"><strong>Windows Hosts File Instructions Guide</strong></a> - Update the hosts file to block connections to undesired IP addresses.</p></li>
 </ul>
 
-### Perimeter Blocking 🔓
+#### Hosts based blocking 💢
 
-You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
+For the blocking based on the [HOSTS file](<https://en.wikipedia.org/wiki/Hosts_(file)>) use the below link:
 
-- ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
-- ![Pi-hole](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pi-hole.png) **[Pi-hole Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pi-hole-instructions.md)** - Provides a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-only.txt)
+- [https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt](https://raw.githubusercontent.com/chartingshow/crypto-firewall/master/src/blacklists/hosts-domains-and-ips.txt)
+
+Here's a simple guide on how to access your hosts file on [Linux, macOS and Windows](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/how-to-edit-your-hosts-file.md).
 
 ## Basic usage 🔥
 
