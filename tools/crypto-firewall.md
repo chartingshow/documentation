@@ -21,7 +21,7 @@ Our primary focus is on:
 
 ## Installation ❤️
 
-Choose whether to install the crypto firewall at the browser and/or operating system level.
+Choose where to deploy the crypto firewall at the browser level, operating system level, and/or network perimeter - for layered, comprehensive protection.
 
 ### Browser Blocking 🌟
 
@@ -67,9 +67,21 @@ You can use these blocklists with popular adblockers like uBlock Origin, AdAway,
 
 - ![uBock Origin](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/ublock.png) **[uBlock Origin Lite (Manifest V3) Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/ublock-origin-lite-instructions.md)** - Is a _permission-less_ MV3-based content blocker.
 
+#### Manifest V3: How Google Chrome's Update Affects Ad-Blockers 🇬
+
+Google Chrome's Manifest V3, rolled out in June 2024, will significantly impact ad-blockers and other browser extensions. This update limits extensions to 30,000 rules, far below the 300,000 rules many ad-blockers currently use to function effectively. The change from the webRequest API to the declarativeNetRequest API will reduce ad-blockers' flexibility and ability to update rules in real-time.
+
+While some ad-blockers like AdGuard, uBlock Origin Lite and Ghostery have adapted to Manifest V3, users may notice decreased effectiveness in blocking ads. This move has sparked controversy, with critics arguing it gives Google more control over extensions and potentially benefits its advertising business. As a result, some users are considering alternative browsers like Firefox, which has committed to continuing support for Manifest V2.
+
 ### Perimeter Blocking 🔓
 
 You may use the hosts file with below applications to block these miners on whole networks. Simply add the link to the above hosts file in each system.
+
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" alt="Bind RPZ" width="16" height="16" /> **[Bind RPZ Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-rpz-instructions.md)** - Is a DNS firewall feature supported by BIND. It allows rewriting or blocking DNS responses for specific domains based on a configured policy - like redirecting `malware-site.com` to `127.0.0.1`.
+
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/bind-logo.png" alt="Bind Zone" width="16" height="16" /> **[Bind Zone Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/bind-zone-instructions.md)** - Is simply a DNS zone file - it defines DNS records (A, MX, CNAME, etc.) for a domain or set of domains, usually for authoritative DNS services.
+
+- <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/dnsmasq.png" alt="NextDNS" width="16" height="16" /> **[Dnsmasq Android Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-android-instructions.md)** and **[Dnsmasq Linux Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-linux-instructions.md)** and **[Dnsmasq Mac OS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-macos-instructions.md)** and **[Dnsmasq Windows Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/dnsmasq-windows-instructions.md)** - Provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot.
 
 - <img src="https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/nextdns-logo.png" alt="NextDNS" width="16" height="16" /> **[NextDNS Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/nextdns-instructions.md)** - Protects you from all kinds of security threats, blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids - on all devices and on all networks.
 - ![pfSense](https://github.com/chartingshow/crypto-firewall/blob/master/assets/images/pfSense.png) **[pfSense with pfBlockerNG Instructions Guide](https://github.com/chartingshow/crypto-firewall/blob/master/docs/help-guides/pfsense-pfblockerng-instructions.md)** - Provides firewall capabilities by allowing users to filter both inbound and outbound traffic using IP and DNS blocklists.
