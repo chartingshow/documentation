@@ -442,22 +442,18 @@ This mini-reference is a starting point. To learn more about the full scope of P
 ### A UDT is a User Defined Type that consists of:
 
 - OPTIONAL annotations:
-
   - @type tag = description of the UDT
   - @field tag = name of field, description of a contained field
 
 - Type declaration:
-
   - "export" keyword is optional (only for Library Scripts, no in strategy or indicator scripts)
   - "type" keyword is required
   - name of the UDT bbeing created
 
 - Fields
-
   - fields of the UDT, each field is a storage method followed by a field name, and optional default value on [ string, boolean, int, float, color ] types.
 
   - each field consists of:
-
     - an indent exactly 1 level deep.
     - a storage declaration (see above, "Storage methods")
     - a field name, which cannor start with a number and can only contain letters, numbers, and underscores
@@ -467,18 +463,15 @@ This mini-reference is a starting point. To learn more about the full scope of P
 ## FUNCTION declaration consists of:
 
 - OPTIONAL annotations:
-
   - @function tag = description of the function
   - @param tag = name of parameer, optional storage method, description of a parameter
   - @return tag = description of the return value
 
 - function declaration:
-
   - "export" keyword is optional on Library scripts, not Indicator or strategy.
   - "method" keyword is optional second keyword
   - NAME is a letter or underscore followed by any number of letters, numbers, and underscores
   - '(' PARAMS ')'
-
     - PARAMS is a comma separated list of PARAMS, and may be multiline where lines have an offset of 2 spaces
       - optional "series" or "simple"
       - optional storage method
@@ -489,18 +482,15 @@ This mini-reference is a starting point. To learn more about the full scope of P
         - PARAMS with default values must be at the end of the list
 
   - '=>'
-
     - denotes start of code
 
   - SINGLE_LINE_RETURN or NEW_LINE + INDENTED_BLOCK
-
     - SINGLE_LINE_RETURN is a single line of code
     - NEW_LINE + INDENTED_BLOCK is a block of code statements
 
 ## Annotations:
 
 - Script:
-
   - for the script "library" declaration, the annotation is linked to the script itself.
   - it is also useful on "indicator" and "strategy" declarations, but not required.
   - the tag is "@description" for the script description
@@ -512,7 +502,6 @@ This mini-reference is a starting point. To learn more about the full scope of P
 - UDT (user defined type):
   for a udt (user defined type) declaration, the tag is "@type" and conttent is a description of the type.
   for udt fields, the tag is "@field" and the content is:
-
   - (req) name of the field
   - (opt) storage type of the field
   - (opt) a description of the field.
@@ -521,14 +510,12 @@ This mini-reference is a starting point. To learn more about the full scope of P
         `@field myfield int this is my field`
 
 - Function:
-
   - for function declaration, the tag is "@function" and the content is a description of the function. for any other function annotators, it is required
 
         Exaample:
         `@function this is my function`
 
   - for function parameters, the tag is "@param" and the content is a description of the parameter.
-
     - (req) name of the parameter
     - (opt) storage type of the parameter
     - (opt) a default value for the parameter.
@@ -544,7 +531,6 @@ This mini-reference is a starting point. To learn more about the full scope of P
         `@returns int this is my return value`
 
 - variable declarations (optional)
-
   - for variable declarations, the tag is "@variable" and the content is a description of the variable.
 
         - (req) name of the variable
@@ -561,18 +547,15 @@ This mini-reference is a starting point. To learn more about the full scope of P
 Statements are commands that are used to execute actions or to assign values to variables.
 
 - Assignment statement:
-
   - assigns a value to a variable
   - consists of a variable name, an assignment operator, and a value
   - the value can be a literal, a variable, or an expression
 
 - Control statement:
-
   - used to control the flow of the program
   - consists of a keyword, followed by a condition, and a block of code
 
 - Function call statement:
-
   - calls a function
   - consists of a function name, followed by a list of arguments
 
@@ -591,7 +574,6 @@ comments - comments start with twwo slashes : '//' - comments may start a line o
 storage types
 
 - storage types can be:
-
   - `TYPE`
   - `TYPE[]`
   - `matrix<TYPE>`

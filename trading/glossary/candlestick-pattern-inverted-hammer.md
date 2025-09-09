@@ -90,7 +90,6 @@ To identify an inverted hammer candlestick near a resistance trendline, follow t
 1. Locate the resistance trendline on your chart. This is a line connecting previous price highs that the asset has struggled to break above.
 
 2. Look for a candlestick with the following characteristics near the resistance line:
-
    - A small body at the lower end of the candle
    - A long upper wick that is at least twice the size of the body
    - Little to no lower wick
@@ -100,7 +99,6 @@ To identify an inverted hammer candlestick near a resistance trendline, follow t
 4. Choose appropriate timeframes for analysis. Daily and hourly charts are popular for identifying this pattern due to their balance of signals and reliability.
 
 5. Use additional indicators to strengthen your identification:
-
    - Volume: Look for increased trading volume, which can indicate stronger buyer interest.
    - Oscillators: Check if indicators like RSI or Stochastic show oversold conditions.
 
@@ -204,22 +202,18 @@ Remember, it's crucial to use multiple indicators and consider the broader marke
 The key differences between an inverted hammer and a hammer candlestick are:
 
 1. Appearance:
-
    - Hammer: Has a small body at the top and a long lower shadow.
    - Inverted Hammer: Has a small body at the bottom and a long upper shadow.
 
 2. Position in trend:
-
    - Hammer: Appears at the bottom of a downtrend.
    - Inverted Hammer: Also appears at the bottom of a downtrend.
 
 3. Structure:
-
    - Hammer: Long lower wick, short or no upper wick.
    - Inverted Hammer: Long upper wick, little to no lower wick.
 
 4. Market dynamics:
-
    - Hammer: Indicates sellers pushed prices down, but buyers ultimately took control.
    - Inverted Hammer: Shows buyers tried to push prices up but were only partially successful.
 

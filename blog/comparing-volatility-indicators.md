@@ -13,22 +13,18 @@ Here is a comparative table rating and reviewing the indicators mentioned, based
 ### Reviews
 
 1. **Bollinger Bands**:
-
    - Widely regarded as one of the best tools for measuring volatility due to its responsiveness and popularity among traders. Works well in ranging markets but struggles in strong trends.
    - Rating: **4.5**
 
 2. **Keltner Channels**:
-
    - Smoother than Bollinger Bands due to ATR-based width, making it better suited for trend-following strategies. However, it lags during sudden volatility spikes.
    - Rating: **4.0**
 
 3. **Donchian Channels**:
-
    - Simple yet effective for breakout strategies. However, it lacks responsiveness to short-term volatility changes.
    - Rating: **3.8**
 
 4. **STARC Bands**:
-
    - Combines ATR with SMA effectively, making it useful for identifying high-probability trades. However, it's less popular and can be harder to interpret.
    - Rating: **4.0**
 

@@ -164,29 +164,23 @@ To set a stop-loss order for an existing position on the HTX (Huobi) crypto exch
 ### On the Web Platform
 
 1. **Log in to Your Account**:
-
    - Access your HTX account and go to the trading interface.
 
 2. **Navigate to Positions**:
-
    - Locate your active positions under the "Positions" tab.
 
 3. **Select the Position**:
-
    - Identify the specific position for which you want to set a stop-loss order.
 
 4. **Open Stop-Limit Settings**:
-
    - Click on the "Stop-Limit" or "Take-Profit/Stop-Loss" option for the selected position.
 
 5. **Input Stop-Loss Details**:
-
    - **Trigger Price**: The price at which the stop-loss order will activate.
    - **Order Price**: The price at which you want to close your position after triggering.
    - **Amount**: The quantity of assets/contracts to sell or close.
 
 6. **Confirm the Order**:
-
    - Review your inputs and click "Confirm" or "Set Order." The system will now monitor the market and execute your stop-loss order when the trigger price is reached.
 
 7. **Check Active Orders**:
@@ -195,15 +189,12 @@ To set a stop-loss order for an existing position on the HTX (Huobi) crypto exch
 ### On the Mobile App
 
 1. **Log in and Open Positions**:
-
    - Launch the HTX app, log in, and go to the "Positions" section.
 
 2. **Select a Position**:
-
    - Tap on the position you wish to manage.
 
 3. **Set Stop-Loss**:
-
    - Tap on "Take-Profit/Stop-Loss" or "Stop-Limit."
    - Enter:
      - **Trigger Price**
@@ -211,7 +202,6 @@ To set a stop-loss order for an existing position on the HTX (Huobi) crypto exch
      - **Amount**
 
 4. **Save and Confirm**:
-
    - Confirm your settings by tapping "Set Order" or "Close."
 
 5. **Monitor Orders**:
@@ -233,15 +223,12 @@ Yes, you can adjust the stop-loss price after it has been set on HTX (Huobi). He
 ### On the Web Platform
 
 1. **Log in to Your Account**:
-
    - Access your HTX account and navigate to the trading interface.
 
 2. **Go to Open Orders**:
-
    - Under the "Open Orders" section, locate the stop-loss order you want to adjust. This is typically found under [Open Orders] > [Stop-Limit].
 
 3. **Modify the Stop-Loss Order**:
-
    - Select the stop-loss order and click on the "Edit" or "Modify" option (if available).
    - Adjust the following details as needed:
      - **Trigger Price**: The price at which the stop-loss will activate.
@@ -254,15 +241,12 @@ Yes, you can adjust the stop-loss price after it has been set on HTX (Huobi). He
 ### On the Mobile App
 
 1. **Log in and Navigate to Positions**:
-
    - Open the HTX app, log in, and go to the "Positions" or "Open Orders" section.
 
 2. **Locate Your Stop-Loss Order**:
-
    - Find the active stop-loss order you wish to adjust under [Open Orders] > [Stop-Limit].
 
 3. **Edit the Stop-Loss Order**:
-
    - Tap on the stop-loss order and select "Modify" or "Edit."
    - Update:
      - **Trigger Price**
@@ -329,16 +313,13 @@ Here's how to set a percentage-based stop-loss order on HTX (Huobi):
 #### For Existing Positions (Web & Mobile)
 
 1. **Navigate to your open positions**:
-
    - On **Web**: Go to "Positions" under the trading dashboard.
    - On **Mobile App**: Open the app and tap "Positions."
 
 2. **Select your position**:
-
    - Choose the asset you want to protect with a stop-loss.
 
 3. **Set Stop-Loss by Percentage (Method 2 - PnL Ratio)**:
-
    - HTX allows setting stop-loss based on **profit/loss ratio** rather than a fixed price.
    - Input:
      - **Trigger Price/PnL Ratio**: Enter a negative percentage (e.g., `-10%` for a 10% loss threshold).
@@ -435,14 +416,12 @@ Yes, you can set both stop-loss and take-profit orders simultaneously for a sing
 ### Key Features of HTX's Stop-Loss/Take-Profit System
 
 1. **Simultaneous Orders**
-
    - You can set **both** a stop-loss and take-profit order for the same position at the same time, either when opening the position or afterward.
    - Example: For a BTC long position, you could set:
      - Take-profit at **$25,000** (executes if price rises).
      - Stop-loss at **$16,000** (executes if price falls).
 
 2. **Execution Rules**
-
    - **Not OCO (One-Cancels-the-Other)**: If one order triggers, the other **remains active** unless manually canceled.
    - Example: If your stop-loss executes, the take-profit order stays open until the price reaches its trigger or you cancel it.
 
@@ -491,12 +470,10 @@ Here's how to manage multiple stop-loss and take-profit orders on HTX, along wit
 ### HTX Order Priority System
 
 1. **Single Position, Multiple Orders**
-
    - You can set **both a stop-loss and take-profit simultaneously** for one position, but they operate independently (not OCO).
    - If one triggers, the other **remains active** unless manually canceled.
 
 2. **Partial Execution Handling**
-
    - If a position is partially closed, orders adjust proportionally.
    - Example: Closing 50% of a BTC long cancels 50% of attached stop-loss/take-profit orders.
 
@@ -554,7 +531,6 @@ HTX (formerly Huobi) allows simultaneous setting of stop-loss and take-profit or
 ### Key Rules for Multiple Orders on HTX
 
 1. **Independent Execution**
-
    - Stop-loss and take-profit orders operate separately (not as OCO - One Cancels Other)
    - When one triggers, the other remains active until either:
      - The position is fully closed
@@ -562,7 +538,6 @@ HTX (formerly Huobi) allows simultaneous setting of stop-loss and take-profit or
      - You manually cancel it
 
 2. **Auto-Invalidation Rules**
-
    - If your **position is fully closed**, all attached orders are automatically canceled
    - If a **stop-loss executes**, the take-profit becomes invalid (and vice versa)
    - Partial fills proportionally reduce attached orders
@@ -607,20 +582,16 @@ Yes, HTX provides tools to manage multiple stop-loss and take-profit orders, tho
 ### HTX's Native Features for Managing Multiple Orders
 
 1. **Simultaneous Stop-Loss & Take-Profit**
-
    - You can set **both** a stop-loss and take-profit for the same position at once.
    - These orders are **interlinked**: If one triggers, the other is automatically canceled.
 
 2. **Order Limits**
-
    - Max **30 active stop-loss/take-profit orders** per contract.
 
 3. **Partial Execution Handling**
-
    - If your position is partially closed, orders adjust proportionally.
 
 4. **Price/Rate-Based Triggers**
-
    - Set orders by:
      - **Fixed price** (e.g., stop-loss at $18,000, take-profit at $22,000).
      - **Profit/loss ratio** (e.g., -5% stop-loss, +10% take-profit).
@@ -665,17 +636,14 @@ HTX provides built-in functionality for setting stop-loss and take-profit orders
 ### Native HTX Features
 
 1. **Simultaneous Order Placement**
-
    - You can set **both stop-loss and take-profit** when opening a position or for existing positions.
    - These orders are **interlinked**: If one triggers, the other is automatically canceled.
 
 2. **Trigger Methods**
-
    - **Price-Based**: Set exact trigger/execution prices (e.g., stop-loss at $18,000, take-profit at $22,000).
    - **Profit Rate**: Define triggers as percentages (e.g., +10% take-profit, -5% stop-loss).
 
 3. **Order Limits**
-
    - Max **30 active stop-loss/take-profit orders** per contract.
 
 4. **Partial Execution**
@@ -690,7 +658,6 @@ HTX provides built-in functionality for setting stop-loss and take-profit orders
 ### Workarounds for Advanced Automation
 
 1. **Third-Party Tools**
-
    - Platforms like **3Commas** integrate with HTX to offer:
      - Trailing stop-loss/take-profit.
      - Multi-level profit-taking strategies.
@@ -713,12 +680,10 @@ HTX (formerly Huobi) does not offer a native cooldown feature for stop-loss orde
 ### HTX's Native Stop-Loss Functionality
 
 1. **Basic Stop-Limit Orders**
-
    - HTX allows standard stop-loss orders (triggered at a set price) but **lacks cooldown timers or emergency stop-loss tiers**.
    - Orders execute immediately when the trigger price is hit, with no delay or recovery window.
 
 2. **Linked Take-Profit/Stop-Loss**
-
    - You can set both orders simultaneously, but they operate independently (not OCO).
    - Partial fills adjust remaining orders proportionally.
 
@@ -731,11 +696,9 @@ HTX (formerly Huobi) does not offer a native cooldown feature for stop-loss orde
 ### Workarounds for Cooldown-Like Functionality
 
 1. **Manual Adjustment**
-
    - Monitor positions and **manually reset stop-losses** if prices recover after a dip (requires active trading).
 
 2. **Third-Party Tools**
-
    - Platforms like **Altrady** or **3Commas** integrate with HTX to add advanced features:
      - **Time-based cooldowns** (e.g., 5-minute delay before executing).
      - **Candle-close confirmation** (only trigger if a 15m/1H candle closes below the stop price).
@@ -766,7 +729,6 @@ HTX (formerly Huobi) **does not** offer native cooldown or emergency stop-loss f
 ### HTX's Native Stop-Loss Limitations
 
 1. **Basic Stop-Loss Orders**
-
    - HTX only supports standard **stop-limit** or **stop-market** orders.
    - **No cooldown**: Orders trigger immediately when the stop price is hit.
    - **No emergency stop-loss tiers**: No secondary fallback price protection.
@@ -817,7 +779,6 @@ Here's how **cooldown + emergency stop-loss** works on platforms like Altrady (w
 ### Key Mechanism
 
 1. **Cooldown Activation**
-
    - When price hits your **main stop-loss**, a timer starts (e.g., 10 minutes).
    - If price recovers **above the stop-loss** before the timer ends, the order cancels.
 
