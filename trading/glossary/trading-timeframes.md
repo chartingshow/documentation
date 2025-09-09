@@ -35,13 +35,11 @@ Key:
 - **Timeframes**: M15, M30, M45, H1, H2 and H3
 - **Definition**: The phrase is commonly used to depict the time frame during which a change or event is anticipated to happen.
 - **Pros**:
-
   - Quick performance potential.
   - Opportunity for fast profits.
   - Active intraday movements provide trading opportunities.
 
 - **Cons**:
-
   - Requires constant monitoring.
   - High transaction costs.
   - Can be stressful due to market fluctuations.
@@ -51,13 +49,11 @@ Key:
 - **Timeframe**: H4, H6, H8 and H12
 - **Definition**: Intraday trading lasting from a few minutes to several days.
 - **Pros**:
-
   - Quick performance potential.
   - Opportunity for fast profits.
   - Active intraday movements provide trading opportunities.
 
 - **Cons**:
-
   - Requires constant monitoring.
   - High transaction costs.
   - Can be stressful due to market fluctuations.
@@ -67,13 +63,11 @@ Key:
 - **Timeframe**: D1
 - **Definition**: Trading over weeks to months.
 - **Pros**:
-
   - Suitable for a wider range of individuals.
   - Reduced stress compared to short-term trading.
   - Performance determined by asset trends.
 
 - **Cons**:
-
   - Requires more analysis for asset selection.
   - Influenced by macroeconomic factors.
 
@@ -82,13 +76,11 @@ Key:
 - **Timeframe**: W1
 - **Definition**: Trading over one year or more.
 - **Pros**:
-
   - Low stress with minimal monitoring.
   - Potential for high earnings over time.
   - Suitable for all investor profiles.
 
 - **Cons**:
-
   - Requires in-depth analysis and patience.
   - Can have a significant negative impact if timed poorly.
 

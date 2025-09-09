@@ -101,7 +101,6 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 ## Decision making policy
 
 - Decisions in Charting Show's Advisory Committee, TSC and Working Groups should be made using a [consensus-based approach](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making).
-
   - When discussions have appeared to reach a consensus, the Facilitator will ask if there are any objections to the apparent consensus. A member may call a vote to finalize a decision, but this should only happen as a last resort. With the agreement of two other members of the group the vote will be held, otherwise the consensus-seeking process will continue.
   - When votes are called:
     - The vote should be set at a time that allows a reasonable amount of time for those in the group to attend. This time should be announced publicly.
