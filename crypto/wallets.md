@@ -8,6 +8,16 @@ The goal is to provide a reliable reference for comparing wallets across securit
 
 ## Wallet Types at a Glance
 
+Before diving into the detailed lists, it's important to understand the main categories of crypto wallets and how they differ.
+
+Each wallet type offers trade-offs between **security**, **convenience**, and **control of funds**.
+
+- **Hardware Wallets** provide the strongest security by keeping private keys offline, but they require a physical device and are less convenient for frequent transactions.
+- **Software / Smart Contract / MPC / Multisig Wallets** strike a balance between usability and security. They are ideal for active users who engage with DeFi, NFTs, or multi-party setups, though they remain more exposed to online threats.
+- **Custody Wallets** delegate key management to a third party. They offer maximum ease of use and often integrate with fiat services, but at the cost of requiring trust in the custodian.
+
+The table below provides a quick side-by-side comparison of the three main wallet categories:
+
 | Category                                               | Control of Private Keys                     | Security Level                                    | Convenience / Accessibility                         | Best For                                                        |
 | ------------------------------------------------------ | ------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- |
 | **Hardware Wallets**                                   | User holds keys offline                     | Very High (cold storage, resistant to hacks)      | Medium (requires physical device)                   | Long-term holders, high-value accounts                          |
@@ -16,16 +26,30 @@ The goal is to provide a reliable reference for comparing wallets across securit
 
 ## Hardware Wallets
 
-Hardware wallets are **physical devices** designed to store cryptocurrencies offline, also known as **cold storage**.  
-They provide one of the highest levels of security, as private keys never leave the device.  
+Hardware wallets are **physical devices** designed to store cryptocurrencies offline, also known as **cold storage**.
+
+They provide one of the highest levels of security, as private keys never leave the device.
+
 These wallets are especially recommended for **long-term holders (HODLers)**, **high-value accounts**, or anyone prioritizing maximum protection against online threats.
 
 Typical features include:
 
-- Air-gapped or USB-connected security
-- PIN or biometric protection
-- Seed phrase or microSD backups
-- Support for multiple blockchains and tokens
+- Air-gapped or USB-connected security.
+- PIN or biometric protection.
+- Seed phrase or microSD backups.
+- Support for multiple blockchains and tokens.
+
+### Pros
+
+- Maximum security (cold storage, offline by default).
+- Resistant to malware, phishing, and exchange hacks.
+- Long lifespan and backup recovery via seed phrase.
+
+### Cons
+
+- Requires physical device (less convenient for quick use).
+- Upfront cost (not free like software wallets).
+- Not ideal for frequent DeFi interactions without companion apps.
 
 | Wallet                    | Type            | Currencies Supported              | Key Features                                      | Custodial Model | URL (domain)     |
 | ------------------------- | --------------- | --------------------------------- | ------------------------------------------------- | --------------- | ---------------- |
@@ -71,8 +95,7 @@ Typical features include:
 
 ## Software / Smart Contract / MPC / Multisig Wallets
 
-Software wallets exist in **mobile, desktop, or web app** formats.  
-They are convenient for everyday use and often integrate with **DeFi apps, NFTs and cross-chain swaps**.
+Software wallets exist in **mobile, desktop, or web app** formats. They are convenient for everyday use and often integrate with **DeFi apps, NFTs and cross-chain swaps**.
 
 This category also includes advanced wallet architectures:
 
@@ -81,6 +104,19 @@ This category also includes advanced wallet architectures:
 - **Multisig Wallets** - transactions require multiple approvals, suitable for businesses, DAOs and joint accounts.
 
 While more convenient than hardware wallets, they carry higher risks if used carelessly, as they are connected to the internet.
+
+### Pros
+
+- Convenient (mobile, desktop, and browser support).
+- Many integrate with DeFi, NFTs, and cross-chain swaps.
+- Advanced options (MPC and multisig) improve security beyond single key wallets.
+- Often open-source and community audited.
+
+### Cons
+
+- Hot wallets are more exposed to online attacks.
+- Device compromise (malware, keyloggers) can expose funds.
+- Recovery complexity (multisig/MPC setups require coordination).
 
 | Wallet                    | Type                        | Currencies Supported                          | Key Features                                                       | Custodial Model | URL (domain)              |
 | :------------------------ | :-------------------------- | :-------------------------------------------- | :----------------------------------------------------------------- | :-------------- | :------------------------ |
@@ -507,7 +543,8 @@ While more convenient than hardware wallets, they carry higher risks if used car
 
 ## Custody Wallets
 
-Custody wallets are provided by **third-party institutions or services** that hold cryptocurrencies on behalf of users.  
+Custody wallets are provided by **third-party institutions or services** that hold cryptocurrencies on behalf of users.
+
 These are common in **exchanges, fintech apps and institutional platforms**, where security and compliance are managed by the service provider.
 
 They are best suited for:
@@ -517,6 +554,20 @@ They are best suited for:
 - Users prioritizing ease of access over full self-custody
 
 Key trade-off: while custody wallets offer **convenience and professional-grade security**, users must **trust the custodian** with their funds.
+
+### Pros
+
+- Easiest to use (no seed phrases or key management).
+- Often include customer support and fiat on/off ramps.
+- Institutional-grade security in some cases (e.g., Fireblocks, BitGo).
+- Recovery options (password reset, KYC recovery).
+
+### Cons
+
+- User does not control private keys (trust required).
+- Vulnerable if custodian is hacked or becomes insolvent.
+- Regulatory exposure (funds can be frozen).
+- Less privacy compared to self-custody solutions.
 
 | Wallet                | Type    | Currencies Supported         | Key Features                                | Custodial Model | URL (domain)         |
 | --------------------- | ------- | ---------------------------- | ------------------------------------------- | --------------- | -------------------- |
