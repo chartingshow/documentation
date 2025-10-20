@@ -4,7 +4,7 @@ Here's a safe, all-in-one **PowerShell command** that cleans up Windows 11's jun
 
 ### PowerShell One-Liner Debloat Script
 
-Run this as **Administrator** (right-click *Start → Windows PowerShell (Admin)* or *Terminal (Admin)*), then paste:
+Run this as **Administrator** (right-click _Start → Windows PowerShell (Admin)_ or _Terminal (Admin)_), then paste:
 
 ```powershell
 # Remove common preinstalled junk and disable ads/recommendations
@@ -35,13 +35,13 @@ Write-Host "`n✅ Junk removed and Start menu cleaned! Restart or sign out to ap
 
 ### What This Does
 
-* Removes most unwanted bundled apps (TikTok, Spotify, Xbox, Weather, etc.)
-* Disables Start menu “recommendations” and “suggested” content
-* Stops Settings app ads/promotions
-* Optionally unpins all apps from Start if your build supports it
-* Safe to run; does not remove essential system components
+- Removes most unwanted bundled apps (TikTok, Spotify, Xbox, Weather, etc.)
+- Disables Start menu “recommendations” and “suggested” content
+- Stops Settings app ads/promotions
+- Optionally unpins all apps from Start if your build supports it
+- Safe to run; does not remove essential system components
 
 ### Note
 
-* Some apps may reappear after major Windows updates, you can rerun the script as needed.
-* To restore any removed apps, you can reinstall them from the Microsoft Store.
+- Some apps may reappear after major Windows updates, you can rerun the script as needed.
+- To restore any removed apps, you can reinstall them from the Microsoft Store.
