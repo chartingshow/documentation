@@ -43,12 +43,10 @@ RSI divergence can significantly enhance your trading strategy by providing earl
 ### Identifying and Confirming Divergences
 
 1. Look for classic divergences:
-
    - Bullish divergence: Price makes a lower low while RSI forms a higher low.
    - Bearish divergence: Price creates a higher high while RSI shows a lower high.
 
 2. Confirm divergences with additional indicators:
-
    - Use MACD, Moving Averages, or Bollinger Bands for validation.
    - Check volume to strengthen the divergence signal.
 
@@ -57,17 +55,14 @@ RSI divergence can significantly enhance your trading strategy by providing earl
 ### Entry and Exit Strategies
 
 1. Enter trades when RSI crosses key levels:
-
    - For bullish divergence: Enter when RSI moves above 30.
    - For bearish divergence: Enter when RSI drops below 70.
 
 2. Use price action confirmation:
-
    - Look for supporting candlestick patterns like pin bars or engulfing patterns.
    - Wait for breakouts or breaks of trendlines to confirm the divergence.
 
 3. Set stop losses:
-
    - For bullish trades: Place stop loss below the recent swing low.
    - For bearish trades: Set stop loss above the recent swing high.
 
@@ -76,12 +71,10 @@ RSI divergence can significantly enhance your trading strategy by providing earl
 ### Advanced Techniques
 
 1. Combine RSI divergence with support and resistance levels:
-
    - Buy at support and sell at resistance when aligned with divergence signals.
    - Use pivot points formed by divergences as potential support/resistance levels.
 
 2. Incorporate moving average breaks:
-
    - Use a short-term moving average (e.g., 5 EMA) to confirm trend shifts.
    - Enter trades when price breaks the moving average in the direction of the divergence.
 
@@ -92,12 +85,10 @@ RSI divergence can significantly enhance your trading strategy by providing earl
 ### Risk Management and Best Practices
 
 1. Avoid false signals:
-
    - Don't rely solely on divergence; always seek additional confirmation.
    - Be patient and wait for clear signals before entering a trade.
 
 2. Adapt to market conditions:
-
    - In strong trends, divergences may indicate minor corrections rather than full reversals.
    - Use divergences in range-bound markets to identify potential breakout opportunities.
 

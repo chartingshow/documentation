@@ -109,12 +109,10 @@ These features position OBT as a central component of the Orbiter Finance ecosys
 Yes, Orbiter Finance has received significant funding and support from various venture capital firms and investors:
 
 1. Seed Round (March 2022):
-
    - Raised $3.2 million at a $40 million valuation
    - Notable investors included Tiger Global, Matrixport Ventures, StarkWare, Mirana Ventures, Lemniscap, Amber Group, Mask Network, Loopring, and others
 
 2. Series A Round (March 2023):
-
    - Raised an undisclosed amount at a $200 million valuation
    - Led by OKX Ventures, with participation from Mask Network, Hash Global, Skyland Ventures, Zonff Partners, Bas1s Ventures, and Redpoint China Ventures
 

@@ -64,7 +64,6 @@ Alchemist AI simplifies multiplayer game development through several key feature
 3. Cross-device functionality: The platform supports seamless interaction across various devices, allowing players to join games from different platforms.
 
 4. Built-in multiplayer functions: Alchemist AI provides several pre-built functions for multiplayer game development, including:
-
    - "join-room": Allows players to join a game room and notifies other participants.
    - "broadcast-message": Sends messages to all participants in a room.
    - "private-message": Enables sending messages to specific users.
@@ -106,28 +105,23 @@ These features make Alchemist AI a powerful tool for beginners looking to create
 To start using Alchemist AI to create your own applications, follow these steps:
 
 1. **Access the Platform**:
-
    - Visit the Alchemist AI website or platform and enter the "Laboratory" section, where app creation begins.
 
 2. **Describe Your App Idea**:
-
    - Use natural language to describe the application you want to build. For example:
      - "Create a habit tracker with a calendar view and daily reminders."
      - "Build a quiz app with leaderboards".
    - The platform's AI will parse your input, extract intent, and generate the necessary code and design.
 
 3. **Customize Features**:
-
    - After the initial app is generated, you can customize it further by adding features or adjusting functionalities. For example:
      - Use prompts like "Make my app pink" to modify the design.
      - Add APIs or advanced features using the "Custom Feature" option.
 
 4. **Test Your App**:
-
    - Preview and test your application in the secure sandbox environment provided by Alchemist AI. This allows you to interact with your app and make refinements as needed.
 
 5. **Deploy or Monetize**:
-
    - Once satisfied, deploy your app for use on web or mobile platforms.
    - Optionally, list your app on Alchemist AI's marketplace (Arcane Forge) to sell or monetize it using ALCH tokens.
 
@@ -179,14 +173,12 @@ Based on the available information, the Alchemist AI team holds a portion of the
 1. The team holds 3% of the total ALCH tokens.
 
 2. These team tokens are subject to a vesting schedule:
-
    - 0.1% of the tokens will be released every week over the next 6 months.
    - This gradual release is designed to minimize market impact.
 
 3. The team has stated that they will only sell tokens when necessary and will lock the remaining tokens for a long time to ensure stable project development.
 
 4. Additionally, the overall token distribution includes:
-
    - 50% allocated for AI project incubation
    - 10% for community governance
    - 20% for strategic reserves

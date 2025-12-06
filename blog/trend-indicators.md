@@ -263,7 +263,6 @@ The **Ichimoku Cloud + ADX >25** combination achieves high win rates by creating
 ### Core Mechanism
 
 1. **Ichimoku Cloud** acts as the primary trend framework:
-
    - **Price above cloud** = Bullish trend
    - **Tenkan-Sen (9-period) > Kijun-Sen (26-period)** = Short-term momentum aligns with trend
    - **Chikou Span above past prices** = Confirms bullish continuation
@@ -283,7 +282,6 @@ The **Ichimoku Cloud + ADX >25** combination achieves high win rates by creating
 ### Key Optimization Factors
 
 1. **ADX Threshold Adjustment**:
-
    - **>25**: General trending markets (70-80% win rate in strong trends)
    - **>45**: Identifies potential reversal zones (used in some Coinrule strategies)
    - _Pro Tip_: Combine with +DI/-DI crossovers to filter direction
@@ -320,7 +318,6 @@ This combination offers exceptional simplicity and effectiveness for swing trade
 ### Core Components
 
 1. **Supertrend Indicator**
-
    - **Primary Role**: Identifies trend direction and acts as a dynamic stop-loss
    - **Optimal Swing Settings**:
      - _4H/Daily charts_
@@ -399,13 +396,11 @@ Based on the latest backtesting results from 2024-2025 data:
 **No pure trend indicator achieves a 90%+ win rate alone**, but **RSI-based strategies** (while technically momentum-based) demonstrate the highest reported success rates (71-91%) when combined with trend filters. For **pure trend indicators**, the **Supertrend** and **Ichimoku Cloud** show the strongest performance when properly optimized:
 
 1. **Supertrend**
-
    - **Reported Win Rate**: "Does ok on most" (per Reddit testing)
    - **Strengths**: Clear signals, volatility-adjusted, works across markets
    - **Optimal Use**: Combine with 50-period MA for trend confirmation
 
 2. **Ichimoku Cloud**
-
    - **Win Rate Potential**: 70-80% when filtered with ADX >25
    - **Edge**: Multiple confirmation points (cloud position, Chikou span, conversion lines)
    - **Example**: Price above cloud + Tenkan/Kijun bullish crossover + ADX >25
@@ -438,7 +433,6 @@ Based on the provided search results and analysis:
 ### Comparison to Other Indicators
 
 1. **Standard Trend Indicators**
-
    - **Supertrend**: ~60-70% win rate when combined with MA filters (requires optimization)
    - **Ichimoku Cloud**: 70-80% win rate _only_ when filtered with ADX >25
    - **Dual MA Systems**: 39% win rate in quantified studies
