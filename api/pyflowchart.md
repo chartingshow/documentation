@@ -27,9 +27,11 @@
    - This creates an interactive HTML file (`example.html`) displaying the flowchart.
 
 4. **Flowchart a specific function or method:**
+
    ```bash
    $ python -m pyflowchart example.py -f function_name
    ```
+
    - Replace `function_name` with the actual function name.
    - For methods:
      ```bash

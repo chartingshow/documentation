@@ -20,21 +20,18 @@ To overcome these issues, Goldman Sachs implemented AI-driven high-frequency tra
 Goldman Sachs’ AI trading system integrates multiple technologies to enhance market predictions and trade execution:
 
 1.  **Predictive Analytics for Market Trends**
-
     - AI models analyze historical market data, financial reports, and news sentiment to identify price movement patterns.
     - Machine learning predicts short and long-term trends, enabling informed decisions.
     - Real-time data analysis alerts traders to potential opportunities and risks.
     - AI-powered sentiment analysis monitors news and social media to gauge investor sentiment.
 
 2.  **Deep Learning for Pattern Recognition**
-
     - Neural networks scan millions of financial transactions per second, identifying profitable trading signals.
     - The system learns from past market behaviors, continuously improving trade accuracy.
     - AI recognizes hidden correlations in asset prices.
     - Pattern recognition technology reduces trading errors and increases profit margins.
 
 3.  **Reinforcement Learning for Strategy Optimization**
-
     - AI-driven models test and refine trading strategies based on past market performance.
     - Reinforcement learning adjusts trading algorithms in real-time to maximize profitability.
     - AI dynamically adapts to market volatility.

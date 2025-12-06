@@ -140,15 +140,12 @@ Psychological factors play a significant role in shaping investor behavior durin
 ### Bull Market Psychology
 
 1. **Overconfidence Bias**:
-
    - In bull markets, investors often overestimate their knowledge and abilities, leading to excessive risk-taking. They may believe they can consistently outperform the market, which can result in speculative investments and inflated asset prices.
 
 2. **Greed and Euphoria**:
-
    - Rising markets fuel greed and euphoria, encouraging investors to chase profits without thorough analysis. This emotional state can lead to speculative bubbles as asset prices rise beyond their intrinsic values.
 
 3. **Herd Mentality**:
-
    - Investors tend to follow the crowd, assuming that if many others are buying, it must be the right decision. This behavior amplifies upward trends, further inflating market optimism.
 
 4. **Recency Bias**:
@@ -157,19 +154,15 @@ Psychological factors play a significant role in shaping investor behavior durin
 ### Bear Market Psychology
 
 1. **Fear and Panic**:
-
    - During bear markets, fear dominates investor behavior, often resulting in panic selling. This emotional response exacerbates market declines and creates self-reinforcing cycles of losses.
 
 2. **Loss Aversion**:
-
    - Investors prioritize avoiding losses over making gains, which can lead to holding onto losing stocks too long or selling winners prematurely. This behavior is driven by the psychological pain of loss outweighing the pleasure of equivalent gains.
 
 3. **Herd Behavior**:
-
    - In bear markets, herd mentality manifests as mass sell-offs when investors mimic others' actions out of fear of further losses. This collective behavior intensifies downturns.
 
 4. **Recency Bias**:
-
    - Similar to bull markets, recency bias in bear markets causes excessive pessimism as investors overemphasize recent negative events, ignoring long-term fundamentals.
 
 5. **Underreaction or Overreaction**:
@@ -190,11 +183,9 @@ Herd mentality significantly influences market trends by driving collective inve
 ### Market Trends and Volatility
 
 1. **Asset Bubbles**:
-
    - Herd mentality can lead to asset bubbles when investors collectively buy assets due to hype or rising prices, ignoring fundamental valuations. This behavior inflates prices until the bubble bursts, causing sharp declines.
 
 2. **Market Crashes**:
-
    - During downturns, herd behavior exacerbates sell-offs as investors panic and follow others in liquidating assets. This can amplify losses and lead to market instability.
 
 3. **Increased Volatility**:
@@ -203,11 +194,9 @@ Herd mentality significantly influences market trends by driving collective inve
 ### Psychological Drivers
 
 1. **Fear of Missing Out (FOMO)**:
-
    - Investors may rush to buy assets during bull markets to avoid missing potential gains, contributing to unsustainable rallies.
 
 2. **Panic Selling**:
-
    - In bear markets, fear of losses drives investors to sell en masse, further accelerating market declines.
 
 3. **Social Influence**:
