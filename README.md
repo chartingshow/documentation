@@ -37,6 +37,8 @@ If you discover an error or want to add a new feature request, then feel free to
 
 If you face any issue, you can create a new issue in the `Issues` tab and we will be glad to help you out!
 
+<p align="center"><img src="https://github.com/chartingshow/documentation/blob/master/assets/images/github-contribution-grid-snake.svg" /></p>
+
 ## Changelog 🏆
 
 Please see [CHANGELOG](https://github.com/chartingshow/documentation/releases) for more information what has changed recently.
