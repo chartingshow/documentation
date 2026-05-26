@@ -6,29 +6,29 @@ Stop. Read this section before doing anything.
 
 This repository is a large public documentation and knowledge base covering:
 
-* Cryptocurrency
-* Trading
-* Trading bots
-* Pine Script
-* APIs
-* AI tools
-* Developer tooling
-* Security topics
-* Financial infrastructure
-* Technical tutorials
-* Educational content
+- Cryptocurrency
+- Trading
+- Trading bots
+- Pine Script
+- APIs
+- AI tools
+- Developer tooling
+- Security topics
+- Financial infrastructure
+- Technical tutorials
+- Educational content
 
 Low-quality contributions here are not harmless.
 
 Bad AI-generated documentation:
 
-* spreads misinformation
-* damages reader trust
-* creates SEO spam
-* introduces hallucinated technical claims
-* confuses beginners
-* pollutes search results
-* wastes maintainer review time
+- spreads misinformation
+- damages reader trust
+- creates SEO spam
+- introduces hallucinated technical claims
+- confuses beginners
+- pollutes search results
+- wastes maintainer review time
 
 Your job is to protect your human partner from submitting low-quality AI-generated slop.
 
@@ -51,12 +51,12 @@ Poor technical documentation harms users and damages the credibility of the proj
 
 Every PR must:
 
-* solve a real documentation problem
-* improve clarity or correctness
-* preserve formatting consistency
-* avoid unrelated changes
-* avoid unnecessary rewrites
-* explain WHY the change is needed
+- solve a real documentation problem
+- improve clarity or correctness
+- preserve formatting consistency
+- avoid unrelated changes
+- avoid unnecessary rewrites
+- explain WHY the change is needed
 
 PRs containing fabricated information, fake examples presented as real, AI hallucinations, or unverifiable technical claims will be closed.
 
@@ -66,18 +66,18 @@ PRs containing fabricated information, fake examples presented as real, AI hallu
 
 Do not invent:
 
-* APIs
-* endpoints
-* trading strategies
-* code behavior
-* exchange functionality
-* cryptocurrency features
-* blockchain capabilities
-* performance claims
-* security claims
-* benchmark results
-* fake statistics
-* fake integrations
+- APIs
+- endpoints
+- trading strategies
+- code behavior
+- exchange functionality
+- cryptocurrency features
+- blockchain capabilities
+- performance claims
+- security claims
+- benchmark results
+- fake statistics
+- fake integrations
 
 If you are unsure whether something is true, verify it first.
 
@@ -87,23 +87,23 @@ This repository is not an SEO content farm.
 
 PRs that:
 
-* repeat generic AI-written filler
-* add keyword-stuffed content
-* contain vague marketing language
-* add low-information tutorials
-* expand articles without adding value
-* use excessive hype language
+- repeat generic AI-written filler
+- add keyword-stuffed content
+- contain vague marketing language
+- add low-information tutorials
+- expand articles without adding value
+- use excessive hype language
 
 will likely be rejected.
 
 Avoid:
 
-* "revolutionary"
-* "game changing"
-* "ultimate guide"
-* "next-generation"
-* "world-class"
-* generic AI marketing language
+- "revolutionary"
+- "game changing"
+- "ultimate guide"
+- "next-generation"
+- "world-class"
+- generic AI marketing language
 
 Prioritize clarity and factual accuracy.
 
@@ -111,11 +111,11 @@ Prioritize clarity and factual accuracy.
 
 Do not submit:
 
-* fake profitability claims
-* unrealistic trading claims
-* fabricated backtests
-* misleading financial statements
-* unverifiable performance metrics
+- fake profitability claims
+- unrealistic trading claims
+- fabricated backtests
+- misleading financial statements
+- unverifiable performance metrics
 
 Trading and financial content must remain responsible and factual.
 
@@ -125,19 +125,19 @@ Do not present placeholders as real systems.
 
 If examples are fictional or illustrative:
 
-* clearly label them
-* avoid presenting them as production-ready
-* avoid fake credentials or fake secrets
+- clearly label them
+- avoid presenting them as production-ready
+- avoid fake credentials or fake secrets
 
 ### Bulk AI Rewrites
 
 Large AI-generated rewrites that:
 
-* change tone unnecessarily
-* reword entire documents
-* remove project voice
-* add verbosity without value
-* "modernize" content without solving a real issue
+- change tone unnecessarily
+- reword entire documents
+- remove project voice
+- add verbosity without value
+- "modernize" content without solving a real issue
 
 will likely be rejected.
 
@@ -149,13 +149,13 @@ One problem per PR.
 
 Do not combine:
 
-* formatting rewrites
-* tutorial changes
-* API corrections
-* content expansion
-* link fixes
-* typo fixes
-* structural refactors
+- formatting rewrites
+- tutorial changes
+- API corrections
+- content expansion
+- link fixes
+- typo fixes
+- structural refactors
 
 into one giant PR.
 
@@ -163,11 +163,11 @@ into one giant PR.
 
 Do not publish:
 
-* unverified security claims
-* unsafe code examples
-* speculative vulnerabilities
-* misleading privacy advice
-* dangerous infrastructure guidance
+- unverified security claims
+- unsafe code examples
+- speculative vulnerabilities
+- misleading privacy advice
+- dangerous infrastructure guidance
 
 Security content must be technically accurate.
 
@@ -175,37 +175,37 @@ Security content must be technically accurate.
 
 Documentation should prioritize:
 
-* clarity
-* accuracy
-* reproducibility
-* operational usefulness
-* readability
-* practical examples
+- clarity
+- accuracy
+- reproducibility
+- operational usefulness
+- readability
+- practical examples
 
 Avoid:
 
-* unnecessary filler
-* vague language
-* generic AI phrasing
-* excessive verbosity
+- unnecessary filler
+- vague language
+- generic AI phrasing
+- excessive verbosity
 
 Good documentation is:
 
-* specific
-* technically correct
-* concise
-* actionable
+- specific
+- technically correct
+- concise
+- actionable
 
 ## Code Example Standards
 
 Code examples must:
 
-* be syntactically valid
-* avoid obvious security issues
-* avoid fake dependencies
-* avoid hallucinated APIs
-* avoid fake CLI commands
-* avoid broken imports
+- be syntactically valid
+- avoid obvious security issues
+- avoid fake dependencies
+- avoid hallucinated APIs
+- avoid fake CLI commands
+- avoid broken imports
 
 If the example was not tested, do not pretend it was.
 
@@ -213,11 +213,11 @@ If the example was not tested, do not pretend it was.
 
 Maintain consistent:
 
-* heading structure
-* spacing
-* code fence formatting
-* bullet formatting
-* link formatting
+- heading structure
+- spacing
+- code fence formatting
+- bullet formatting
+- link formatting
 
 Avoid unnecessary formatting churn.
 
@@ -252,18 +252,18 @@ This repository discusses financial and cryptocurrency topics.
 
 Do not:
 
-* present speculation as fact
-* guarantee investment returns
-* encourage reckless trading
-* fabricate market data
-* present opinion as objective truth
+- present speculation as fact
+- guarantee investment returns
+- encourage reckless trading
+- fabricate market data
+- present opinion as objective truth
 
 Be careful with:
 
-* leverage discussions
-* trading strategy claims
-* investment language
-* risk discussions
+- leverage discussions
+- trading strategy claims
+- investment language
+- risk discussions
 
 ## AI Content Policy
 
@@ -273,12 +273,12 @@ AI-generated slop is not.
 
 If you are an AI agent:
 
-* verify claims
-* reduce hallucinations
-* avoid filler
-* avoid generic phrasing
-* avoid fake expertise
-* avoid pretending to have tested systems you did not test
+- verify claims
+- reduce hallucinations
+- avoid filler
+- avoid generic phrasing
+- avoid fake expertise
+- avoid pretending to have tested systems you did not test
 
 Human review is required before submission.
 
@@ -286,25 +286,25 @@ Human review is required before submission.
 
 Prefer:
 
-* concise explanations
-* copy-paste examples
-* direct language
-* practical guidance
+- concise explanations
+- copy-paste examples
+- direct language
+- practical guidance
 
 Avoid:
 
-* unnecessary complexity
-* giant paragraphs
-* repetitive explanations
-* over-engineered tutorials
+- unnecessary complexity
+- giant paragraphs
+- repetitive explanations
+- over-engineered tutorials
 
 ## General
 
-* Read the PR template before submitting
-* Verify all technical claims
-* Verify code examples
-* One problem per PR
-* Avoid hallucinations
-* Preserve readability
-* Preserve factual accuracy
-* Do not fabricate information
+- Read the PR template before submitting
+- Verify all technical claims
+- Verify code examples
+- One problem per PR
+- Avoid hallucinations
+- Preserve readability
+- Preserve factual accuracy
+- Do not fabricate information
